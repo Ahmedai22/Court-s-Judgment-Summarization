@@ -1,0 +1,25 @@
+The High Court of Delhi has held that Section 65-B of the Indian Evidence Act, 1872 does not apply to arbitral proceedings.
+ The Single Bench of Justice Vibhu Bakhru held that although the principles of the Evidence Act usually apply, sensu stricto, the specific provisions of the Act do not apply.
+ The Court further held that an objection as to the non-compliance with the requirement of Section 65-B shall be raised at the earliest opportunity. Failure to take such an objection at the material time deprives the other party to take such an objection at a later stage. 
+ Facts
+ The parties entered into an agreement wherein the respondent agreed to provide transportation services to the students and the employees of the petitioner using the buses owned by the petitioner. The agreement was for 8 years and provided a lock-in period of 5 years. 
+ A dispute arose between the parties. The petitioner alleged deficiency in services of the respondent and the respondent alleged non-payment by the petitioner. Accordingly, the petitioner terminated the agreement. Subsequently, the respondent applied for the appointment of the arbitrator, and the Court referred the parties to the arbitration. 
+ The arbitrator partly allowed the claims of the respondent on the ground that the termination of the agreement was illegal as the agreement provided for no termination during the lock-in period except for the grounds provided under Clause 1 of the agreement. It rejected the evidence of the petitioner on the ground that it did not comply with the requirement of Section 65-B of the Indian Evidence Act. Accordingly, the arbitrator held that the petitioner has failed to prove the deficiency in services of the respondent. 
+ The Grounds For Challenge
+ The petitioner challenged the award on the following grounds:
+ The arbitrator erred in holding that notwithstanding a material breach of the Agreement, the petitioner could not terminate the Agreement within the lock-in period. The arbitrator wrongly placed reliance on Clause 1 of the agreement to declare the termination illegal. Clause 33 of the agreement provided for termination of the agreement on a material breach. Moreover, it began with a non-obstante clause, therefore, it would override the clause providing for no termination during the lock-in period. The view of the arbitrator is not a possible view. The arbitrator rejected the crucial evidence of the petitioner on the ground that the evidence did not comply with the requirement of Section 65-B of the Evidence Act, therefore, the arbitrator overlooked Section 19 of the A&C Act which excludes the application of the Evidence Act from the purview of arbitration proceedings. The arbitrator erred in allowing the claims of the respondent which were already settled between the parties.The arbitrator has allowed damages in excess of the claim of the respondent.The rate of interest is unreasonably high. 
+ Analysis By The Court
+ The Court held the petitioner was justified in terminating the agreement when a material breach occurred on part of the respondent. It held that clause 33 which began with a non-obstante clause would override other clauses in the agreement. Moreover, the grounds under both clauses 1 and 33 were overlapping. 
+ The Court further held that the arbitrator erred in rejecting the documents of the petitioner on the ground that the requirement of Section 65-B was not complied with. The Court held that in terms of Section 19 of the A&C Act read with Section 1 of the Indian Evidence Act, the provisions of Evidence Act do not apply to arbitration proceedings, therefore, there was no necessity of complying with the requirement of Section 65-B. 
+ The Court further held that an objection as to the non-compliance with the requirement of Section 65-B shall be raised at the earliest opportunity. Failure to take such an objection at the material times deprives the other party to take such an objection at a later stage. 
+ It held that the tribunal could not reject the evidence of the respondent after initially admitting them solely on the ground that the certificate under Section 65-B was defective. 
+ The Court reiterated that the arbitrator cannot allow damages in excess of the claim. 
+ Accordingly, the Court set aside the award to the extent it allowed claims on the ground of illegal termination and the amount awarded above the claim. 
+ Case Title: Millennium School v. Pawan Dawar, O.M.P. (COMM) 590/2020
+ Date: 10.05.2022
+ Counsel for the Petitioner: Mr Abhijeet Sinha, Mr Archit Singh Gyani, Mr Aditya Shukla, and Mr Amit Aggarwal, Advocates.
+ Counsel for the Respondent: Mr Pramod Kumar Sharma and Mr Prashant Bajaj Advocate.
+ 
+
+
+

@@ -1,0 +1,17 @@
+The Karnataka High Court, while dismissing the appeal of the department, held that payroll services by IBM Philippines are not fees for technical services (FTS), and the TDS is not liable to be deducted.
+The division bench of Justice P.S. Dinesh Kumar and Justice T.G. Shivashankare Gowda has observed that the work has been outsourced to IBM Philippines. IBM Philippines was carrying out the work described in the agreement between IBM India and P&G India. Hence, IBM Philippines was not rendering any technical service, and therefore, the income in the hands of IBM Philippines is a business income.
+The respondent/assessee is a company engaged in the business of information technology services. IBM USA had entered into a global agreement with P&G USA to provide payroll-related services.
+In terms of a companion agreement, IBM India had entered into an agreement with P&G India. The services to be rendered by IBM India to P&G India were outsourced to IBM Philippines. In addition, IBM India had also outsourced certain human resource services to IBM Philippines for the project.
+The AO recorded that the assessee had made payments to IBM Business Services, Philippines, for payroll services without deducting tax at source. The AO concluded that, in respect of payments made towards FTS, TDS ought to have been deducted under Section 195 of the Income Tax Act, 1961. The assessee was treated as an "assessee in default" under Section 201.
+The CIT (A) confirmed the AO’s order. The assessee challenged the order before the ITAT. The ITAT has allowed the appeal, holding that the payments made by the assessee were not chargeable to tax under the India-Philippines DTAA and, hence, no tax was required to be deducted.
+The department contended that the service rendered by IBM Philippines falls under the category of managerial and consulting services. Data management is also one of the services rendered, and it would fall under the category of "technical services." The ITAT incorrectly interpreted IBM Philippines' services as being in the course of business, and the payment received is business profit in the hands of IBM Philippines.The ITAT has proceeded to hold that FTS is not defined under the DTAA. However, the definition of FTS cannot be applied in view of Section 90 of the Act. The ITAT has failed to consider that the services rendered by IBM Philippines are technical in nature as per Explanation 2 to Section 9(1)(vii), and therefore, the income is deemed to accrue in India under Section 5(2)(b) of the Act.
+The assessee contended that, in terms of the companion agreement, IBM India has entered into an agreement with P&G India, and IBM India has outsourced the services to be rendered by IBM Philippines. IBM Philippines was not rendering any technical service to IBM India. For the services rendered to P&G India on behalf of the assessee, the assessee paid the service charges to IBM Philippines. Therefore, it was "income earned" in the hands of IBM Philippines. As per Section 90(2), the provisions of the Act or DTAA, whichever is more beneficial to the assessee, have to be applied.
+The court has held that the payments received by IBM Philippines shall not be liable for TDS under Section 195 of the Income Tax Act. As a result, the assessee cannot be considered an "assessee in default."
+Case Title: Director of Income Tax Versus IBM India
+Case No: I.T.A NO.218 Of 2014
+Date: 16.01.2023
+Counsel For Appellant: K.V Aravind
+Counsel For Respondent: T. Suryanarayana
+
+
+

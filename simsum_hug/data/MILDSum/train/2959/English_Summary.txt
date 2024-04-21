@@ -1,0 +1,24 @@
+The Delhi High Court has observed that in case of internet trademark infringements, the intent of foreign seated defendants to target Indian customers and market must be established. Justice C Hari Shankar also observed that in such cases the interactivity should be coupled with an overt intent of the defendants to target customers in India."The operation of the Trademarks Act and the...
+The Delhi High Court has observed that in case of internet trademark infringements, the intent of foreign seated defendants to target Indian customers and market must be established. 
+Justice C Hari Shankar also observed that in such cases the interactivity should be coupled with an overt intent of the defendants to target customers in India.
+"The operation of the Trademarks Act and the CPC statutorily extend only to the boundaries of India. In the case of internet infringements, no doubt, the decision of the Court may, at times,operate against entities located outside India. That, too, however, would be subject to existence of the necessary connection between the activity of the foreign-seated defendants and India. More specifically, intent, of the defendants, to target India, must be established," the Court said. 
+Know The Controversy
+The development came while the Court was dealing with a suit filed by Tata Sons Private Limited seeking permanent injunction restraining the defendants from using the trademark "TATA".
+It was alleged that the defendants were using the said mark as part of the name under which their crypto currency was made available to the public on their website (www.hakunamatata.finance).
+The question which thus arose in the matter was "whether the plaintiff can seek an injunction against the defendants' mark, the defendants being located outside the sovereign borders of India and, therefore, statutorily outside the reach of the Trademarks Act, 1999, as well as the Code of Civil Procedure, 1908 (CPC)?"
+What Did Tata Sons (Plaintiff) Argue?
+It was the plaintiff's case that the defendant's website had 50 visitors from India each day and that India was second in the list of countries with highest internet traffic on the site. 
+It was also argued that the Telegram page of Defendant indicated that it had several Indian followers or members.
+According to Tata Sons, the availability of the defendants' crypto currency under the marks "TATA coin/$TATA" adversely affected it's business and resulted in dilution of its goodwill. 
+Directions Can Only Be Issued Against Defendants Located Outside India If They Carry Infringing Acts Within Its Jurisdiction
+The Court observed that where the defendants are located outside India, the Court can issue directions against such defendants, if they are carrying out their infringing activities within the jurisdiction of the Court.
+"A somewhat more incisive approach is, however, required where the activity is carried out over the internet, as in the present case. A discernable line does exist, in such cases, between activities which would expose the defendants to the jurisdiction of this Court, and those which would not," the Court said. 
+"Mere accessibility of the website of the overseas defendants, by persons located within the jurisdiction of this Court, is not sufficient to clothe this Court with jurisdiction to act against the defendants. Interactivity of the website is, in such a case, essential. The extent to which the website would be interactive is also, however, relevant; mere interactivity would not suffice," it added. 
+Accessing Of Defendant's Website Cannot Constitute Ground For Court To Exercise Jurisdiction Over Defendants
+The Court therefore was of the view that accessing of the webpage of Defendant in the suit cannot constitute a ground for the Court to exercise jurisdiction over the defendants. 
+It was also observed that there was nothing to indicate that people had accessed the webpage from India.
+"The mere fact that the defendants' crypto currency can be purchased by customers located in India and that, as a result, the plaintiff's brand value may be diluted, even seeing cumulatively, cannot, therefore, in my view, justify this Court interfering with the defendants' activities, or with its brand or mark. In fact, the very applicability of the "effect" doctrine across sovereign boundaries may itself be a matter for debate; I do not, however, propose to tread that path in the present case," the Court added. 
+Observing that the Court cannot issue directions to the defendants for the reason of being outside it's territorial reach, the Court declined the prayer for interim relief. 
+Title: TATA SONS PRIVATE LIMITED v. HAKUNAMATATA TATA FOUNDERS & ORS
+
+

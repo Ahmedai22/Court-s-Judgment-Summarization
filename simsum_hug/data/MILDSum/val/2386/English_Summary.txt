@@ -1,0 +1,26 @@
+Recently, the Supreme Court briefly summarised the settled principles with respect to Section 313 Code of Criminal Procedure, 1973. 
+The provision deals with the power to examine the accused. The Trial Court is vested with the power to put questions to the accused at any stage of the trial to enable them to explain any circumstances appearing in evidence against him. It is the duty of the Court to question the accused generally on the case, once the prosecution witnesses have been examined and before the accused is called on for his defence. As per Section 313(4) the answers given by the accused may be taken into consideration in the trial and put in evidence for or against them in any other trial for any other offences, which the answer would suggest they have committed. In 2009, by way of an amendment, Section 313(5) was inserted, which contemplates that the Court takes help of the Prosecutor and Defence Counsel in preparing the relevant questions that are to be asked to the accused and may also permit filing of written statement by the accused denoting sufficient compliance with the provision. The intention behind the amendment was to ensure fair but speedy trials. 
+
+While converting a conviction under Section 302 IPC (murder) imposed by the Trial Court and affirmed by the Bombay High Court (Nagpur), to conviction under Section 304 IPC (Culpable homicide not amounting to murder) a Bench comprising Justice S. Ravindra Bhat and Justice Dipankar Datta discussed the importance of Section 313 Cr.P.C. and the trite law in that respect. It referred to a catena of judgments - 
+
+State of U.P. v. Lakhmi - value of a statement under Section 313 Cr.P.C. Sanatan Naskar v. State of West Bengal - object of Section 313 Cr.P.C. Reena Hazarika v. State of Assam - rationale behind requirement to comply with Section 313 Cr.P.C.Parminder Kaur v. State of Punjab; M. Abbas v. State of Kerala - importance of Section 313 Cr.P.C.
+The Bench summarised the well settled principles as under - 
+“a. section 313, Cr. P.C. [clause (b) of sub-section 1] is a valuable safeguard in the trial process for the accused to establish his innocence;
+
+b. section 313, which is intended to ensure a direct dialogue between the court and the accused, casts a mandatory duty on the court to question the accused generally on the case for the purpose of enabling him to personally explain any circumstances appearing in the evidence against him;
+c. when questioned, the accused may not admit his involvement at all and choose to flatly deny or outrightly repudiate whatever is put to him by the court;
+
+d. the accused may even admit or own incriminating circumstances adduced against him to adopt legally recognized defences;
+e. an accused can make a statement without fear of being cross-examined by the prosecution or the latter having any right to cross-examine him;
+f. the explanations that an accused may furnish cannot be considered in isolation but has to be considered in conjunction with the evidence adduced by the prosecution and, therefore, no conviction can be premised solely on the basis of the section 313 statement(s);
+g. statements of the accused in course of examination under section 313, since not on oath, do not constitute evidence under section 3 of the Evidence Act, yet, the answers given are relevant for finding the truth and examining the veracity of the prosecution case;
+h. statement(s) of the accused cannot be dissected to rely on the inculpatory part and ignore the exculpatory part and has/have to be read in the whole, inter alia, to test the authenticity of the exculpatory nature of admission; and
+i. if the accused takes a defence and proffers any alternate version of events or interpretation, the court has to carefully analyze and consider his statements;
+j. any failure to consider the accused’s explanation of incriminating circumstances, in a given case, may vitiate the trial and/or endanger the conviction.”
+Background
+The mother of the deceased lodged a report leading to the registration of an F.I.R. under Section 302 and 307 IPC. Subsequently, the accused was arrested. The Trial Court found that the accused had murdered the deceased using a knife and he also attempted to commit murder of three other prosecution witnesses. It held that the prosecution had proved its case beyond reasonable doubt; convicted the accused under Section 302 IPC and Section 307 IPC; and sentenced him to life imprisonment. The Bombay High Court, Nagpur Bench dismissed the appeal noting that there was no merit in the case which warrants interference. The Supreme Court thought it fit to convert the conviction under Section 302 IPC to Section 304 IPC, but upheld the conviction under Section 307 IPC (attempt to murder). Noting that the accused has already undergone the sentence imposed for commission of offence under the latter provision; suffer imprisonment for more than nine years; is in his late sixties, the Apex Court thought it fit to release him from custody in connection to the present case. 
+Case details: Premchand v. State of Maharashtra|  (SC) | Criminal Appeal No. 211 of 2023| 3rd March, 2023| Justice S. Ravindra Bhat and Justice Dipankar Datta
+Read the Judgment here:
+
+
+

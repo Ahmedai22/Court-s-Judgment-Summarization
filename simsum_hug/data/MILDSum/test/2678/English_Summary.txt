@@ -1,0 +1,29 @@
+The Supreme Court has held that the power of the arbitral tribunal to award interest is subject to an agreement between the parties to the contrary. The Court held that the tribunal cannot award interest if the parties have agreed otherwise.
+ The Division Bench of Justice L. Nageshwar Rao and Justice B.R. Gavai held that when the parties have an agreement between themselves that governs the issue of interest, the arbitrator would lose its discretion and will be guided by the agreement between the parties. 
+ The Court held that party-autonomy is the cornerstone of the A&C Act and the discretion available with the arbitrator would cease to have effect if the parties have exercised their autonomy under Section 31(7)(a) of the Act.
+ The Court further held that the power vested in the arbitrator is discretionary. The arbitrator can allow interest on any part of the claim. It further held that the tribunal can award interest for any period between the date on which the cause of action arose and the date on which the award is made or it may not award any interest at all. It further held that the arbitrator is well within its power to award any rate of interest as it deems reasonable. 
+ The Court also held that ordinarily the total amount of sum awarded on which the future interest is to be given would include the principal amount and the amount awarded as interest pendente lite. The Court has held that the word 'sum' under Section 31(7(a) of the A&C Act includes both the principal amount and the interest allowed on such claims. However, this is subject to the discretion of the arbitrator who may not include the interest component in the sum of the award for the purpose of future interest. 
+ Facts
+ The parties entered into a Concession Agreement wherein the respondent was to carry out certain civil works. A dispute arose between the parties which were referred to arbitration. The arbitrator partly allowed the claims of the appellant. The award was affirmed by the Supreme Court.
+ The appellant filed for the execution of the award and sought future interest on the entire amount of the sum awarded by the arbitrator. The executing court rejected the contention of the appellant on the ground that the arbitrator allowed future interest only on the principal amount. Aggrieved by the order of the executing court rejecting its claim for future interest on the amount of interest awarded, the appellant preferred an appeal before the Supreme Court.
+ The Contention Of The Parties
+ The appellant challenged the order on the following grounds:
+ The Court erred in not allowing future interest on the entire sum of the arbitral award. It relied on the decision of the Supreme Court in Hyder Consulting v. Governor, State of Orissa, (2015) 2 SCC 189 to contend that the tribunal can allow future on the sum of the award that also includes the interest allowed on the principal amount.The Court has erred in rejecting the claim of the appellant with regard to the addition of the interest pendente lite in the sum in terms of Section 31(7)(a) of the A&C Act. 
+ The respondent countered the contentions of the appellant on the following grounds:
+ The power of the arbitrator to award interest is subject to the agreement between the parties to the contrary. The arbitrator cannot allow interest if the agreement forecloses interest. The parties had an agreement with regards to the award of interest, the arbitrator and the courts have rightly followed the agreement and not included pendente lite interest in the sum of the award. 
+ Analysis By The Court
+ The Court reiterated that the arbitrator is empowered to allow future interest on the pendente lite interest. The Court held that the sum of the award would include both the principal amount and the interest component for the purpose of future interest. However, this power of the arbitrator is subject to an agreement between the parties. 
+ The Court held that when the parties have an agreement between themselves that governs the issue of interest, the arbitrator would lose its discretion and will be guided by the agreement between the parties. 
+ The Court examined the words 'unless otherwise agreed by the parties' and held whenever the parties have an agreement on the grant of interest, the arbitrator shall be bound by such an agreement. 
+ The Court held that party-autonomy is the cornerstone of the A&C Act and the discretion available with the arbitrator would cease to have effect if the parties have exercised their autonomy under Section 31(7)(a) of the Act. 
+ The Court held the parties have an agreement between themselves that squarely covers the issue of interest, therefore, there was no infirmity in the impugned order which rejected the claim of the petitioner to include in the sum of the award, the component of pendente lite interest. 
+ The Court distinguished its judgment in Hyder Consulting (Supra) on the ground that the parties did not have an agreement, therefore, the court had no occasion to consider the effect of the words 'unless otherwise agreed by the parties' on the power of the arbitrator. 
+ The Court further held that the power vested in the arbitrator is a discretionary power, therefore, the arbitrator is not bound to award interest. The arbitrator can allow interest on any component for the entire or any period thereof or it may not award any interest at all. 
+ Accordingly, the Court dismissed the petition. 
+ Case Title: Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation, Civil Appeal No. 3657 of 2022 arising out of S.L.P. (C) No. 4901 of 2022.
+ Counsel for the Appellant: Mr. Harish Salve, Senior Advocate , Mr. J.J. Bhatt, Sr. Adv, Mr. Mahesh Agarwal, Ms. Megha Mehta, Ms. Niyati Kohli, Mr. Nishant Rao, Mr. Pranjit Bhattacharya, Ms. Manvi Agarwal,Mr. E. C. Agrawala, AOR
+ Counsel for the Respondent: Mr. Tarun Johri
+ 
+
+
+

@@ -1,0 +1,17 @@
+The Delhi High Court recently held that a reassessment notice issued under Section 148 of the Income-tax Act, 1861 against a dead person is null and void. A Division Bench of Justices Navin Chawla and Manmohan relied on the case of Savita Kapila v. Assistant Commissioner of Income Tax to answer the question of the validity of notice and consequent proceedings against a dead person. In...
+The Delhi High Court recently held that a reassessment notice issued under Section 148 of the Income-tax Act, 1861 against a dead person is null and void. 
+A Division Bench of Justices Navin Chawla and Manmohan relied on the case of  Savita Kapila v. Assistant Commissioner of Income Tax to answer the question of the validity of notice and consequent proceedings against a dead person. In the said case, it was held that,
+"The sine qua non for acquiring jurisdiction to reopen an assessment is that notice under section 148 should be issued to a correct person and not to a dead person."
+A petition was filed challenging a notice issued by the Income Tax Officer under Section 148 of the Income Tax Act, 1961, all consequential proceedings that emanated from there, including orders passed by the Assessing Officer. 
+The petition was moved by the son of the deceased assessee to whom a notice under Section 148 of IT Act, 1961 was issued. In the petitioner's claim, he did not receive the said notice. Subsequently, another notice under Section 142 (1) of the Act was issued in the assessee's name. However, as no reply was received to these notices, a show-cause notice was issued, after which a notice of penalty proceedings under Section 221 (1) and 271 (1)(b) was issued against the assessee. 
+The petitioner had challenged the notices and the further proceedings because they were initiated against a person who had died before the issuance of the notice. Therefore claiming that the proceedings are void ab initio.
+It was the case of the respondent, that under Section 148 of the Act, a notice was issued at the same address of the assessee which was available in the ITD database. Moreover, the said notice was duly served as it was never received back by the respondent. Only the assessment order was received back with the remark that the addressee had died.
+It was also argued that the factum of death of the assessee was never communicated to the respondent by the legal heirs, though the notices were duly served at the given address. Therefore, the petitioner has an alternate efficacious remedy in form of a statutory appeal and this Court should refuse to entertain the present petition.
+The Court allowed the petition, setting aside the impugned notice issued under Section 148 of the Act.
+"In the present case also, as the notice under Section 148 of the Act was issued against a dead person, the same is null and void and all consequent proceedings/orders, including the assessment order and the subsequent notices, being equally tainted, are liable to be set aside," the order stated.
+Case Title: Dharamraj v. Income Tax Officer
+
+
+Read The Order
+
+

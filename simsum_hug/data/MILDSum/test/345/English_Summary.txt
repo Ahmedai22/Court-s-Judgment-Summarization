@@ -1,0 +1,23 @@
+The Delhi High Court has held that the accused cannot recourse to a third party, such as a Power of Attorney holder, to represent him in criminal proceedings. Citing the mandatory requirement of personal appearance of the accused in the Code of Criminal Procedure, the Court noted that the presence of third parties in criminal cases would defeat the very purpose of the...
+The Delhi High Court has held that the accused cannot recourse to a third party, such as a Power of Attorney holder, to represent him in criminal proceedings. 
+Citing the mandatory requirement of personal appearance of the accused in the Code of Criminal Procedure, the Court noted that the presence of third parties in criminal cases would defeat the very purpose of the criminal justice system. 
+Accordingly, the Court dismissed a petition under Article 227, Constitution of India read with Section 482, Code of Criminal Procedure 1973, seeking quashing of proceedings through the Petitioner's Representative holding his Special Power of Attorney (S.P.A.).
+ Background
+ The Petitioner accused had been named absconder vide Order dated 5.3.2016 by the Trial Court. The Petitioner was embroiled in criminal proceedings under an F.I.R. and charge sheet under Section 82/83 of the CrPC. Challenging the Order and the proceedings, the Petitioner filed a Petition seeking to quash all criminal proceedings through his S.P.A. holder. The affidavit for the Petition was also filed by the S.P.A. holder. The Court decided on the maintainability of the Petition filed via S.P.A. holder.
+ Bar to appoint S.P.A. Holder
+ The Delhi High Court held that the Petition filed through a S.P.A. holder is not maintainable.
+ The Court cited the Supreme Court in Amit Ahuja v. Gian Parkash Bhambri (2010) and T.C. Mathai and another v. The District & Sessions Judge (1999). 
+The Supreme Court in T.C. Mathai described representation through Power of Attorney as an act of non-compliance in criminal cases when a Statute requires explicitly an accused to appear in person. Such a representation may frustrate the vires of statutes such as Chapter XVI, Sections 205 and 273, which require the personal appearance of the accused. 
+The Court held thus, "Section 2 of the Power of Attorney Act cannot override the specific provision of a statute which requires that a particular act should be done by a party in person." In sum, the law requires that the accused not recourse to a proxy or a third person to appear on his behalf or represent his case citing public interest in criminal proceedings.
+ The exception to this general rule was laid out in Amit Ahuja for minors, persons with disabilities, insane persons, or other incompetent person named as accused. Further, only a guardian or a next friend may initiate the proceedings in such circumstances. This prevents the Court from mushrooming by third parties/public interest litigants in criminal cases. Further, filing such a petition through a proxy would defeat the very purpose of the criminal justice system.
+ Deferring to this line of precedents, Justice Rajnish Bhatnagar held:
+ "In the instant case as well, the Petition has been filed through S.P.A. holder which is per se not maintainable. Therefore no permission can be granted to the Petitioner to file the present Petition bearing No. CRL.M.C. 1571/2021 under article 227 of the Constitution of India read with section 482 of the Code of Criminal Procedure seeking quashing of F.I.R. No. 258/2010 and the charge-sheet and all the proceedings arising therefrom including the proceedings initiated against the Petitioner u/s 82/83 of the Code of Criminal Procedure through his S.P.A. holder."
+ Accordingly, the Petition was dismissed.
+ Case Title: Amrinder Singh & Raja Through: Spa Holder Sukhjinder Singh v. The State of NCT of Delhi
+ Date of Judgment: 04.01.2022
+ Coram: Justice Rajnish Bhatnagar
+ 
+
+
+  
+

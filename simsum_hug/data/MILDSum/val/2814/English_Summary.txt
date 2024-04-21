@@ -1,0 +1,57 @@
+The Supreme Court held that bail cannot be granted by a cryptic and causal order without considering the material aspects of the case. The Apex Court further clarified that even if no new circumstances have developed after the grant of bail, the State is entitled to seek cancellation of bail, if it had been granted ignoring material aspects which establish a prima ­facie case...
+The Supreme Court held that bail cannot be granted by a cryptic and causal order without considering the material aspects of the case. The Apex Court further clarified that even if no new circumstances have developed after the grant of bail, the State is entitled to seek cancellation of bail, if it had been granted ignoring material aspects which establish a prima ­facie case against the accused.
+ A Bench comprising Justices M.R. Shah and B.V. Nagarathna allowed the appeal filed challenging the order of the Rajasthan High Court granting bail to the accused without assigning reasons for the same. The portion in the bail order containing the 'reasoning', extracted by the Supreme Court is as under:
+ "I have considered the submissions and perused the challan papers and the post­ mortem report, but without expressing any opinion on the merits and demerits of the case, I deem it appropriate to enlarge the accused­ petitioner on bail.
+ Therefore, this bail application is allowed and it is directed that accused­ petitioner namely, Ram Narayan Jat S/o Shri Bhinva Ram shall be released on bail under section 439 Cr.P.C. in connection with aforesaid FIR, provided he furnishes a personal bond in the sum of Rs. 50,000/­ together with one surety in the like amount to the satisfaction of the concerned Magistrate with the stipulation that he shall comply with all the conditions laid down under Section 437 (3) Cr.P.C."
+Taking exception to the HC order, the Supreme Court observed:
+"...while elaborate reasons may not be assigned for grant of bail or an extensive discussion of the merits of the case may not be undertaken by the court considering a bail application, an order de hors reasoning or bereft of the relevant reasons cannot result in grant of bail. In such a case the prosecution or the informant has a right to assail the order before a higher forum".
+
+ Factual Background 
+ The appellant, the son of the deceased lodged the FIR on 08.12.2019 against the accused for offence punishable under Section 302 of the Indian Penal Code. As per the FIR, on 08.12.2019 at around 4P.M. the accused assisted by his associates attacked and pinned the appellant's father to the ground and strangled him. The appellant has attributed the murder to a pre-existing enmity between the the accused and his brothers and the deceased. The post-mortem report recorded that the death was caused by asphyxiation. The accused was arrested on 10.12.2019 and was sent to judicial custody. The charge sheet was filed by the police before the Additional Metropolitan Magistrate, who took cognisance of the offence on 12.03.2020 and committed the case to the District and Sessions Court for trial. In the meanwhile, the accused filed applications seeking bail before the Additional Metropolitan Magistrate which were rejected by orders dated 23.01.2020 and 06.03.2020. The application for bail filed under Section 439 of the CrPC before the Additional Sessions Judge was rejected by order dated 12.03.2020. Subsequently, the accused preferred an application before the High Court which was allowed on 07.05.2020, enlarging him on bail. 
+ Contentions raised by the appellant
+ Senior Advocate, Mr. R. Basant appearing on behalf of the appellant submitted that the deceased was elected as the Deputy Sarpanch of Mandha Bhopawaspachar village, Jhotwara Tehsil, Jaipur in 2015 despite opposition from the accused and his family. The deceased was also being dissuaded by the accused and his brothers from contesting the elections to be held in 2020 and for the said purpose the deceased was visited by the accused and his brother on the morning of the fateful day. The Court was further apprised that the deceased was a person with disability. Mr. Basant emphasised that the High Court had not considered crucial aspects of the case:
+ a. The gravity of the offence in view of the limitation of the deceased in defending himself.
+ b. Previous enmity amongst the accused and his brothers and the deceased.
+ c. The possibility of the accused, a person with political influence, absconding or threatening the witnesses or tampering with evidence. 
+ d. The accused was so influential that initially police were hesitant to register FIR. 
+ e. The accused was arrested only after the family of the deceased protested outside the police station.
+ Moreover, it was contended that the High Court had granted bail in a cryptic manner without assigning any cogent reason in derogation of trite law, that too for an heinous offence punishable by either life imprisonment or death penalty. 
+ Contentions raised by the accused
+ Advocate, Mr. Aditya Kumar Choudhary appearing on behalf of the accused denied the existence of past enmity asserted by the appellant. On the contrary, he submitted that the two families were cordial towards each other as had been recorded in the charge sheet. It was clarified that the fight between the deceased and the accused was a one off event. The registration of the FIR after considerable delay was alleged to have been an afterthought. Putting emphasis on the statement of the eye-witness, Mr. Choudhary argued that on the fateful day there was a sudden scuffle between the accused and the deceased as a result of which the deceased became unconscious and died later when he was taken to the hospital. Relying on Niranjan Singh And Anr. v. Prabhakar Rajaram Kharote (1980) 2 SCC 559 and Myakala Dharmarajan And Ors. v. The State of Telangana And Ors. (2020) 2 SCC 743, the Mr. Choudhary contended that a Court deciding bail application at a pre-trial stage ought not to elaborately discuss merits of the case as it would prejudice the trial. Controverting Mr. Basant's submissions with respect to influencing witnesses and tampering evidence, he argued that the charge sheet had already been filed and therefore such questions do not arise. It was further submitted that the accused was not at flight risk; he had no criminal antecedent and as prima facie offence under Section 300 IPC had not been made out, the High Court was justified in granting bail. 
+ Analysis by the Supreme Court
+ Material aspects to be considered in bail matters
+ Placing reliance on a catena of judgments including Gudikanti Narasimhulu And Ors. v. Public Prosecutor, High Court of Andhra Pradesh (1978) 1 SCC 240, Prahlad Singh Bhati v. NCT of Delhi And Ors. (2001) 4 SCC 280, Anil Kumar Yadav v. State of NCT of Delhi (2018) 12 SCC 129, Ash Mohammad v. Shiv Raj Singh @ Lalla Bahu And Anr. (2012) 9 SCC 446 and Neeru Yadav v. State of U.P. And Anr. (2016) 15 SCC 422, the Court observed that the court granting bail ought to consider material aspects of the matter, like -
+ a. the allegations made against the accused;
+ b. severity of the punishment if the allegations are proved beyond reasonable doubt and would result in a conviction; 
+ c. reasonable apprehension of the witnesses being influenced by the accused; tampering of the evidence; 
+ d. the frivolity in the case of the prosecution; 
+ e. criminal antecedents of the accused; and 
+ f. a prima facie satisfaction of the Court in support of the charge against the accused,
+ Cogent Reason to be assigned in Bail Orders
+Citing Ram Govind Upadhyay v. Sudarshan Singh (2002) 3 SCC 598, Kalyan Chandra Sarkar v. Rajesh Rajan alias Pappu Yadav And Anr. (2004) 7 SCC 528, Prasanta Kumar Sarkar v. Ashis Chaterjee (2010) 14 SCC 496, Ramesh Bhavan Rathos v. Vishanbhai Hirabhai Makwana (Koli) And Ors. (2021) 6 SCC 230, Bhoopendra Singh v. State of Rajasthan Crl. A. No. 1279 of 2021, Brijmani Devi v. Pappu Kumar And Anr. Criminal Appeal No. 1663 of 2021 and Kranti Associates Private Limited And Anr. v. Masood Ahmed Khan And Ors. (2010) 9 SCC 496, the Court opined that a court exercising discretion in a matter of bail ought not to do so mechanically, but judiciously by indicating the prima facie reasons for the same. The Court noted -
+ "The Latin maxim "cessante ratione legis cessat ipsa lex" meaning "reason is the soul of the law, and when the reason of any particular law ceases, so does the law itself", is also apposite."
+ Case Law relied on by the accused distinguished
+The ratio in Myakala Dharmarajam and Ors. v. The State of Telangana And Ors. (2020) 2 SCC 743 relied upon by the accused to argue that elaborate reasons are not required to be assigned was distinguished by the Court -
+ a. Although there was no elaborate discussion, the bail order reflected that the entire material on record had been perused while granting bail. 
+ b. The offence was alleged to have been committed by 15 people and no one was assigned specific roles. They were merely vague allegations. 
+ Conclusion 
+ It was observed that though a Court granting bail at a pre-trial stage ought not to provide elaborate reasons or extensively discuss on the merits, it is bound to consider material aspects of the case and provide reasons justifying the grant of bail. 
+ "Ultimately, the Court considering an application for bail has to exercise discretion in a judicious manner and in accordance with the settled principles of law having regard to the crime alleged to be committed by the accused on the one hand and ensuring purity of the trial of the case on the other."
+ Observing that the State can seek cancellation of bail before the High Court under Section 439(2) of the CrPC upon changed circumstances, the Court clarified that a perverse bail order could be assailed by the State if material aspects establishing prima facie case against the accused were ignored, even in the absence of any changes in circumstances.
+ Ultimately, the Court noted the relevant material aspects of the case, which were not considered by the High Court while granting bail - 
+ a. The allegation against the accused was of a grave nature.
+ b. The accused overpowered the deceased who was a person with disability and the post mortem report reflected that the cause of death was ante-mortem strangulation.
+ c. The politically connected accused influenced the police not to register the FIR and therefore the possibility of influencing witnesses cannot be ruled out.
+ d. The bail applications before the Additional Metropolitan Magistrate and the Additional Sessions judge were rejected, the last being on the ground of the gravity of the offence.
+ The Court expressed its displeasure that the State had not filed an appeal against the perverse bail order. Cancelling the bail bonds, the Court directed the accused to surrender before the concerned jail authorities within two weeks from the date of order. 
+ Case Name: Manoj Kumar Khokhar v. State of Rajasthan And Anr. 
+ 
+ 
+Case No. and Date: Criminal Appeal No.36 of 2022 | 11 Jan 2022
+ 
+Corum: Justices M.R. Shah and B.V. Nagarathna
+
+
+
+
+

@@ -1,0 +1,14 @@
+The Supreme Court observed that ESI Court has no authority to restrict the period during which the interest is payable under Section 39( 5)(a) of Employees State Insurance Act, 1948
+Section 39( 5)(a) provides that if any contribution payable under this Act is not paid by the principal employer on the date on which such contribution has become due, he shall be liable to pay simple interest at the rate of twelve per cent per annum or at such higher rate as may be specified in the regulations till the date of its actual payment.
+In this case, Employees State Insurance (ESI) Court, restricted the levy of interest leviable under Section 39(5)(a) of the Employees State Insurance Act, 1948 for two years only. The appeal against the said order was dismissed by the Allahabad High Court. In appeal filed by the Employees State Insurance Corporation, the issue raised was whether the ESI Court was justified in restricting the levy of interest under Section 39(5)(a) of the ESI Act for a period of two years only. 
+Referring to Section 39(5), the bench of Justices MR Shah and MM Sundresh observed that reduction of period to two years is not supported by any statutory provision.
+"The interest leviable/payable is a statutory liability to pay the interest. Neither the Authority nor the Court have any authority to either waive the interest and/or reduce the interest and/or the period during which the interest is payable... On going through Section 39(5)(a) of the ESI Act, the liability to pay the interest is from the date on which such contribution has become due and till the date of its actual payment."
+The court further said that the ESI Court erred in relying upon the decision in Employees State Insurance Corporation Vs. HMT Ltd.  (2008) 3 SCC 3) while considering the levy of interest under Section 39(5)(a) of the ESI Act. The court said that the said judgment dealt with Section 85- where the word used is "may". The word used in Section 39(5)(a) of the ESI Act is "shall"., the court added.
+Case details
+Regional Director/ Recovery Officer vs Nitinbhai Vallabhai Panchasara |  (SC) 983 | SLP(C) 16380/2022 | 17 Nov 2022 | Justices MR Shah and MM Sundresh
+Headnotes
+Employees State Insurance Act, 1948 ; Section 39(5)(a) - Neither the Authority nor the Court have any authority to either waive the interest and/or reduce the interest and/or the period during which the interest is payable - The interest leviable/payable is a statutory liability to pay the interest -The liability to pay the interest is from the date on which such contribution has become due and till the date of its actual payment - Distinguished Employees State Insurance Corporation Vs. HMT Ltd. (2008) 3 SCC 3.
+
+
+
+

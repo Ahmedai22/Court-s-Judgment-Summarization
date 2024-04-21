@@ -1,0 +1,131 @@
+The petitioner had approached the Regional Passport Officer, Madurai
+for renewal of his passport by submitting an application dated 19.04.2022.
+The passport authority sought verification report from the police. The police
+reported that a criminal case is pending against one Nazirudheen and that the
+petitioner's passport was seized in that connection. In view of the said report,
+the passport authority did not process the petitioner's application. That led to
+the filing of this writ petition.
+2.When the matter was taken up for hearing, the learned Government
+Advocate appearing for the second respondent submitted that the petitioner
+had not come under their adverse notice.            Thiru.Nazirudheen who was
+referred to in the police verification report of course figured as an accused in
+Crime No.1 of 2019 registered on the file of the Q Branch CID Police, Madurai.
+He happened to be the petitioner's travel agent.         Except this relationship,
+there was nothing adverse to the petitioner. The second respondent made it
+clear that they have no objection for allowing the writ petition.
+3.I could have simply noted the stand of the second respondent and
+allowed the writ petition as prayed for. But my conscience did not permit me
+to leave things at that.       My Lord the Hon'ble Chief Justice had allotted the
+General Miscellaneous portfolio which includes the subject of passports.
+Crime No.1 of 2019 was registered by Q Branch CID Police, Madurai based on
+credible information that one Vaithiyanathan in conspiracy with unknown
+public servants and others at Madurai and Trichy fraudulently obtained Indian
+passports for many Sri lankan and Indian nationals by using forged
+documents. The criminal acts in question had taken place during the period
+from 01.02.2019 to 30.06.2019.          The case was registered for the offences
+under Sections 120B, 420, 465, 468, 471 of IPC           and Sections 12(1A)(a),
+12(1A)(b) and 12(2) of the Passport Act, 1967. I was also informed that a
+public interest litigation in WP(MD)No.2563 of 2021 was filed seeking transfer
+of investigation to CBI. The Hon'ble Division Bench was however pleased to
+direct the Q Branch to complete the investigation within three months. This
+time limit was later extended by a period of six months. I felt surprised that
+this direction of the Hon'ble Division Bench was not complied with. Final
+report was yet to be filed on the ground that sanction had not been obtained
+for prosecuting the erring government servants.
+4.Judges do not live in vacuum. They are not isolated from the ground
+reality. I read in newspapers that Shri.K.Annamalai, the State BJP President
+had raised this very same issue in a big way. Almost three years had elapsed
+since the first information report was registered. I could not turn a Nelson's
+eye. After granting relief to the petitioner by way of an interim direction, I
+called upon the second respondent to file a status report. I wanted to know
+as to why sanction was not being accorded. Pursuant to the said direction,
+the second respondent has filed a detailed status report. It is seen therefrom
+that as many as 41 persons are proposed to be prosecuted. This includes the
+officials from the Regional Passport Office, Madurai and State police officials.
+The Central Government had granted sanction in respect of one of its servants
+and declined for 13. The Government of Tamil Nadu has granted sanction for
+prosecuting Thiru.Sivakumar, the then Assistant Commissioner of Police,
+Intelligence Section, Madurai City. Apart from him, one Inspector and three
+Head Constables are also proposed to be prosecuted. The final report is to be
+filed shortly before Judicial Magistrate No.IV, Madurai. The learned Magistrate
+is directed to scrutinize the same and point out the defects, if any. Once the
+defects are pointed out, the investigation officer shall rectify forthwith. The
+learned Trial Magistrate shall take a call regarding cognizance expeditiously.
+Already several months have elapsed. The case has serious national security
+implications.    It is scandalous that one police station in Madurai City has
+facilitated fraudulent issuance of as many as 54 passports.        The corrupt
+elements must be brought to book at the earliest.
+5.The process of police verification in connection with passport
+applications is well known. The application is sent to the jurisdictional police
+station of the District/City Police where the residence of applicant is located
+through the portal for field verification. There are four logins for the police at
+•     One for the field enquiry police officer.
+•     One for the DSP/ACP (authorised by SP/COP) who acts as the nodal
+officer for passport verification.
+At the Police Station, login is given to the field enquiry police officer, invariably
+a Head Constable of each police station who is nominated by the SHO for
+passport field verification. Login is provided for the SHO who accepts the
+verification of the field enquiry police officer and submits the status of
+verification to the district / city office.
+This is done through mPassport Application. The field enquiry police officer
+logs in to the app from the Tablet with his login details. In the home page, the
+list of Police Verification Requests will be populated and each request is
+selected for the verification process. The field enquiry Police officer is now
+required to answer few questions on Identity Check and Criminal Background.
+The questions that are to be answered by the field enquiry police officer
+pertain to the following :
+is there any doubt regarding the citizenship of the applicant;
+is any criminal case pending;
+is any court order against his movement pending and others.
+For the query on citizenship, the police invariably depend on the documents
+furnished by the applicant and they are documents like birth certificates, 10th
+certificate, AADHAAR card, previous passport etc.                Regarding criminal
+antecedents, verification is based on CCTNS check. In the fields for the
+remarks – Nil adverse or Case particulars are mentioned depending on the
+enquiry results. PVR status is selected as Clear or Adverse as the case may be.
+The field enquiry police officer uploads his signature and also uploads the
+documents that are bought by the applicant during field verification.          This
+completes the field verification on the mPassport Police APP by the Field
+enquiry police officer.
+The next role is that of the SHO who logs in on the passport seva web page
+through his log in ID and approves the verification done by the field
+enquiry Police officer. This involves his signature being uploaded             and
+filling up of the remarks if any. The signature is a picture of the sign made on
+a paper and is uploaded through the portal directly. At the District/City level –
+2 logins are provided. One login is a general one to view the overall status of
+passports verification requests received, verifications completed, pending list
+The next login is the one that can be opened only in the designated system
+earmarked for passport verification for the district/city to access the portal for
+final approval. This can be accessed only by using a particular dongle that is
+provided by the passport authority to the district SP/COP, City. The district SP
+or city COP nominates one DSP/ACP level officer who on behalf of the district
+forwards all the verified applications with any remarks to the passport office.
+The verified passports get accumulated at the district login end which is
+opened by the nodal DSP/ACP level officer (nominated by the SP/COP)
+authorised to do the super check and final approval. The DSP, invariably the
+DCRB DSP in Districts and AC IS in cities is entrusted with the dongle that is
+required to be inserted in the designated computer while giving a final
+approval. However, during the final approval the DSPs enter remarks alone
+and they can’t over write the fields already filled by the police station. A Rural
+district typically handles somewhere between 150 to 200 passports per day
+and is forwarded after verification to the passport office by the Nodal DSP.
+The Role played by the field enquiry police officer is the most crucial. The
+DSPs/ACPs role is important for creation of new / alteration of IDs of SHO and
+Field Police officers as he is the one vested with the power. This role is
+delegated to the nodal DSP / ACP by the SP/COP and he is the custodian of
+the passport dongle and the designated passport verification system. SPs and
+COPs generally review the total number of passports verifications requests
+received, verifications completed and verifications pending during the periodic
+monthly crime review meetings.
+6.One can note that that the buck stops with the nodal officer. The
+involvement of the officials above the said rank may not really arise. During
+the relevant time, Shri.S.Davidson Devasirvatham, IPS was the Commissioner
+of Police, Madurai City.     Had the final report been filed before the public
+interest litigation was instituted in the year 2021 ; had the time limit laid
+down by the Hon'ble Division Bench been adhered to ; had the sanctioning
+authorities accorded sanction without delay, the present controversy would
+not have arisen at all. I give a clean chit to Shri.S.Davidson Devasirvatham
+IPS. At the same time, I compliment Shri.K.Annamalai, the State Bharatiya
+Janata Party President for having taken up the cause. He has played the role
+of a watch dog in a democracy. But for him the matter would not have come
+to light.

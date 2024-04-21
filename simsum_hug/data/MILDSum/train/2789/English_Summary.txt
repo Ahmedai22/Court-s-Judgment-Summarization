@@ -1,0 +1,153 @@
+Reversing the judgment of the Calcutta High Court, the Supreme Court on Friday upheld the constitutional validity of clause (f) of Section 43B of the Income Tax Act, 1961. The Calcutta High Court vide order dated 27.06.2007 in APO No. 301 of 2005, had held that the said clause is arbitrary and violative of Article 14 of the Constitution of India. Clause (f)...
+Reversing the judgment of the Calcutta High Court, the Supreme Court on Friday upheld the constitutional validity of clause (f) of Section 43B of the Income Tax Act, 1961. 
+ 
+ 
+ 
+The Calcutta High Court vide order dated 27.06.2007 in APO No. 301 of 2005, had held that the said clause is arbitrary and violative of Article 14 of the Constitution of India. 
+ 
+ 
+ 
+Clause (f) was inserted in the already existing Section 43B vide Finance Act, 2001 with effect from 1.4.2002. The purpose of introducing this clause was to provide for a tax disincentive in cases of deductions claimed by the assessee from income tax in lieu of liability accrued under the leave encashment scheme but not actually discharged by the employer. 
+ 
+Actual payment of liability to the employees was made a condition precedent, by this clause, for extending the benefit of deduction under the 1961 Act. This means that with the application of clause (f), the eligibility for deduction arises in the previous year in which the above said payment is actually made and not in which provision was made in that regard. 
+ 
+ 
+ 
+The respondents, aggrieved by the inclusion of the clause (f) contended that : 
+ 
+Section 145 of the 1961 Act offers them the choice of method of accounting and accordingly, they computed their profits and gains of business in accordance with the mercantile system;  Section 43B has been carved out as an exception to the afore stated general rule of accrual for determination of liability, as it subjects deductions in lieu of certain kinds of liabilities to actual payment; Exception under Section 43B comes into operation only in a limited set of cases covering statutory liabilities like tax, duty, cess etc. and other liabilities created for the welfare of employees; andTherefore, the liability under the leave encashment scheme being a trading liability cannot be subjected to the exception under Section 43B of the 1961 Act.
+ 
+ 
+ 
+The approach adopted by the Apex Court in testing the constitutional validity of a provision was well settled and the fundamental concern of the Court was to inspect the existence of enacting power and once such power was found to be present, the next examination was to ascertain whether the enacted provision impinges upon any right enshrined in Part III of the Constitution or not. 
+ 
+ 
+ 
+The Bench noted that the legislative power of the Parliament to enact clause (f) in the light of Article 245 is not doubted at all. 
+ 
+ 
+ 
+"That brings us to the next step of examination i.e. whether the said clause contravenes any right enshrined in Part III of the Constitution, either in its form, substance or effect. It is no more res integra that the examination of the Court begins with a presumption in favour of constitutionality. This presumption is not just borne out of judicial discipline and prudence, but also out of the basic scheme of the Constitution wherein the power to legislate is the exclusive domain of the Legislature/Parliament." observed the Bench. The Justices explained that this power to legislate is clothed with power to decide 'when to legislate, what to legislate and how much to legislate.'
+ 
+ 
+ 
+The Bench further explained that the function of deciding the timing, content and extent of legislation has been primarily entrusted to the Legislature, and the Court, while exercising judicial review, starts with a basic presumption in favour of the proper exercise of such power. 
+ 
+ 
+ 
+"Sub section (1) of Section 145 explicitly provides that the method of accounting is a prerogative falling in the domain of the assessee and an assessee is well within its rights to follow the mercantile system of accounting. Be that as it may, it is noteworthy that the right flowing from sub section (1) is "subject to the provisions of sub section (2)", which unambiguously empowers the Central Government to prescribe income computation and disclosure standards for accounting. Concededly, sub section (2) is an enabling provision. It signifies that the general principle of autonomy of the assessee in adopting a system of accounting, is controlled by the regulation notified by the Central Government and must be adhered to by the class of assessee governed thereunder." noted the Bench. 
+ 
+ 
+ 
+ 
+ 
+The Justices stated that Section 43B is enacted to provide for deductions to be availed by the assessee in lieu of liabilities accruing in previous year without making actual payment to discharge the same and it is not a provision to place any embargo upon the autonomy of the assessee in adopting a particular method of accounting, nor does it deprive the assessee of any lawful deduction. 
+ 
+ 
+ 
+Elaborating, the Bench said that the clause merely operates as an additional condition for the availment of deduction qua the speicfied head. Section 43B opens with a non obstante clause, and thus, assumes an overriding character against any other provision of general application. 
+ 
+ 
+ 
+"Out of the allowable deductions, the legislature consciously earmarked certain deductions from time to time and included them in the ambit of Section 43B so as to subject such deductions to conditionality of actual payment. Such conditionality may have the inevitable effect of being different from the theme of mercantile system of accounting on accrual of liability basis qua the specific head of deduction covered therein and not to other heads. But that is a matter for the legislature and its wisdom in doing so." observed the Bench. 
+ 
+ 
+ 
+The Court while tracing the developments in Section 43B stated that Section 43B is a mixed bag, there is no oneness or uniformity in 18 the nature of deductions included in it and it holds no merit to urge that this section only provides for deduction concerning statutory liabilities. 
+ 
+'New and dissimilar entries have been inserted therein from time to time to cater to different fiscal scenarios, which are best determined by the government of the day.' added the Bench. 
+ 
+ 
+ 
+The Justices explained that clause (f) seeks to mitigate a mischief i.e. the absence of this clause would entail in a double benefit to the employer- advance deduction from tax liability without any burden of actual payment and refusal to pay as and when occasion arises.
+ 
+ 
+ 
+The Court then noted that the respondents' challenge to the constitutional validity of the said clause has primarily been accepted on three grounds: 
+ 
+(i) Non disclosure of objects and reasons behind its enactment and insertion into section 43B; (ii) Inconsistency of clause (f) with other clauses of Section 43B and absence of nexus of the clause with the original enactment; 
+ 
+ (iii) Enactment has been triggered solely to nullify the dicta of this Court in Bharat Earth Movers 
+ 
+ 
+ 
+Non disclosure of objects and reasons The Justices declared that to hold a provision as violative of the Constitution on account of failure of the legislature to state the objects and reasons would amount to an indirect scrutiny of the motives of the legislature behind the enactment. "Such a course of action, in our view, is unwarranted. The raison d'etre behind this self imposed restriction is because of the fundamental reason that different organs of the State do not scrutinise each other's wisdom in the exercise of their duties. In other words, the timetested principle of checks and balances does not empower the Court to question the motives or wisdom of the legislature, except in circumstances when the same is demonstrated from the enacted law." declared the Court.
+ 
+The Bench also noted that that the High Court reaches this conclusion without undertaking an actual examination of clause (f). Instead, the declaration was preceded by an enquiry into the circumstances leading upto the enactment. 
+ 
+The Bench iterrated that the constitutional power of judicial review contemplates a review of the provision, as it stands, and not a review of the circumstances in which the enactment was made. 
+ 
+ 
+ 
+Inconsistency of clause (f) and absence of nexus with Section 43B Declaring that both the grounds are illfounded, the Court observed that in the basic scheme of Section 43B, there is no direct or indirect limitation upon the power of legislature to include only particular type of deductions in the ambit of Section 43B.
+ 
+ 
+ 
+"To say that Section 43B is restricted to deductions of a statutory nature 30 would be nothing short of reading the provision in a purely imaginative manner....... that the legislature never restricted it to a particular category of deduction and that intent cannot be read into the main Section by the Court, while sitting in judicial review." remarked the Bench. 
+ 
+ 
+ 
+The Justices further noted that the broad objective of enacting Section 43B concerning specified deductions referred to therein was to protect larger public interest primarily of revenue including welfare of the employees and Clause (f) fits into that scheme and shares sufficient nexus with the broad objective.
+ 
+ 
+ 
+The Bench also noted that the approach of constitutional courts ought to be different while dealing with fiscal statute, it is trite that the legislature is the best forum to weigh different problems in the fiscal domain and form policies to address the same including to create a new liability, exempt an existing liability, create a deduction or subject an existing deduction to new regulatory measures and that in the very nature of taxing statutes, legislature holds the power to frame laws to plug in specific leakages. 
+ 
+ 
+ 
+"No doubt, fiscal statutes must comply with the tenets of Article 14. However, a larger discretion is given to the legislature in taxing statutes than in other spheres. " observed the Court. 
+ 
+ 
+ 
+ Defeating the dictum in Bharat Earth Movers case 
+ 
+The Bench explained that before the judgment in Bharat Earth Movers (supra), various tribunals and High Courts across the country were treating the liability in lieu of leave encashment as a contingent liability and this did not go down well with the assessees following the mercantile accounting system, as they were not able to avail deductions upon mere creation of a provision against such liability without making the actual payment. Thus,a challenge to this legal position reached before the Apex Court in Bharat Earth Movers case , wherein the Court reversed the position. 
+ 
+The Court opined that it is no doubt true that the legislature cannot sit over a judgment of this Court or so to speak overrule it and that there cannot be any declaration of invalidating a judgment of the Court without altering the legal basis of the judgment as a judgment is delivered with strict regard to the enactment as applicable at the relevant time. 
+ 
+The Justices added that once the enactment itself stands corrected, the basic cause of adjudication stands altered and necessary effect follows the same. 
+ 
+ 
+ 
+ "A legislative body is not supposed to be in possession of a heavenly wisdom so as to contemplate all possible exigencies of their enactment.............the Parliament exercises its legislative wisdom to shortlist the most desirable solution and enacts a law to that effect. It is in the nature of a 'trial and error' exercise and we must note that a law making body, particularly in statutes of fiscal nature, is duly empowered to undertake such an exercise as long as the concern of legislative competence does not come into doubt." writes Justice Khanwilkar.
+ 
+ 
+ 
+The Justices elucidated that upon the law coming into force, it becomes operative in the public domain and thus, opens itself to any review under Part III as and when it is found to be plagued with infirmities. 
+ 
+The Bench then explicated on the same and stated that on being invalidated by the Court, the legislature is free to diagnose such law and alter the invalid elements thereof and in doing so, the legislature is not declaring the opinion of the Court to be invalid. 
+ 
+ 
+ 
+The Bench noted that the judgment(Bharat Earth Movers case is an authority on the nature of the liability of leave encashment in terms of the earlier dispensation and in absence of any such provision, the sole operative provision was Section 145(1) of the 1961 Act that allowed complete autonomy to the assessee to follow the mercantile system. 
+ 
+The Justices iterated that a limited change has been brought about by the insertion of clause (f) in Section 43B and nothing more, it applies prospectivel and merely because a liability has been held to be a present liability qualifying for instant deduction in terms of the applicable provisions at the relevant time does not ipso facto signify that deduction against such liability cannot be regulated by a law made by Parliament prospectively; also, in matter of statutory deductions, it is open to the legislature to withdraw the same prospectively. 
+ 
+ 
+ 
+The Bench explicates that insertion of clause (f) has not extinguished the autonomy of the assessee to follow the mercantile system,it merely defers the benefit of deduction to be availed by the assessee for the purpose of computing his taxable income and links it to the date of actual payment thereof to the employee concerned. Thus, the only effect of the insertion of clause (f) is to regulate the stated deduction by putting it in a special provision.
+ 
+ 
+ 
+"This regulatory measure is in sync with other deductions specified in Section 43B, which are also present and accrued liabilities.........irrespective of the category of liability, such deductions were regulated by law under the aegis of Section 43B, keeping in mind the peculiar exigencies of fiscal affairs and underlying concerns of public revenue." writes Justice Khanwilkar.
+ 
+ 
+ 
+The Bench clarified that, a priori, merely because a certain liability has been declared to be a present liability by the Court as per the prevailing enactment, it does not follow that legislature is denuded of its power to correct the mischief with prospective effect, including to create a new liability, exempt an existing liability, create a deduction or subject an existing deduction to new regulatory measures.
+ 
+ 
+ 
+The Bench stated that the Court cannot venture into hypothetical spheres while adjudging constitutionality of a duly enacted provision and unfounded limitations cannot be read into the process of judicial review. 
+ 
+ 
+ 
+The Bench declared that, a priori, the plea that clause (f) has been enacted with the sole purpose to defeat the judgment of this Court is misconceived. 
+ 
+ 
+ 
+"The position of law discussed above leaves no manner of doubt as regards the legitimacy of enacting clause (f). The respondents have neither made a case of non existence of competence nor demonstrated any constitutional infirmity in clause (f)." concluded the Bench.
+
+[Read Judgment]
+
+
+

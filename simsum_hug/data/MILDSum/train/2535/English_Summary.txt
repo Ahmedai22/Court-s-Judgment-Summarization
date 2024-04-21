@@ -1,0 +1,15 @@
+The Supreme Court reiterated that an appeal under Section 260A of the Income Tax Act against orders of Income Tax Appellate Tribunal lies only before the High Court within whose territorial jurisdiction the assessing officer is located.
+As per Section 260A of IT Act, an appeal shall lie to the High Court from every order passed in appeal by the Appellate Tribunal before the date of establishment of the National Tax Tribunal, if the High Court is satisfied that the case involves a substantial question of law.
+In this case, the appeal under Section 260A was filed before the Punjab and Haryana High Court. The High Court directed the appellant to present the appeal before the High Court of Gujarat as the Assessing Officer who passed the order was located at Surat within the State of Gujarat.
+Before the Apex Court, the petitioner pointed out the recent decision in Principal Commissioner of Income Tax-I, Chandigarh v. ABC Papers Ltd. (2022) 9 SCC 1, in which it was held as follows: 
+"45. In conclusion, we hold that appeals against every decision of ITAT shall lie only before the High Court within whose jurisdiction the assessing officer who passed the assessment order is situated. Even if the case or cases of an assessee are transferred in exercise of power under Section 127 of the Act, the High Court within whose jurisdiction the assessing officer has passed the order, shall continue to exercise the jurisdiction of appeal. This principle is applicable even if the transfer is under Section 127 for the same assessment year(s)."
+Commenting on the submission that the High Court of Gujarat has taken a contrary view, the bench observed:
+"We need only mention that any contrary view which has been taken cannot survive after the authoritative announcement by this Court in the decision we have referred to."
+Case details
+Commissioner of Income Tax - I vs Balak Capital Pvt Ltd |  (SC) 982 | SLP(C) 7019/2017 | 14 Nov 2022 | Justices KM Joseph and Hrishikesh Roy
+Headnotes
+Income Tax Act, 1961 ; Section 260A - Appeals against every decision of ITAT shall lie only before the High Court within whose jurisdiction the assessing officer who passed the assessment order is situated - Followed Principal Commissioner of Income Tax-I, Chandigarh v. ABC Papers Ltd.  (SC) 686.
+
+
+
+

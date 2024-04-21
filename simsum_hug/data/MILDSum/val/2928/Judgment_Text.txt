@@ -1,0 +1,169 @@
+Is the Creator or Administrator of a WhatsApp group criminally liable for offensive
+2. Gone are the days, when we used short message service or a formal website chat-
+box to communicate with our kith and kin. They were replaced by personalised
+messaging apps like WhatsApp, Facebook Messenger, Viber etc. Launched in 2009,
+WhatsApp is a relatively latecomer to social media. Yet, it is reported to be growing
+faster than other social media platforms especially in recent years. According to the
+official note of WhatsApp, it serves more than 2 billion people in over 180 countries,
+with over a billion daily active users. Recent data shows WhatsApp topped the list of
+the most popular global mobile messaging apps in 2021. Currently, more than 100
+billion messages are sent each day on WhatsApp, making it the most active
+messaging app in the world. This Android based multiplatform messaging app lets its
+users to make video and voice calls, send text messages, share their status, photos,
+videos and more — with no fees or subscriptions.
+3. WhatsApp has proved its relevance in exchange of information very fast. One of
+the unique features of this application is that it also enables formation of groups of
+people to chat and call thereon. WhatsApp groups bring together several people on a
+common platform, thereby enabling easier communication amongst them. The person
+who creates WhatsApp group is called Administrator (Admin) of the group. He may
+also make other members of group as Group Admin. These Admin/s have certain
+powers bestowed upon i.e., adding/removing a member etc. Due to lack of moderation
+of these groups, the members therein are at almost free reign to post/share any kind
+of data that they wish in terms of messages, voice notes, videos, songs etc. Many
+members of a WhatsApp group may put objectionable contents. The legal
+consequences and potential liability of the Administrator, stemming from such an
+objectionable post has come up for consideration in this Criminal Miscellaneous Case.
+4. The petitioner herein created a WhatsApp group by name FRIENDS. Being the
+creator, he was the Admin. There were two more Admins; the accused No.1 and CW4.
+On 29/03/2020 at 08.37 p.m., the accused No.1 posted in the group a porn video
+depicting children engaged in sexually explicit act. On 15/06/2020, the Ernakulam City
+police registered crime against the accused No.1 as Crime No. 864/2020 for the
+offences under Sections 67B (a)(b) and (d) of the Information Technology Act, 2000
+(for short, 'the IT Act') and Sections 13, 14 and 15 of the Protection of Children from
+Sexual Offence Act, 2012 (for short, 'the POCSO Act'). Later on, the petitioner was
+arrayed as the accused No.2 being the Creator of the group and Co- Administrator.
+After investigation, final report was filed and the case is now pending as SC
+No.61/2021 at the Additional Sessions (Cases Relating to Atrocities and Sexual
+Violence Against Women and Children) Court, Ernakulam. According to the petitioner,
+even if the entire allegations in the FI statement or final report together with all the
+materials collected during the investigation are taken together at their face value, they
+do not constitute the offences alleged. It was in these circumstances this Crl.M.C has
+been filed invoking Section 482 of Cr.P.C to quash all further proceedings against the
+5. I have heard Sri.Anil Kumar M.Sivaraman, the learned Counsel for the petitioner
+and Smt. Pushpalatha, the learned Senior Public Prosecutor.
+6. Admittedly the objectionable post in question was posted by the accused No.1 and
+the petitioner was arrayed as the co-accused merely in his capacity as the
+Creator/Administrator of the group. The question is, whether the petitioner could be
+7. Vicarious liability is a form of a strict, secondary liability that arises under the
+common law doctrine of agency; respondent superior – the responsibility of the
+superior for the acts of their subordinate, or, in a broader sense, the responsibility
+imposed on one person for the wrongful actions of another person. Such a liability
+arises usually because of some or the other legal relationship between the two. This
+often occurs in the context of civil law—for example, in employment cases. In a
+criminal context, vicarious liability assigns guilt, or criminal liability, to a person for
+wrongful acts committed by someone else.
+8. Generally, person can be criminally liable for the acts of another if they are a party
+to the offence. Now, strict vicarious criminal liability is somewhat of an exception to
+the general rule of direct personal culpability and is a modern development through
+statutory provisions. Such criminal vicarious liability can be attributed only if it is
+provided under a particular Statute. Indian Penal Code (for short, 'the IPC') makes a
+departure from the general rule in few cases, on the principle of respondent superior.
+In such a case, a master is held liable under various Sections of the IPC for acts
+committed by his agents or servants. Section 149 of IPC provides for vicarious liability.
+It states that if an offence is committed by any member of an unlawful assembly in
+prosecution of a common object thereof, or such as the members of that assembly
+knew that the offence to be likely to be committed in prosecution of that object, every
+person who, at the time of committing that offence, was member, would be guilty of
+the offence committed. Section 154 of IPC holds owners or occupiers of land, or
+persons having or claiming an interest in land, criminally liable for intentional failure
+of their servants or managers in giving information to the public authorities, or in taking
+adequate measures to stop the occurrence of an unlawful assembly or riot on their
+land. The liability on the owners or occupiers of land has been fixed on the assumption
+that such persons, by virtue of their position as landholders, possess the power of
+controlling and regulating such type of gatherings on their property, and to disperse if
+the object of such gatherings becomes illegal. Section 155 of IPC fixes vicarious
+liability on the owners or occupiers of land or persons claiming interest in land, for the
+acts or omissions of their managers or agents, if a riot takes place or an unlawful
+assembly is held in the interest of such class of persons. Section 156 of IPC imposes
+personal liability on the managers or the agents of such owners or occupiers of
+property on whose land a riot or an unlawful assembly is committed. Section 268 of
+IPC explicitly deals with public nuisance. Under this Section, a master is made
+vicariously liable for the public nuisance committed by the servant. Section 499 of IPC
+makes a master vicariously liable for publication of a libel by his servant. Defamation
+is an offence under this Section. The doctrine of vicarious liability is more frequently
+invoked under special enactments, such as Defence of India Rules 1962, the Indian
+Army Act, 1911, the Prevention of Food Adulteration Act, 1954 etc. A master is held
+criminally liable for the violation of rules contained under the aforesaid statutes,
+provided that his agent or servant, during the course of employment, committed such
+act. The Income Tax Act, 1961, the Drugs and Cosmetics Act, 1940 and the
+Negotiable Instruments Act, 1881 contain specific provisions which make the person
+running the affairs of a company vicariously liable for the offences committed by the
+company (See Priya Ashwini, Vicarious Liability Under Criminal Law in India,
+International Journal of Law and Legal Jurisprudence Studies: ISS:2348-8212:
+9. The Apex Court has dealt with the issue of criminal vicarious liability many a time.
+In Sham Sunder v. State of Haryana [(1989) 4 SCC 630], it was held thus:
+"9. But we are concerned with a criminal liability under penal provision and not a civil liability. The
+penal provision must be strictly construed in the first place. Secondly, there is no vicarious liability
+in criminal law unless the statute takes that also within its fold. Section 10 does not provide for such
+liability. It does not make all the partners liable for the offence whether they do business or not."
+In Hira Lal Hari Lal Bhagwati v. CBI, New Delhi [(2003) 5 SCC 257], it was
+"30. In our view, under the penal law, there is no concept of vicarious liability unless the said statute
+covers the same within its ambit. In the instant case, the -said law which prevails in the field i.e. the
+Customs Act, 1962 the appellants have been thereinunder wholly discharged and the GCS granted
+In R. Kalyani v. Janak C. Mehta and Others [(2009) 1 SCC 516], it was held thus:
+"32. Allegations contained in the FIR are for commission of offences under a general statute. A
+vicarious liability can be fastened only by reason of a provision of a statute and not otherwise. For
+the said purpose, a legal fiction has to be created. Even under a special statute when the vicarious
+criminal liability is fastened on a person on the premise that he was in charge of the affairs of the
+company and responsible to it, all the ingredients laid down under the statute must be fulfilled. A
+legal fiction must be confined to the object and purport for which it has been created."
+10. Thus, a vicarious criminal liability can be fastened only by reason of a provision of
+a statute and not otherwise. In the absence of a special penal law creating vicarious
+liability, an Admin of a WhatsApp group cannot be held liable for the objectionable
+post by a group member. The petitioner has been charged with Sections 67B (a), (b),
+and (d) of the IT Act and Sections 13, 14 and 15 of the POCSO Act. None of these
+provisions provide for such liability. There is no law by which an Admin of any
+messaging service can be held liable for a post made by a member in the group. A
+WhatsApp Admin cannot be an intermediary under the IT Act. He does not receive or
+transmit any record or provide any service with respect to such record. There is no
+master-servant or a principal-agent relationship between the Admin of a WhatsApp
+group and its members. It goes against basic principles of criminal law to hold an
+Admin liable for a post published by someone else in the group. It is the basic principle
+of criminal jurisprudence that mens rea must be an ingredient of an offence and both
+the act and intent must concur to constitute a crime.
+11. In Kishor Chintaman Tarone v. State of Maharashtra & Another (2021 ICO
+1285), the High Court of Bombay dealt with similar issue in terms of the liability of the
+Admin resulting from an indecent post shared by another member on the WhatsApp
+group. It was held that 'a Group Administrator cannot be held vicariously liable for an
+act of a member of the Group, who posts objectionable content, unless it is shown
+that there was common intention or pre-arranged plan acting in concert pursuant to
+such plan by such member of a WhatsApp Group and the Administrator.' In Ashish
+Bhalla v. Suresh Chawdhary & Ors (2016 SCC OnLine Del 6329), the Delhi High
+Court observed that defamation and defamatory statements made by any member of
+the group cannot make the Administrator liable therefor. Recently, the Madras High
+Court in R.Rajendran v. the Inspector of Police and Another (Crl.O.P. (MD) No.
+8010/2021 decided on 15/12/2021), following Bombay High Court’s Judgment
+directed the investigating officer to delete the name of the WhatsApp group
+Administrator while filing final report if his role is merely of an Administrator and
+nothing else.
+12. As has been held by both the Bombay and Delhi High Courts, the only privilege
+enjoyed by the Admin of a WhatsApp group over other members is that, he can either
+add or delete any of the members from the group. He does not have physical or any
+control otherwise over what a member of a group is posting thereon. He cannot
+moderate or censor messages in a group. Thus, Creator or Administrator of a
+WhatsApp group, merely acting in that capacity, cannot be vicariously held liable for
+any objectionable content posted by a member of the group.
+13. Coming to the facts, there is no specific allegations as to how and on what basis
+the petitioner has committed the alleged offences. CWs 2 to 8, who were members of
+the group, in their statement to the police, did not say anything against the petitioner.
+According to them, they were added in the group by the accused No.1. They
+specifically stated that the post in question was posted by the accused No.1. They did
+not attribute anything against the petitioner with regard to the said post. None of the
+case diary witnesses has any case that there was a pre– arranged plan by the
+accused No.1 and the petitioner and they acted in concert pursuant to such plan.
+There is nothing on record to suggest that the petitioner has published or transmitted
+or caused to be published or transmitted in any electronic form the alleged obscene
+material or he browsed or downloaded the said material or, in any way, facilitated
+abusing children online so as to attract Sections 67B (a), (b) or (d) of the IT Act.
+Similarly, the prosecution has no case that the petitioner used children in any form of
+media for his sexual gratification or used them for pornographic purpose or stored, for
+commercial purpose, any child pornographic material in order to attract Sections 13,
+14 or 15 of the POCSO Act. Since the basic ingredients of the offences alleged are
+altogether absent as against the petitioner, I am of the view that it is a fit case where
+the extra ordinary jurisdiction vested with this Court under Section 482 of Cr.P.C could
+be invoked.
+For the reasons stated above, the entire proceedings in SC No.61/2021 at the
+Additional Sessions (Cases Relating to Atrocities and Sexual Violence Against
+Women and Children) Court, Ernakulam as against the petitioner is hereby quashed.
+Crl.M.C., accordingly, stands allowed.
+website.

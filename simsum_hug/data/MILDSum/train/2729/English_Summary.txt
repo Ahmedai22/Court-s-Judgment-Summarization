@@ -1,0 +1,19 @@
+The Supreme Court observed that a Ballistic Report forwarded by Director/ Deputy Director/ Assistant Director of a lab under the seal can be said to be in compliance with the statutory requirement under Section 293 Cr.P.C.
+Section 293 of the Code of Criminal Procedure reads as follows: Any document purporting to be a report under the hand of a Government scientific expert to whom this section applies, upon any matter or thing duly submitted to him for examination or analysis and report in the course of any proceeding under this Code, may be used as evidence in any inquiry, trial or other proceeding under this Code.
+In this case, reversing the acquittal by the Trial Court, the Allahabad High convicted all the accused for the offences under Sections 148, 302 read with 149, 307 read with 149 of the Indian Penal Code and sentenced them to life imprisonment. The Trial Court, while acquitting accused in a murder case, had refused to admit ballastic report on the ground that it is not a report selfsigned by an Assistant Director but that of some Scientific Officer, which has been merely forwarded by the Assistant Director. The High Court, while allowing appeal, held that the report could not have been discarded.
+On this aspect, while affirming the views of the High Court, the Apex Court bench observed that the requirement under Section 293 is in fact complied with as the report should be treated as under the hand of the Government Scientific Expert, being the "Director [, Deputy Director or Assistant Director] of a Central Forensic Science Laboratory or a State Forensic Science Laboratory" as provided under Section 293(4)(e). Referring to observations made in State of Himachal Pradesh v. Mast Ram (2004) 8 SCC 660, the bench of Justices said:
+"In view of the fact that the ballistic report has come from the office of the Assistant Director bearing his seal and having considered the same in the context of Section 293(4) Cr.P.C., as explained by this Court in State of Himachal Pradesh v. Mast Ram, we are opinion that the Trial Court committed a serious error in rejecting the ballistic report and it was necessary and compelling for the High Court to reverse the finding of the Trial Court on this count also".
+In its judgment upholding the High Court judgment, the bench has also discussed in detail various factual and legal aspects involved in this case [Please see headnotes].
+Case details
+Ashok Kumar Chandel vs State of UP |  (SC) 915 | CrA 946-947 OF 2019 | 4 November 2022 | CJI UU Lalit, Justices S. Ravindra Bhat and PS Narasimha
+Headnotes
+Code of Criminal Procedure, 1973 ; Section 293 - Ballistic Report forwarded by Director/ Deputy Director/ Assistant Director of a lab under the seal can be said to be in compliance with the statutory requirement under Section 239 Cr.P.C. (Para 167-171)
+Code of Criminal Procedure, 1973 ; Sections 378, 386 - Jurisdiction of the High Court in Appeals Against Acquittals - Principles laid down in Ghurey Lal v. State of UP (2008) 10 SCC 450. (Para 73-77)
+Criminal Trial - Motive - Sufficiency or insufficiency of motive does not have a direct bearing on the actual evidence against the accused, particularly when the prosecution relies on direct evidence of injured eyewitnesse (Para 82-85)
+Criminal Trial - Defective investigation by the investigating authorities by itself does vitiate the case of the prosecution when there are credible eye-witness testimonies as well as other compelling pieces of evidence. (Para 140)
+Indian Penal Code, 1860 ; Section 149 - There is no requirement to prove a common intention for an unlawful assembly under Section 149 IPC - Unlawful assembly and common object discussed . (Para 143-147)
+Criminal Trial - Where there are credible injured eye-witness testimonies, certain minor variations, such as non-recovery of blood-stained clothes, certain other weapons etc. will not be fatal to the case of the prosecution. (Para 164)
+
+
+
+

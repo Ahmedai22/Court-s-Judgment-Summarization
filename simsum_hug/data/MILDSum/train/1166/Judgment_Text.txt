@@ -1,0 +1,355 @@
+1)     Petitioner has challenged the complaint filed by the respondent
+against him for offence under Section 138 of Negotiable Instruments Act
+(hereinafter for short “the NI Act”) pending before the Court of Judicial
+Magistrate, 1st Class (1st Additional Munsiff), Srinagar. Petitioner has also
+challenged order dated 26.07.2019, whereby the learned Magistrate has,
+after taking cognizance of the offence, issued process against the
+2)     It appears from the record that respondent has filed a complaint
+against the petitioner alleging that a cheque bearing No.406696 dated
+01.03.2019 for an amount of Rs.5.00 lacs, issued by petitioner in his
+favour which was drawn on J&K Bank Branch unit Habbak Crossing,
+Srinagar, was returned unpaid by the concerned bank with the remarks
+“funds insufficient and drawer’s signature differs”. The respondent is
+stated to have served a legal notice of demand upon the petitioner and
+when the petitionerfailed to make the payment within the statutory period,
+the complaint, which is subject matter of this petition, came to be filed
+before the trial Magistrate. The learned Magistrate, after recording the
+preliminary evidence, took cognizance of the offence and issued process
+against the petitioner in terms of its order dated 26.07.2019. The
+complaint and the order issuing process against the petitioner is under
+challenge before this Court.
+3)     The petitioner has urged two grounds, one that the complaint and
+the order of issuing process are not legally tenable as the dishonour of
+cheque was due to difference in drawer’s signatures and, as such, offence
+under Section 138 of NI Act is not made out against the petitioner. The
+other ground that has been urged by the petitioner is that the cheque in
+question was given by the petitioner to the respondent as a security
+pursuant to a memorandum of understanding executed by the parties on
+30th November, 2017, and not in discharge of any legally outstanding
+amount or in discharge of any debt.
+4)     I have heard learned counsel for the parties and perused the record.
+5)     The first question that falls for determination in the instant petition
+is as to whether dishonor of a cheque for the reason that there was
+difference of signatures appearing on the cheque constitutes an offence
+under Section 138 of the NI Act. In order to determine this question, the
+provisions contained in Section 138 are required to be noticed. It reads as
+“138. Dishonour of cheque for insufficiency, etc., of
+funds in the account.—Where any cheque drawn by a
+person on an account maintained by him with a banker
+for payment of any amount of money to another person
+from out of that account for the discharge, in whole or in
+part, of any debt or other liability, is returned by the bank
+unpaid, either because of the amount of money standing
+to the credit of that account is insufficient to honour the
+cheque or that it exceeds the amount arranged to be paid
+from that account by an agreement made with that bank,
+such person shall be deemed to have committed an
+offence and shall, without prejudice to any other
+provision of this Act, be punished with imprisonment for
+a term which may be extended to two years’, or with fine
+which may extend to twice the amount of the cheque, or
+Provided that nothing contained in this section shall
+(a) the cheque has been presented to the bank within a
+period of six months from the date on which it is drawn
+or within the period of its validity, whichever is earlier;
+(b) the payee or the holder in due course of the cheque,
+as the case may be, makes a demand for the payment of
+the said amount of money by giving a notice; in writing,
+to the drawer of the cheque, within thirty days of the
+receipt of information by him from the bank regarding the
+return of the cheque as unpaid; and
+(c) the drawer of such cheque fails to make the payment
+of the said amount of money to the payee or, as the case
+may be, to the holder in due course of the cheque, within
+fifteen days of the receipt of the said notice.
+Explanation.—For the purposes of this section, “debt of
+other liability” means a legally enforceable debt or other
+liability”.
+6)    From a perusal of the aforesaid provision, it is clear that an offence
+under Section 138 of the NI Act is constituted when a cheque drawn by a
+person on an account maintained by him with a banker for payment of any
+amount of money to another person from out of that account for the
+discharge of any debt, is returned by the bank unpaid either because the
+amount of money standing to the credit of that account is insufficient to
+honour the cheque or that it exceeds the amount arranged to be paid from
+that account by an agreement made with that bank. At first blush, it
+appears that it is only in two situations that Section 138 of the NI Act is
+attracted, firstly when there are insufficient funds available in the bank
+account of the person who is drawing the cheque and secondly where it
+exceeds the arrangement. However, the provision has been interpreted by
+the Supreme Court in a number of judgments in a manner so as to include
+within its ambit even the cases where the dishonor of cheque has taken
+place for the reasons other than the aforesaid two reasons.
+7)     In NEPC Micon Limited And Others vs. Magma Leasing
+Limited, ( 1999)4 SCC 253, the Supreme Court rejected the contention
+that Section 138 of the NI Act has to be interpreted strictly or in disregard
+of the object sought to be achieved by the Statute. Relying upon its earlier
+judgment in the case of Kanwar Singh vs Delhi Administration, AIR
+1965 SC 871            and   Swantraj     and    Others     Vs.    State    of
+Maharashtra 1975(3) SCC 322, the Court held that a narrow
+interpretation of Section 138 would defeat the legislative object
+underlying the said provision. The Supreme Court relied upon its own
+decision in State of Tamil Nadu Vs. M. K. Kandaswami and Others
+1974(4) S.C.C. 745, and it was observed that while interpreting a penal
+provision which is also remedial in nature a construction that would
+defeat its purpose or have the effect of scrapping it from the statute book,
+should be avoided and that if more than one constructions are possible,
+the Court should choose to adopt construction that would preserve the
+workability and efficacy of the Statute and avoid an interpretation that
+would render the provision sterile. The Court, accordingly, held that
+when a cheque is returned by the banker of a drawer with the comments
+“account closed” the same would constitute an offence under Section
+138 of NI Act.
+8)    In Modi Cements Ltd vs. Kuchil Kumar Nandi, (1998) 3 CC
+249, the Supreme Court,         while considering the question whether
+dishonor of a cheque on account of stoppage of payment by the drawer
+would constitute an offence under Section 138 of the NI Act, observed
+“18. The aforesaid propositions in both these
+reported judgments, in our considered view, with
+great respect are contrary to the spirit and object of
+Sections 138 and 139 of the Act. If we are to accept
+this proposition it will make Section 138 a dead
+letter, for, by giving instructions to the bank to stop
+payment immediately after issuing a cheque against
+a debt or liability the drawer can easily get rid of
+the penal consequences notwithstanding the fact that
+a deemed offence was committed. Further the
+following observations in para 6 in Electronics
+Ltd. “Section 138 intended to prevent dishonesty on
+the part of the drawer of negotiable instrument to
+draw a cheque without sufficient funds in his
+account maintained by him in a bank and induce the
+payee or holder in due course to act upon it. Section
+138 draws presumption that one commits the offence
+if he issues the cheque dishonestly”(emphasis
+supplied) in our opinion, do not also lay down the
+law correctly.
+20. On a careful reading of Section 138 of the act,
+we are unable to subscribe to the view that Section
+138 of the Act draws presumption of dishonesty
+against drawer of the cheque if he without sufficient
+funds to his credit in his bank account to honour the
+cheque issues the same and, therefore, this amounts
+to an offence under Section 138 of the Act. For the
+reasons stated hereinabove, we are unable to share
+the views expressed by this Court in the above two
+cases and we respectfully differ with the same
+regarding interpretation of Section 138 of the Act to
+the limit extent as indicated above.”
+9)    The question whether stop payment instructions, which result in
+dishonor of a cheque, would amount to an offence under Section 138 of
+the NIA Act, was considered by the Supreme Court in M. M. T. C. Ltd.
+Vs. M/S Medchl Chemicals, (2001) 1 SCC 234, and it was held that
+same would come within the ambit of definition of offence under Section
+138 of the NIA Act. Similar view was taken by the Supreme Court in the
+case of Goaplast (P) Ltd vs. Chico Ursula D'Souza, (2003) 3 SCC 232.
+10)   In the face of foregoing discussion, it is clear that the Supreme
+Court has interpreted the provisions contained in Section 138 of the NI
+Act in a liberal manner so as to achieve the object for which the said
+provision has been enacted. Not only the cases of dishonour of cheques on
+account of insufficiency of funds or on account of exceeding of
+arrangement but the cases involving dishonour of cheques on account of
+“stop payment” and “account closed” have also been brought within the
+ambit of offence under the aforesaid provision.
+11)   In Vinod Tanna vs. Zaheer Siddiqui, (2002) 7 SCC 541, the
+Supreme Court, while dealing with a case where the cheque drawn by the
+accused was not been honoured by the bank on account of drawer’s
+signatures being incomplete, held that dishonour of cheque for the
+aforesaid reason would not constitute an offence under Section 138 of
+the NI Act and, accordingly, the criminal proceedings against the accused
+were quashed.
+12)    The aforesaid decision of the Supreme Court came up for
+consideration before the same Court in the case of Laxmi Dyechem vs.
+State of Gujarat and others, (2012) 13 SCC 375. The Court, after
+noticing its earlier decisions on interpretation of the provisions of Section
+138 of the NI Act, made the following observations:
+“15. A three-Judge Bench of this Court
+has approved the above decision and held that failure
+of the drawer of the cheque to put up a probable
+defence for rebutting the presumption that arises
+under Section 139 would justify conviction even when
+the appellant drawer may have alleged that the
+cheque in question had been lost and was being
+misused by the complainant.”
+13)    The Supreme Court in the aforesaid decision did not follow the
+ratio laid down in Vinod Tanna’s case and observed that the ratio laid
+down in the said case is based upon the ratio laid down by the Supreme
+Court in Electronics Trade & Technology Development Corpn.
+Ltd. v. Indian     Technologists    and     Engineers     (Electronics)     (P)
+Ltd. (1996) 2 SCC 739, which has been overruled by the Supreme Court
+in Modi Cements Ltd (supra). Para 16 of the judgment is relevant to the
+context and the same is reproduced as under:
+“16. In the case at hand, the High Court relied
+upon a decision of this Court in Vinod Tanna‟s
+case (supra) in support of its view. We have
+carefully gone through the said decision which
+relies upon the decision of this Court in
+Corporation Ltd. (supra). The view expressed by
+this Court in Electronics Trade & Technology
+Development Corporation Ltd. (supra) that a
+dishonour of the cheque by the drawer after
+issue of a notice to the holder asking him not to
+present a cheque would not attract Section
+Cements Ltd. case (supra). The net effect is that
+dishonour on the ground that the payment has
+been stopped, regardless whether such stoppage
+is with or without notice to the drawer, and
+regardless whether the stoppage of payment is
+on the ground that the amount lying in the
+requirement of the cheque, would attract the
+provisions of Section 138.”
+14)   The Supreme Court on the basis of the aforesaid observations and
+the ratio, while dealing with a case in which the cheques were
+dishonoured by the bank on the ground that drawer’s signatures were
+incomplete and that no image was found or that the signatures did not
+match, came to the conclusion that criminal prosecution against the
+accused in such cases should be allowed to proceed and the judgment
+and orders passed by the High Court quashing the criminal proceedings
+were set aside.
+15)   Both the judgments of the Supreme Court in Vinod Tanna’s case
+as well as in Laxmi Dyechem’s case (supra) have been rendered by the
+Benches of co-equivalent strength. The judgment rendered in Laxmi
+Dyechem’s case is latest in point of time, wherein the ratio laid down in
+Vinod Tanna’s case has been termed as per incuriam. Therefore, as per
+law of precedents, the ratio laid down in Laxmi Dyechem’s case has to be
+followed. Accordingly, as       per   the    ratio laid  down     in Laxmi
+Dyechem’s case, the contention of the petitioner that in the instant case
+offence under Section 138 of the NI Act is not constituted because the
+cheque was dishonoured on account of difference in signatures and not for
+the reason of insufficiency of funds or exceeding the arrangement,
+deserves to be rejected.
+16)    The other ground which has been urged by the petitioner is that the
+cheque in question was not given in discharge of any debt by the
+petitioner to the respondent but it was given only as security pursuant to
+the memorandum of understanding executed between the parties.
+According to the petitioner, since the cheque was not given in discharge
+of any debt, as such, offence under Section 138 of the NI Act is not made
+17)    The law on this aspect of the matter is no longer res integra. The
+Supreme Court in the case of I. C. D. S. Ltd. vs. Beena Shabeer &anr.
+(2002) 6 SCC 25, while setting aside the judgment of the Kerala High
+Court, whereby proceedings against the guarantor were quashed on the
+ground that a cheque from the guarantor could not be said to have been
+issued for the purposes of discharging any debt or other liability, observed
+“10. The language, however, has been rather specific as
+regards the intent of the legislature. The commencement of the
+Section stands with the words "Where any cheque". The above
+noted three words are of extreme significance, in particular, by
+reason of the user of the word "any" the first three words
+suggest that in fact for whatever reason if a cheque is drawn
+on an account maintained by him with a banker in favour of
+another person for the discharge of any debt or other liability,
+the highlighted words if read with the first three words at the
+commencement of Section 138, leave no manner of doubt that
+for whatever reason it may be, the liability under this provision
+cannot be avoided in the event the same stands returned by the
+banker unpaid. The legislature has been careful enough to
+record not only discharge in whole or in part of any debt but
+the same includes other liability as well. This aspect of the
+matter has not been appreciated by the High Court, neither
+been dealt with or even referred to in the impugned judgment.
+11.The issue as regards the co-extensive liability of the
+guarantor and the principal debtor, in our view, is totally out of
+the purview of Section 138 of the Act, neither the same calls
+for any discussion therein. The language of the Statute depicts
+the intent of the law-makers to the effect that wherever there is
+a default on the part of one in favour of another and in the
+event a cheque is issued in discharge of any debt or other
+liability there cannot be any restriction or embargo in the
+matter of application of the provisions of Section 138 of the
+Act: 'Any cheque' and 'other liability' are the two key
+expressions which stands as clarifying the legislative intent so
+as to bring the factual context within the ambit of the
+provisions of the Statute. Any contra interpretation would
+defeat the intent of the legislature. The High Court, it seems,
+got carried away by the issue of guarantee and guarantor's
+liability and thus has overlooked the true intent and purport
+of Section 138 of the Act. The judgments recorded in the order
+of the High Court do not have any relevance in the contextual
+facts and the same thus does not lend any assistance to the
+contentions raised by the respondents.”
+18)   In Sripati Singh vs. State of Jharkhand and Ors., 2021 SCC
+Online SC 1002, the Supreme Court has, while dealing with the question
+whether dishonor of cheque given as security would constitute an offence
+under Section 138 of the NI Act, observed as under:
+“16. A cheque issued as security pursuant to a financial
+transaction cannot be considered as a worthless piece of paper
+under every circumstance. „Security‟ in its true sense is the
+state of being safe and the security given for a loan is
+something given as a pledge of payment. It is given, deposited
+or pledged to make certain the fulfilment of an obligation to
+which the parties to the transaction are bound. If in a
+transaction, a loan is advanced and the borrower agrees to
+repay the amount in a specified timeframe and issues a cheque
+as security to secure such repayment; if the loan amount is not
+repaid in any other form before the due date or if there is no
+other understanding or agreement between the parties to defer
+the payment of amount, the cheque which is issued as security
+would mature for presentation and the drawee of the cheque
+would be entitled to present the same. On such presentation, if
+the same is dishonoured, the consequences contemplated
+under Section 138 and the other provisions of N.I. Act would
+flow.
+17. When a cheque is issued and is treated as „security‟ towards
+repayment of an amount with a time period being stipulated for
+repayment, all that it ensures is that such cheque which is
+issued as „security‟ cannot be presented prior to the loan or the
+instalment maturing for repayment towards which such cheque
+is issued as security. Further, the borrower would have the
+option of repaying the loan amount or such financial liability in
+any other form and in that manner if the amount of loan due
+and payable has been discharged within the agreed period, the
+cheque issued as security cannot thereafter be presented.
+Therefore, the prior discharge of the loan or there being an
+altered situation due to which there would be understanding
+between the parties is a sine qua non to not present the cheque
+which was issued as security. These are only the defences that
+would be available to the drawer of the cheque in a proceedings
+initiated under Section 138 of the N.I. Act. Therefore, there
+cannot be a hard and fast rule that a cheque which is issued as
+security can never be presented by the drawee of the cheque. If
+such is the understanding a cheque would also be reduced to an
+„on demand promissory note‟ and in all circumstances, it would
+only be a civil litigation to recover the amount, which is not the
+intention of the statute. When a cheque is issued even though as
+„security‟ the consequence flowing therefrom is also known to
+the drawer of the cheque and in the circumstance stated above
+if the cheque is presented and dishonoured, the holder of the
+cheque/drawee would have the option of initiating the civil
+proceedings for recovery or the criminal proceedings for
+punishment in the fact situation, but in any event, it is not for
+the drawer of the cheque to dictate terms with regard to the
+nature of litigation.”
+19)    In view of the foregoing enunciation of law on the subject, it is
+clear that even if it is assumed that the petitioner had issued the cheque in
+favour of respondent as a security, still then it cannot be stated that no
+offence is made out, once the cheque issued by him has been dishonoured
+by the banker.
+20)    Even otherwise, the questions whether the petitioner had issued the
+cheque as a security pursuant to the memorandum of understanding
+executed between the parties and whether at the time when the cheque
+was presented for its payment, it was not for discharge of any debt or any
+other liability cannot be determined either by the trial Magistrate at the
+time of taking of cognizance or by this Court in these proceedings. These
+are defences available to the accused/petitioner, veracity whereof can be
+determined during the trial of the case. Here it would be apt to quote para
+5 of the judgment rendered by the Supreme Court in M/S Womb
+Laboratories Pvt. Ltd. vs. Vijay Ahuja and anr., 2019 SCC Online
+“5. In our opinion, the High Court has muddled the
+entire issue. The averment in the complaint does indicate
+that the signed cheques were handed over by the accused
+to the complainant. The cheques were given by way of
+security, is a matter of defence. Further, it was not for the
+discharge of any debt or any liability is also a matter of
+defence. The relevant facts to countenance the defence
+will have to be proved that such security could not be
+treated as debt or other liability of the accused. That
+would be a triable issue. We say so because, handing
+over of the cheques by way of security per se would not
+extricate the accused from the discharge of liability
+arising from such cheques.”
+21)     For the foregoing reasons, the petition is found to be devoid of
+merit and the same is, accordingly, dismissed. Interim order dated
+29.09.2021 is vacated. The trial Magistrate is directed to proceed further
+in the matter in accordance with law.
+22)     A copy of this order be sent to the learned Magistrate for
+information and compliance.

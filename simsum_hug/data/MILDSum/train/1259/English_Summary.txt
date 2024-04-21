@@ -1,0 +1,29 @@
+The Orissa High Court has held that a person in charge of a 'Trust' cannot be impleaded as an accused for dishonour of cheque, punishable under Section 138 of the Negotiable Instruments Act ('the Act'), if the 'Trust' itself is not arraigned as a party as per the mandate of Section 141 of the Act. Notably, Section 141 prescribes liabilities of companies for dishonour of cheques.
+ While quashing the order of cognizance made against the petitioner, General Secretary of a Trust, a Single Judge Bench of Justice Gourishankar Satapathy observed:
+ "…there appears hardly any dispute about petitioner not to be a signatory of the cheque and her implication in this case as General Secretary of the Trust is without arraigning the "Trust" as an accused in the complaint, but Section 141 of NI Act makes it obligatory for the complainant-OP No.2 in this case to arraign the Trust as an accused to make the person in charge of and responsible to such Trust for the conduct of its business as vicariously liable for dishonor of cheque issued for the Trust, which was not done in this case…"
+ Factual Background
+ One Kanheilal Choudhury instituted a complaint case against the petitioner, General Secretary of M/s. Bijay Laxmi Trust, for commission of offences under Section 138 of the Act on account of dishonour of cheque issued by Dinabandhu Mishra as the President of the Trust.
+ On perusal of complaint and initial statement of complainant along with documents annexed, the Magistrate Court took cognizance of the offence and issued summons to the petitioner and Dinabandhu Mishra. Being aggrieved, the petitioner approached the High Court for quashing the above order.
+ Contentions of the Petitioner
+ Mohit Agarwal, counsel for the petitioner flagged a preliminary objection at the threshold on the maintainability of the complaint as the Trust was not arraigned as an accused as required under Section 141 of the Act. He further submitted that the cheque in question was neither issued by the petitioner in individual capacity nor in the capacity of General Secretary of the Trust. Rather, it was issued by Dinabandhu Mishra as the President of the Trust and therefore, the criminal liability cannot be fastened against the petitioner.
+ He also argued that Section 141 mandates arraignment of Trust as a party since the cheque in question was issued by a person for/on behalf of the Trust. As in the instant case, the above mandatory provision has not been complied, he submitted, the complaint itself is not maintainable. 
+ Contentions of the Respondent
+ Amit Prasad Bose, counsel for the complainant (herein O.P. No. 2) submitted that though the trust was not made an accused in the complaint, but that per se would not absolve the petitioner from the liability. Therefore, she is vicariously liable as the General Secretary of the Trust along with her husband, Dinabandhu Mishra, who had issued the cheque for the Trust. He argued that provisions of Section 141 would not stand on the way of discharge of the liability of the petitioner and her husband and thereby, the complaint is squarely maintainable.
+ Court's Observations
+ The Court noted that Section 141 of the Act talks about criminal liability for commission of offence under Section 138 by a company in case cheque was issued by or on behalf of the company and such criminal liability extends to every person, who at the time of the offence, was in-charge of and was responsible to the company for the conduct of its business.
+ After perusing the complaint, the Court observed that it fails to aver clearly as to who was in charge of the Trust when the offence was committed. It said,
+ "A bare perusal of the averments made in the complaint would unambiguously disclose that there are no averments in the complaint who, at the time when offence was committed, was in charge of, and was responsible to the trust for the conduct of its business. Besides, the petitioner is admittedly neither the signatory of the cheque nor is there any averment made by the complainant in the complaint that the petitioner was in-charge of and was responsible to the trust for the conduct of its business. Undeniably the trust has not been made or implicated as an accused in the complaint."
+ Again, the Bench placed reliance on the recent decision of the Apex Court in Pawan Kumar Goel v. State of Uttar Pradesh & Anr., wherein it was held that if the complainant fails to make specific averments against the company in the complaint for the commission of an offence under Section 138, the same cannot be rectified by taking recourse to general principles of criminal jurisprudence. 
+ Further, it had clarified that the provisions of Section 141 impose vicarious liability by deeming fiction which requires the commission of the offence by a company or firm. Therefore, unless a company or firm has committed the offence as a principal accused, the persons mentioned in sub-Section (1) and (2) of Section 141 would not be liable to be convicted on the basis of the principles of vicarious liability.
+ Having regard for the aforesaid, the Court concluded:
+ "…the mandate of Section 141 of NI Act having not pleaded and established remotely in this case together with admittedly the incurable and inherent defect of non-impletion of the Trust as an accused in the complaint makes it very clear that the complaint is not maintainable in the eye of law and therefore, the further proceeding in the complaint is nothing but an abuse of process of Court and to secure the ends of justice, the complaint as a whole being unsustainable in the eye of law needs to be quashed…"
+ Case Title: Bijaya Manjari Satpathy v. State of Orissa & Ors.
+ Case No.: CRLMC No. 1392 of 2016
+ Judgment Dated: 1st December 2022
+ Coram: G. Satapathy, J.
+ Counsel for the Petitioner: Mr. Mohit Agarwal, Advocate
+ Counsel for the Respondents: Mr. S.S. Pradhan, Additional Government Advocate; Mr. A.P. Bose, Advocate
+
+
+
+

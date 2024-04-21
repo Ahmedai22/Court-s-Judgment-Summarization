@@ -1,0 +1,76 @@
+Mr. Gaurav Agrawal, learned Amicus Curiae has drawn our attention to order dated
+29.11.2022 qua the issue of undertrial prisoners who continue to be in custody despite
+having been granted the benefit of bail on account of their inability to fulfill the conditions.
+In this behalf the report by the NALSA has been placed before us filed on 30.01.2023.
+After recording the discussions which have been held, it has been stated in para 5 of the
+report that there are 5,000 undertrial prisoners who were in jail, despite grant of bail, out
+of which, 2,357 persons were provided legal assistance and now 1,417 persons have
+since been released.
+One of the main reasons flagged why the accused are in jail despite the grant of
+bail is that he may be an accused in multiple cases and is apparently not willing to furnish
+bail bonds until he is given bail in all the cases as undertrial custody will be counted in all
+the cases.
+De hors this, it is pointed out that to ensure that the remaining undertrial prisoners
+who are unable to furnish surety or bail bonds due to poverty, NALSA is in the process of
+creating a master data of all such undertrial prisoners in excel sheet with all relevant
+details, including, reasons for non-release and steps qua persons who are unable to
+furnish bail bonds or surety are being taken up with the respective SLSAs/DLSAs and
+result would be obtainable in about one or two months’ time.
+Learned Amicus Curiae has also drawn our attention to the discussions with Shri
+Shashikant Sharma, HOD and Sr. Technical Director of NIC recording that five meetings
+were held along with the participation of Shri K.M. Nataraj, learned ASG and Home
+Ministry officials. A Standard Operating Procedure (SOP) has been prepared by NIC which
+also deals with this aspect. A relevant aspect is that the NIC e-prison software, which is
+working in about 1,300 jails in the country, would now have a field where the date of grant
+of bail would have to be entered by the jail authorities. If the accused is not released within
+seven days of the date of grant of bail, the e-prison software would automatically generate
+a flag/reminder and simultaneously the e-mail would be sent to the office of the concerned
+DLSA so that the DLSA can find out the reason for non-release of the accused. The SOP
+has para 2.4 under the heading “Bailed out but not Released” which facility enables prison
+user to access the data of inmates, to assist in identifying inmates who are bailed out but
+not released due to some reasons like sureties or pending cases.
+Insofar as the discussion with TISS is concerned, some suggestions are stated to
+be made but learned Amicus Curiae submits that a more detailed work out of that is
+Another issue which has crept up during discussion is whether the Government
+would give access to this portal on a protected basis to the Secretaries of the SLSAs and
+DLSAs which would facilitate better follow up.
+We call upon the Government of India to discuss this issue with NALSA so that
+necessary directions, if any, can be passed. Learned ASG would obtain instructions in
+that behalf by the next date.
+With a view to ameliorate the problems a number of directions are sought. We have
+examined the directions which we reproduce hereinafter with certain modifications:
+“1)     The Court which grants bail to an undertrial prisoner/convict would be required to
+send a soft copy of the bail order by e-mail to the prisoner through the Jail Superintendent
+on the same day or the next day. The Jail Superintendent would be required to enter the
+date of grant of bail in the e-prisons software [or any other software which is being used
+by the Prison Department].
+2)      If the accused is not released within aperiod of 7 days from the date of grant of bail,
+it would be the duty of the Superintendent of Jail to inform the Secretary, DLSA who may
+depute para legal volunteer or jail visiting advocate to interact with the prisoner and assist
+the prisoner in all ways possible for his release.
+3)      NIC would make attempts to createnecessary fields in the e-prison software so that
+the date of grant of bail and date of release are entered by the Prison Department and in
+case the prisoner is not released within 7 days, then an automatic email can be sent to
+4)      The Secretary, DLSA with a view to findout the economic condition of the accused,
+may take help of the Probation Officers or the Para Legal Volunteers to prepare a report
+on the socio-economic conditions of the inmate which may be placed before the
+concerned Court with a request to relax the condition (s) of bail/surety.
+5)      In cases where the undertrial or convictrequests that he can furnish bail bond or
+sureties once released, then in an appropriate case, the Court may consider granting
+temporary bail for a specified period to the accused so that he can furnish bail bond or
+6)      If the bail bonds are not furnished within one month from the date of grant bail, the
+concerned Court may suo moto take up the case and consider whether the conditions of
+bail require modification/ relaxation.
+7)      One of the reasons which delays therelease of the accused/ convict is the insistence
+upon local surety. It is suggested that in such cases, the courts may not impose the
+condition of local surety.”
+We order that the aforesaid directions shall be complied with.
+IA No. 203407/2022 and IA NO. 203408/2022 have been filed for intervention and
+appropriate directions by the National Law University, Delhi through Fair Trial Fellowship
+Programme under Project 39A.
+We are of the view that instead of looking to the suggestions and directions sought,
+more appropriate course of action would be for Shri Gaurav Agrawal, learned Amicus to
+look into them on behalf of the NALSA and accordingly make suggestions to us taking
+them as inputs.
+List the applications along with SMWP(Criminal) No. 4/2021 and SLP(Crl) No.
+529/2021 on 28.03.2023.

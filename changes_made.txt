@@ -1,0 +1,19 @@
+-bart_baseline_finetuned:
+    - new "class TrainDataset(Dataset):" from 350
+    - new "class ValDataset(Dataset):" from line 442
+
+
+
+-preprocessor.py:
+    - import os
+    - new function "def get_data_filepath(dataset, phase):" from line 154
+    - line 44: MILDSUM = "MILDSum"
+    - new functions "def read_lines(filepath):" from line 85
+    - new function "def yield_lines(filepath):" from line 90
+
+
+-main.py:
+    - from preprocessor import MILDSUM
+    - line 36 updated: p.add_argument('--dataset', default='MILDSUM', type=str, help="select dataset")
+    - added at line 76 elif args.dataset == 'MILDSUM':
+                       args.dataset = MILDSUM

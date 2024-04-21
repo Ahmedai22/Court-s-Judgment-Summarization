@@ -1,0 +1,18 @@
+The Karnataka High Court has said that a petition filed under Section 482 of the Criminal Procedure Code, seeking to quash conviction handed down to an accused under the Negotiable Instruments Act is not maintainable.
+Petitioner Vuppalapti Satish Kumar had approached the court seeking to quash the conviction handed down to him on 2.1.2023, for the offence punishable under Section 138 of Negotiable Instruments Act. 
+The office (Registry) raised an objection regarding maintainability of the petition as the petitioner being the accused convicted in the trial court, required to file an appeal under section 374 of Cr.P.C.
+The counsel appearing for the petitioner contended that the criminal petition filed under section 482 of Cr.P.C is maintainable, even though the statutory right of the accused for filing appeal is available.
+Reliance was placed on the Supreme Court judgment in the case of Punjab State Warehousing Corporation Faridkot Vs Shree Durga Ji Traders and Ors reported in (2011) 14 SCC 615 and in case of Vijay and another Vs State of Maharashtra and Anr reported in (2017) 13 SCC 317. 
+Further it was contended that the trial court convicted the accused No.2, who is only Managing Director of the company but acquitted the accused No.1 who is the Company. Therefore, there is an error committed by the trial court in acquitting the Company from the charges and convicting only the Managing Director, which is against the principles laid down by the Supreme Court in various cases, it was argued. 
+A single judge bench of Justice K Natarajan noted the law laid down by the Supreme Court in respect of quashing the FIR and said,
+“This court entertaining 482 of Cr.P.C, where there is no evidence led by the parties and there is no final judgment of conviction or acquittal after the trial in those cases. Therefore, the High Court can entertain Section 482 of Cr.P.C, if the complaint is dismissed for non-prosecution or dismissed for default under section 256 of Cr.P.C.” 
+Following which it held “The present case on hand, the petitioner is challenging the conviction and sentence passed by the trial court by exercising the power under section 255 of Cr.P.C. Therefore, the petitioner is required to file appeal under section 374 (2) of Cr.P.C before the Sessions Judge, where the first appellate court required to re-appreciate evidence on record and pass the final judgment and thereafter the aggrieved parties can approach high court under section 397 of Cr.P.C, if any concurrent finding of both the Court below.” 
+It added “This Court cannot re-appreciate the evidence on record, both on facts and law, which is required to be dealt with by the appellate court in the appeal under Section 374 of Cr.P.C. This Court cannot re-appreciate any evidence on record and give findings, it is only extraordinary power for quashing the proceedings, since the first appeal is nothing but continuation of original proceedings in appellate court.” 
+Thus it expressed “If this petition filed under section 482 of Cr.P.C, is entertained, the respondent will be deprived of right of appeal before the appellate court and thereafter parties can approach the High Court.” 
+Finally it remarked “It appears the accused are following these back door tactics in order to avoid the interim compensation going to be imposed by the first appellate court under section 148 of NI Act.” 
+Accordingly it dismissed the petition.
+Case Title: Vuppalapti Satish Kumar And VTH Source Components Pvt Ltd. 
+Case No: CRIMINAL PETITION NO.991 OF 2023 
+Date of Order: 14-02-2023
+Appearance: Senior Advocate Sandesh J Chouta for Advocate Krishma Nedungadi for petitioner. 
+

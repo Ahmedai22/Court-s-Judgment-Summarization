@@ -1,0 +1,29 @@
+The Kerala High Court recently reiterated the difference between an agreement and a bond by establishing that for an instrument to partake the character of a bond, an obligation must have been created in the instrument itself. The question before the Court was whether the agreement entered into by the parties is a bond as defined under Section 2(a) of the Kerala Stamp Act, 1959 or...
+The Kerala High Court recently reiterated the difference between an agreement and a bond by establishing that for an instrument to partake the character of a bond, an obligation must have been created in the instrument itself. 
+The question before the Court was whether the agreement entered into by the parties is a bond as defined under Section 2(a) of the Kerala Stamp Act, 1959 or an agreement.
+Justice Viju Abraham recalled excerpts from several landmark decisions to come to a decision:
+"The distinguishing feature of a bond is that the obligation must have been created in the instrument itself and that if the obligation was a pre-existing one, it does not partake the character of a bond... Where an obligation is a pre-existing one, the subsequent document giving the nature of the obligation or the terms and conditions of the contract shall be a mere agreement." 
+Finding that there was a specific acknowledgement in the agreement of an amount that is outstanding to be paid to the petitioner as on the date of execution of the document, it could only be construed as an agreement and it does not partake the character of a bond as defined in Section 2(a) of the Act.
+Hence, it was held that the said document can only be construed as an agreement and not as a bond. 
+Background:
+The petitioner and respondent had engaged in several business transactions over the years, and they decided to put an end to the same on settlement of accounts. It was found that a sum of Rs.53,57,000/- was payable by the respondent. 
+Based on that, an agreement and a promissory note were executed on 16th January 2017.
+Accordingly, a suit was filed before the trial court for the realisation of a sum of over Rs.54 lakhs from the respondent herein. 
+However, the court found that the obligation to pay was created by the said agreement itself; therefore the document has the character of a bond and directed the petitioner to pay stamp duty and penalty.
+The petitioner herein moved the Court against the above order of the Additional Sub Court. 
+Contentions Raised:
+Advocate N.M Madhu appearing for the petitioner argued that a reading of the impugned document would clearly show that no liability was created by it and the same was executed only to acknowledge and admit a liability that already existed. Therefore he contended that a document whereby the executor undertakes to clear a pre-existing liability within the period provided is only an agreement and not a bond.
+Accordingly, it was argued that the order directing to pay stamp duty and penalty treating it as a bond is unsustainable and liable to be set aside by the Court.
+Advocate V.V Surendran representing the respondent contended that the account had been settled as per the said agreement and the amount liable to be paid to the petitioner as per the settlement of accounts is clearly stated in Clause (3) of the document. 
+As such, it was argued that an obligation to pay money has been created by the said document itself; hence, it will come within the definition of a bond as defined in Section 2(a) of the Act. 
+Observations:
+The Court examined the provisions of Section 2(a) of the Act to decide if the impugned document qualified as a bond. Pursuant to such examination, it was found that for an instrument to partake the character of a bond an obligation must have been created in the instrument itself.
+On such understanding, the Bench then analysed the document in question. Clause (2) of the said instrument only stated that both parties settled the accounts involved in the said business transaction carried out during the last three years by mutual consent in full satisfaction on the said date.
+Further in Clause (3) of the agreement, the respondent admits that he owes Rs.53,57,000/- to the petitioner and that he acknowledges that Rs.53,57,000/- is outstanding to be paid to the petitioner. 
+The Court observed that the wording in Clause (3) made it explicitly clear that it is only an acknowledgement of an amount that is outstanding to be paid to the petitioner as on the date of execution of the document. As per the said agreement, the respondent only undertook to repay the existing liability within a time frame.
+As there was a specific acknowledgement in the agreement of an amount that is outstanding to be paid to the petitioner as on the date of execution of the document, it could only be construed as an agreement and it does not partake the character of a bond as defined in Section 2(a) of the Act.
+The instrument in question only acknowledges a pre-existing liability of an amount to be paid by the respondent to the petitioner.
+In the facts and circumstances of the case, it was held that the said document can only be construed as an agreement and not as a bond. Therefore, the original petition was allowed, and the order of the trial court was set aside.
+Case Title: Safir v. Sajid
+
+

@@ -1,0 +1,25 @@
+The Madhya Pradesh High Court has announced to commence Courtroom Live Audio Visual Streaming System (CLASS) and Integrated Video Surveillance System (IVSS) project enabling live streaming of every courtroom from all subordinate courts, under the High Court of Madhya Pradesh, Jabalpur.The pilot phase will begin shortly at District Court, Jabalpur, and at Tehsil Court, Patan, followed...
+The Madhya Pradesh High Court has announced to commence Courtroom Live Audio Visual Streaming System (CLASS) and Integrated Video Surveillance System (IVSS) project enabling live streaming of every courtroom from all subordinate courts, under the High Court of Madhya Pradesh, Jabalpur.
+The pilot phase will begin shortly at District Court, Jabalpur, and at Tehsil Court, Patan, followed by state-wide project implementation in 3 phases. In a path-breaking move, it has become the first High Court to imbibe the principles of transparency and accountability, as laid down by the Supreme Court in Swapnil Tripathi v. Supreme Court of India by live-streaming proceedings of all its benches as well as the subordinate courts in the State.
+Key Features: 
+•	Usage of video surveillance cameras for live streaming of courtroom proceedings.
+• Video Surveillance system at every court premises and within every courtroom - 24x7 surveillance of gates, courtyard (parking places), building entry points, courtroom entrances, courtrooms, passages & other public assembly points using advanced megapixel IP cameras.
+•	Integration of IVSS, CLASS, and the case tracking and management system currently used at the High Court of Madhya Pradesh.
+• A state-of-the-art Command & Control Center & Data Centre in Jabalpur for alarm monitoring, on-demand video monitoring & audio-visual recording archival along with a "Disaster Recovery" set-up at Indore.
+•	Local as well as District Level Control Rooms for monitoring local/ remote security cameras.
+•	Biometric (Facial) Access Control for Judges' Chambers & Data Centers.
+•	Use of Door Frame & Hand-held Metal Detectors for visitor screening.
+Wireless Secured Network Solution at Madhya Pradesh High Court
+The Madhya Pradesh High Court has also taken the initiative to implement Wireless Secured Network Solution in all the three High Courts and District Courts of Madhya Pradesh. The first phase covered the Jabalpur, Indore, and Gwalior benches by installing 122 Wi-Fi Access Points, Centralized Controller, and AAA secured solutions for User Authentication, Accounting, and User Access.
+In the second phase, the High Court will extend the solution in all the 50 District Courts of Madhya Pradesh with an estimated 1100 secured Access Points. The key features of the secured Wi-Fi network are as follows:
+•	Provide the user with Wi-Fi Access by login and authentication process.
+•	Access control and audit trail mechanism as per industry standard and security norms defined by regulatory bodies.
+•	Web-based management console to monitor and manage Wi-Fi access.
+•	Define rule-based access defining the usage, time duration, Etc.
+•	Restrict access based on URL, application, category, signature, etc.
+•	Customizable reports for Wi-Fi Access Logs.
+•	Enable/disable specific user/system from Wi-Fi Access.
+Presently, the District Court Wi-Fi Network has been set up in 39 District Courts, and at 12 District Courts, the installation of about 500 access points is in progress.
+Read the Press Release 
+
+

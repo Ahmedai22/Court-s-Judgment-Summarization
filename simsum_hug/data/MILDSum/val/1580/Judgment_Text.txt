@@ -1,0 +1,1178 @@
+1.     This writ petition is filed by the petitioners seeking the following
+“(a) Issue a Writ, Order or Direction in the nature of Certiorari
+or any other Writ, Order or Direction of like nature quashing
+and setting aside the letters dated 18.08.2018 and 28.03.2019
+both issued by Respondent No.1 to Petitioner No.1 directing the
+Petitioners that the Claim period in the Bank Guarantee must be
+(b) Issue a Writ, Order or Direction in the nature of Certiorari or
+any other Writ, Order or Direction of like nature quashing and
+setting aside the letter dated 10.02.2017 bearing reference No.
+Legal/Cir2102/BG Opinion and letter dated 05.12.2018 issued
+by Respondent No.2 to all Member Banks in relation to the
+minimum period for lodging a claim with the Bank under the
+(c) Issue a Writ, Order or Direction in the nature of Mandamus
+or any other Writ, Order or Direction of like nature directing the
+Respondents to discard any interpretation of Section 28(b) read
+with Exception 3of the ICA which prescribes a minimum period
+of 12 months of validity, for making a demand by a Creditor of
+a Contract of Guarantee under Section 126 of the ICA issued
+upon a Bank or a Financial Institution as a "surety", where such
+Bank Guarantee has been issued at the instance of the Petitioner
+No.1 as a Principal Debtor or issued for the benefit of the
+2.     Essentially the dispute in the present petition centers around
+interpretation of section 28 of the Indian Contract Act, 1872 (hereinafter
+referred to as the ‘Contract Act’). The grievance of the petitioner is that
+based on an erroneous interpretation of section 28 of the Contract Act,
+respondent bank forces a mandatory and an unalterable claim period of a
+minimum 12 months for the bank guarantee. It is stated that the claim
+period is a time period contractually agreed upon between the creditor and
+principal debtor, which provides a grace period beyond the validity period
+of the guarantee to make a demand on the bank for a default, which
+occurred during the validity period. This claim period may or may not
+even exist in a bank guarantee.
+3.     Section 28 of the Indian Contract Act, 1972 reads as follows:
+“28 Agreements in restraint of legal proceedings, void.-
+(a) by which any party thereto is restricted absolutely from
+enforcing his rights under or in respect of any contract, by the
+usual legal proceedings in the ordinary tribunals, or which
+limits the time within which he may thus enforce his rights, or
+(b) which extinguishes the rights of any party thereto, or
+discharges any party thereto from any liability, under or
+in respect of any contract on the expiry of a specified period so
+as to restrict any party from enforcing his rights,
+is void to that extent.
+Exception 1.—Saving of contract to refer to arbitration dispute
+that may arise.
+This section shall not render illegal a contract, by which two or
+more persons agree that any dispute which may arise between
+them in respect of any subject or class of subjects shall be
+referred to arbitration, and that only the amount awarded
+in such arbitration shall be recoverable in respect of the dispute
+so referred.
+Exception 2.—Saving of contract to refer questions that have
+already arisen.
+Nor shall this section render illegal any contract in writing, by
+which two or more persons agree to refer to arbitration any
+question between them which has already arisen, or affect any
+provision of any law in force for the time being as to references
+to arbitration.
+Exception 3.—Saving of a guarantee agreement of a bank or a
+financial institution.
+This section shall not render illegal a contract writing by which
+any bank or financial institution stipulate a term in a guarantee
+or any agreement making a provision for guarantee for
+extinguishment of the rights or discharge of any party thereto
+from any liability under or in respect of such guarantee or
+agreement on the expiry of a specified period which is not less
+than one year from the date of occurring or non-occurring of a
+specified event for extinguishment or discharge of such party
+from the said liability.
+(i) In Exception 3, the expression “bank” means—
+(a) a “banking company” as defined in clause (c) of Section 5
+of the Banking Regulation Act, 1949 (10 of 1949);
+(b) “a corresponding new bank” as defined in clause (da) of
+Section 5 of the Banking Regulation Act, 1949 (10 of 1949);
+(c) “State Bank of India” constituted under Section 3 of the
+(d) “a subsidiary bank” as defined in clause (k) of Section 2
+of the State Bank of India (Subsidiary Banks) Act, 1959 (38
+(e) “a Regional Rural Bank” established under Section 3 of
+the Regional Rural Bank Act, 1976 (21 of 1976);
+(f) “a Co-operative Bank” as defined in clause (cci) of
+Section 5 of the Banking Regulation Act, 1949 (10 of 1949);
+(g) “a multi-State co-operative bank” as defined in clause
+(cciiia) of Section 5 of the Banking Regulation Act, 1949 (10
+(ii) In Exception 3, the expression “a financial institution”
+means any public financial institution within the meaning of
+Section 4-A of the Companies Act, 1956 (1 of 1956).”
+4.      A perusal of the impugned communication issued by respondent
+No.1/PNB dated 18.08.2018 addressed to the petitioners shows that as per
+respondent PNB a claim period in a bank guarantee which is less than 12
+months would render the claim period void and will effectively increase
+the claim period under the bank guarantee to 3 years under the Limitation
+Act, 1963. The above plea is reiterated by respondent No.1 in its
+communication to the petitioners dated 28.03.2019.
+Respondent No.2 in its communication/circular addressed to the
+banks dated 10.02.2017 states that it would be open for the banks to
+stipulate as a condition precedent that if the claim is not lodged before a
+stipulated time, the bank guarantee shall be revoked or terminated but the
+stipulated date cannot be less than one year in any event. The
+communication dated 05.12.2018 of respondent No.2 which is addressed
+to all the banks also reiterates the above contentions stating that if a bank
+issues a claim period of less than one year on top of the guarantee period
+then such a bank guarantee would not have benefit of Exception 3 to
+section 28 of the Act. Such banks issuing a bank guarantee would stand
+exposed to the period of limitation under the Limitation Act, 1963 which
+would be 30 years in a case when the Government is the guarantee
+beneficiary and 3 years when some other party is the guarantee
+5.     The case of petitioner No.1 is that it is one of the largest
+construction companies of India. Respondent No.1/PNB is a state-owned
+Indian multinational banking and financial services company. Respondent
+No.2 is Indian Banks’ Association which is an association of Indian Banks
+and Financial Institutions created to provide a variety of services to the
+member banks. Respondent No. 3 is RBI. It is pleaded that petitioner No.1
+has a number of contracts with Government bodies and Public Sector
+Undertakings. The petitioner has to normally issue ‘Performance Bank
+Guarantee’ or ‘Advance Bank Guarantee’ in the course of performance of
+the contract. In addition, petitioner No.1 has also to furnish Bid Bonds/Bid
+Security in the form of bank guarantee.
+6.     It is further stated that the Standard Bank Guarantee would usually
+a)     Expiry Period/Validity Period: A bank guarantee would prescribe a
+specific date by which a bank guarantee would expire. This is a time
+determined by the Principal Debtor and the Creditor. The right to invoke
+the bank guarantee is only for a default of the Principal Debtor which
+occurs during the validity period of the bank guarantee.
+b)     Claim Period: This is a time period contractually agreed between
+the Creditor and the Principal Debtor which provides a grace period
+beyond the validity period to make a demand on the bank for a default
+which has occurred during the validity period. A claim period may or may
+not exist in the bank guarantee. The guarantor again has no role to play.
+c)     Enforcement Period: The Enforcement period is a time period
+within which the Creditor can enforce his accrued rights pursuant to a
+demand made by him within the validity period or the claim period before
+a competent court of law. This period, it is stated, is statutorily governed
+by section 28(b) read with Exception 3 to section 28 of the Contract Act.
+In the absence of any such clause in the guarantee, the said period would
+be determined by the Limitation Act, 1963.
+7.     It is pleaded that on a complete misinterpretation of section 28 of
+the Contract Act, respondent No.1 bank insists that the claim period
+should be 12 months. Adverse fallout for the petitioner of such
+interpretation is that the petitioner is unnecessarily made liable to pay
+commission charges for such extended bank guarantee when as per the
+contract between the principal debtor and the creditor, the claim period
+would be much shorter. In addition, the petitioners also become liable to
+maintain collateral security for supporting such extended claim period.
+The extended claim period effects the petitioners’ capability to do business
+by entering into new contracts and effects the fundamental rights of the
+petitioners under Article 19(1)(g) of the Constitution of India.
+8.     The petitioner has pleaded the entire historical background of the
+present section 28 of the Contract Act to support its contentions that the
+impugned communications issued by respondents No.1 and 2, respectively
+are grossly illegal and misinterpret section 28 of the Contract Act and
+cause grave prejudice and damage to the petitioners.
+9.     To support its plea about wrong interpretation of Section 28 of the
+Contract Act by the respondents, reliance is placed on the Ninety-Seventh
+report of the Law Commission of India dated 31.03.1984, the statement of
+objects and reasons for the amendment to section 28 of the Contract Act
+carried out on 08.01.1997 and the amendment to the Contract Act on
+18.01.2013 which added exception 3 to section 28 of the Act. Reliance is
+also sought to be placed on the opinion of Justice B.N.Srikrishna (Former
+Judge of the Supreme Court of India). Reliance is also placed on the
+judgment of a Co-ordinate Bench of this court in the case of Explore
+Computers Pvt. Ltd. v. Cals Ltd & Anr., 2006 (90) DRJ 480.
+10.    Respondent No.1 in their counter affidavit have raised various
+preliminary objections. It is pleaded that this court does not have territorial
+jurisdiction to adjudicate the present petition. It is pointed out that the
+impugned letters dated 18.08.2018 and 28.03.2019 have been issued from
+Mumbai to the petitioner company at Mumbai. It is stated that merely
+because respondent No.1 has its office in Delhi, does not confer territorial
+jurisdiction on this court.
+11.    It is also pleaded that respondent No.1 bank can charge commission
+or retain the margin money beyond the period of the bank guarantee,
+including the claim period. It is pleaded that such terms are a matter of
+contract between the parties and cannot be a subject matter of the present
+writ petition.
+Reliance is also placed on the judgment of the Supreme Court in the
+case of Union of India & Anr. v. Indusind Bank Ltd. & Anr., 2016(9)
+SCC 720 to plead that the issue raised by the petitioners in the present writ
+petition is squarely covered by the aforesaid judgment.
+The pleas and contentions of the petitioners have been denied.
+12.    Respondent No.2 in their counter affidavit have reiterated the
+preliminary objection, namely, that this court has no territorial jurisdiction
+to adjudicate the present petition. It is further pleaded that respondent
+No.2 is not a regulator, authority or government or instrumentality of the
+State and hence it would not fall under writ jurisdiction of this court. It is
+further pleaded that the requirement of minimum claim period of one year
+has been endorsed by the Ministry of Finance, Department of Financial
+Services in consultation with RBI as conveyed in letters dated 23.04.2019
+and 21.05.2019 addressed to respondent No.2. It is further stated that the
+issue as to whether the petitioner can charge commission or retain margin
+money beyond the period of the bank guarantee including the claim
+period, is a matter of contract between the parties and cannot be a subject
+matter of writ petition before this court.
+13.    Respondent No.3 in the counter affidavit relies upon the Master
+Circular dated 01.07.2015 on Guarantees and Co-acceptances and states
+that the same provides an enabling framework for the issuance of bank
+guarantee. It is stated that the bank guarantees are structured according to
+the terms of the agreement. The terms are decided mutually between the
+parties, namely, applicant, bank and the beneficiary. Respondent
+No.3/RBI has not prescribed any terms to be incorporated in the bank
+guarantee. It is reiterated that terms of the bank guarantee to be issued by
+the issuing bank are decided in terms of the respective policy of the
+concerned banks and on the basis of contractual arrangement between the
+14.    I have heard learned senior counsel appearing for the petitioners and
+respondent No.1 and learned counsel appearing for respondent No.2 and
+respondent No.3. I have also perused the written submissions of the
+petitioners and respondents No.1 and 2.
+15.    Learned senior counsel for the petitioners has made the following
+i)     Reference is made to the original section 28 of the Contract Act to
+plead that the courts in India interpreted the said section 28 of the Contract
+Act in a manner that although extinguishment of the remedy or curtailing
+the time period for invoking the remedy was not permitted, however,
+extinguishment of the right itself was held to be not hit by section 28 of
+the Contract Act. In this context reference is made to the judgment of the
+Kerala High Court in the case of Kerala Electrical & Allied Engineering
+Co.Ltd. v. Canara Bank & Others, 1980 SCC OnLine Ker 28. Reliance is
+also placed on the Ninety-Seventh Report of the Law Commission of India
+dated 31.03.1984 to plead that the Law Commission had expressed its
+adverse opinion on the said position regarding section 28 of the Contract
+Act and suggested appropriate amendments in the said statutory provision.
+Keeping in view the above stand of the Law Commission, section 28 of
+the Contract Act was amended on 08.01.1997.
+ii)    Reliance is also placed upon the report of the Expert Committee
+headed by Sh.T.R.Andhyarujina, Senior Advocate and Former Solicitor
+General of India. It is pleaded that based on the above report, on
+18.01.2013 Exception 3 was also introduced in section 28 of the Contract
+Act. It is pleaded that Exception 3 was introduced on the request of the
+banks and by virtue of the same, the banks and financial institutions could
+curtail the period of limitation to institute proceedings before a court of
+law to a period of 12 months rather than the mandatory period of 3 years
+or 30 years as stipulated in the Limitation Act. Hence, it is pleaded that
+Exception 3 to section 28 of the Contract Act has nothing to do with the
+claim period to be stipulated in the bank guarantee. Exception 3 relates
+only to the period available to institute proceedings before a court of law.
+iii)   Reliance is also placed on the RBI Circulars dated 01.07.2013 and
+01.07.2015 where a model guarantee bond is prescribed which does not
+give any claim period in the model form. It is reiterated that Exception 3
+to section 28 of the Contract Act does not deal with the claim period at all.
+iv)    Reliance is placed upon para 14 of the counter affidavit of
+respondent No.1 to state that respondent No.1 admits that Exception 3 to
+section 28 of the Contract Act only governs the limitation period for filing
+of a suit before a court of law. Reliance is also placed on the counter
+affidavit of respondent No.3/RBI.
+v)     Reliance is also placed on the judgment of a Co-ordinate Bench of
+this court in the case of Explore Computers Pvt. Ltd. v. Cals Ltd & Anr.
+(Supra) to claim that the interpretation of section 28 as elaborated and
+contended by the petitioners was duly accepted by the Co-ordinate Bench
+in the said judgment. The said judgment, it is urged, is binding on this
+16.    Learned senior counsel for respondent No. 1 has raised the
+(i)    He has raised a number of preliminary objections. The first
+preliminary objection is that this court does not have territorial jurisdiction
+to adjudicate the present writ petition. It has been pleaded that the head
+office of the petitioner company is in Mumbai. Letters dated 18.08.2018
+and 28.03.2019 which have been challenged have been issued by the
+Mumbai Branch of respondent No. 1 to the petitioner company, also based
+in Mumbai. Further, the office of respondent No. 2 is also in Mumbai
+whose letters dated 10.02.2017 and 05.10.2018 have been issued from the
+said office. Hence, it is pleaded that there is no essential or integral cause
+of action that has arisen within the territorial jurisdiction of this court.
+Reliance is placed on judgment of a Five-Judge Bench of this court in the
+case of Sterling Agro Industries Ltd. vs. Union of India & Ors., 2011
+(124) DRJ 633 (FB) and judgment of the Supreme Court in the case of
+Eastern Coalfields Ltd. and Ors. vs. Kalyan Banerjee, (2008) 3 SCC 456
+to support the above submission regarding lack of territorial jurisdiction of
+this court.
+(ii)   It is further urged that the issues raised in the present writ petition
+are purely contractual issues between the petitioner and respondent No. 1.
+Hence, no writ petition is maintainable as no public law element is
+involved. It is pleaded that essentially, what the petitioner is aggrieved
+from is the decision of respondent No. 1 to retain margin money and
+charge commission for a period of not less than one year after expiry of
+the validity period of the bank guarantee issued by respondent No. 1. This
+is a purely contractual issue and the petitioner has no legal remedy in such
+matters as claimed. It is stressed that no prayer for issuance of a writ of
+mandamus can be entertained to include or exclude a clause in the
+(iii)  It is further strongly urged that no fundamental or legal right of the
+petitioner stands infringed by the said act of respondent No. 1.
+(iv)   On merits, it has been stressed that Exception 3 to Section 28 of the
+Contract Act entitles respondent No. 1 in law to stipulate a term in the
+bank guarantee making provisions for extinguishment of the right or
+discharge of any party thereto from any liability under or in respect of the
+guarantee on expiry of a specified period which is not less than one year
+from the date of occurring or non-occurring of a specified event for
+extinguishment or discharge of such party from the said liability. Hence,
+respondent No. 1 is entitled to insist on a claim period of one year.
+(v)    It is also pleaded that respondent No. 1 Bank is entitled to
+retain/claim margin money and charge commission from a party on whose
+behalf the bank guarantee was issued for the period the said respondent
+Bank remains financially exposed. It is pleaded that the said stand of
+respondent No. 1 bank is purely a commercial decision of the bank. Any
+party including the petitioner, if it finds the said stand of respondent No. 1
+unacceptable can always decline to accept insertion of any such term in
+the bank guarantee and approach any other bank or financial institution
+who is inclined to accept the terms and conditions offered by the
+Reliance is also placed on the counter-affidavit filed by RBI where
+it has been stated that the RBI recognises the autonomy of banks to take
+commercial decisions in this regard.
+It has been strongly stressed that there is no bar in law for
+respondent No. 1 bank to fix a period (enforcement period) which should
+not be less than one year in the bank guarantee. It is stressed that the
+respondent Bank can for the said period of enforcement, in view of the
+provision contained in Exception 3 to Section 28 of the Contract Act,
+charge commission and retain the margin money for the bank guarantee as
+the bank remains financially exposed during this period.
+(vi)   Reliance is placed on the judgment of the Supreme Court in the case
+of Union of India & Anr. vs. Indusind Bank & Anr. (Supra) to plead that
+the clauses in question would be valid. It has been stressed that even if it is
+assumed for a moment that the observations of the Supreme Court in para
+34 of the said judgment are obiter, it is pleaded that the same would
+remain binding on this court.
+17.    Learned counsel for respondent No. 2 has pleaded as follows:-
+(i)    He firstly pleads that no writ petition is maintainable on account of
+the impugned circulars/communications dated 10.02.2017 and 15.12.2018
+which have been issued by respondent No. 2 to its members. No legal
+right   of   the   petitioner  stands  infringed    on   account of        these
+communications. It has been stressed that there is no contract between the
+petitioner and respondent No. 2.
+(ii)   It has further been pleaded that the opinion of respondent No. 2 is
+not conclusive and binding on the members. It is at the discretion of
+member banks to follow whatever procedure they deem appropriate. It is
+purely a contractual matter relating to fixation of terms and conditions on
+which a bank guarantee is to be given by the member banks. The courts
+would normally not interfere in such matters.
+18.    Learned counsel for RBI has essentially reiterated the pleas given in
+the counter-affidavit.
+19.    Learned senior counsel for the petitioners in his rejoinder arguments
+(i)    He has stressed that the claim period is a contractual issue between
+parties and is not governed by Exception 3 to Section 28 of the Contract
+Act. The respondents should refrain from issuing circulars to the contrary.
+(ii)   On the issue of territorial jurisdiction of this court, it has been
+reiterated that the head office and registered office of respondent No. 1 is
+in Delhi. Further, it is pleaded that a perusal of the impugned
+communications dated 18.08.2018 and 28.03.2019 of respondent No. 1
+would show that these letters have been issued at the instance and on the
+decision of the Headquarter, Law Division of respondent No.1 which is
+situated in Delhi. Hence, the decision is taken in Delhi which is only
+sought to be communicated by the impugned documents. Reliance is also
+placed on internal circulars dated 29.04.2017 and 09.08.2017 of
+respondent No. 1 to show that the decision in question has been taken by
+respondent No. 1 in Delhi. The cause of action, it is stated, has clearly
+arisen in Delhi.
+Further, the erroneous interpretation of Section 28(b) of the
+Contract Act is being implemented by the banks across the country
+including in Delhi. The petitioner is executing several contracts in Delhi
+and the impact of the impugned communications is being felt in Delhi.
+20.    I may first deal with the preliminary objection raised by learned
+senior counsel for respondent No. 1 and learned counsel for respondent
+No.2 regarding the lack of territorial jurisdiction of this court to deal with
+the present writ petition. It is true that the impugned communications
+dated 18.08.2018 and 28.03.2019 issued by respondent No. 1 have been
+issued by the concerned branch of respondent No. 1 in Mumbai and are
+addressed to petitioner No. 1 in Mumbai. Similarly, the circulars dated
+10.02.2017 and 05.12.2018 have been issued by respondent No. 2 from its
+Mumbai office.
+21.    I may look at the legal position in this regard. Reference may be had
+to the decision of the Full Bench of Five Judges of this court in the case of
+M/s. Sterling Agro Industries Ltd. vs. Union of India &Ors. (supra). The
+factual position in that case was that the petitioner industry was situated in
+the State of M.P. The initial order was passed by the Assistant
+Commissioner of Customs, District Bhind, M.P. The appellate order was
+also passed by the concerned Commissioner at Indore, M.P. The
+Revisional Authority was situated in Delhi. In those facts, the court held
+“33.       In view of the aforesaid analysis, we are inclined to
+modify the findings and conclusions of the Full Bench in New India
+Assurance Company Limited (supra) and proceed to state our
+(a) The finding recorded by the Full Bench that the sole cause
+of action emerges at the place or location where the
+tribunal/appellate authority/revisional authority is situate and
+the said High Court (i.e., Delhi High Court) cannot decline to
+entertain the writ petition as that would amount to failure of the
+duty of the Court cannot be accepted inasmuch as such a finding
+is totally based on the situs of the tribunal/appellate
+authority/revisional authority totally ignoring the concept of
+forum conveniens.
+(b) Even if a miniscule part of cause of action arises within the
+jurisdiction of this court, a writ petition would be maintainable
+before this Court, however, the cause of action has to be
+understood as per the ratio laid down in the case of Alchemist
+(c) An order of the appellate authority constitutes a part of cause
+of action to make the writ petition maintainable in the High
+Court within whose jurisdiction the appellate authority is
+situated. Yet, the same may not be the singular factor to compel
+the High Court to decide the matter on merits. The High Court
+may refuse to exercise its discretionary jurisdiction by invoking
+the doctrine of forum conveniens.
+(d) The conclusion that where the appellate or revisional
+authority is located constitutes the place of forum conveniens as
+stated in absolute terms by the Full Bench is not correct as it
+will vary from case to case and depend upon the lis in question.
+(e) The finding that the court may refuse to exercise jurisdiction
+under Article 226 if only the jurisdiction is invoked in a
+malafide manner is too restricted / constricted as the exercise of
+power under Article 226 being discretionary cannot be limited
+or restricted to the ground of malafide alone.
+(f) While entertaining a writ petition, the doctrine of forum
+conveniens and the nature of cause of action are required to be
+scrutinized by the High Court depending upon the factual
+matrix of each case in view of what has been stated in Ambica
+Industries (supra) and Adani Exports Ltd. (supra).
+(g) The conclusion of the earlier decision of the Full Bench in
+New India Assurance Company Limited (supra) “that since the
+original order merges into the appellate order, the place where
+the appellate authority is located is also forum conveniens” is
+not correct.
+(h) Any decision of this Court contrary to the conclusions
+enumerated hereinabove stands overruled.”
+22.    Reference may also be had to the judgment of the Supreme Court in
+the case of Eastern Coalfields Ltd. and Ors. vs. Kalyan Banerjee,
+(supra). The facts of that case were that the respondent therein was an
+employee of the petitioner in Jharkhand. The services of the respondent
+were terminated in Jharkhand. A writ petition was filed in the Calcutta
+“6. The jurisdiction to issue a writ of or in the nature of
+mandamus is conferred upon the High Court under Article 226
+of the Constitution of India. Article 226(2), however, provides
+that if cause of action had arisen in more than one court, any of
+the courts where part of cause of action arises will have
+jurisdiction to entertain the writ petition.
+7. “Cause of action”, for the purpose of Article 226(2) of the
+Constitution of India, for all intent and purport, must be
+assigned the same meaning as envisaged under Section 20(c) of
+the Code of Civil Procedure. It means a bundle of facts which
+are required to be proved. The entire bundle of facts pleaded,
+however, need not constitute a cause of action as what is
+necessary to be proved is material facts whereupon a writ
+petition can be allowed.
+8. The question to some extent was considered by a three-Judge
+Bench of this Court in Kusum Ingots & Alloys Ltd. v. Union of
+India [(2004) 6 SCC 254] stating: (SCC p. 261, para 18)
+“18. The facts pleaded in the writ petition must have a nexus
+on the basis whereof a prayer can be granted. Those facts
+which have nothing to do with the prayer made therein
+cannot be said to give rise to a cause of action which would
+confer jurisdiction on the Court.”
+9. As regards the question as to whether situs of office of the
+appellant would be relevant, this Court noticed decisions of this
+Court in Nasiruddin v. STAT [(1975) 2 SCC 671] and U.P.
+Rashtriya Chini Mill Adhikari Parishad v. State of U.P. [(1995)
+4 SCC 738] to hold: (Kusum Ingots case, SCC p. 263, paras 26-
+“26. The view taken by this Court in U.P. Rashtriya Chini
+Mill Adhikari Parishad [(1995) 4 SCC 738] that the situs of
+issue of an order or notification by the Government would
+come within the meaning of the expression ‘cases arising’ in
+Clause 14 of the (Amalgamation) Order is not a correct view
+of law for the reason hereafter stated and to that extent the
+said decision is overruled. In fact, a legislation, it is trite, is
+not confined to a statute enacted by Parliament or the
+legislature of a State, which would include delegated
+legislation and subordinate legislation or an executive order
+made by the Union of India, State or any other statutory
+authority. In a case where the field is not covered by any
+statutory rule, executive instructions issued in this behalf
+shall also come within the purview thereof. Situs of office of
+Parliament, legislature of a State or authorities empowered to
+make subordinate legislation would not by itself constitute
+any cause of action or cases arising. In other words, framing
+of a statute, statutory rule or issue of an executive order or
+instruction would not confer jurisdiction upon a court only
+because of the situs of the office of the maker thereof.
+27. When an order, however, is passed by a court or tribunal
+or an executive authority whether under provisions of a
+statute or otherwise, a part of cause of action arises at that
+place. Even in a given case, when the original authority is
+constituted at one place and the appellate authority is
+constituted at another, a writ petition would be maintainable
+at both the places. In other words, as order of the appellate
+authority constitutes a part of cause of action, a writ petition
+would be maintainable in the High Court within whose
+jurisdiction it is situate having regard to the fact that the order
+of the appellate authority is also required to be set aside and
+as the order of the original authority merges with that of the
+appellate authority.
+11. In Om Prakash Srivastava v. Union of India [(2006) 6 SCC
+“12. The expression ‘cause of action’ has acquired a
+judicially settled meaning. In the restricted sense ‘cause of
+action’ means the circumstances forming the infraction of the
+right or the immediate occasion for the reaction. In the wider
+sense, it means the necessary conditions for the maintenance
+of the suit, including not only the infraction of the right, but
+also the infraction coupled with the right itself.
+Compendiously, as noted above, the expression means every
+fact, which it would be necessary for the plaintiff to prove, if
+traversed, in order to support his right to the judgment of the
+court. Every fact, which is necessary to be proved, as
+distinguished from every piece of evidence, which is
+necessary to prove each fact, comprises in ‘cause of action’.
+(See Rajasthan High Court Advocates' Assn. v. Union of
+13. In view of the decision of the Division Bench of the
+Calcutta High Court that the entire cause of action arose in
+Mugma area within the State of Jharkhand, we are of the
+opinion that only because the head office of the appellant
+Company was situated in the State of West Bengal, the same by
+itself will not confer any jurisdiction upon the Calcutta High
+Court, particularly when the head office had nothing to do with
+the order of punishment passed against the respondent.”
+23.    What follows from the above is that under Article 226 (2), an order
+or writ can be issued by a high court in relation to territories within which
+the cause of action wholly or in part arises. The question as to whether a
+high court has territorial jurisdiction to entertain a writ petition must be
+answered on the basis of the averments made in the petition. While
+entertaining a writ petition, the doctrine of forum convenience and the
+nature of cause of action are also required to be scrutinized by the high
+24.    I may now look at the facts of this case. Respondent No. 1 has
+issued two impugned communications dated 18.08.2018 and 28.03.2019.
+Both the communications are merely communicating the views of HO-
+Law Division of respondent No. 1 which is based in Delhi. Essentially, the
+decision which is impugned in the said communication has been taken in
+Delhi and merely communicated by the Mumbai office of respondent
+No.1. Further, as rightly stated by the petitioner, the decisions as
+communicated by respondent No. 1 on 18.08.2018 and 28.03.2019 have
+an effect on the operations of petitioner No. 1 throughout India including
+its operations in Delhi.
+25.    Similar is the position regarding the communications issued by
+respondent      No.2    dated     10.02.2017 and    05.12.2018.    Both       the
+communications have been circulated to all the members of respondent
+No.2, some of them are also based in Delhi.
+26.    The decision taken by respondent No. 1 in Delhi allegedly causes
+infraction of rights of the petitioner. The infraction of the rights of the
+petitioner also occurs in Delhi. In view of the above facts, it is manifest
+that the part of cause of action has arisen within the territory of this court.
+This court would have territorial jurisdiction to adjudicate the present writ
+27.    I will now deal with the issue relating to interpretation of section 28
+of the Contract Act. I may first look at the historical facts pertaining to
+section 28 of the Contract Act. The said provision, as it is stood prior to its
+“28. Agreements in restraint of legal proceedings, void.—Every
+agreement, by which any party thereto is restricted absolutely
+from enforcing his rights under or in respect of any contract,
+by the usual legal proceedings in the ordinary tribunals, or
+which limits the time within which he may thus enforce his
+rights, is void to that extent.”
+28.    The interpretation of the said original section 28 of the Contract Act
+was dealt with by a Division Bench of the Kerala High Court in the case
+of Kerala Electrical & Allied Engineering Co.Ltd. v. Canara Bank &
+Others(supra). The main defence raised by the bank/defendant in the said
+case was that the plaintiff had lost its rights under the bank guarantee as it
+did not institute a suit within a period of six months from the date of the
+expiry of the period of the bank guarantee. The said clause was noted in
+para 2 of the said judgment, which reads as follows:
+“2. Clause 6 of Ext. A1 bank guarantee dated 16-1-1970 reads:
+“This guarantee will remain in force for a period of ONE YEAR
+from the date here" of and unless a suit or action to enforce
+claim under the guarantee is filed against us within six months
+from the date of expiry of all your rights under the said
+guarantee shall be forfeited and shall be relieved and discharged
+from all liability thereunder.”
+“4. S. 28 makes two kinds of agreements void. What we are
+concerned in this case is the second of the two kinds, namely,
+an agreement which limits the time within which a party thereto
+may enforce his rights under or in respect of a contract by the
+usual legal proceedings in the ordinary tribunals. It is the
+limiting of the time within which the rights are to be enforced
+that is made void. So, it goes without saying that rights to be
+enforced under the contract should continue to exist even
+beyond the shorter period agreed for enforcing those rights, to
+make such an agreement void under the section. If, for example,
+beyond the shorter period agreed upon the rights under the
+contract cannot be kept alive, no limiting of the time to enforce
+the rights under the contract arises and hence the agreement
+putting a time limit to sue will not be hit by S. 28. So, a
+condition in a contract that the rights thereunder accruing to a
+party will be forfeited or released if he does not sue within a
+time limit specified therein will not offend S. 28. This is
+because, as per the contract itself, the rights accrued to the party
+cease to exist by the expiry of the limited period provided for in
+the contract. In such a case, in effect, there is no limiting of the
+time to sue. So, an agreement which provides for a
+simultaneous relinquishment of rights accrued and the remedy
+to sue for them will not be hit by S. 28. But, at the same time,
+an agreement relinquishing the remedy only, by providing that
+if a suit is to be filed that should be filed within a time limit—
+the time limit being shorter than the period of limitation under
+Limitation Act—will be hit by S. 28. This is because the rights
+accrued continue even beyond the time limit as the same is not
+extinguished. In such a case, there is really a limiting of the
+time to sue prescribed by the Limitation Act. In the instant case,
+it is clear from clause 6 of Ext. A1 guarantee extracted earlier in
+this judgment that the liability of the bank will be alive only for
+a period of six months after the expiry of the period of duration
+of the guarantee. It is also specified in clause 6 that the
+plaintiffs rights under the guarantee will also be forfeited by the
+end of that six months. There is an extinction of the right of the
+plaintiff under the contract and a discharge of the defendants
+from liability. So, the time limit imposed in clause 6 cannot be
+hit by S. 28 of the Contract Act. The findings of the trial court
+are perfectly legal and valid. In coming to the above
+conclusions we find support in certain decisions cited at the bar
+which we will presently refer to. In Shakoor Gany v. Hinde
+&Co. (AIR. 1932 Bom. 330) the High Court of Bombay
+considered a contention whether a condition in a bill of lading
+that the claim if not brought within one year of delivery will be
+barred, will be hit by S. 28 of the Indian Contract Act, 1872.
+The suit in that case was brought after the one year period
+"the effect of the incorporation of Art. 3, Cl, 6, into the bills
+of lading in this case is that the rights of the holders have
+been extinguished in respect of the claim made in this case.
+As therefore the plaintiffs have no rights to enforce, there is
+in my view no question of the remedy being barred, and S.
+28, Contract Act does not assist the plaintiffs.”
+29.    Hence, the court held that limiting the time within which the rights
+are to be enforced is void provided rights to be enforced under the contract
+continue to exist even beyond the shorter agreed period for enforcing the
+rights. If beyond the shorter period agreed between the parties, the rights
+under the contract are not kept alive, no limiting of the time to enforce the
+rights under the contract arises and such an agreement putting a time limit
+to sue will not be hit by section 28 of the Act.
+30.    The Law Commission of India in his Ninety-Seventh Report dated
+31.03.1984 dealt with the aforesaid interpretation of section 28 of the
+Contract Act. The Law Commission took up the matter suo moto. The
+Commission noted the then position regarding section 28 of the Contract
+“2.4. We may, in the first place, refer to a few cases illustrating
+the operation of the present position. In a case which went up to
+the Supreme Court, a clause in an insurance policy provided
+that all benefits under the insurance policy shall be forfeited if a
+suit was not brought within a specified period. The clause was
+held to be valid. The judgement expressly approves High Court
+decisions which had taken a similar view, including the oft cited
+Bombay case on the subject.
+There are decisions of many High Courts taking a similar view.
+These cases hold that it is only when a period of
+limitation is curtailed that section 28 of the Contract Act comes
+into operation. As was observed in a Bombay case "It [section
+28] does not come into operation when the (contractual) term
+spells out an extinction of the right of the plaintiff to sue or
+spells out the discharge of the defendants from all liability in
+2.5. The reasoning underlying these decisions is that section
+28 is aimed at prohibiting agreements which could operate only
+so long as the rights were in existence. The section is aimed
+(b) covenants not to sue after a limited time.
+A condition in a contract providing for a forfeiture of all
+benefits unless an action is brought within a specified period
+does not therefore violate the section. As per the contract itself,
+the rights that might have accrued to the party cease to exist on
+the expiry of the period provided in the contract. What is hit by
+section 28 is an agreement relinquishing the remedy only, by
+providing that if a suit is to be filed, then it should be filed
+within the specified time limit (the time limit being shorter than
+the period of limitation provided by the Limitation Act). Under
+such a clause, though the rights accrued continue even beyond
+the time limit and are not extinguished, yet there is a limiting of
+the time to sue as prescribed by the Limitation Act. It is such a
+clause that is regarded as void by reason of section 28. But if
+the rights themselves are (under the contractual clause as widely
+worded) extinguished, then there is no violation of limitation
+law. How far this distinction is supportable or workable is a
+matter to which we shall presently address ourselves.
+3.1. The very brief summary of the existing legal position given
+in the pre ceding paragraphs shows that a distinction is assumed
+to exist between "remedy" and "right" and that distinction is the
+basis of the present position under which a clause barring a
+remedy is void, but a clause extinguishing the rights is valid.
+Now, this approach may be sound in theory. In practice,
+however, it causes serious hardship and might even be abused,
+so as to defeat the cause of economic justice. Such contractual
+clauses are usually inserted where the parties are not in an equal
+bargaining position. By giving a clause in an agreement that
+shape and character of a provision extinguishing the right (and
+not merely affecting the remedy), a party standing in a superior
+bargaining position can achieve something which could not
+have been achieved by merely barring the remedy. In other
+words, under the present law, a more radical and serious
+consequence—the abrogation of rights—becomes permissible,
+while a less serious device-the extinction of the mere remedy—
+becomes impermissible. Prima facie, such a position appears to
+be highly anomalous. By providing for the extinction of a right,
+the parties are actually creating a law of prescription of their
+own, which is a far more important matter than merely creating
+a law of limitation of their own.
+If the law does not allow the latter consequence to be
+imposed by agreement, a fortiori, the law should not allow the
+former consequence also to be imposed by agreement.”
+5.1. We now come to the changes that are needed in the present
+law. In our opinion, the present legal position as to prescriptive
+clauses in contracts cannot be-defended as a matter of justice,
+logic, commonsense or convenience. When accepting such
+clauses, consumers either do not realise the possible adverse
+impact of such clauses, or are forced to agree because big
+corporations are not prepared to enter into contracts except on
+these onerous terms. “Take it or leave it all", is their general
+attitude, and because of their superior bargaining power, they
+naturally have the upper hand. We are not at present, dealing
+with the much wider field of "standard form contracts" or
+"standard" terms. But confining ourselves to the narrow issue
+under discussion, it would appear that the present legal position
+is open to serious objection from the common man's point of
+view. Further, such clauses introduce an element of uncertainty
+in transactions which are entered into daily by hundreds of
+persons.
+5.2. It is hardly necessary to repeat all that we have said in the
+preceding Chapters about the demerits of the present law.
+Briefly, one can say that the present law, which regards
+prescriptive clauses as valid while invalidating time limit
+clauses which merely bar the remedy, suffers from the
+(a) It causes serious hardship to those who are economically
+disadvantaged and is violative of economic justice.
+(b) In particular, it harms the interests of the consumer,
+dealing with big corporations.
+(c) It is illogical, being based on a distinction which treats
+the more severe flaw as valid, while invalidating a lesser
+(d) It rests on a distinction too subtle and refined to admit of
+easy application in practice. It thus, throws a cloud on the
+rights of parties, who do not know with certainty where they
+stand, ultimately leading to avoidable litigation.
+5.3. On a consideration of all aspects of the matter, we
+recommend that section 28 of the Indian Contract Act, 1872,
+should be suitably amended so as to render invalid contractual
+clauses which purport to extinguish, on the expiry of a specified
+term, rights accruing from the contract. Here is a suggestion for
+re-drafting the main paragraph of section 28.
+Revised Section 28, main paragraph, Contract Act as
+(a) by which any party thereto is restricted absolutely from
+enforcing his rights under or in respect of any contract by
+the usual legal proceedings in the ordinary tribunals, or
+(b) which limits the time within which he may thus enforce his
+(c) which extinguishes the rights of any party thereto under or
+in respect of any contract on the expiry of a specified period
+or on failure to make, a claim or to institute a suit or other
+legal proceeding within a specified period, or
+(d) which discharges any party thereto from any liability under
+or in respect of any contract in the circumstances specified
+in clause (c), is void to that extent.”
+31.    The Commission noted the settled legal position about old Section
+28 of the Contract Act including the aforesaid judgment of the Kerala
+High Court in Kerala Electrical & Allied Engineering Co.Ltd. v. Canara
+Bank & Others(supra). The Commission concluded that by providing for
+the extinction of a right, the parties are actually creating a law of
+prescription of their own, which is a far more important matter than
+merely creating a law of limitation of their own. The Commission
+recommended suitable amendment to Section 28 of the Contract Act to
+render invalid contractual clauses that extinguish on the expiry of a stated
+period the rights accruing from the contract.
+32.    It is in this background that on 08.01.1997 section 28 of the
+Contract Act was amended. The Statement of Objects and Reasons for
+“The Law Commission of India has recommended in its 97th
+Report that Section 28 of the Indian Contract Act, 1872 may be
+amended so that the anomalous situation created by the existing
+section may be rectified. It has been held by the courts that the
+said Section 28 shall invalidate only a clause in any agreement
+which restricts any party thereto from enforcing his rights
+absolutely or which limits the time within which he may
+enforce his rights. The courts have, however, held that this
+section shall not come into operation when the contractual term
+spells out an extinction of the right of a party to sue or spells out
+the discharge of a party from all liability in respect of the claim.
+What is thus hit by Section 28 is an agreement relinquishing the
+remedy only i.e. where the time limit specified in the agreement
+is shorter than the period of limitation provided by law. A
+distinction is assumed to exist between remedy and right and
+this distinction is the basis of the present position under which a
+clause barring a remedy is void, but a clause extinguishing the
+rights is valid. This approach may be sound in theory but, in
+practice, it causes serious hardship and might even be abused.
+It is felt that Section 28 of the Indian Contract Act, 1872 should
+be amended as it harms the interests of the consumer dealing
+with big corporations and causes serious hardship to
+those who are economically disadvantaged.
+The Bill seeks to achieve the above objects.”
+33.    The newly enacted section 28 of the Contract Act after the
+“28. Agreements in restraint of legal proceedings, void. -
+(a)By which any party thereto is restricted absolutely from
+enforcing his rights under or in respect of any contract, by the
+usual legal proceedings in the ordinary tribunals, or which
+limits the time within which he may thus enforce his rights; or
+(b)Which extinguishes the rights of any party thereto, or
+discharges any party thereto from any liability, under or in
+respect of any contract on the expiry of a specified period so as
+to restrict any party from enforcing his rights, is void to that
+extent.
+Exception 1.—Saving of contract to refer to arbitration
+dispute that may arise. This section shall not render illegal a
+contract, by which two or more persons agree that any dispute
+which may arise between them in respect of any subject or class
+of subjects shall be referred to arbitration, and that only the
+amount awarded in such arbitration shall be recoverable in
+respect of the dispute so referred.
+Exception 2.—Saving of contract to refer questions that have
+already arisen. Nor shall this section render illegal any contract
+in writing, by which two or more persons agree to refer to
+arbitration any question between them which has already arisen,
+or affect any provision of any law in force for the time being as
+to references to arbitration.”
+34.    Union of India, thereafter, constituted an Expert Committee for
+Recommending Changes in the Legal Framework Concerning Banking
+System which was headed by Sh.T.R.Andhyarujina, Senior Advocate and
+Former Solicitor General of India on 15.02.1999. The Committee noted
+the effect of amended section 28 of the Contract Act as incorporated by
+“The amendment, therefore, cuts at the root of the
+problem of making fine distinctions between the
+extinguishment of a right which does not cut down the statutory
+period of limitation and the extinguishment or a forfeiture of a
+remedy which does cut down the statutory period of limitation.
+The amendment equates extinguishing of a right with the
+extinguishing of the remedy if there is an agreement which
+extinguishes the right under the contract on the expiry of a
+specified period.”
+35.    The Committee noted the apprehensions due to the amendment
+expressed by the banks and the financial institutions and quoted from the
+Second Narasimham Committee Report as follows:
+“8.10 Banks have expressed a fear that they can no longer limit
+their liabilities under the Bank Guarantees to a specified period
+and they will have to carry their Bank Guarantee commitments
+for long periods as outstanding obligations. Banks also
+apprehend that in case of Bank Guarantee to the Government,
+notwithstanding stipulation in the bank guarantee that it should
+be in force within a specified period, banks will be forced to
+treat in their books their liability under the Bank Guarantee to
+the Government as outstanding till the limitation period of 30
+years available to the Government lapses. This will also force
+banks to continue to hold the securities taken for bank
+guarantees especially the funds deposited as margins, for long
+periods, and also severely curtail issue of fresh bank guarantee
+for their customers. If a bank chooses to continue the issuance
+of bank guarantees to its customers, it will have to reflect in its
+books the progressively increasing levels of bank guarantee
+obligations, thereby inflating the risk weighted assets of the
+banks without any real increase in the banking assets. This will
+pre-empt the available capital to meet the capital adequacy
+requirement and will also over stretch the exposure to the
+customers beyond acceptable levels.
+8.11 Government departments do not generally return the
+original guarantee papers to the banks after the purpose is
+served. With the aforesaid amendment in force, banks will have
+to carry their liabilities under bank guarantee till 30 years.
+Unless, the original guarantee is received back from the
+beneficiary Government departments, the Banks will not be able
+to round off all their entries till the limitation period of 30 years
+Bank's guarantee business may be, severely hampered as a
+result with attendant implications for the economy as a whole. It
+would appear that the whole issue needs to be re-examined and
+bank guarantees exempted from the purview of the above
+amendment.”
+“This Committee is of the view that in the face of the amended
+provision of Section 28, it would be now difficult to sustain a
+prescriptive clause, howsoever worded, in a bank guarantee
+which limits the period of banks and financial institutions
+liability to a period lesser than the normal period of limitation.
+In case of guarantees to Government this period is as large as 30
+years. The distinction between extinguishment of right and of
+remedy would no longer be available to banks and financial
+institutions since the amendment has been made with the
+declared objective of doing away with that distinction. Reliance
+on Court judgements e.g. Food Corporation of India Vs. New
+India Assurance Co.Ltd. (1994) 3 SCC 324 prior to amendment
+would not be of any help since the amendment sets at naught
+the distinction made by these judgements.
+....... Accordingly, a reasonable period has to be provided to the
+creditor to enforce his rights under the guarantee after the
+happening of the specified event. The Committee believes that a
+period of one year would be reasonable for banks and financial
+institutions.
+The Committee is of the view that such an amendment
+may be made by incorporating a suitable proviso in Section 28
+of the Contract Act itself, on the following lines:-
+"Provided that an agreement, being a guarantee issued by
+a banking company or a financial institution, shall not be
+deemed to be void by reason of the fact that such agreement
+contains a stipulation for extinguishment of the rights, or
+discharge of, any party thereto from any liability under or in
+respect of such agreement on the expiry of a specified period
+which is not less than one year from the date of occurring or
+non occurring of a specified event for extinguishment or
+discharge of such party from the said liability.”
+36.    It is, thereafter, on 18.01.2013 that the Parliament added Exception
+3 to section 28 of the Contract Act, which reads as follows:
+“Exception 3 - Saving of a guarantee agreement of a bank or a
+This section shall not render illegal a contract in writing by
+which any bank or financial institution stipulate a term in a
+guarantee or any agreement making a provision for guarantee
+for extinguishment of the rights or discharge of any party
+thereto from any liability under or in respect of such guarantee
+or agreement on the expiry of a specified period which is not
+less than one year from the date of occurring or non-occurring
+of a specified event for extinguishment or discharge of such
+party from the said liability.”
+37.    What follows from the aforesaid historical narration pertaining to
+section 28 of the Contract Act is that the said provision i.e. section 28 of
+the Contract Act prior to the amendment provided that a clause limiting
+the time within which the rights are to be enforced, is void, if the rights to
+be enforced under the contract continued to exist even beyond the shorter
+period agreed for enforcing the rights. If beyond the shorter period agreed
+between the parties for enforcing the rights, the rights under the contract
+are not kept alive, then such an agreement putting a time limit to sue was
+not hit by section 28 of the Contract Act.
+The Law Commission in the above noted report adversely
+commented on the said provision and held that prima facie such a position
+as noted above appears to be highly anomalous. By providing for
+extinction of a right, the parties are actually creating a law of prescription
+of their own, which is a far more important matter than merely creating a
+law of limitation of their own. Hence, the Law Commission recommended
+amendments to section 28 of the Contract Act. The amendment was
+accordingly carried out on 08.01.1997.
+The newly added section 28 of the Contract Act was enacted to do
+away with the earlier distinction between remedy and right i.e. a clause
+barring the remedy only was void but a clause extinguishing a right was
+valid. The said clause now provides that the beneficiary of the bank
+guarantee i.e. creditor would have time to approach the appropriate court
+for enforcement of his rights under the bank guarantee in terms of the
+provision of the Limitation Act i.e. 3 years for private parties and 30 years
+for government parties.
+In    this  background,     the   T.R.    Andhyarujina      Committee
+recommended that the said period be reduced to one year for enforcing the
+rights under the bank guarantee after happening of a specified event.
+Thereafter, Exception 3 to section 28 of the Contract was added in 2013.
+The above narration of the historical facts leading to the present
+section 28 of the Contract Act clearly demonstrates that Exception 3 to
+section 28 of the Contact Act deals with the rights of a creditor to enforce
+his rights under the bank guarantee after happening of a specified event.
+38.    The above view is fortified by a judgment of a Co-ordinate Bench
+of this court in Explore Computers Pvt. Ltd. v. Cals Ltd & Anr.(supra).
+Relevant part of the judgement reads as follows:
+“17. The plaintiff also seeks to challenge the last clause of the bank
+guarantee which limits the rights of the plaintiff to file a suit/claim
+only up to the claim period as the same is alleged to be void in view
+of the provisions of Section 28 of the Indian Contract Act, 1872.
+The plaintiff thus claims the right to file a suit in accordance with
+the Limitation Act, 1963 as the rights granted by the Limitation Act
+cannot be abridged by the provisions made in the bank guarantee.
+The plaintiff has thus filed a suit for recovery of the amount
+mentioned aforesaid along with interest at the rate of 36 per cent per
+annum from 13.10.1998 till the date of realization.
+55. In my considered view it is not open for defendant No. 2 to
+contend that if any suit or claim is not filed within one month of the
+expiry of the bank guarantee, the right of the plaintiff to institute
+any legal proceedings itself is extinguished. Such a plea would fly
+in the face of the amended Section 28 as defendant No, 2 cannot be
+discharged from the liability nor can the rights of the plaintiff be
+extinguished by inclusion of the clause providing so. I am thus of
+the considered view that to the extent there is restriction on any suit
+or claim being filed by the plaintiff beyond a period of one month
+from the expiry of the bank guarantee, the said clause would not
+prohibit the plaintiff from instituting the suit as it would be barred
+by the provisions of the amended Section 28 of the Contract Act.
+56. The question however remains whether the same principal
+would apply in case of the invocation of the bank guarantee which
+is distinct from a suit or claim to be filed by the plaintiff on account
+of refusal of defendant No. 2 to pay the amount under the bank
+guarantee. That is the first question mentioned above. In my
+considered view, Section 28 would have no play in such a case
+where matter is only relating to the terms of the guarantee to the
+extent it requires a party to invoke the guarantee during the life time
+of the guarantee. The sequitar to this would be to consider whether
+the plaintiff did invoke the bank guarantee within this period
+specified. The answer to this question depends on the interpretation
+of the terms of the bank guarantee in view of the two dates
+stipulated and the different phraseologies used for the same. The
+observations of the Supreme Court in State of Maharashtra v. Dr.
+M.N. Kaul case (supra) do make it clear that it is the terms under
+which the guarantor has bound himself which have to be seen and in
+case of ambiguity when all other rules of construction fail, the
+guarantee must be interpreted contra preferentum. On a reading of
+the bank guarantee, in my considered view, there is really no
+ambiguity if the guarantee is read as a whole. The last paragraph of
+the bank guarantee is being once again re-produced for purposes of
+“Notwithstanding anything contained herein above, our liability
+under this guarantee shall be limited to an amount of Rs 10.00
+lacs (Rupees ten lacs only), and shall remain valid up to
+12.01.1997 unless suit to enforce any claim under the guarantee is
+filed against us on or before 12.02.1997 all the rights of Explore
+Computers Private Limited shall be relieved and discharged from
+all liabilities there under.”
+57. The said clause, a ‘notwithstanding’ clause, makes it clear that
+irrespective of what had been stated prior to clause (a) in the bank
+guarantee, the liability of the bank under the guarantee was limited
+to the amount specified and was to remain valid only up to dates
+specified which was 22.02:1997 (extended up to 11.07.1997 by Ex
+D-3). The second qualification was that the suit to enforce any such
+claim under the guarantee was to be filed on or before 22.03.1997
+(extended up to 11:08.1997 as per ExD-3). Thus two things had to
+be done: a) the claim under the bank guarantee had to be lodged
+prior to a particular date arid b) the suit had to be filed before
+another date one month thereafter. It is only the second part of the
+guarantee which would be hit by Section 28 of the Contract Act and
+the first part would remain alive. In fact this is the view even
+expressed in the Food Corporation of India v. National Insurance
+Company Case (supra). It may be noticed that the Supreme Court in
+the said judgment has taken note of the earlier judgment in the Food
+Corporation of India v. New India Insurance Company Limited,
+AIR 1994 SC 1889 where it was held that the restriction contained
+in the insurance agreement that a person to be indemnified shall
+have no right after six months from termination of the principal
+contract does not mean that the suit to enforce insurance has to be
+filed within six months. Only the payment had to be made to the
+insurer within six months and it is a condition precedent for filing
+the suit. In the facts and circumstances, there is similarity between
+the views expressed in the Food Corporation of India Case (supra)
+and the present case.”
+39.    Hence, the court held that any restriction on any suit or claim to be
+filed by the plaintiff beyond a specified period where such a provision
+prohibits the plaintiff from filing a suit contrary to the Limitation Act
+would be barred under section 28 of the Contract Act. (This judgment was
+passed before insertion of Exception 3 of Section 28 of the Contract Act.)
+40.    It is clear that Exception 3 to Section 28 of the Contract Act deals
+with curtailment of the period for the creditor to approach the
+court/tribunal to enforce his rights. It does not in any manner deal with the
+claim period within which the beneficiary is entitled to lodge his claim
+with the bank/guarantor.
+41.    The above interpretation is also accepted by respondent No. 1 in the
+counter-affidavit. Reference may be made to para 14 of the Counter
+affidavit of respondent No.1/PNB, which reads as follows:
+“14. That the contents of Para 14 are not denied. It is submitted
+that averment made by the petitioner in para 13 is itself in
+contradiction to Para 14. It is further submitted that the
+beneficiary can raise claim under the Bank Guarantee, for any
+default occurred during its currency, within the validity period
+of Bank Guarantee or claim period and in the event the same is
+not paid or honored by the Promisor (Bank), inter- alia, for the
+reason that the Bank Guarantee has not been invoked as per the
+terms and conditions of the Bank Guarantee or the Principal
+Debtor has obtained the stay from the Court, in such eventuality
+the beneficiary of a Bank Guarantee can raise claim against the
+Bank as well as the Principal Debtor within a period of 03 years
+(in case of Private Party) and within a period of 30 years (in
+case of Government Department). In such eventuality the Bank
+would also be required to make provision in its balance sheet
+towards contingent liability. It is to address one of such issue,
+the legislature have inserted Exception -3 to Section 28 of the
+Indian Contract Act, 1872, which inter alia, provides that in
+case a term is provided for in the Guarantee and Agreement by
+the Bank or Financial Institution that in case no claim is filed
+before the Court of Law within a period, which is not less than
+12 months, from the date of occurring or non occurring of the
+specified event the liability of the Bank shall get extinguished
+and the Bank shall stand discharge from its liability under the
+Bank Guarantee. Therefore, providing of such term cannot be
+alleged to be contrary to law. On the contrary providing of such
+term in the Contract would be in accordance with the provisions
+contained in Section 28 of the Contract Act, 1872.”
+42.    Clearly, respondent in the counter affidavit admits that Exception 3
+to section 28 of the Contract Act deals with a clause in a bank guarantee to
+the effect that in case no claim is filed before the court of law within a
+period which is not less than 12 months from the date of occurring or non-
+occurring of the specified event, the liability of the bank shall get
+extinguished. Such a term is not contrary to law. There is a clear
+admission that Exception 3 to section 28 of the Contact Act deals with the
+period within which the beneficiary is to approach an appropriate court to
+raise its claim. Exception 3 does not deal with the claim period i.e. the
+extended period within which the beneficiary can invoke the bank
+guarantee after expiry of the validity of the bank guarantee for a default
+that occurred during the validity period.
+43.    I may deal with another plea strenuously urged by the learned senior
+counsel for respondent No. 1. Reliance was placed on the judgment of the
+Supreme Court in the case of Union of India & Anr. vs. Indusind Bank
+& Anr. (supra) to urge that the said judgment supports the plea of
+respondent No. 1 about interpretation of section 28 of the Contract Act.
+The Supreme Court in the said judgment held as follows:-
+“18. What emerges on a reading of the Law Commission Report
+together with the Statement of Objects and Reasons for the
+Amendment is that the Amendment does not purport to be
+either declaratory or clarificatory. It seeks to bring about a
+substantive change in the law by stating, for the first time, that
+even where an agreement extinguishes the rights or discharges
+the liability of any party to an agreement, so as to restrict such
+party from enforcing his rights on the expiry of a specified
+period, such agreement would become void to that extent. The
+amendment therefore seeks to set aside the distinction made in
+the case law up to date between agreements which limit the
+time within which remedies can be availed and agreements
+which do away with the right altogether in so limiting the time.
+These are obviously substantive changes in the law which are
+remedial in nature and cannot have retrospective effect.
+24. On a conspectus of the aforesaid decisions, it becomes clear
+that Section 28, being substantive law, operates prospectively,
+as retrospectivity is not clearly made out by its language. Being
+remedial in nature, and not clarificatory or declaratory of the
+law, by making certain agreements covered by Section 28(b)
+void for the first time, it is clear that rights and liabilities that
+have already accrued as a result of agreements entered into
+between parties are sought to be taken away. This being the
+case, we are of the view that both the Single Judge [Union of
+India v. Bhagwati Cottons Ltd., 2008 SCC OnLine Bom 217]
+and the Division Bench [Indusind Bank Ltd. v. Union of India,
+2011 SCC OnLine Bom 1972] were in error in holding that the
+amended Section 28 would apply.
+26. At this point, it is necessary to set out the exact clause in the
+bank guarantees in the facts of the present cases. One such
+“… Unless a demand or claim under this guarantee is made
+against us within three months from the above date (i.e. on or
+before 30-4-1997), all your rights under the said guarantee
+shall be forfeited and we shall be relieved and discharged
+from all liabilities hereunder.”
+27. A similar clause contained in another bank guarantee reads
+“… Provided however, unless a demand or claim under this
+guarantee is made on us in writing within 3 months from the
+date of expiry of this guarantee in respect of export of
+416.500 MT 2450 bales of raw cotton, we shall be discharged
+from all liability under this guarantee thereafter.”
+28. A reading of the aforesaid clauses makes it clear that neither
+clause purports to limit the time within which rights are to be
+enforced. In other words, neither clause purports to curtail the
+period of limitation within which a suit may be brought to
+enforce the bank guarantee. This being the case, it is clear that
+this Court's judgment in Food Corporation of India v. New
+India Assurance Co. Ltd. [(1994) 3 SCC 324] would apply on
+all fours to the facts of the present case.
+34. Considering that the respondents' first argument has been
+accepted by us, we do not think it necessary to go into the finer
+details of the second argument and as to whether the aforesaid
+clauses in the bank guarantee would be hit by Section 28(b)
+after the 1997 Amendment. It may only be noticed, in passing,
+that Parliament has to a large extent redressed any grievance
+that may arise qua bank guarantees in particular, by adding an
+Exception (iii) by an amendment made to Section 28 in 2012
+with effect from 18-1-2013. Since we are not directly concerned
+with this amendment, suffice it to say that stipulations like the
+present would pass muster after 2013 if the specified period is
+not less than one year from the date of occurring or non-
+occurring of a specified event for extinguishment or discharge
+of a party from liability. The appeals are, therefore, dismissed
+with no order as to costs.”
+44.    Much reliance was placed on para 34 of the aforesaid judgment by
+learned senior counsel for respondent No.1 to justify the stand taken in the
+impugned circulars. It was strongly urged that the said observation of the
+Supreme Court was binding on this court. A perusal of para 28 of the
+judgment clearly shows that the court interpreted the relevant clauses of
+the bank guarantee holding that neither of the clauses seeks to limit the
+time within which the right is to be enforced, namely, in other words
+neither of the clauses purports to curtail the period of limitation within
+which a suit may be brought to enforce the bank guarantee. The said
+clauses were not dealing with the claim period i.e. the grace period beyond
+the validity of the bank guarantee to make a demand on the bank for a
+default which had occurred during the validity period. The above
+judgment is of no help to respondent No. 1.
+45.    I may now again look at the impugned communications dated
+18.08.2018 and 28.03.2019 issued by respondent No. 1 Bank. Relevant
+portion of the communication dated 18.08.2018 reads as follows:-
+This has reference to your request for waiver of
+mandatory 1year claim period in Bank Guarantee relying on
+opinion of M/s Juris Corp, law firm, in this respect
+Both M/s Shardul Amarchand Mangaldas and Legal
+Retainer, after studying the matter in detail including the said
+opinion of M/s Juris Corp, the aforesaid judgement of Hon'ble
+Supreme Court and the said legal opinion of Justice (Retd.) Shri
+B. N. Srikrishna, have in their considered opinion endorsed a
+standpoint that any stipulation in a BG limiting the claim period
+to less than 12 months shall be void under section 28 of the
+Indian Contract Act 1872. In order to avail the protection
+provided under Exception 3 to Section 28 of Contract Act, the
+claim period in BG must be for at least 12 months.
+As such, we reiterate our opinion in this matter that any
+period of claim in a BG which is less than 12 months shall be
+void in law. Also, in a legal dispute once such a clause in BG
+providing a claim period of less than 12 months is declared
+void, it may effectively increase the claim period under BG to
+three years under Limitation Act, which shall be even more
+disadvantageous to the Bank.”
+46.    A somewhat similar view is taken in the communication dated
+47.    Reference may also be had to Circular dated 05.12.2018 of
+respondent No.2, relevant para of which reads as follows;-
+“4.      In view of the foregoing, it will be a safer course in the
+interest of the banks, though not obligatory under law, to issue
+every guarantee (regardless of the guarantee period) with a
+minimum claim period of one year on top of the guarantee period
+so as to avail benefit of Exception 2 to Section 28 of Indian
+48.    It is clear that respondent No. 1 is erroneously of the view that they
+are in law mandated to stipulate a claim period of 12 months in the bank
+guarantee failing which the clause shall be void under Section 28 of the
+Contract Act. A perusal of para 15 of the writ petition shows that a claim
+period has been explained as a time period contractually agreed between
+the creditor and the principal debtor which provides a grace period beyond
+the validity period of the guarantee to make a demand on the bank for a
+default which has occurred during the validity period. Respondent No. 1
+does not deny the above averments of the petitioner in the counter-
+affidavit. As noted above, Section 28 of the Contract Act does not deal
+with the said claim period. It deals with right of the creditor to enforce his
+rights under the bank guarantee in case of refusal by the guarantor to pay
+before an appropriate court or tribunal.
+49.    In view of the above communications dated 18.08.2018 and
+28.03.2019 as issued by respondent No. 1 and the circulars dated
+10.02.2017 and 05.12.2018 to the extent that they reproduce erroneous
+interpretation of Exception 3 to Section 28 of the Contract Act are clearly
+vitiated. It is ordered accordingly.
+50.    I may now deal with another plea raised by the respondents,
+namely, that the issue of prescribing the bank charges and the period for
+retention of security are matters of contract and this court cannot interfere
+in such contractual matters especially as they are not contrary to any rules
+or regulations or stipulation framed by RBI.
+51.    I may only note that in the writ petition, no relief is sought by the
+petitioner pertaining to the bank charges to be charged by the banks or the
+duration for which the bank may seek to maintain collateral security.
+Hence, this court has not in any manner dealt with the said aspects.
+52.    The petition is accordingly disposed of as above. All pending
+applications, if any, are also disposed of.

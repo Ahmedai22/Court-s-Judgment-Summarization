@@ -1,0 +1,225 @@
+1. The legal fraternity has been comfortable with the status quo of physically attending
+Court every day for aeons. The advent of the Covid-19 pandemic has propelled us out
+of this inertia into a virtual world. Till we are in a position to fully resume physical
+filings and hearings, E-filings and hearings through Video Conferencing are likely to
+play a significant role.
+2. Having ourselves been at the receiving end of certain technological glitches, the
+undersigned Advocates-on-Record have conducted a Survey with the aim of
+collecting quantifiable information to address the problems faced by practicing
+Advocates in respect of the virtual / digital systems in place. The instant Report is the
+end-product of this exercise.
+3. At the outset, we clarify that the mandate of the Survey was not to determine whether
+or not physical hearings or filings should resume, but to find ways and means to
+improve the digital systems in place at present. We hope that the suggestions and
+feedback received from the participants of the Survey are duly considered so as to
+ensure that we have more robust and efficient virtual systems in place.
+4. The Survey, which was split into 3 Sections i.e. E-filing, Mentioning & Listing and
+Video Conferencing, was designed and developed by the undersigned Advocates-on-
+Record with assistance from friends within the legal fraternity. The questions were
+formulated in a manner so as to have a maximum of Yes / No or Multiple-Choice
+Answers with a view to facilitate data collection and analysis. The questions marked
+with a red asterisk were the only ones which were mandatory. The complete
+questionnaire is appended to this Report as ‘Appendix – I’.
+5. The link for the Survey was circulated widely to Advocates through e-mail and
+WhatsApp. The data was consolidated using a Google Sheet linked to the Survey,
+without any human interference. After the survey was concluded, we manually
+perused the responses and eliminated 3 responses, which we felt were spurious.
+6. In total, we received 227 genuine responses, which comprise:
+7. A consolidated list of all the Advocates who participated in the Survey is appended
+to this Report as ‘Appendix – II’. The above responses were received from the
+participants during the period between 13th – 20th July, 2020. We feel that the above
+sample [comprising Advocates predominantly practicing in Delhi] is broad and large
+enough to be truly reflective of the views of a wide section of Advocates with varying
+years of experience at the Bar.
+because of technical issues.
+9. 98 out of 166 [59%] Advocates stated that they preferred E-filing to Physical Filing.
+However, a significant portion [41%] of Advocates had faced some problems with
+the E-filing mechanism. By and large, Advocates feel that the interface is not user-
+friendly, unnecessarily requires filling in of too many details at the Advocates’
+end, and that the support from the Registry is inadequate. Advocates are also
+anxious about the Diary Numbers not being generated immediately on E-filing,
+unlike a physical filing. This leads to uncertainty for the Advocate and the Client
+about whether the filing has been acknowledged by the Registry and whether this
+would cause further delay in the process. Only 4 participants actually expressed
+“satisfaction” with the existing E-filing system.
+10. Participants also gave feedback that they found the defect curing system for E-filing
+to be tedious, and that most clerks are struggling with the same. They expressed
+concerns regarding filing of voluminous petitions, as the process of uploading the
+petition and the printing of the same by the Registry caused a lot of delay. Advocates
+also found the Caveat filing process to be cumbersome. On some occasions, the
+Caveat was not registered at all or the name of the AoR was not reflected in the Cause
+List. This implied that the AoR was neither notified of the listing of the case nor was
+the link for the Virtual Court hearing shared with her / him, leading, among others, to
+adverse orders being passed in some cases.
+most efficient.
+12. The only significant information which needs to be manually filled in the Delhi High
+Court E-filing System is the details of the parties. The entire case file can thereafter
+be uploaded as a single PDF file, after being appropriately bookmarked. The Diary
+Number is generated immediately. Unlike the Hon’ble Supreme Court, where each
+page on which a defect is cured has to be separately uploaded, in the Delhi High Court,
+the entire final PDF file, after curing defects is uploaded again in the Re-filing
+Section. The entire process, it has been suggested, is simpler and faster than what is
+currently employed by the Hon’ble Supreme Court.
+13. The responses to the following question i.e. “Have any of your fresh matters been
+listed after 23.03.2020?” indicate that a large number of the Advocates [41.8%] were
+able to get their matters listed only after filing a Mentioning Application indicating
+some urgency.
+within this time frame.
+There has been a significant delay of 10 days or more in listing of the cases of a large
+proportion of participants i.e. 34%. On some occasions, this delay has been caused
+despite filing a Mentioning Application, which has remained pending for several days.
+mentioning.
+16. The feedback received indicates that the support from the Registry for mentioning
+and listing of matters is inadequate and that calls to the helpline numbers often go
+unanswered. It is also felt that a time limit ought to be set for allowing or
+rejecting a Mentioning Application. Advocates also called for greater consistency
+and transparency in procedures as well as better co-ordination inter se between
+different Sections of the Registry. There is also a concern that only fresh matters are
+considered urgent, whereas pending matters (after notice matters) are not being listed.
+17. 92.5% of the 227 participants in the Survey have taken part in hearings through
+Video Conferencing in the Hon’ble Supreme Court. While a small majority i.e.
+113 out of 210 [53.8%] participants stated that they found the link sharing mechanism
+to be satisfactory, a substantial proportion [46.2%] did not. The current system
+involves sharing the link on a WhatsApp Group specifically created each day for each
+Virtual Court comprising the concerned AoRs. The primary concern expressed by
+most participants is that only a single person is responsible for co-ordinating the
+entire link sharing exercise, which leads to him being overburdened and
+unavailable to address grievances. A significant number of Advocates have
+experienced some stress owing to the link being shared at the last minute,
+especially if they had to forward the link to a Senior Advocate / Arguing Counsel.
+Further, Advocates who had filed Caveats sometimes did not receive the link, making
+it difficult for them to appear.
+18. An overwhelming majority of 75.7% [159 out of 210] participants stated that
+they had faced several technical issues during hearings conducted on the VIDYO
+App on a regular basis. All of these technical complications, when taken
+cumulatively, deny an effective opportunity of hearing, which is a valuable
+fundamental right.
+19. Advocates were routinely either unable to log in or were automatically logged
+out during Court proceedings, probably due to bandwidth / capacity issues with the
+App. They also faced difficulties in re-joining the hearing if they were logged out for
+some reason. Participants also complained that they were completely subject to
+the mercy of the Control Room and, on several occasions, were not unmuted in
+time, and hence were unable to present their arguments. The situation is even
+more chaotic in batch matters where a large number of Advocates are appearing.
+Some Advocates have also stated that they have been disconnected by the
+Control Room too early or while orders were being dictated in their cases.
+20. Adverse orders have been passed against as many as 19 participants in their absence,
+when they were unable to connect due to a technical problem. Further, Advocates
+who had matters listed before different Virtual Courts on the same day, found it
+difficult to keep track of, and attend to, their matters unless they owned multiple
+devices.
+21. Concerns were also raised regarding the audio / video quality, both qua the
+arguing Advocate and the Bench. On account of the fact that the screen sharing
+feature on the VIDYO App is not very effective, Advocates are, by and large,
+precluded from showing certain documents or Judgments to the Bench, which could
+ordinarily have been handed across in Court. Participants also felt that there ought to
+be a viewing room for Advocates or litigants who just wished to observe Court
+proceedings, without participating in them.
+connecting via the link shared.
+While Advocates routinely post the problems faced by them on the WhatsApp
+Group created for link sharing, there is no response. Participants have tried using
+the chat window on the VIDYO App to convey any problems to the Control Room,
+but even these have not been attended to. A significant number of Advocates [60 of
+158 i.e. 38%] have stated that they have been unable to lodge any complaint because
+they were unaware of an Authority for grievance redressal.
+hearing.
+most popular choice amongst Advocates.
+25. Based on the feedback received from the participants in the Survey, we have compiled
+the following broad suggestions.
+26. Advocates should not be required to manually fill in so many details while E-filing.
+These details are already available in the Petition, and providing them separately is
+not only repetitive but also a waste of time. Instead, the entire Petition along with
+Annexures can be uploaded as a single document, and only party details can be
+required to be manually filled, as is done by the Delhi High Court. The system will
+have to be equipped to accept / upload large file sizes.
+27. An option ought to be provided to upload the entire Petition again, after curing
+defects, instead of single pages.
+28. Diary Number generation can be computerized so that an AoR receives the same
+immediately upon successfully completing an E-filing.
+29. Care should be taken to register Caveats immediately and reflect the name of the AoR
+for the Caveator in the Cause List.
+30. The Registry staff is required to be adequately trained in the technology and
+modalities of E-filing. More dedicated helpline numbers with adequate staff should
+be made available to provide support and respond to queries of Advocates.
+31. Different modes of payment, such as Internet Banking and UPIs [such as PayTM,
+Google Pay etc.], which are ordinarily available for online payments on several
+websites, should be made available for E-filing as well. Printable receipts should be
+provided immediately upon payment of the requisite fees.
+32. Previously, a Petition which has been numbered and verified would ordinarily get
+listed within 5 working days in due course. While it is understandable that there has
+been a reduction in the number of Registry Staff and also in Benches due to the
+pandemic, rules and procedures can be put in place to list fresh Matters and fresh
+Applications in pending matters in regular course within a reasonable time (preferably
+within 7 working days). This will eliminate the need to file a Mentioning Application
+in every matter and also the uncertainty associated with a case / application not being
+listed. Mentioning Applications can then be strictly restricted to matters with some
+genuine urgency.
+33. Some time limit ought to be fixed for deciding a Mentioning Application. It is
+suggested that Mentioning Applications preferably be decided within 24 hours and an
+outer limit of 48 hours be fixed. If rejected, reasons should be provided. A procedure
+ought to be devised to permit oral mentioning before an appropriate Virtual Court.
+34. The Registry Staff is required to be adequately trained to reduce delay in the listing
+process. More dedicated helpline numbers with adequate staff should be made
+available.
+35. The link for hearings for different Virtual Courts can either be published along with
+the Cause List or sent to the concerned AoRs by automated e-mails sufficiently in
+advance. This can, in the long run, eliminate the time and resources consumed in
+creating WhatsApp Groups for different Virtual Courts every day for this purpose,
+and also reduce the anxiety caused due to receipt of links at the last minute.
+36. The responses suggest that the VIDYO App has proved to be problematic in practice.
+An alternative software application, such as Cisco Webex, which the participants have
+found to be more efficient and preferable, may be considered for usage by the Hon’ble
+Supreme Court. Cisco Webex and some other software applications have a separate
+viewing room, which enable Advocates and litigants to observe court proceedings,
+without participating in them. Alternatively, it was also suggested that the Hon’ble
+Supreme Court explore the possibility of having a separate software application
+developed which integrates the best practices across various applications. In any
+event, the VIDYO App, it was felt, needs a complete overhaul and the technology /
+bandwidth issues need to be immediately improved to ensure that Advocates do not
+routinely face problems with logging in, being automatically logged out and poor
+audio / video quality.
+37. There should be separate designated IT / support staff for each Virtual Court, whose
+phone numbers should be made available to the Advocates. These officers should be
+constantly available on telephone to address and resolve any technical issues faced
+during the hearing.
+38. The Control Room staff must be trained and sensitized to be able to better handle this
+new form of hearing. They should be cautious about when it is appropriate to
+disconnect an Advocate, so that they are not prematurely logged out. There have been
+a lot of complaints regarding the Control Room not unmuting / enabling video access
+in a timely manner. Either Advocates can be given control to enable their audio / video
+access in time for their cases, or utmost care has to be taken by the Control Room
+staff to unmute the concerned Advocates promptly so that they are not prevented from
+presenting their arguments. The Control Room should be alert and trained to read and
+respond to the messages sent in the chat window.
+39. While passovers are being granted by most of the Hon’ble Benches in case of any
+technical difficulty, as a matter of practice, cases could be called out slowly, with a
+brief time gap, to be able to assess whether the concerned Advocate is unavailable or
+is present but has not been unmuted. If the Advocate is still unable to appear at the
+end of the Court session, perhaps the matter can be adjourned. In no circumstance
+should an adverse order be passed if the concerned Advocate was unable to appear
+due to a technical problem.
+40. Cases, particularly large batch matters, can be heard in a staggered fashion with fixed
+time slots to prevent overcrowding. A proper system and order for presentation of
+arguments can be devised for such batch matters, where a large number of Advocates
+are appearing.
+41. A feature enabling Advocates to open links for different Virtual Courts in different
+tabs on the same device could be included. This will be of great assistance to Senior
+Advocates and other Advocates who may have multiple matters in different Courts
+on the same day, as everybody cannot be expected to have multiple personal devices
+to deal with such an eventuality.
+42. Consultation between the arguing and the briefing Counsel or passing of instructions
+from a litigant to a lawyer can be tricky during the course of a virtual hearing. The
+possibility of a separate and private discussion room which can be used by the lawyers
+/ clients during the hearing can be explored. Alternatively, the hearing can be paused
+briefly or the matter passed over, while the lawyers consult or obtain instructions.
+43. Upon a thorough analysis of the survey data, we have found that while a significant
+number of participant Advocates appear to have used the prevailing systems of E-
+filing and Virtual Hearing of the Hon’ble Supreme Court, they are discouraged by the
+numerous technical complications faced while using the same. In fact, we have also
+received feedback from some participants that they have deferred getting their fresh
+matters listed for hearing [except in case of an urgency] because of the stress and
+anxiety regarding whether the virtual hearing would be effective.
+44. While we acknowledge the proactive steps that have been taken by the Hon’ble
+Supreme Court in these unprecedented times, and are very grateful for the same, the
+Survey Data indicates that there is considerable scope for change and improvement
+in the existing platforms. If appropriate steps are taken immediately, we can have

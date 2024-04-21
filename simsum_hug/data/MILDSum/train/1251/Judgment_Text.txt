@@ -1,0 +1,145 @@
+There is an Office objection in this case to the
+effect that a Criminal Appeal will not be maintainable and
+instead, it should be a Criminal Revision. Before dealing with
+the   Office  objection,   it would    be  necessary   to  brief ly
+appreciate the facts of this ca se.
+2.   The petitioner has preferred the present Criminal Appeal in a
+case which is pending before the Court of Special Judge,
+Scheduled Castes/Scheduled Tribes (Prevention of Atrocities)
+Act, 1989, (for short ‘SC/ST Act’ ), which case also includes the
+offences punishable under the provisions of the SC/ST Act.
+The charges were framed against the appellants herein under
+Sections 307, 302 read with Section 34 of the I.P.C. as also
+under Section 3(2)(v) of the SC/ST Act. The appellants wanted
+to challenge the order framing charges against them and
+therefore, they filed the present Criminal Appeal in light of
+Section 14A of the SC/ST Act . Section 14A (1) of the SC/ST
+Act being relevant for the controversy involved in this ca se is
+“14A.   Appeals    –  (1) Notwithstanding anything
+contained in the Code of Criminal Procedure, 1973 (2 of
+1974), an appeal shall lie, from any judgment, sentence
+or order, not being an interlocutory order, of a Special
+Court or an Exclusive Special Court, to the High Court
+both on facts and on law. ”
+Thus, Section 14A(1) of the SC/ST Act starts with a non
+obstante clause to the effect that notwithstanding anything
+under the Code of Criminal Procedure, an appeal shall lie
+from   the  judgment,    sentence,  or  order,   not being   an
+interlocutory order of a Special Court.
+3. In another case, where the accused were similarly situated,
+they preferred a Criminal Revision instead of an appeal
+U/s.14A of the SC/ST Act, parties bei ng Salman Mansuri Vs.
+The State of M.P. , reported in Criminal Revision No.349/2021 .
+In that case, the Office had taken an objection that it would a
+Criminal Appeal U/s.14A of the SC/ST Act which should have
+been filed and not a Criminal Revision. The said objection was
+examined    by  a  co-ordinate   Bench   of this  Court, which
+examined Section 14A and thereafter concluded that framing
+of a charge is an interlocutory order and therefore, a revision
+would lie. Thereafter, the objection so raised by t he Office
+was ignored and the case was proceeded with . Relying upon
+the said order dated 03.03.2021 passed in Criminal Revision
+No.349/21, the Office had taken an objection in the present
+case that as the appellants herein have preferred this appeal
+against the order framing charges passed by the Special
+Judge, SC/ST Act, a Criminal Revision would lie, in light of
+the   order passed   by  the   co -ordinate   Bench    in  Cri.Rev.
+No.349/2021 dated 03.03.2021.
+4. Section 397 of the Cr.P.C. empowers the High Court and the
+Sessions Court to call for the record of the trial court to
+exercise power of revision U/s.397(1) . It would be apt to
+reproduce Section 397 of the Cr.P.C., which reads as under: -
+“397. Calling for records to exercise powers of revision:
+(1) The High Court or any Sessions Judge may call for and
+examine the record of any proceeding before any inferior
+Criminal Court situate within its or his local jurisdiction for
+the purpose of satisfying itself or himself as to the
+correctness, legality or propriety of any finding, sentence
+or order,- recorded or passed, and as to the regularity of
+any proceedings of such inferior Court, and may, when
+calling for such record, direct that the execution of any
+sentence or order be suspended, and if the accused is in
+confinement, that he be released on bail or on his own
+bond pending the examination of the record .
+Explanation.- All Magistrates whether Executive or Judicial,
+and whether exercising original or appellate jurisdiction,
+shall be deemed to be inferior to the Sessions Judge for the
+purposes of this sub- section and of section 398.
+(2) The powers of revision conferred by sub - section (1)
+shall not be exercised in relation to any interlocutory order
+passed in any appeal, inquiry, trial or other proceeding.
+(3) If an application under this section has been made by
+any person either to the High Court or to the Sessions
+Judge, no further application by the same person shall be
+entertained by the other of them .”
+5. Sub-Section   (2)  of Section 397     of  the   Cr. P.C.  clearly
+prohibits the power of revision being exercised in relation
+to any interlocutory order passed in any appeal, inquiry,
+trial, or other proceeding. Therefore, if the framing of
+charge is an interlocutory order, then the powers o f High
+Court or the Sessions in exercising revisional power would
+be barred in view of Section 397(2) of Cr.P.C.
+6.       As    to     what    constitutes    an   interlocutory   order   has
+consistently      attracted   the   attention   of  the  courts.  In
+Amarnath        and    others    Vs.   State    of   Haryana 1,  the
+Supreme Court was examining if an order summoning an
+accused to stand trial was an interlocutory order , not
+amenable to a revision? In a complaint case, the Magistrate
+had directed the police to investigate in to the allegations in
+the     complaint.     Police   filed   a   report   absol ving  the
+prospective      accused    perso ns.    Magistrate   acce pted  the
+report and dismissed the complaint. On revision t o the
+Court     of  Sessions    by   the   co mplainant,   the  case   was
+remanded       to   the  Magistrate     for  further  enquiry.   The
+Magistrate st raight away issued summo ns to the accused
+who approached the High Court in revision against the
+summons issued against them. The High C ourt dismissed
+the    revision    in limine holding that the         order   of the
+summoning was an interlocutory order and therefore not
+amenable to revision in the light of s. 397(2) Cr.P .C. The
+supreme court held in paragraph 6 “It seems to us that
+the term “interlocutory order” in Section 397(2) of
+the 1973 Code has been used in a restricted sense
+and not in any broad or artistic sense . It merely
+denotes orders of a purely interim or temporary
+nature which do not decide or touch the important
+rights or liabilities of the parties . Any order which
+substantially affects the right        of the accused       or
+decides certa in rights of the parties cannot be said to
+be an interlocutory order so as to bar a revision to
+the    High Court    against   that  order,   because    that
+would be against the very object which formed the
+basis for insertion of this particular provision in
+Section 397 of the 1973 Code . Thus, for instance,
+orders    summoning      witnesses,     adjourning    cases,
+passing orders for bail, calling for reports and such
+other steps in aid of the pending proceeding, may no
+doubt amount to interlocutory orders against which,
+no revisio n would lie under Section 397(2) of the
+1973 Code. But orders which are matters of moment
+and which affect or adjudicate the rights of the
+accused or a particular aspect of the trial cannot be
+said to be interlocutory order so as to be outside the
+purview of the revisional jurisdiction of the High
+7.       In   Madhu    Limaye    Vs. State   of   Maharashtra 2,    the
+Supreme Court while examining the true import of the
+phrase “interlocutory order” in s. 397 (2) Cr.P.C held that
+the same cannot be restrictive in the sense , it cannot be
+construed that all order that are       not final order are
+interlocutory for if such an interpretation is resorted to , it
+would negate the legislative intent in giving power of
+revision to the High Court and the Sessions Court. The
+Supreme Court placed order s that are not final orders but
+still amenable to the re visional jurisdiction u /s. 397 Cr.P.C ,
+in the category of “intermediate orders ”.
+8.  Thus, any order that affects the rights of the parties cannot
+be deemed to be an in terlocutory order , but the same
+would be an intermediate order . An order framing charges
+affects the right of an accused, where it compels an
+accused to stand trial in a case where he can show that the
+material in the chargesheet do not even reveal a prima
+facie               case         against him and   that  he deserve s to be
+discharged. Therefore, an order framing charges is not an
+interlocutory order and so, u/s. 14A of the S C/ST Act, an
+appeal would lie .
+9.  The objections raised by the office is rejected. List on

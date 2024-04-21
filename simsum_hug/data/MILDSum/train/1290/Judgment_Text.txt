@@ -1,0 +1,161 @@
+1.    Registry is directed to number the afore-noted application.
+2.    Considering the fact that there has been only a short delay in filing the
+present appeal, application is allowed and the delay is condoned.
+3.    Disposed of.
+4.    Petitioner’s Indian Patent Application No. 2170/DEL/2008 for the
+invention “Text Selection Using a Touch Sensitive Screen of a Handheld
+Mobile Communication Device” [hereinafter, “subject invention”], was
+filed on 16th September, 2008, claiming priority since 26th October, 2007
+from a corresponding European application.1 First Examination Report was
+issued on 28th August, 2014, to which, Appellant responded on 13th March,
+2015. Hearing was scheduled after four years on 23rd October, 2019,
+whereafter, vide order dated 23rd June, 2020, the Assistant Controller of
+Patents and Designs refused the application under section 15 of the Patents
+Act, 1970 [hereinafter, “impugned order”].
+5.      As nearly three-quarters of the twenty-year patent term have expired,
+the Appellant is confronted with a scenario in which, even if the questioned
+order were to be nullified, their battle continues. They must re-engage with
+the patent office to establish their invention’s validity in order to secure a
+patent.
+6.      Having set out the chronology of events, let us briefly take note of
+subject invention and ‘grounds’ for rejection in the impugned order. Subject
+invention, comprising of 23 claims, is a method and system for facilitating
+character/ text selection by a user on touch screen of a handheld device
+where displayed characters available for selection are small enough that user
+contact with the screen is capable of overlapping a plurality of
+simultaneously displayed characters. It is intended to provide for accurate
+control for selection of text/ icons displayed on the touch screen.
+7.      The impugned order rejecting the application, has been structured as
+7.1. It begins noting the procedural history of the application. Then, in
+paragraph No. 2, the Assistant Controller reproduces the objections
+entailed in the hearing notice. Paragraph No. 3 records that
+Appellant’s agent attended the hearing on 23rd October, 2019 and
+submitted written submissions on 27th November, 2019.
+7.2. Paragraph No. 4 is devoted to summarising the invention and the
+succeeding sub-paragraphs, record the points on which Appellant laid
+“4. I now turn my attention to the claimed subject matter. The alleged invention
+is summarized as follows:
+A system and method is disclosed that provides for character or text selection
+and editing. The text and character selection is made by user contact with a
+touch sensitive screen. In order to allow for refinement of the selection, a
+second expanded view is implemented as compared to the original display
+configuration of the screen. Furthermore, the selection is described in relation
+to two endpoints of the block of text. Additionally, a point is specified as the
+point desired for insertion of the selected text. The expanded view is
+implemented along with the original view as required when making character
+selection.
+Applicant has also emphasized on following points in submitted reply
+1. present invention provides technical effect in terms of providing an efficient
+system of selection of text without compromising with storage capacity and
+thus, making the system more robust and resource effective. It is submitted that
+therein lies a technical effect of the invention.
+2 . The method claims do not refer to an executable list of defined instructions
+at all and they do not claim a logical, arithmetical or computational method at
+all. Accordingly, the method claims of the present application do not fall within
+the scope of 3(k) as defined in the Manual of Patent Practice and Procedure.”
+7.3. In the subsequent paragraph (No. 5), it is mentioned that
+Assistant        Controller        was      unpersuaded      by     Appellant’s
+submissions in view of the following:
+“5. Without prejudice to the above said, having considered the aforesaid
+submission, I do not find the submission persuasive in view of following:
+Claims 1-18 claims mainly A method for accommodating character or text
+selection by a user on a touch screen of a handheld electronic device (300)
+where displayed characters available for selection are small enough that user
+contact with the touch screen (322) when making a character selection is
+capable of overlapping a plurality of simultaneously displayed characters, said
+method comprising: displaying text on a touch screen (322) of a handheld
+electronic device in which selectable characters are smaller than an area of
+user contact with the screen, said display of text constituting an original display
+configuration; detecting that a first area of the touch screen (322) has been user
+contacted, said first area encompassing a plurality of characters of which at
+least two have been partially covered by the user's contact with the touch
+screen; displaying an expanded view of the first area that has been expanded to
+an extent that each of the at least two partially covered characters is
+individually sufficiently large that only one of said at least two characters can
+be predominantly covered by similar user contact with the touch screen (322);
+detecting a first character from the at least two characters that is being selected
+in the first expanded view by being predominantly covered by said similar user
+contact with the touch screen in said expanded view; and resuming the original
+display configuration of the text with the first character that has been detected
+as being user selected in the first expanded view being signified.”
+7.4.  Paragraph No. 6 contains the conclusion that the subject invention is
+not patentable. The said paragraph is extracted below:
+“6. The oral argument and the written submission of the agent of the applicant
+have been carefully considered. However without prejudice, although the
+hearing submissions have attempted to address the other requirements, yet the
+substantive requirement of the Patents Act, 1970 i.e. Section 3(K) is not found
+complied with. Hence, in view of the above and unmet requirements, this instant
+application is not found in order for grant Also I agree with the findings of the
+examiner that the subject matter as described and claimed attract the provisions
+of sections 2(l)(j) of the Patent Act, 1970.”
+8.    Although the initial sentences of paragraphs No. 5 and 6 may appear
+to demonstrate thoughtful consideration and rationale, a more meticulous
+examination of the text unveils a contrasting reality. The reasons for
+dismissing the Appellant’s arguments, as detailed in paragraph No. 5, are
+merely a word-for-word replication of their own claims. Therefore, no
+reasoning is discernible in this paragraph. The miniscule reasoning is then
+found in paragraph No. 6 in the expression “without prejudice, although the
+hearing submissions have attempted to address the other requirements, yet
+the substantive requirement of the Patents Act, 1970 i.e. Section 3(k) is not
+found complied with. Hence, in view of the above and unmet requirements,
+this instant application is not found in order for grant”. The above lines are
+the only shred of rationale in the impugned order. The Court is therefore
+unable to comprehend as to how this conclusion has been drawn. Simply
+remarking that subject invention is not patentable being a mathematical or
+business method, a computer programme per se, or an algorithm is not
+sufficient. The Controller ought to have disclosed reasons to support his
+conclusion. Reasoning through a speaking order is a vital aspect of the
+principles of natural justice and is of utmost importance, which needs to be
+underscored. If the patent office’s orders lack proper reasoning, it may be
+difficult for the applicant to identify the grounds for appeal. The legal
+proposition that an order of such kind should be supported by reasons, needs
+no reiteration. Not only does this benefit the applicant, whose rights are
+likely to be affected, but also assists the Court in ascertaining how the
+concerned officer applied their minds and reached the impugned conclusion,
+while exercising judicial review. This Court, in an earlier decision of SK
+Geo Centric Co Ltd. v. The Controller of Patents,2 observed that such
+reasoning should be discernible to the Court and in absence thereof, the
+entire order stands vitiated. In the impugned order, the Court is bewildered
+as to how the Controller has concluded that subject invention is hit by
+Section 3(k) of Patents Act and has plainly agreed with the Examiner’s
+opinion that the claimed patent is not an invention.
+9.       The entire text of the impugned order has been dedicated to noting the
+details of the invention, claims made therein and how the proceedings were
+Dated 08th February, 2023 in C.A. (COMM. IPD-PAT) 241/2022.
+conducted. That may be necessary, and no fault lies there; however, the crux
+of the issue is lack of reasoning supporting the final decision, a task at which
+the Assistant Controller has completely fallen short. This makes the decision
+arbitrary, suggesting a subjective determination without any objective
+criteria. Such kind of mechanical, template and cut-and-paste orders cannot
+sustain and must be stridently discouraged. In a recent decision of Dolby
+International AB v. The Assistant Controller of Patents and Designs,3
+Hon’ble Mr. Justice C. Hari Shankar had the occasion to consider an
+unreasoned order of the Controller. The Judge was at pains to identify the
+reasoning in the order impugned therein and observed that concerned
+officers of the Controller of Patents and Designs office must bear in mind
+that question of grant and rejection of a patent is a serious matter. Indeed,
+these words must resonate with the authorities, and it must be ensured that
+Patent Controller’s officers practice due application of mind while rendering
+decisions. Well-articulated reasons in such orders would demonstrate that
+the decision has been made with proper consideration and allows for more
+effective judicial review, if necessary.
+10.      The impugned order fails to satisfy the basic requirements of any
+order adjudicating on patentability of an invention. It is for this arbitrary
+approach of the Assistant Controller that the Court is not in a position to
+examine the impugned order on merits. Accordingly, same is quashed and
+set aside, and following directions are issued:
+10.1. The matter is remanded back to the Controller of Patents for re-
+consideration.
+10.2. Prior to deciding the matter afresh, Appellant shall be granted a
+hearing.
+10.3. Application for subject invention shall not be decided by the Officer
+who passed the impugned order.
+10.4. Above exercise be completed and a fresh order be passed within a
+period of three months from the date of release of this order.
+11.    Needless to say, de novo consideration would proceed independently,
+uninfluenced by the impugned order.
+12.    The appeal is disposed of in above terms, along with pending
+applications.
+13.    A copy of the order be also brought to the notice of the Controller
+General of Patents, Designs and Trademarks for information and necessary
+administrative action.

@@ -1,0 +1,791 @@
+1.    This matter is taken up by virtual/physical mode.
+2.    Assailing the Order dated 8th February, 2022 passed by the
+Commissioner of CT & GST, Odisha in Revision Case No.
+BHU-105/G/2021-22 under Section 80 of the Odisha Goods
+and Services Tax Act, 2017 (for short, “the OGST”) read
+with Rule 158 of the Odisha Goods and Services Tax Rules,
+2017 (for brevity, “the OGST” Rules), directed against the
+demand of interest for the periods from April, 2019 to
+December,     2019    raised  by    the  CT&GST      Officer,
+Bhubaneswar-II Circle, Bhubaneswar for belated deposit of
+admitted tax, the petitioner has approached this Court
+invoking provisions of Article 226/227 of the Constitution
+of India with the following prayers:
+“(a) Rule NISI calling upon the Opposite Parties as to
+why the impugned Order under Annexure-4 in
+absence of any reason, shall not be held to be illegal,
+arbitrary and violation of Natural Justice.
+(b)     And if they fail to show cause or show insufficient
+cause make the Rule absolute.
+(c)     Issue a direction to O.P. to rectify the demand raised
+vide DRC-07 under Annexure-1.
+(d)     And be further pleased to allow the petitioner to pay
+the admissible interest amount in 24 installments in
+accordance with law.
+(e)     Issue any appropriate order/orders deemed fit in the
+fact and circumstances of the case.”
+3. The case of the petitioner is that in terms of the Section 39
+read with Section 59 of the OGST Act, returns for the
+period 2019-20 in Form GSTR-3B and GSTR-1 have been
+furnished on self-assessment. While undertaking the
+scrutiny of said self-assessed returns furnished for each tax
+periods as per Section 39, the CT & GST Officer noticed
+that the petitioner has filed the returns belatedly.
+4. The petitioner has alleged that non-payment of admitted tax
+is attributed to non-disbursal of substantial amount standing
+due from IDCOL, a Government Agency. It is submitted by
+Ms. Kananbala Roy Choudhury, counsel for the petitioner
+that as of now, entire tax component stands deposited,
+though belatedly. Ms. Roy Choudhury advancing argument
+submitted that the petitioner is not in a position to discharge
+demand of interest as raised by the CT&GST Organisation
+on account of such belated deposit of admitted tax.
+Therefore, the petitioner prayed before the Commissioner of
+CT&GST, Odisha to allow it to discharge interest demand
+to the tune of Rs.68,15,506/- by instalments. The learned
+counsel for the petitioner has made submission that the
+Commissioner of CT&GST being vested with power under
+Section 80 of the OGST Act ought not to have rejected its
+application in Form GST DRC-20 filed in consonance with
+Rule 158 of the OGST Rules and facilitated the petitioner
+by allowing it to discharge the liability towards the huge
+burden of interest. It is submitted at the bar that the
+rejection of prayer for deposit of interest demand in
+instalments by the Commissioner of CT&GST is outcome
+of not only arbitrary exercise of power but misreading of
+provision of the statute.
+5. Per contra, stressing on Annexure-1, i.e., Form GST DRC-
+07 issued by the CT&GST Officer, Bhubaneswar-II Circle,
+Bhubaneswar, Sri Sidharth Shankar Padhy, learned
+Advocate for the CT&GST Organisation submitted that
+when the statute requires doing certain things in certain
+way, the thing must be done in that way or not at all and,
+thereby other methods or modes of performance are
+impliedly and necessarily forbidden. Drawing attention of
+this Court to the heading “issue involved” appearing in
+Form GST DRC-07 (Annexure-1), Sri Padhy further
+submitted that, it is explicit from the demand raised by the
+CT&GST Officer that “Interest has not been paid on
+delayed payment of tax (paid through cash)”. Sri Padhy,
+learned Advocate for the CT&GST Organisation referred to
+the following as stated at Annexure appended to Form GST
+“You are a registered taxpayer under the CGST/OGST Act,
+2017 and you have been self-assessed under Section 59 of
+the aforesaid Act by filing returns in GSTR-3B and GSTR-1
+for the tax period 2019-20 under Section 39 of CGST/OGST
+Act, 2017. You are also required to pay interest @18% in
+accordance with the provision under Section 50(1) of
+OGST/CGST Act or rule made thereunder, if you fail to pay
+the tax or any part thereof within the due date of return
+filing. However, on the basis of GSTR-3B returns filed by
+you, it is noticed that you have filed GSTR-3B returns
+belatedly as mentioned below but have not paid the interest
+liability, on your own, on the delayed payment of tax
+(through cash) which violates the statutory provisions.
+Hence, as per your GSTR-3B returns, you have to pay
+interest amount of Rs.68,15,506/- ***”
+5.1. Sri Padhy also submitted, on instruction, that the
+Commissioner of CT&GST has rightly rejected the prayer
+of the petitioner inasmuch as the claim is contrary to the
+express language of Section 80 of the OGST Act. With
+reference to Annexure-2 to the writ petition, i.e.,
+Application in Form GST DRC-20 filed before the
+Commissioner of CT&GST, it is contended by him that the
+rejection of prayer for allowing the petitioner 36 (thirty-six)
+instalments is just and proper. The learned Advocate for the
+CT&GST Organisation pressed for rejection of the writ
+petition by subscribing to the following reason ascribed by
+the Commissioner of CT&GST while rejecting the
+Application in Form GST DRC-20 vide impugned Order
+dated 08.02.2022 (Annexure-4):
+“*** Gone through the prayers of the petitioner and order
+passed by the forum below. It is noticed that impugned
+demand has been raised for belated filing of the returns
+which contravenes the provisions under Section 39 of OGST
+Act and attract penal action as per provision under Section
+50(1) of the said Act. Further Section 80 of the OGST Act
+also mandates that on an application filed by a taxable
+person, the Commissioner may, for reasons to be recorded
+in writing, extend the time for payment or allow payment of
+any amount due under this Act, other than the amount due
+as per the liability self-assessed in any return, by such
+person in monthly instalments not exceeding twenty four,
+subject to payment of interest under Section 50 and subject
+to such conditions and limitations as may be prescribed.”
+[Emphasis supplied]
+5.2. It is suggested that the well-reasoned order of the
+Commissioner of CT&GST needs no indulgence by this
+Court inasmuch as there was no scope or occasion to allow
+thirty-six instalments as sought for by the petitioner. Doing
+so would be contrary to the statutory mandate.
+6.   The issue raised in the present case is:
+7. As the period under consideration is April, 2019 to
+December, 2019, the provisions for furnishing return under
+Section 39, as they existed at the material period, so far as
+required for the present purpose, stood as follows:
+“39. Furnishing of returns.—
+(1)   Every registered person, other than an Input Service
+Distributor or a non-resident taxable person or a
+person paying tax under the provisions of Section 10
+or Section 51 or Section 52 shall, for every calendar
+month or part thereof, furnish, in such form, manner
+as may be prescribed, a return, electronically, of
+inward and outward supplies of goods or services or
+both, input tax credit availed, tax payable, tax paid
+and such other particulars as may be prescribed on
+or before the twentieth day of the month succeeding
+such calendar month or part thereof.
+(7)   Every registered person, who is required to furnish a
+return under sub-section (1) or sub-section (2) or
+subsection (3) or sub-section (5), shall pay to the
+Government the tax due as per such return not later
+than the last date on which he is required to furnish
+such return.
+(8)    Every registered person who is required to furnish a
+return under sub-section (1) or sub-section (2) shall
+furnish a return for every tax period whether or not
+any supplies of goods or services or both have been
+made during such tax period.
+(9) Subject to the provisions of Sections 37 and 38, if any
+registered person after furnishing a return under sub-
+section (1) or sub-section (2), sub-section (3) or sub-
+section (4) or sub-section (5) discovers any omission
+or incorrect particulars therein, other than as a result
+of scrutiny, audit, inspection or enforcement activity by
+the tax authorities, he shall rectify such omission or
+incorrect particulars in the return to be furnished for
+the month or quarter during which such omission or
+incorrect particulars are noticed, subject to payment of
+interest under this Act:
+Provided that no such rectification of any omission or
+incorrect particulars shall be allowed after the due
+date for furnishing of return for the month of
+September or second quarter following or the end of
+the financial year, or the actual date of furnishing of
+relevant annual return, whichever is earlier.
+7.1. Section 50 speaks of interest on delayed payment of tax
+which reads as under:
+“50. Interest on delayed payment of tax.—
+(1)    Every person who is liable to pay tax in accordance
+with the provisions of this Act or the rules made
+thereunder, but fails to pay the tax or any part
+thereof to the Government within the period
+prescribed, shall for the period for which the tax or
+any part thereof remains unpaid, pay, on his own,
+interest at such rate, not exceeding eighteen per
+cent., as may be notified by the Government on the
+recommendations of the Council.
+Provided that the interest on tax payable in respect of
+supplies made during a tax period and declared in
+the return for the said period furnished after the due
+date in accordance with the provisions of Section 39,
+except where such return is furnished after
+commencement of any proceedings under Section 73
+or Section 74 in respect of the said period, shall be
+payable on the portion of the tax which is paid by
+debiting the electronic cash ledger.
+(2)    The interest under sub-section (1) shall be
+calculated, in such manner as may be prescribed,
+from the day succeeding the day on which such tax
+was due to be paid.
+(3)    A taxable person who makes an undue or excess
+claim of input tax credit under sub-section (10) of
+Section 42 or undue or excess reduction in output tax
+liability under sub-section (10) of Section 43, shall
+pay interest on such undue or excess claim or on
+such undue or excess reduction, as the case may be,
+at such rate not exceeding twenty-four per cent., as
+may be notified by the Government on the
+recommendations of the Council.”
+7.2. Section 39(7) of OGST Act requires every registered
+person, who is required to furnish a return, is to pay to the
+Government the tax due as per such return not later than the
+last date on which the return is to be furnished. The period
+prescribed for payment of tax in respect of every month is
+on or before the 20th day of the succeeding calendar month.
+However, in case after furnishing return(s), if there is
+discovery of any omission or incorrect particulars therein by
+the taxpayer, scope is given to rectify in view of Section
+39(9), which is subject to payment of interest.
+7.3. Section 50 deals with interest on delayed payment of tax
+and by virtue of provisions contained therein, a burden is
+cast on the taxpayer, who is liable to pay tax, but failed to
+pay the same, to pay interest not exceeding 18%. The
+liability to pay interest under Section 50(1) is a statutory
+obligation which the taxpayer is obligated to comply with
+“ON   HIS OWN”   accord. The liability to pay interest under
+Section 50, being compensatory for non-deposit of tax
+within the stipulated period envisaged under Section 39, is
+not penal in nature. Therefore, the petitioner cannot escape
+the rigours of liability of interest.
+7.4. From sub-section (1) of Section 50, it is manifest that the
+liability to pay interest arises automatically, when a person
+who is liable to pay tax, fails to pay the tax to the
+Government within the period prescribed. The liability to
+pay interest arises in respect of the period for which the tax
+remains unpaid. In fact, the liability to pay interest under
+Section 50(1) arises even without any assessment, as the
+person is required to pay such interest “ON HIS OWN”. While
+sub-section (1) of Section 50 speaks about the liability to
+pay interest under one contingency, viz., the failure to pay
+tax within the period prescribed, sub-section (3) thereof
+speaks about the liability to pay interest under a different
+contingency, i.e., whenever an undue or excess claim of
+ITC is made or whenever an undue or excess reduction in
+output tax liability is made. The words “ON          HIS OWN”
+employed in sub-section (1) of Section 50 are not used in
+sub-section (3) of Section 50. Therefore, it is clear that the
+liability to pay interest under Section 50(1) is self-
+determined and automatic without intervention from
+anyone. Apt here to look at the definition of “assessment”
+contained in Section 2(11) which inter alia comprehends
+“SELF-ASSESSMENT”. When the admitted tax is deposited
+belatedly as per the figures disclosed in the returns, interest
+component is also to be concomitant with the same and is
+required to be deposited on its own computation. Hence, the
+liability to pay interest is compensatory in nature.
+7.5. When the levy of interest emanates as a statutory
+consequence and such liability is a direct consequence of
+non-payment of tax, such a levy is different from the levy of
+interest which is dependent on the discretion of the
+assessing officer. The default arising out of non-payment of
+tax on an admitted liability in the case of self-assessment
+attracts automatic levy of interest, whereas the default in
+filing incomplete and incorrect return attracts best judgment
+assessment in which the levy of interest is based on the
+adjudication by the assessing officer. Reference be had to
+EID Parry (India) Ltd. Vrs. Assistant Commissioner of
+7.6. It has been observed in Haji Lal Mohammad Biri Works
+Vrs. State of Uttar Pradesh, (1973) 32 STC 496 (SC); and
+(1977) 39 STC 36 (SC) that liability to pay interest is
+automatic and arises by operation of law. In Commissioner
+of Sales Tax Vrs. Qureshi Crucible Centre, (1993) 89 STC
+467 (SC) and Commissioner of Trade Tax Vrs. Kanhai Ram
+Thekedar, (2005) 141 STC 1 (SC) consistent view has been
+expressed to the effect that a dealer shall have to deposit the
+tax admittedly payable within the time prescribed under the
+statute and if he fails to do so, interest becomes payable.
+This levy of interest is by operation of law. It does not
+require a separate order as such by any authority.
+7.7. In Garg Associates Pvt. Ltd. Vrs. Commissioner of Trade
+Tax, (2005) 139 STC 368 (All) referring to J.K. Synthetics
+it has been held that the statutory provision authorising the
+State or the Revenue to charge interest on delayed payment
+of tax must be construed as the substantive law and not
+procedural law. Thus, the State Government is empowered
+by the Legislature to raise revenue through the mode
+prescribed in the Act so that the State should not suffer on
+account of delay, caused by the tax-payers in payment of
+tax. The interest is payable on the tax admittedly payable
+which is due. The purpose of charging interest is to
+compensate the revenue for the loss caused to it due to the
+late payment. If no loss has been caused to the department
+or the revenue as the money was already lying in deposit
+with the department earlier, no interest can be charged in
+such circumstances, by the department. The condition
+precedent for levy of interest under the provisions of the
+Act is only if there is default in payment of tax admittedly
+due to the department. In Prahlad Rai Vrs. Sales Tax
+Officer, (1992) 84 STC 375 (SC) it has been laid down that
+accrual of interest is automatic and no separate notice of
+demand is necessary.
+8. The meaning of “interest” and its purport has been
+discussed in State of Karnataka Vrs. Karnataka Pawn
+Brokers Association, (2018) 6 SCC 363. The relevant
+paragraphs are quoted hereunder:
+“29. *** It has been repeatedly held that interest is
+basically compensation for the use or retention of
+money. In Halsbury’s Laws of England, 4th Edn.,
+Vol. 32, “interest” has been defined as follows:
+“127. Interest in general.—
+Interest is the return or compensation for the
+use or retention by one person of a sum of
+money belonging to or owed to another.
+Interest accrues from day to day even if
+payable only at intervals, and is, therefore,
+apportionable in respect of time between
+persons entitled in succession to the
+principal.”
+30.   According to Law Lexicon, by P. Ramanathan Aiyar,
+“ “Interest” means the time value of the funds or
+money involved, which, unless otherwise agreed, is
+calculated at the rate and on the basis customarily
+accepted by the banking community for the funds of
+money involved.”
+31.   In Words and Phrases Permanent Edition, Vol. 22 p.
+148, “interest” means:
+“(i)  “Interest” is compensation for loss of use of
+principal. [Jersey City v. Zink, 44 A 2d 825 :
+133 NJ Law 437 (1945)], A 2d p. 828”.
+(ii)  “Interest” means compensation for the use or
+forbearance of money. [Commissioner of
+Internal Revenue v. Meyer, 139 F 2d 256 (6th
+Cir 1943)], F 2d at p. 259.”
+32.   Black’s Law Dictionary, 6th Edn. (p. 812) defines
+“For use of money.—
+Interest is the compensation allowed by law or fixed
+by the parties for the use or forbearance of borrowed
+money. [Jones v. Kansas Gas and Electric Company,
+222 Kan 390 : 565 P 2d 597 (1977)] , P 2d p. 604.”
+33.   There is no manner of doubt that normally a person
+would be entitled to interest for the period he is
+deprived of the use of money and the same is used by
+the person with whom the money is lying. ***”
+8.1. This Court in Naili Kanta Muduli Vrs. Bhubaneswar
+Development Authority, 2008 (II) OLR 18 (Ori) has
+observed that ‘Interest’ means the compensation allowed by
+law or fixed on by the parties for the use or forbearance for
+borrowed money. In common parlance, it is naive to
+mention that a creditor when allows a debtor to use his
+money for a period exceeding the date until which, such
+credit was given, takes an extra amount is known as
+interest.
+8.2. “Conventional interest” and “legal interest” have been
+explained in Black’s Law Dictionary thus:
+Conventional interest:
+“Interest at the rate agreed upon and fixed by the parties
+themselves, as distinguished from that which the law would
+prescribe in the absence of an explicit agreement.”
+“A rate of interest fixed by statute as either the maximum
+rate of interest permitted to be charged by law, or a rate of
+interest to be applied when the parties to a contract intend
+an interest to be paid but do not fix the rate in the contract.
+Even in the latter case, frequently this rate is the same as
+the statutory maximum rate permitted. Term may also be
+used to distinguish interest in property or in claim
+cognisable at law in contrast to equitable interest.”
+8.3. In Pratibha Processors Vrs. Union of India, AIR 1997 SC
+138 = (1996) 11 SCC 101, distinction between “tax”,
+“interest” and “penalty” has been culled out in the
+following manner:
+“13. In fiscal statutes, the import of the words— ‘tax’,
+‘interest’, ‘penalty’, etc. are well known. They are
+different concepts. Tax is the amount payable as a
+result of the charging provision. It is a compulsory
+exaction of money by a public authority for public
+purposes, the payment of which is enforced by law.
+Penalty is ordinarily levied on an assessee for some
+contumacious conduct or for a deliberate violation of
+the provisions of the particular statute. Interest is
+compensatory in character and is imposed on an
+assessee who has withheld payment of any tax as and
+when it is due and payable. The levy of interest is
+geared to actual amount of tax withheld and the
+extent of the delay in paying the tax on the due date.
+Essentially, it is compensatory and different from
+penalty — which is penal in character.”
+8.4. In Bhai Jaspal Singh Vrs. Assistant Commissioner of
+Commercial Taxes, (2010) 35 VST 456 (SC) it is laid down
+that interest on failure to pay sales tax before expiry of last
+date for filing the return means that the assessee would be
+liable to pay interest on the amount of such tax from the
+date it was payable, i.e., from the expiry of the last date for
+filing returns under the Act. Where the tax due on the basis
+of quarterly return is not paid before the expiry of the last
+date of filing such return, it is not necessary to issue any
+notice of demand, but on the default being committed by
+the dealer, he becomes liable to pay interest on the amount
+of such tax from the last date of filing quarterly returns
+prescribed under the Act.
+8.5. In Alok Shanker Pandey Vrs. Union of India, AIR 2007 SC
+1198 = (2007) 3 SCC 545 it has been observed as follows:
+“9.    It may be mentioned that there is misconception
+about interest. Interest is not a penalty or punishment
+at all, but it is the normal accretion on capital. For
+example if A had to pay B a certain amount, say 10
+years ago, but he offers that amount to him today,
+then he has pocketed the interest on the principal
+amount. Had A paid that amount to B 10 years ago, B
+would have invested that amount somewhere and
+earned interest thereon, but instead of that A has kept
+that amount with himself and earned interest on it for
+this period. Hence, equity demands that A should not
+only pay back the principal amount but also the
+interest thereon to B.”
+8.6. In equity, interest may be recovered in certain cases where a
+particular relationship exists between the creditor and the
+debtor. Interest is also payable where there has been
+misconduct or improper delay in payment, or in the case of
+money obtained or retained by fraud. It may also be allowed
+where the defendant ought to have done something which
+would have entitled the plaintiff to interest at common law,
+or has wrongfully prevented the plaintiff from doing
+something which would have so entitled him. However,
+payment of tax is not under a contract between the taxpayer
+and the State. There is plain repugnance between contract
+and taxation. Taxation is the very antithesis of contract.
+8.7. In the present case the admitted tax on self-assessment
+being not deposited within the period stipulated, the
+petitioner is liable to compensate the State Government by
+way of interest which is provided for under the statute.
+9.   In Khazan Chand Vrs. State of Jammu & Kashmir, (1984)
+56 STC 214 (SC) it has been laid down that payment of
+interest in case of default in payment of tax is a means of
+compelling the assessee to pay the tax due by the prescribed
+date and that it is a mode of recovery of tax and well within
+the legislative power of the State. Provisions in that behalf
+form part of the recovery machinery provided in a taxing
+statute. It is for the State to provide by what means payment
+of tax is to be enforced and a person who does not pay the
+amount of tax lawfully and admittedly due by him can
+hardly complain of the measures adopted by the State to
+compel him to pay such amount. It neither lies in the
+defaulter’s mouth to protest against the rate of interest
+charged to him nor is it open to him to dictate to the State
+the methods which it should adopt for recovering the
+amount of tax due by him.
+9.1. The mode and manner of payment of tax and interest have
+been envisaged in Section 49. For better appreciation
+provisions of said section are extracted hereunder:
+“49. Payment of          tax, interest, penalty    and   other
+amounts.—
+(1)    Every deposit made towards tax, interest, penalty, fee
+or any other amount by a person by internet banking
+or by using credit or debit cards or National
+Electronic Fund Transfer or Real Time Gross
+Settlement or by such other mode and subject to such
+conditions and restrictions as may be prescribed,
+shall be credited to the electronic cash ledger of such
+person to be maintained in such manner as may be
+prescribed.
+(2) The input tax credit as self-assessed in the return of a
+registered person shall be credited to his electronic
+credit ledger, in accordance with Section 41, to be
+maintained in such manner as may be prescribed.
+(3) The amount available in the electronic cash ledger
+may be used for making any payment towards tax,
+interest, penalty, fees or any other amount payable
+under the provisions of this Act or the rules made
+thereunder in such manner and subject to such
+conditions and within such time as may be
+prescribed.
+(4) The amount available in the electronic credit ledger
+may be used for making any payment towards output
+tax under this Act or under the Integrated Goods and
+Services Tax Act, 2017 (Act No.13 of 2017) in such
+manner and subject to such conditions and within
+such time as may be prescribed.
+(5) The amount of input tax credit available in the
+electronic credit ledger of the registered person on
+(a)    integrated tax shall first be utilised towards
+payment of integrated tax and the amount
+remaining, if any, may be utilised towards the
+payment of central tax and State tax, or as the
+case may be, Union Territory tax, in that
+(b)    the central tax shall first be utilised towards
+payment of central tax and the amount
+remaining, if any, may be utilised towards the
+payment of integrated tax;
+(c)    the State tax shall first be utilised towards
+payment of State tax and the amount
+remaining, if any, may be utilised towards
+payment of integrated tax;
+(d)    the Union territory tax shall first be utilized
+towards payment of Union territory tax and the
+amount remaining, if any, may be utilised
+towards payment of integrated tax;
+(e)    the central tax shall not be utilised towards
+payment of State tax or Union territory tax;
+(f)    the State tax or Union territory tax shall not be
+utilised towards payment of central tax.
+(6) The balance in the electronic cash ledger or
+electronic credit ledger after payment of tax, interest,
+penalty, fee or any other amount payable under this
+Act or the rules made thereunder may be refunded in
+accordance with the provisions of Section 54.
+(7) All liabilities of a taxable person under this Act shall
+be recorded and maintained in an electronic liability
+register in such manner as may be prescribed.
+(8) Every taxable person shall discharge his tax and
+other dues under this Act or the rules made
+thereunder in the following order, namely:
+(a)    self-assessed tax, and other dues related to
+returns of previous tax periods;
+(b)    self-assessed tax, and other dues related to the
+return of the current tax period;
+(c)   any other amount payable under this Act or the
+rules made thereunder including the demand
+determined under Section 73 or Section 74.
+(9)    Every person who has paid the tax on goods or
+services or both under this Act shall, unless the
+contrary is proved by him, be deemed to have passed
+on the full incidence of such tax to the recipient of
+such goods or services or both.
+(a)   the date of credit to the account of the
+Government in the authorised bank shall be
+deemed to be the date of deposit in the
+electronic cash ledger;
+(i)  “tax dues” means the tax payable under
+this Act and does not include interest, fee
+(ii) “other dues” means interest, penalty, fee
+or any other amount payable under this
+Act or the rules made thereunder.”
+9.2. Every taxable person, thus, is required to make a self-
+assessment of the tax and to file the return within the time
+prescribed. The word ‘prescribed’ has been defined in
+Section 2(87) to mean “prescribed by rules made under this
+Act on the recommendations of the Council”. The dealer is
+bound to file self-assessed return in prescribed form along
+with the payment of tax in the manner and within the period
+stipulated therein. The date of filing the return and for
+making payment varies depending on various factors, the
+mode of payment, the nature of the transaction, and the
+turnover. Payment of tax due is also to be made within the
+period stipulated in the rules from the date of expiry of each
+quarter. Therefore, the due date for payment for interest
+under the Act to run is not the date of the assessment.
+10. The Commissioner of CT&GST having taken into
+consideration the analysis made by the Hon’ble Telangana
+High Court at Hyderabad, vide Judgment dated 18.04.2019
+rendered     in   the   case     of Megha      Engineering     &
+Infrastructures Ltd. Vrs. Commissioner of Central Tax, Writ
+Petition No.44517 of 2018, has come to the just conclusion.
+The Judgment of Single Bench of the Hon’ble Kerala High
+Court rendered in the case of Pazhayidom Food Ventures
+No. 14275 of 2020 (H), Decided on July 24, 2020 reported
+at 2020 SCC OnLine Ker 12929, as referred to by the
+petitioner is distinguishable on facts. Material fact on which
+the said Court proceeded to allow the petitioner therein to
+discharge liability to pay interest on instalment is that:
+“4. It is also relevant to note that, as of today, there is no
+demand against the petitioner for the unpaid tax
+amount.”
+Said Court having not discussed the provisions of the GSTT
+Act, said Judgment may not have binding precedent to
+persuade this court to grant similar relief to the petitioner.
+However, in the present case, the petitioner has taken step
+by approaching the Commissioner of CT&GST by making
+an application in Form GSTR DRC-20 prescribed under
+Rule 158 invoking Section 80 after it has received the notice
+of demand in Form GST DRC-07. Therefore, this Court is
+not inclined to accede to the prayer of the petitioner.
+10.1. It is noticed that had the CT&GST Officer, Bhubaneswar-II
+Circle, Bhubaneswar not issued demand notice in Form
+GST DRC-07 directing the petitioner to deposit interest on
+delayed payment, interest to the tune of Rs.68,15,505/-
+would have escaped. It is reason best known to the
+petitioner as to why after deposit of admitted tax belatedly,
+did not deposit the interest component thereon “ON          HIS
+OWN”.   Matter would have stood on different footing had the
+petitioner sought to deposit interest on its own in view of
+requirement under Section 50(1).
+10.2. Furthermore, provision of Section 80 apparently restricts
+consideration of payment of tax/interest in instalments
+where the same emanates from self-assessment. For proper
+appreciation it is fruitful to have a glance at the provisions
+contained in Section 80 of the OGST Act, which stands as
+“On an application filed by a taxable person, the
+Commissioner may, for reasons to be recorded in writing,
+extend the time for payment or allow payment of any
+amount due under this Act, other than the amount due as
+per the liability self-assessed in any return, by such person
+in monthly installments not exceeding twenty four, subject to
+payment of interest under Section 50 and subject to such
+conditions and limitations as may be prescribed.
+Provided that where there is default in payment of any one
+installment on its due date, the whole outstanding balance
+payable on such date shall become due and payable
+forthwith and shall without any further notice being served
+on the person, be liable for recovery.”
+[Emphasis supplied]
+Corresponding rule is found at Rule 158, which reads thus:
+“(1) On an application filed electronically by a taxable
+person, in Form GST DRC-20, seeking extension of
+time for the payment of taxes or any amount due under
+the Act for allowing payment of such taxes or amount
+in installments in accordance with the provisions of
+Section 80, the Commissioner shall call for a report
+from the jurisdictional officer about the financial
+ability of the taxable person to pay the said amount.
+(2) Upon consideration of the request of the taxable
+person and the report of the jurisdictional officer, the
+Commissioner may issue an order in Form GST DRC-
+21 allowing the taxable person further time to make
+payment and/or to pay the amount in such monthly
+installments, not exceeding twenty-four, as he may
+deem fit.
+(3) The facility referred to in sub-rule (2) shall not be
+(a) The taxable person has already defaulted on the
+payment of any amount under the Act or the Integrated
+Goods and Service Tax Act, 2017 or the Union
+Territory Gods and Services Tax Act, 2017 or any of
+the Central Goods and Services Tax Act, 2017 for
+which the recovery process is on;
+(b) The taxable person has not been allowed to make
+payment in installments in the preceding financial year
+under the Act or the Integrated Goods and Services
+Tax Act, 2017 or the Union Territory Goods and
+Services Tax Act, 2017 or any of the Central Goods
+and Services Tax Act, 2017;
+(c) The amount for which installment facility is sought is
+less than twenty-five thousand rupees.”
+10.3. As has been held in Baidyanath Ayurved Bhawan v. Excise
+Commissioner, U.P., AIR 1971 SC 378, in interpreting a
+taxing statute, the Court should not ordinarily concern
+themselves with the policy behind the provisions or even
+with its impact. In that case, the Hon’ble Supreme Court of
+India referred with approval to the observations made by
+Rowlatt, J., in Cape Brandy Syndicate v. Inland Revenue
+Commissioners, [1921] 1 KB 64 (at p. 71) which were as
+“*** in a taxing Act one has to look at what is clearly said.
+There is no room for any intendment. There is no equity
+about a tax. There is no presumption as to a tax. Nothing is
+to be read in, nothing is to be implied. One can only look
+fairly at the language used.”
+10.4. Be it noted that individual cases of hardship and injustice do
+not and cannot have any bearing for rejecting the natural
+construction by attributing normal meanings to the words
+used since hard cases do not make bad laws. A fiscal statute
+shall have to be interpreted on the basis of the language
+used therein and not de hors the same. No words ought to
+be added and only the language used ought to be considered
+so as to ascertain the proper meaning and intent of the
+legislation. The Court is to ascribe the natural and ordinary
+meaning to the words used by the Legislature and the Court
+ought not, under any circumstances, to substitute its own
+impression and ideas in place of the legislative intent as is
+available from a plain reading of the statutory provisions.
+Reference may be had to Cooke Vrs. Charles A Vogeler
+Co. Vrs. Commissioner of Income Tax, (1990) 183 ITR 1
+Commissioner of Income Tax, (1999) 4 SCC 197; State of
+10.5. In the case of Union of India Vrs. Deoki Nandan Aggarwal, AIR
+1992 SC 96, the Supreme Court has observed as follows (para 14,
+“It is not the duty of the court either to enlarge the scope of the
+legislation or the intention of the Legislature when the language of
+the provision is plain and unambiguous. The court cannot rewrite,
+recast or reframe the legislation for the very good reason that it
+has no power to legislate. The power to legislate has not been
+conferred on the courts. The court cannot add words to a statute or
+read words into it which are not there. Assuming there is a defect
+or an omission in the words used by the Legislature the court could
+not go to its aid to correct or make up the deficiency. Courts shall
+decide what the law is and not what it should be. The court of
+course adopts a construction which will carry out the obvious
+intention of the Legislature but could not legislate itself. But to
+invoke judicial activism to set at naught legislative judgment is
+subversive of the constitutional harmony and comity of
+instrumentalities.”
+10.6. It is fairly well-settled that statute being an edict of the Legislature,
+it is necessary that it is expressed in clear and unambiguous
+language. Where, however, the words were clear, there is no
+obscurity, there is no ambiguity and the intention of the Legislature
+is clearly conveyed, there is no scope for the court to innovate or
+take upon itself the task of amending or altering the statutory
+provisions. In that situation the judges should not proclaim that
+they are playing the role of a lawmaker merely for an exhibition of
+judicial valour. They have to remember that there is a line, though
+thin, which separates adjudication from legislation. That line
+should not be crossed or erased. This can be vouchsafed by “an
+alert recognition of the necessity not to cross it and instinctive, as
+well as trained reluctance to do so”. (See Frankfurter: “Some
+Reflections     on   the    Reading      of   Statutes”    in   Essays   on
+Jurisprudence, Columbia Law Review, p. 51 as referred to in A.
+Ram Mohan Vrs. State by the Inspector of Police and Others, 2015
+2005 SC 648, the Apex Court held that,
+“13.     The interpretative function of the court is to discover the
+true legislative intent. It is trite that in interpreting a statute
+the court must, if the words are clear, plain, unambiguous
+and reasonably susceptible to only one meaning, give to the
+words that meaning, irrespective of the consequences.
+Those words must be expounded in their natural and
+ordinary sense. When the language is plain and
+unambiguous and admits of only one meaning, no question
+of construction of statute arises, for the Act speaks for itself.
+Courts are not concerned with the policy involved or that
+the results are injurious or otherwise, which may follow
+from giving effect to the language used. If the words used
+are capable of one construction only then it would not be
+open to the courts to adopt any other hypothetical
+construction on the ground that such construction is more
+consistent with the alleged object and policy of the Act. In
+considering whether there is ambiguity, the court must look
+at the statute as a whole and consider the appropriateness
+of the meaning in a particular context avoiding absurdity
+and inconsistencies or unreasonableness which may render
+the statute unconstitutional.
+14.    It is equally well settled that in interpreting a statute, effort
+should be made to give effect to each and every word used
+by the legislature. The courts always presume that the
+legislature inserted every part thereof for a purpose and the
+legislative intention is that every part of the statute should
+have effect. A construction which attributes redundancy to
+the legislature will not be accepted except for compelling
+reasons such as obvious drafting errors. [See State of U.P.
+360; Nyadar Singh Vrs. Union of India, (1988) 4 SCC 170
+SC 1979; J.K. Cotton Spg. and Wvg. Mills Co. Ltd. Vrs.
+State of U.P., AIR 1961 SC 1170; and Ghanshyamdas Vrs.
+10.8. Plain reading of the provisions of Section 80 admits of no
+ambiguity      that   the    Commissioner        of    CT&GST         is
+empowered to allow the payment of “any amount due”
+under the Act in monthly instalments not exceeding twenty-
+four subject to payment of interest under Section 50 and
+also subject to such condition and limitation under Rule
+158. One of the conditions is reflected in the said provision
+itself, i.e., the instalment cannot be allowed in the
+circumstance when the liability to be discharged is on
+account of self-assessed returns. Therefore, necessary
+corollary would be that the Commissioner of CT&GST is
+empowered to invoke Section 80 for allowing taxpayer to
+discharge liability in instalment when demand is raised
+under the statute. However, the Commissioner of CT&GST
+is required to assign reasons in writing for the said purpose.
+In other words, it may be stated that this section permits a
+taxable person to make payment of an amount due on
+instalment basis, other than the amount due as per self-
+assessed return. The term ‘instalments’ in general parlance
+would mean equated periodical payments (money due)
+spread over an agreed period of time. This provision
+happens to be a beneficial piece of law to the tax payers to
+pay the demand in instalments along with interest.
+Nonetheless, as stated earlier, the amount should not be the
+amount due as per the liability as self-assessed in any
+return. Therefore, the amount which is payable pertains to a
+demand notice can be deferred or paid in instalments.
+10.9. Section 39 of the OGST/CGST Act specifies time frame
+within which returns are to be furnished. Such returns are
+considered to be self-assessed returns under Section 59 ibid.
+10.10. Section 59 is reproduced herein below:
+“Every registered person shall self-assess the taxes payable
+under this Act and furnish a return for each tax period as
+specified under Section 39.”
+11.   It is admitted fact on record that the petitioner has deposited
+an amount of tax admitted in self-assessed returns beyond
+the time stipulated under Section 39 and hence the CT &
+GST Officer, Bhubaneswar-II Circle, Bhubaneswar had
+raised demand of interest to the tune of Rs.68,15,506/- vide
+GST DRC-07 for the period April 2019 to December 2019.
+11.1. Since interest is a part of tax and such tax being belated
+payment in respect of self-assessment, Section 80 of the
+OGST Act clearly excludes grant of instalment under the
+present fact-situation. However, the Commissioner is not
+conferred with power to allow such instalment in respect of
+amount due as per self-assessment return(s) furnished.
+Section 80 empowers the Commissioner to grant permission
+only to the taxable person to make payment of any amount
+due     on  instalment    basis, on     an   application   filed
+electronically in Form GST DRC-20 as prescribed under
+Rule 158. The Commissioner after considering the request
+by the taxable person in Form GST DRC-20 and report of
+the jurisdictional officer, may issue an order in Form GST
+DRC-21, allowing the taxable person either extend the time
+or allow payment of any amount due under the Act on
+instalment basis. This provision, therefore, applies to
+amounts due other than the self-assessed liability shown in
+any return. The instalment period shall not exceed 24
+months. The taxable person shall also be liable to pay
+prescribed interest on the amount due from the first day
+such tax was due to be payable till the date tax is paid. In
+view of proviso to Section 80, if default occurs in payment
+of any one instalment, the taxable person would be required
+to pay the whole outstanding balance payable on such date
+of default itself without further notice. There was, therefore,
+no scope for the Commissioner of CT&GST to entertain
+application for grant of instalment.
+12.   In view of the above discussion, the Commissioner of
+CT&GST is justified in rejecting the prayer of the petitioner
+to deposit the interest levied on account of belated deposit
+of admitted tax as per self-assessed returns furnished in
+terms of Section 39 read with Section 59 of the
+CGST/OGST Act in instalment under Section 80 read with
+Rule 158. The writ petition, thus, being devoid of any merit,
+is dismissed.

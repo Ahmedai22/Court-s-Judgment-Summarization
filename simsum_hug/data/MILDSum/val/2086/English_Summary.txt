@@ -1,0 +1,27 @@
+The Delhi High Court has held that the Disciplinary Authority, though not competent to impose major penalties of compulsory retirement, dismissal and removal, can initiate disciplinary proceedings for imposition of the same.It noted that there is nothing to suggest that the Appointing Authority alone would be the Competent Authority to institute the disciplinary / major penalty...
+The Delhi High Court has held that the Disciplinary Authority, though not competent to impose major penalties of compulsory retirement, dismissal and removal, can initiate disciplinary proceedings for imposition of the same.
+It noted that there is nothing to suggest that the Appointing Authority alone would be the Competent Authority to institute the disciplinary / major penalty proceedings.
+The observation was made with respect to CCS (CCA) Rules, 1965.
+Justice V Kameswar Rao observed,
+"even though the Director (Technical) in terms of the DOP is not competent to impose major penalties of compulsory retirement, dismissal and removal on a Group 'A' employee (other than General Manager or equivalent posts and Company Secretary), he is competent to initiate disciplinary proceedings against a Group 'A' employee (other than General Manager or equivalent posts and Company Secretary) for imposition of major penalties as specified in Clauses (v) to (ix) of Rule 11 of the Rules of 1965."
+Accordingly, the Court dismissed two writ petitions challenging charge sheets issued by the Director (Technical) against Group 'A' officers of Indraprastha Power Generation Co. Ltd.
+ Background
+ The question before the Court was whether the Director (Technical) or the Director (HR) was the competent Authority to issue charge sheets against Group 'A' Officers in a Public Company. 
+The Petitioners were Deputy Manager (Technical) and Senior Manager (Technical), i.e., Group 'A' Officers reporting to the Director (Technical). 
+The penalties issued were "reduction to a lower stage in the time scale of pay by one stage for two years cumulatively" and "reduction in pension for three years." 
+The Petitions proceeded on the basis that the penalties, being in the class of major penalties of compulsory retirement, removal, and dismissal, the competent Authority was the Director (HR) in light of Rule 11 of the Rules of Service 1965 and the "Delegation of Powers (DOP)" issued by the Company.
+ Position under the Rules of Service 1965
+ The Rules of Service 1965, vide Rule 2(a), stipulate the appointing Authority and Rule 2(g) the disciplinary authority. 
+Rule 13(2) vests the power to institute proceedings against any Government servant by the Authority. Rule 13(2) read with Rule 11 prescribe that the Disciplinary Authority may institute "major" and "minor penalties" except "compulsory retirement," "dismissal," and "removal" of Group 'A' employee (other than General Manager or equivalent posts and Company Secretary). 
+ According to the Delegation of Powers (DOP), the Competent Authority for the imposition of minor and major penalties except Compulsory Retirement, Dismissal, and Removal are vested with the "Director (Concerned)." In contrast, the latter exceptions are granted with the "Director (HR)" according to the DOP.
+ Competency of the Director (Technical)
+ The Court dismissed the petitions relying on the Supreme Court case P.V. Srinivas Sastry & Ors. V. Union of India & Ors. (2013) and the above rules.
+According to Article 311 of the Constitution, no person who is a member of a civil service of the Union or an all-India service or a civil service of a State or holds a civil post under the Union or a State "shall be dismissed or removed by an authority subordinate to that by which he was appointed." 
+As per P.V. Srinivas Sastry, this Article does not explain who shall initiate the disciplinary proceedings. The framing of relevant Rules can fill this gap. However, it cannot be presumed that only the appointing authority and no officer subordinate to the Authority can initiate the disciplinary inquiry. 
+Accordingly, the Court indicated that the Director (Technical), being the "Officer (Concerned)" of the Petitioners, designated with issuing major and minor penalties per the DOP, was eligible to issue charge sheet, notwithstanding him not being the Appointing Authority. 
+ In WPC 890/2020, the Court found that the penalty issued was a minor penalty involving reduction to a lower stage in the time scale of pay by one stage for two years with cumulative effect. Therefore, the Director (Technical) was within his jurisdiction to issue the charge sheet per the DOP read with Rules 11 and 13 of the Rules. 
+Moreover, in WPC 3495/2020, there was no penalty involved with respect to compulsory retirement, dismissal, or removal which the Director (Technical) could not have imposed. Hence, no prejudice was held to have been caused to the Petitioner in this Petition as well. Accordingly, both Petitions were dismissed.
+ Ratio
+ The ratio which comes from this judgment is that employees of a Public Company may be subject to disciplinary inquiries from authorities other than his Appointing Authority. Further, issuance of major and minor penalties, not including dismissal or removal, may be vested by any superior authority, apart from the Appointing Authority.
+ Case Title: SHRI FAJALUR RAHAMAN v. I.P.G.C.L. THROUGH ITS MANAGING DIRECTOR AND ORS. (W.P.(C) 890/2020) and B S PURIA v. INDRAPRASTHA POWER GENERATION CO. LTD. & ANR. (W.P.(C) 3495/2021)
+ 

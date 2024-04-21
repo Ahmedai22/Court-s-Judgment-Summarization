@@ -1,0 +1,183 @@
+The petitioner is a company assessed to income tax on the file of the sole
+respondent in terms of the provisions of Income Tax Act, 1961 (in short ‘Act’).
+In respect of assessment year (AY) 2012-13 a return of income had been filed
+disclosing income both under the regular provisions as well as under the
+provisions of Minimum Alternate Tax (in short ‘MAT’).
+2. Proceedings for amalgamation had been ongoing at that particular
+juncture, in Company Petition Nos.190 and 191 of 2012 for amalgamation of
+the petitioner with one, Island Hotel Maharaj Limited. By order dated
+06.02.2013 the scheme of amalgamation had been approved by this Court,
+merging the aforesaid two entities. The appointed date was fixed as 01.04.2011.
+3. The scheme provided for the merging of the assets and liabilities as
+well as the method of accounting to be followed in respect of the merged assets.
+The accounting was to be under the pooling of interest method adopting
+accounting standard (AS 14) that provided for the methodology for accounting
+for amalgamations, issued by the Institute of Chartered Accountants of India.
+4. Post-amalgamation, a revised return had come to be filed by the
+petitioner, once again computing the income both under regular provisions as
+well the under the provisions of Minimum Alternate Tax (MAT). The brought
+forward loss in the hands of the petitioner (amalgamated entity) is as follows:-
+Surplus in Statement of Profit and Loss
+Less: Adjustment of Debit balance of Profit 505,251,912
+& Loss Account of Transferor Company
+Add: Profit/(Loss) during the year           (306, 552, 091)
+5. Thus and admittedly, the amount of brought forward loss is a sum of
+Rs.30,65,52,091/- and the amount of brought forward depreciation is a sum of
+Rs.18,05,97,492/-. There is no dispute with regard to the aforesaid two
+figures.The petitioner, in computing the income under the provisions of MAT,
+applied the provisions of Section 115JB of the Act and, interalia, the upward
+and downward adjustments set out under the Explanations thereunder.
+6. As per the methodology of computation prescribed, the lower of either
+book depreciation or loss of the transferor company, was to be set of against the
+adjusted book profit. Applying the aforesaid methodology, the adjusted book
+profit arrived at in the present case was ‘nil’. Since the amount of book
+depreciation constituted the lower of the two figures, the same was taken into
+the reckoning for arriving at the adjusted book profit. This procedure followed
+aligns with the prescription and the methodology set out under Section 115JB.
+7. An order of assessment came to be passed thereafter on 26.03.2015,
+the Assessing Authority computing income both under regular provisions as
+well as under the provisions of MAT. As far as the latter is concerned the
+computation is as follows:-
+Add: Expenses attributable to income exempt                22,66,356
+8. The Assessing Authority has neither mechanically adopted the figures
+supplied by the petitioner nor the methodology for computation of book profit
+as he adds expenses attributable to exempt income, increasing the taxable book
+profit for the purposes of Section 115JB. Thus the order of assessment passed
+under scrutiny is a reasoned order passed after the application of mind upon the
+computation furnished by the petitioner.
+9. The impugned proceedings for re-assessment have to be seen in this
+context. Notice under Section 148 of the Act was issued on 21.03.2019, barely
+10 days prior to the expiry of the six year period which places an absolute bar
+upon reassessment, except in certain stipulated situations,that do not arise in the
+present case.
+10. The petitioner complied with the notice reiterating its computation
+made at the original instance (by way of revised return) and sought the reasons
+for re-opening of the assessment. The reasons supplied are as follows:-
+“2.1 . The assessee's subsidiary M/s. Island Hotel Maharaj Limited
+amalgamated with the effective from 28.02.2013 (effective date) vide
+2.2 The assessee filed its revised return of income on 28.03.2013
+declaring NIL income after setting - off the total income of
+Rs.14,58,76,516/- against unabsorbed depreciation loss/brought
+forward business loss . The assessee offered NIL book profit u/s
+115JB after reducing book loss of transferor Company amounting to
+2.3 . During the scrutiny assessment u/s 143 (3), an addition of Rs.
+55,25,821/- was made amounting to Rs.15,14,02,337/ - under normal
+computation. However, the assessed income has become NIL after
+setting-off with the brought forward business loss/ unabsorbed
+depreciation loss. An addition of Rs.22,66,356/- was made to the
+book profit u/ s 115JB totalling to 18,28,63,848/ - . However, the
+assessment was completed with NIL book profit after setting - off with
+the brought forward book loss of the transferor company (M / s.
+2.4 . It is seen from the ' Post Amalgamation Annual A/Cs for the year
+ending 31.03.2012 under Schedule ' Reserves of Surplus ' that the
+assessee company had Rs . 50.00 crores opening balance in the
+general reserve and Rs. 19.87 crores in Surplus Statement of Profit &
+Loss a / c . thereby totalling to Rs . 69.87 crores , before
+amalgamation . The loss available in the books of the transferor
+company was Rs.50.52 crores as on 31.03.2011 (i.e.,) before
+amalgamation . Thus, it is seen that no book loss or depreciation is
+available to be deducted u / s 115JB as detailed below :”
+Before amalgamation as on 31.03.2011
+Surplus in P&L a/c    19,86,99,821
+Less: Loss of the transferor company (M/s.Island Hotel (50,52,51,912)
+Accumulated book profit as on 31.03.2011                        19,34,47,909
+“2.5 It is evident from the above that there is no book loss or
+depreciation available, rather there is a book profit of
+Rs.19,34,47,909/- . Therefore, the set - off of Rs.18,28,63,848/- as
+brought forward book loss against the book profit is required to be
+disallowed and brought to tax u / s 115JB .
+2.6. In these circumstances , I have reasons to believe that the income
+has escaped assessment in the case of the assessee for AY 2012-13
+within the meaning of Section 147 of the Income Tax Act,1961.”
+11. The premise upon which the assessment has been re-opened is that
+the loss available was a sum of Rs.50.52 Crores and no book loss or
+depreciation was available to be deducted under Section 115 JB.However the
+computation accompanying the revised return reveals depreciation of a sum of
+Rs.18.05 crores.
+12. That apart, the challenge is on the assumption of jurisdiction by the
+Assessing Officer, seeing as the provisions of Section 147 of the Act impose a
+pre-condition that, for the department to proceed for reassessment beyond a
+period of 4 years, the burden was upon it to establish that the assessee
+concerned had made an incomplete and untrue disclosure at the first instance.
+In the present proceedings the reopening is beyond the period of four years
+from the end of relevant assessment year.
+13.The officer considered the objections raised by the petitioner and
+rejects the same vide the impugned order dated 31.07.2019. Incidentally, the
+officer erroneously states therein, that the reassessment had been initiated
+within four years from the end of the relevant assessment year. However this
+factual error has been rectified in the counter.
+14. A perusal of the impugned order leaves me in no doubt that the
+Officer has proceeded entirely on the mistaken assumption that the re-
+assessment was within a period of four years. It is in this context that he refers
+to explanation 1 to Section 147,that reads as follows:
+“Production before the assessing officer of account books
+or other evidence from which material evidence could with due
+diligence have been discovered by the assessing officer will not
+necessarily amount to disclosure within the meaning of the
+proviso to Sec.147 of the IT Act.”
+15. However the proviso to Section 147, which is extracted below is a
+statutory pre-condition that has to be complied with by the Assessing Officer
+and places a significant burden upon the Officer that must be discharged, prior
+to proceeding with the re-assessment beyond the period of four years from the
+end of the relevant assessment year. The provision and proviso thereunder read
+Income escaping assessment.
+“147. If the 73[Assessing] Officer 74[has reason to
+believe75] that any income chargeable to tax has escaped
+assessment75 for any assessment year, he may, subject to the
+provisions of sections 148 to 153, assess or reassess75 such
+income and also any other income chargeable to tax which has
+escaped assessment and which comes to his notice subsequently
+in the course of the proceedings under this section, or re-
+compute the loss or the depreciation allowance or any other
+allowance, as the case may be, for the assessment year
+concerned (hereafter in this section and in sections 148 to 153
+referred to as the relevant assessment year) :
+Provided that where an assessment under sub-section (3)
+of section 143 or this section has been made for the relevant
+assessment year, no action shall be taken under this section
+after the expiry of four years from the end of the relevant
+assessment year, unless any income chargeable to tax has
+escaped assessment for such assessment year by reason of the
+failure76 on the part of the assessee to make a return under
+section 139 or in response to a notice issued under sub section
+(1) of section 142 or section 148 or to disclose fully and truly
+all material facts necessary for his assessment, for that
+16. It is a well settled position that in cases of reopening beyond the
+period of four years from the end of the relevant assessment year, the statutory
+pre-condition set out in the proviso to Section 147 of the Act must first be
+complied with prior to invoking the benefit under the Explanations.
+17. It is an equally well settled rule of construction that the interpretation
+of a statutory provision, must be in the sequence in which the sub-sections and
+clauses are arranged. Thus the construction of Section 147 is relevant and must
+be appreciated and applied in seriatim. The proviso is placed at the first
+instance and the Explanations thereafter and this would mean that the statutory
+condition and burden cast upon the Department by virtue of the first proviso
+must first be discharged by the officer, before he proceeds to avail benefit of
+the deeming explanations that follow thereafter.
+18. The test would thus be as to whether the disclosure made by the
+petitioner at the time of original assessment was full and complete. There is no
+dispute in this regard and all material in regard to the computation of tax under
+the provisions of MAT were available before the Assessing Authority.
+19. The reasons proceed on the basis that the methodology for
+computation is erroneous which premise, as noticed earlier, does not appear to
+be correct as the financials disclose the availability of depreciation. In such
+circumstances, the assumption of jurisdiction under Section 147 is held to be
+bad in law.
+20. That apart, I also find force in the submission that there is no
+allegation in the reason itself to the effect that there has been any incomplete
+disclosure or false statement made at the time of assessment that would justify
+the assumption of jurisdiction beyond the period of four years.
+21. The petitioner also raises the argument that the impugned
+proceedings are based on an audit objection though none of the documents on
+record would evidence this position. However, there is an averment in the
+affidavit to this effect and the counter filed by the respondent does not
+specifically deny this.
+22. Thus even on this score and following the settled position that an
+audit objection does not satisfy the requirement of the Assessing Officer having
+an independent ‘reason to believe’ that income has escaped assessment, that too
+after the elapse of nearly six years from the end of the relevant assessment year,
+the impugned proceedings are vitiated.
+23. In light of the discussions above, this writ petition is allowed and the
+impugned proceedings are quashed. Connected writ miscellaneous petitions are
+closed. No costs.
+W.M.P.Nos.8537 of 2020 and 24799 & 24802 of 2019

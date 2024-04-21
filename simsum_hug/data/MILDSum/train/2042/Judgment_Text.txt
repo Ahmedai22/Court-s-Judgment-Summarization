@@ -1,0 +1,818 @@
+1.    The instant application under Section 151 of the Code of Civil
+Procedure, 1908 has been filed on behalf of the petitioner seeking
+condonation of delay in filing the petition.
+2.    For the reasons stated in the application, the same is allowed and the
+delay of 70 days in filing the petition is condoned.
+3.    The application stands disposed of.
+1.    The instant petition under Section 34 of the Arbitration and
+Conciliation Act, 1996 has been filed on behalf of the petitioner seeking the
+following reliefs:
+(a) set aside the Award dated 9 September 2019;
+O.M.P. (COMM) 32/2020                                              Page 1 of 28
+(b) direct Respondent No.2 to re-commence the arbitration
+proceedings by appointing a new arbitrator and supervise such
+proceedings to ensure that they are conducted in compliance
+(c) direct the Respondents to bear the costs of the present
+(d) pass such other and further orders that this Hon'ble Court
+may deem appropriate in the facts and circumstances of this
+2.     The facts necessary for the disposal of the present petition are that the
+Petitioner is the president of mPedigree Network which is involved in the
+development of a range of software products and services in various
+industries across several countries. Respondent No.1 is a company
+incorporated under the laws of Delaware, USA, providing brand protection
+services in certain African countries as well as in India. The Petitioner
+registered the Disputed Domain Name, ‘sproxil‘, on 23rd October 2013 and
+on 6th November 2014, the Respondent No.1 sent a cease and desist notice
+to the Petitioner alleging that mPedigree as well as the Petitioner have been
+making unlawful use of Respondent No.1’s trademarks and web domains,
+which Respondent No.1 claims to have been in use and occupation since
+2011, i.e., two years prior to the date of registration by the Petitioner.
+3.     Subsequent to this, on 3rd February 2015, Respondent No.1 filed a
+complaint before National Internet Exchange of India (hereinafter referred
+to as „NIXI‟) in respect of the disputed domain name. Arbitration
+proceedings were conducted pursuant to the First Complaint and an arbitral
+award was passed. This arbitral award was set aside by the Delhi High
+O.M.P. (COMM) 32/2020                                             Page 2 of 28
+Court by its judgment dated 9th May 2018 on the grounds that the impugned
+arbitral award was passed without complying with the principles of natural
+justice.
+4.     On 28th June 2019, another complaint was filed by Respondent No.1
+in respect of the same disputed domain name with NIXI alleging inter alia
+that the Petitioner had registered the Disputed Domain Name by making
+false representations of knowledge under paragraph 3 of the .IN Domain
+Name Dispute Resolution Policy (hereinafter referred to as ‘INDRP
+Policy’). Subsequent to this complaint, Respondent no.2 appointed a sole
+arbitrator to adjudicate upon the disputes set out in the complaint. On 9th
+September 2019, the learned sole arbitrator passed the impugned award
+(i) the Petitioner had no rights or legitimate interests in the Disputed
+(ii) the Disputed Domain Name was registered by the Petitioner in
+bad faith, and directing that the Disputed Domain Name be
+transferred from the Petitioner to Respondent No. 1, with a request to
+Respondent No. 2 to monitor the transfer.
+5.     Aggrieved with the findings recorded in the impugned arbitral award,
+the Petitioner has approached this Court under Section 34 of the Arbitration
+6.     Learned counsel appearing on behalf of the Petitioner in support of
+the instant petition has submitted that the impugned award suffers from
+patent illegality, it is contrary to the fundamental principles of Indian Law
+O.M.P. (COMM) 32/2020                                            Page 3 of 28
+and also contrary to the public policy. To substantiate his arguments, the
+learned counsel has submitted that the arbitrator has not only erroneously
+excluded relevant evidence on record but has also taken into consideration
+extraneous and irrelevant material to come to the conclusion that the
+Disputed Domain Name registered by the Petitioner is identical or
+confusingly similar to a trademark to which Respondent No.1 has rights.
+7.      It has been vehemently argued that the arbitrator has turned a blind
+eye to the fact that the registration of the Disputed Domain Name was
+applied by Respondent No. 1 only in 2016, i.e. 3 years after the Disputed
+Domain Name was registered by the Petitioner. The Arbitrator has also
+failed to give any basis for his finding that Respondent No. 1 had trademark
+registrations and statutory rights in the "sproxil" mark, at the time the
+Disputed Domain Name was registered by the Petitioner.
+8.      It is further submitted that the Award also fails to consider that
+Respondent No. 1 has not produced any credible evidence in support of its
+argument that it had been using the "sproxil" mark since 2011, and such a
+finding is only based on vague assertions not supported by any documentary
+evidence to this effect. On this assertion, learned counsel has submitted that
+the Respondent No.1 has failed to discharge its burden of proving the very
+first element set out in paragraph 4(i) of the INDRP Policy. It is also argued
+that even though the arbitrator has in his preliminary observations
+specifically taken note of the fact that the Respondent No.1 has
+inadvertently provided incorrect information to the Panel and the trademark
+application referred to and relied upon by the Respondent No.1 in the
+complaints was marked as abandoned by the Registrar of Trademarks, but
+O.M.P. (COMM) 32/2020                                          Page 4 of 28
+the arbitrator has grossly erred in coming to the conclusion that the
+Respondent No.1 had a valid trademark registration in respect of the
+‘sproxil’ mark.
+9.     It is further submitted that in terms of the INDRP Rules and Policy,
+the arbitrator was required to confine his findings in the award to the
+submissions made and documents provided by the parties in the arbitration,
+but the arbitrator has done ‘independent research’ and has travelled beyond
+the submissions advanced by the parties to reach an erroneous conclusion
+which is beyond the powers conferred on law upon the arbitrator. It is also
+submitted that the Hon’ble Supreme Court of India has, in numerous
+judicial pronouncements, observed that where materials are taken behind the
+back of the parties by the arbitral tribunal, on which the parties have had no
+opportunity to comment, a ground for an arbitral award rendered by the
+tribunal to be set aside under Section 34(2)(a)(iii) would be made out. It is
+accordingly, submitted that in the present case the arbitrator did not give the
+Petitioner any notice that he was considering a trademark registration
+application made by Respondent No.1 other than the one produced by the
+Respondent No.1 as a part of the Complaint and hence, the impugned
+arbitral award cannot be sustained in law and deserves to be quashed and set
+aside.
+10.    It is submitted that the learned Arbitrator has arbitrarily arrived at the
+conclusion that the Petitioner did not have rights or legitimate interests in
+the Disputed Domain Name, by applying incorrect principles of standard
+and burden of proof, and without considering relevant evidence on the
+record to the contrary. It is submitted that to this extent, the Award discloses
+O.M.P. (COMM) 32/2020                                             Page 5 of 28
+non-application of mind by the Arbitrator and is patently illegal, contrary to
+fundamental principles of Indian law and Public policy, and is liable to be
+set aside under Section 34 of the Arbitration Act. It is further submitted that
+the learned Arbitrator has failed to apply the correct burden of proof for
+Respondent No. 1 to satisfy paragraph 4(ii) of the INDRP Policy, which is
+in contravention of substantive provisions of the INDRP Policy and the
+fundamental policy of Indian Law. The learned Arbitrator has failed to
+consider that Respondent No. 1 has not produced any evidence to make out
+a prima facie case that the Petitioner did not have legitimate rights or
+interests in the Disputed Domain Name. The Complaint only discloses
+vague allegations in respect of the Petitioner being a competitor of
+Respondent No. 1 and the Petitioner being allegedly interested in harming
+the business prospects of Respondent No. 1 in India.
+11.    It is vehemently argued that the arbitrator while considering whether
+the Petitioner in accordance with paragraph 7(iii) of the INDRP Policy is
+making non-commercial use of the Disputed Domain Name, the learned
+Arbitrator has observed that the Petitioner has not established this "beyond
+doubt". Accordingly, it is submitted that the standard of proof imposed by
+the Arbitrator in evaluating the evidence adduced by the Petitioner in this
+regard is "beyond doubt‖ which on the face of it, is an incorrect standard of
+proof to apply on the Petitioner in the Arbitration which was a civil
+proceedings. It is submitted that as per fundamental principle of Indian law
+for the administration of justice in civil proceedings, the standard of proof
+applicable is 'preponderance of evidence' and not 'beyond reasonable doubt'.
+O.M.P. (COMM) 32/2020                                           Page 6 of 28
+12.    It is further submitted that the learned Arbitrator has arbitrarily
+arrived at the conclusion that the Petitioner had registered the Disputed
+Domain Name in bad faith, without considering material evidence on the
+record to the contrary, and by relying erroneously on external evidence not
+produced by either party. It is also submitted that the Respondent No. 1 has
+not disclosed any evidence in the Complaint to support the position that the
+Petitioner had registered the Disputed Domain Name with the intent of
+selling it at a profit to either Respondent No. 1 or its competitors. It is in fact
+not even the case of Respondent No. 1 in the Complaint that the Petitioner
+was indulging in cyber-squatting. Therefore, the learned Arbitrator's finding
+that Respondent No. 1 has made out a case of bad faith under paragraph 6(i)
+of the INDRP is entirely unsubstantiated in both pleadings and evidence,
+and is on the face of it untenable.
+13.    It is further submitted that the learned Arbitrator has failed to consider
+significant evidence produced by the Petitioner that on the face of it
+demonstrates that the Petitioner/mPedigree were not competitors of
+Respondent No. 1, including on the basis services offered by mPedigree and
+Respondent No. 1, their respective customer bases, their geographical reach
+and the mode of conducting business and documents produced. It is
+accordingly, submitted that these findings indicate that there was complete
+non-application of mind by the arbitrator.
+14.    Accordingly, it is humbly prayed that this Court may set aside the
+impugned arbitral award as being vitiated by patent illegality, being contrary
+to the fundamental policy of Indian laws as well as being contrary to the
+Public policy of India.
+15.    Per Contra, learned counsel appearing on behalf of Respondent No.1
+has strenuously opposed the instant petition as devoid of any merit. It is
+submitted that the arbitration has been conducted in accordance with the
+procedure and within the four corners of law, and the arbitrator after
+appraising all the evidence on record has rightly come to the conclusion that
+the Petitioner had no rights or legitimate interests in the Disputed Domain
+16.    It is submitted that the argument of the Petitioner that arbitrator has
+taken evidence on the back of the Petitioner is a frivolous averment as in the
+Trademark Registration Certificate, the application number provided by the
+Respondent was wrong and hence, the panel just fetched the correct
+application number from the certificate which the Respondent has placed on
+record. It is further submitted that the Respondent is in use of the Dispute
+Domain Name since 2011, which is prior to the date of Registration by the
+Petitioner and hence, the arbitrator has rightly come to the conclusion that
+the Petitioner has no right to the Disputed Domain Name.
+17.    Learned counsel appearing on behalf of the Respondent No. 2 has
+submitted that NIXI has a very limited role in the present petition as the
+only prayer sought against NIXI is to recommence the arbitration
+proceedings by appointing a new arbitrator and supervise the arbitral
+proceedings. In respect of the above prayer, it is submitted that such a
+prayer is unheard of and non-maintainable as even in the event of setting
+aside of the arbitral award, the finding of this Court on merits would act as
+res-judicata and a recommencement of the arbitral proceedings involving
+the same parties and same domain-name would be barred under law.
+O.M.P. (COMM) 32/2020                                          Page 8 of 28
+18.   It is further submitted that the impugned arbitral award was
+communicated to the Petitioner and Respondent No.1 on 11th September
+2019 and hence, the present petition being filed on 17th Jan 2020 is beyond
+the period of limitation and hence, is barred by law.
+19.   Heard learned counsel for the parties and perused the record. I have
+also perused the impugned arbitral award as well as the entire arbitral record
+brought on record. I have also given thoughtful considerations to the
+submissions advanced by the parties.
+20.   The challenge to the impugned arbitral award inter alia has been
+made on the ground that the learned Arbitrator has failed to consider
+relevant evidence on record in coming to the conclusion that Respondent
+No.1 has trademark rights in the mark ‘SPROXIL’ and that the Petitioner
+was using the Disputed Domain Name in bad faith. It is also submitted that
+such a finding is not supported by any material on record. Another ground
+which has been taken by the Petitioner is that learned Arbitrator has
+exceeded the powers vested in him by relying on a trademark application
+submitted by Respondent No.1 which was not provided to the Petitioner and
+hence, documentary evidence received at the back of the Petitioner was
+relied upon by the learned arbitrator in coming to its finding. It is
+appropriate to reproduce Rule 8(a) and Rule 12(a) of the INDRP Rules
+herein.
+―Rule 8(a)- An Arbitrator shall conduct the arbitration
+proceeding in such manner as it considers appropriate in
+accordance with the Arbitration and Conciliation Act 1996,
+O.M.P. (COMM) 32/2020                                         Page 9 of 28
+Dispute Resolution Policy, the Rules of Procedure and any bye-
+laws, rules and guidelines framed thereunder.
+Rule 12(a) – An Arbitrator shall decide a Complaint on the
+basis of the statements and documents submitted to it and in
+accordance with the Arbitration and Conciliation Act, 1996,
+Dispute Resolution Policy, the Rules of Procedure and any bye-
+laws, rules and guidelines framed thereunder and any law that
+the Arbitrator deems to be applicable."
+21.     Another ground which has been relied by the learned counsel for the
+Petitioner is that there is complete non-application of mind by the learned
+Arbitrator inasmuch as the wrong standard of burden of proof has been
+placed on the Petitioner, requiring him to prove his case beyond reasonable
+doubt and not on the basis of preponderance of probabilities. It has also
+been argued that the complaint filed by the Respondent No.1 before the
+Respondent No.2 was required to make out a prima facie case before the
+burden could have been shifted on the Petitioner herein.
+22.     It has been further pointed out that the learned Arbitrator has
+conducted a "limited but independent search of its own" by reviewing the
+description of business set out in the website of the Petitioner and of
+Respondent No. 1, to find that similarities exist between the services offered
+by both companies, and that for the purposes of this Policy, the
+Respondent's company can be considered a competitor to the Complainant.
+It is in this background that it is posited that the award suffers from multiple
+infirmity.
+23.     The main ground taken by the Petitioner while assailing the arbitral
+award is that the arbitral award is patently illegal and contrary to the
+O.M.P. (COMM) 32/2020                                             Page 10 of 28
+fundamental policy of Indian laws due to the grounds as recorded above.
+The law regarding patent illegality and public policy of India in no more res
+integra and has been authoritatively clarified by the Hon’ble Supreme Court
+in a number of judicial pronouncements. Before delving into the judicial
+decisions, it is pertinent to reproduce the relevant portion of Section 34 of
+the Arbitration Act.
+34. Application for setting aside arbitral award.—(1) Recourse
+to a Court against an arbitral award may be made only by an
+application for setting aside such award in accordance with
+sub-section (2) and subsection (3).
+(2) An arbitral award may be set aside by the Court only if—
+(a) the party making the application [establishes on the
+basis of the record of the arbitral tribunal that]—
+(i) a party was under some incapacity; or
+(ii) the arbitration agreement is not valid under the law
+to which the parties have subjected it or, failing any
+indication thereon, under the law for the time being in
+(iii) the party making the application was not given
+proper notice of the appointment of an arbitrator or of
+the arbitral proceedings or was otherwise unable to
+present his case; or
+(iv) the arbitral award deals with a dispute not
+contemplated by or not falling within the terms of the
+submission to arbitration, or it contains decisions on
+matters beyond the scope of the submission to
+arbitration: Provided that, if the decisions on matters
+submitted to arbitration can be separated from those not
+so submitted, only that part of the arbitral award which
+contains decisions on matters not submitted to
+arbitration may be set aside; or
+(v) the composition of the arbitral tribunal or the
+arbitral procedure was not in accordance with the
+agreement of the parties, unless such agreement was in
+O.M.P. (COMM) 32/2020                                          Page 11 of 28
+conflict with a provision of this Part from which the
+parties cannot derogate, or, failing such agreement, was
+not in accordance with this Part; or
+(i) the subject-matter of the dispute is not capable of
+settlement by arbitration under the law for the time being
+(ii) the arbitral award is in conflict with the public
+policy of India.
+[Explanation 1.—For the avoidance of any doubt, it is
+clarified that an award is in conflict with the public
+policy of India, only if,—
+(i) the making of the award was induced or affected by
+fraud or corruption or was in violation of Section 75 or
+(ii) it is in contravention with the fundamental policy of
+(iii) it is in conflict with the most basic notions of
+morality or justice.
+Explanation 2.—For the avoidance of doubt, the test as to
+whether there is a contravention with the fundamental policy of
+Indian law shall not entail a review on the merits of the
+dispute.
+(2-A) An arbitral award arising out of arbitrations other than
+international commercial arbitrations, may also be set aside
+by the court, if the court finds that the award is vitiated by
+patent illegality appearing on the face of the award:
+Provided that an award shall not be set aside merely on the
+ground of an erroneous application of the law or by
+reappreciation of evidence.]
+24.   In Renusagar Power Co. Ltd. v. General Electric Co., 1994 Supp (1)
+SCC 644, the Hon’ble Supreme Court dealt with a challenge to a foreign
+award under Section 7 of the Foreign Awards (Recognition and
+O.M.P. (COMM) 32/2020                                          Page 12 of 28
+Enforcement) Act, 1961. Though, the Arbitraton Act has repealed the
+Foreign Awards Act but the said judgment is of great importance in
+understanding the parameters of judicial review when it comes to either
+foreign awards or international commercial arbitration seated in India as
+Section 7 of the Foreign Awards Act contained grounds that were borrowed
+from Article V of the Convention on the Recognition and Enforcement of
+Foreign Arbitral Awards, 1958 (the "New York Convention"), which is
+almost in the same terms as Sections 34 and 48 of the Arbitration Act. After
+referring to the New York Convention, the Hon’ble Supreme Court
+delineated the scope of enquiry of grounds under Sections 34/48 (equivalent
+to the grounds under Section 7 of the Foreign Awards Act, which was
+considered by the Court), and held:
+34. Under the Geneva Convention of 1927, in order to obtain
+recognition or enforcement of a foreign arbitral award, the
+requirements of clauses (a) to (e) of Article I had to be fulfilled
+and in Article II, it was prescribed that even if the conditions
+laid down in Article I were fulfilled recognition and
+enforcement of the award would be refused if the Court was
+satisfied in respect of matters mentioned in clauses (a), (b) and
+(c). The principles which apply to recognition and enforcement
+of foreign awards are in substance, similar to those adopted by
+the English courts at common law. (See: Dicey & Morris, The
+Conflict of Laws, 11th Edn., Vol. I, p. 578). It was, however,
+felt that the Geneva Convention suffered from certain defects
+which hampered the speedy settlement of disputes through
+arbitration. The New York Convention seeks to remedy the said
+defects by providing for a much more simple and effective
+method of obtaining recognition and enforcement of foreign
+awards. Under the New York Convention the party against
+whom the award is sought to be enforced can object to
+recognition and enforcement of the foreign award on grounds
+O.M.P. (COMM) 32/2020                                          Page 13 of 28
+set out in sub-clauses (a) to (e) of clause (1) of Article V and
+the court can, on its own motion, refuse recognition and
+enforcement of a foreign award for two additional reasons set
+out in sub-clauses (a) and (b) of clause (2) of Article V. None of
+the grounds set out in sub-clauses ( a ) to ( e) of clause (1) and
+sub- clauses ( a ) and ( b) of clause (2) of Article V postulates a
+challenge to the award on merits.
+37. In our opinion, therefore, in proceedings for enforcement of
+a foreign award under the Foreign Awards Act, 1961, the
+scope of enquiry before the court in which award is sought to
+be enforced is limited to grounds mentioned in Section 7 of the
+Act and does not enable a party to the said proceedings to
+impeach the award on merits.
+65. This would imply that the defence of public policy which is
+permissible under Section 7(1)( b )( ii) should be construed
+narrowly. In this context, it would also be of relevance to
+mention that under Article I(e) of the Geneva Convention Act of
+1927, it is permissible to raise objection to the enforcement of
+arbitral award on the ground that the recognition or
+enforcement of the award is contrary to the public policy or to
+the principles of the law of the country in which it is sought to
+be relied upon. To the same effect is the provision in Section
+7(1) of the Protocol & Convention Act of 1837 which requires
+that the enforcement of the foreign award must not be contrary
+to the public policy or the law of India. Since the expression
+―public policy‖ covers the field not covered by the words ―and
+the law of India‖ which follow the said expression,
+contravention of law alone will not attract the bar of public
+policy and something more than contravention of law is
+required.
+66. Article V(2)(b) of the New York Convention of 1958 and
+Section 7(1)(b)(ii) of the Foreign Awards Act do not postulate
+refusal of recognition and enforcement of a foreign award on
+the ground that it is contrary to the law of the country of
+O.M.P. (COMM) 32/2020                                           Page 14 of 28
+enforcement and the ground of challenge is confined to the
+recognition and enforcement
+25.   Alan Redfern & Martin Hunter in Law and Practice of
+International Commercial Arbitration, 2nd Edn., p. 461 have made a similar
+―The New York Convention does not permit any review on the
+merits of an award to which the Convention applies and, in this
+respect, therefore, differs from the provisions of some systems
+of national law governing the challenge of an award, where an
+appeal to the courts on points of law may be permitted.‖
+26.   Albert Jan van den Berg in his treatise The New York Arbitration
+Convention of 1958 : Towards a Uniform Judicial Interpretation, has
+expressed the following view:
+―It is a generally accepted interpretation of the Convention
+that the court before which the enforcement of the foreign
+award is sought may not review the merits of the award. The
+main reason is that the exhaustive list of grounds for refusal of
+enforcement enumerated in Article V does not include a
+mistake in fact or law by the arbitrator. Furthermore, under the
+Convention the task of the enforcement judge is a limited one.
+The control exercised by him is limited to verifying whether an
+objection of a respondent on the basis of the grounds for
+refusal of Article V(1) is justified and whether the enforcement
+of the award would violate the public policy of the law of his
+country. This limitation must be seen in the light of the
+principle of international commercial arbitration that a
+national court should not interfere with the substance of the
+arbitration.”
+27.    In International Commercial Arbitration by Gary B. Born (Wolters
+Kluwer, Second Ed., 2014) [“Gary Born”], the learned author deals with
+the proposition in the following manner:
+“[12] No Judicial Review of Merits of Foreign or Non
+Domestic Awards in Recognition Actions
+It is an almost sacrosanct principle of international arbitration
+that courts will not review the substance of arbitrators‘
+decisions contained in foreign or nondomestic arbitral awards
+in recognition proceedings. Virtually every authority
+acknowledges this rule and virtually nobody suggests that this
+principle should be abandoned. When national courts do
+review the merits of awards, they labour to categorize their
+action as an application of public policy, excess of authority, or
+some other Article V exception, rather than purporting to
+justify a review of the merits.
+[a] No Judicial Review of Awards Under New York and Inter-
+Neither the New York Convention nor the Inter American
+Convention contains any exception permitting non-enforcement
+of an award simply because the arbitrators got their decision
+on the substance of the parties‘ dispute wrong, or even badly
+wrong. This is reasonably clear from the language of the
+Convention, which makes no reference to the possibility of a
+review of the merits in Article V‘s exhaustive list of the
+exclusive grounds for denying recognition of foreign and
+nondomestic awards. There is also no hint in the New York
+Convention‘s drafting history of any authority to reconsider the
+merits of an arbitral award in recognition proceedings.
+Likewise, the prohibition against review of the merits of the
+arbitrator‘s decision is one of the most fundamental pillars of
+national court authority interpreting the Convention. This
+prohibition has repeatedly and uniformly been affirmed by
+national courts, in both common law and civil law
+jurisdictions. Simply put: ―the court may not refuse to enforce
+an arbitral award solely on the ground that the arbitrator may
+have made a mistake of law or fact‖ [Karaha Bodas Co. LLC
+O.M.P. (COMM) 32/2020                                           Page 16 of 28
+v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara,
+364 F.3d 274, 287-88 (5th Cir. 2004)]. Thus, in the words of
+the Luxembourg Supreme Court [Judgment of 24 November
+Supérieure de Justice) (1996)]:
+―The New York Convention does not provide for any control on
+the manner in which the arbitrators decide on the merits, with
+as the only reservation, the respect of international public
+policy. Even if blatant, a mistake of fact or law, if made by the
+arbitral tribunal, is not a ground for refusal of enforcement of
+the tribunal‘s award.‖
+Or, as a Brazilian recognition decision under the Convention
+held [Judgment of 19 August 2009, Atecs Mannesmann GmbH
+v. Rodrimar S/A Transportes Equipamentos Industriais e
+Tribunal de Justiça) (2010)]:
+―these questions pertain to the merits of the arbitral award
+that, according to precedents from the Federal Supreme Court
+and of this Superior Court of Justice, cannot be reviewed by
+this Court since recognition and enforcement of a foreign
+award is limited to an analysis of the formal requirements of
+the award.‖
+Commentators have uniformly adopted the same view of the
+Convention [See, for e.g., K.-H. Böckstiegel, S. Kröll & P.
+Nacimiento, Arbitration in Germany 452 (2007)].‖
+28.   In Ssangyong Enginerring & Construction Co. Ltd vs. National
+Highway Authority of India, (2019) 15 SCC 131, the Hon’ble Supreme
+Court while explaining the scope of the expression ‘Public Policy of India’
+made the following pertinent observations:
+―23. What is clear, therefore, is that the expression ―public
+policy of India‖, whether contained in Section 34 or in Section
+48, would now mean the ―fundamental policy of Indian law‖ as
+explained in paragraphs 18 and 27 of Associate Builders
+(supra), i.e., the fundamental policy of Indian law would be
+O.M.P. (COMM) 32/2020                                          Page 17 of 28
+relegated to the ―Renusagar‖ understanding of this expression.
+This would necessarily mean that the Western Geco (supra)
+expansion has been done away with. In short, Western Geco
+(supra), as explained in paragraphs 28 and 29 of Associate
+Builders (supra), would no longer obtain, as under the guise of
+interfering with an award on the ground that the arbitrator has
+not adopted a judicial approach, the Court‘s intervention
+would be on the merits of the award, which cannot be permitted
+post amendment. However, insofar as principles of natural
+justice are concerned, as contained in Sections 18 and
+34(2)(a)(iii) of the 1996 Act, these continue to be grounds of
+challenge of an award, as is contained in paragraph 30 of
+25. Thus, it is clear that public policy of India is now
+constricted to mean firstly, that a domestic award is contrary to
+the fundamental policy of Indian law, as understood in
+paragraphs 18 and 27 of Associate Builders (supra), or
+secondly, that such award is against basic notions of justice or
+morality as understood in paragraphs 36 to 39 of Associate
+Builders (supra). Explanation 2 to Section 34(2)(b)(ii) and
+Explanation 2 to Section 48(2)(b)(ii) was added by the
+Amendment Act only so that Western Geco (supra), as
+understood in Associate Builders (supra), and paragraphs 28
+and 29 in particular, is now done away with.
+26. Insofar as domestic awards made in India are concerned,
+an additional ground is now available under sub-section (2A),
+added by the Amendment Act, 2015, to Section 34. Here, there
+must be patent illegality appearing on the face of the award,
+which refers to such illegality as goes to the root of the matter
+but which does not amount to mere erroneous application of
+the law. In short, what is not subsumed within ―the
+fundamental policy of Indian law‖, namely, the contravention
+of a statute not linked to public policy or public interest, cannot
+be brought in by the backdoor when it comes to setting aside an
+award on the ground of patent illegality.
+O.M.P. (COMM) 32/2020                                            Page 18 of 28
+27. Secondly, it is also made clear that re-appreciation of
+evidence, which is what an appellate court is permitted to do,
+cannot be permitted under the ground of patent illegality
+appearing on the face of the award.
+28. To elucidate, paragraph 42.1 of Associate Builders (supra),
+namely, a mere contravention of the substantive law of India,
+by itself, is no longer a ground available to set aside an
+arbitral award. Paragraph 42.2 of Associate Builders (supra),
+however, would remain, for if an arbitrator gives no reasons
+for an award and contravenes Section 31(3) of the 1996 Act,
+that would certainly amount to a patent illegality on the face of
+the award.
+30. What is important to note is that a decision which is
+perverse, as understood in paragraphs 31 and 32 of Associate
+Builders (supra), while no longer being a ground for challenge
+under ―public policy of India‖, would certainly amount to a
+patent illegality appearing on the face of the award. Thus, a
+finding based on no evidence at all or an award which ignores
+vital evidence in arriving at its decision would be perverse and
+liable to be set aside on the ground of patent illegality.
+Additionally, a finding based on documents taken behind the
+back of the parties by the arbitrator would also qualify as a
+decision based on no evidence inasmuch as such decision is not
+based on evidence led by the parties, and therefore, would also
+have to be characterised as perverse.
+31. Given the fact that the amended Act will now apply, and
+that the “patent illegality” ground for setting aside arbitral
+awards in international commercial arbitrations will not
+apply..............‖
+29.    Here, it is pertinent to elaborate the meaning of the ‘Fundamental
+Policy of Indian Law’, as the Petitioner has taken a plea that the impugned
+arbitral award is contrary to the fundamental policy of Indian Law and
+hence, being opposed to the Public Policy of India.
+O.M.P. (COMM) 32/2020                                          Page 19 of 28
+30.   In Associate Builders vs. Delhi Development Authority, (2015) 3
+SCC 49, the Hon’ble Supreme Court clarified the meaning and scope of
+‗Fundamental Policy of Indian Law‘ in the context of Section 34 of the
+Arbitration Act in the following manner:
+―28. In a recent judgment, ONGC Ltd. v. Western Geco
+International Ltd., 2014 (9) SCC 263, this Court added three
+other distinct and fundamental juristic principles which must be
+understood as a part and parcel of the fundamental policy of
+Indian law. The Court held-
+―35. What then would constitute the ―fundamental policy
+of Indian law‖ is the question. The decision in ONGC
+[ONGC Ltd. v. Saw Pipes Ltd., (2003) 5 SCC 705] does
+not elaborate that aspect. Even so, the expression must,
+in our opinion, include all such fundamental principles
+as providing a basis for administration of justice and
+enforcement of law in this country. Without meaning to
+exhaustively enumerate the purport of the expression
+―fundamental policy of Indian law‖, we may refer to
+three distinct and fundamental juristic principles that
+must necessarily be understood as a part and parcel of
+the fundamental policy of Indian law. The first and
+foremost is the principle that in every determination
+whether by a court or other authority that affects the
+rights of a citizen or leads to any civil consequences, the
+court or authority concerned is bound to adopt what is in
+legal parlance called a ―judicial approach‖ in the
+matter. The duty to adopt a judicial approach arises
+from the very nature of the power exercised by the court
+or the authority does not have to be separately or
+additionally enjoined upon the fora concerned. What
+must be remembered is that the importance of a judicial
+approach in judicial and quasi-judicial determination
+lies in the fact that so long as the court, tribunal or the
+authority exercising powers that affect the rights or
+obligations of the parties before them shows fidelity to
+O.M.P. (COMM) 32/2020                                           Page 20 of 28
+judicial approach, they cannot act in an arbitrary,
+capricious or whimsical manner. Judicial approach
+ensures that the authority acts bona fide and deals with
+the subject in a fair, reasonable and objective manner
+and that its decision is not actuated by any extraneous
+consideration. Judicial approach in that sense acts as a
+check against flaws and faults that can render the
+decision of a court, tribunal or authority vulnerable to
+challenge.
+38. Equally important and indeed fundamental to the
+policy of Indian law is the principle that a court and so
+also a quasijudicial authority must, while determining
+the rights and obligations of parties before it, do so in
+accordance with the principles of natural justice.
+Besides the celebrated audi alteram partem rule one of
+the facets of the principles of natural justice is that the
+court/authority deciding the matter must apply its mind
+to the attendant facts and circumstances while taking a
+view one way or the other. Non-application of mind is a
+defect that is fatal to any adjudication. Application of
+mind is best demonstrated by disclosure of the mind and
+disclosure of mind is best done by recording reasons in
+support of the decision which the court or authority is
+taking. The requirement that an adjudicatory authority
+must apply its mind is, in that view, so deeply embedded
+in our jurisprudence that it can be described as a
+fundamental policy of Indian law.
+39. No less important is the principle now recognised as
+a salutary juristic fundamental in administrative law that
+a decision which is perverse or so irrational that no
+reasonable person would have arrived at the same will
+not be sustained in a court of law. Perversity or
+irrationality of decisions is tested on the touchstone of
+Wednesbury principle of reasonableness. Decisions that
+fall short of the standards of reasonableness are open to
+challenge in a court of law often in writ jurisdiction of
+O.M.P. (COMM) 32/2020                                         Page 21 of 28
+the superior courts but no less in statutory processes
+wherever the same are available.
+40. It is neither necessary nor proper for us to attempt
+an exhaustive enumeration of what would constitute the
+fundamental policy of Indian law nor is it possible to
+place the expression in the straitjacket of a definition.
+What is important in the context of the case at hand is
+that if on facts proved before them the arbitrators fail to
+draw an inference which ought to have been drawn or if
+they have drawn an inference which is on the face of it,
+untenable resulting in miscarriage of justice, the
+adjudication even when made by an Arbitral Tribunal
+that enjoys considerable latitude and play at the joints in
+making awards will be open to challenge and may be
+cast away or modified depending upon whether the
+offending part is or is not severable from the rest.‖
+31. The third juristic principle is that a decision which is
+perverse or so irrational that no reasonable person would have
+arrived at the same is important and requires some degree of
+explanation. It is settled law that where:
+1. a finding is based on no evidence, or
+2. an arbitral tribunal takes into account something
+irrelevant to the decision which it arrives at; or
+3. ignores vital evidence in arriving at its decision,
+such decision would necessarily be perverse.
+33. It must clearly be understood that when a court is applying
+the ―public policy‖ test to an arbitration award, it does not act
+as a court of appeal and consequently errors of fact cannot be
+corrected. A possible view by the arbitrator on facts has
+necessarily to pass muster as the arbitrator is the ultimate
+master of the quantity and quality of evidence to be relied upon
+when he delivers his arbitral award. Thus an award based on
+little evidence or on evidence which does not measure up in
+quality to a trained legal mind would not be held to be invalid
+on this score1 . Once it is found that the arbitrators approach
+O.M.P. (COMM) 32/2020                                             Page 22 of 28
+is not arbitrary or capricious, then he is the last word on
+facts......‖
+31.    Therefore, what really transpires herein is that first, the learned
+arbitrator must have taken a judicial approach; secondly, the principles of
+natural justice must have been adhered; thirdly, the decision must not been
+perverse.
+32.    In R vs. Northumberland Compensation Appeal Tribunal. Ex Parte
+Shaw, 1952 1 All ER 122, Lord Denning made the following pertinent
+―Leaving now the statutory tribunals, I turn to the awards of
+the arbitrators. The Court of King's Bench never interfered by
+certiorari with the award of an arbitrator, because it was a
+private tribunal and not subject to the prerogative writs. If the
+award was not made a rule of court, the only course available
+to an aggrieved party was to resist an action on the award or
+to file a bill in equity. If the award was made a rule of court, a
+motion could be made to the court to set it aside for misconduct
+of the arbitrator on the ground that it was procured by
+corruption or other undue means: see the statute 9 and 10 Will.
+III, c. 15. At one time an award could not be upset on the
+ground of error of law by the arbitrator because that could not
+be said to be misconduct or undue means, but ultimately it was
+held in Kent v. Elstob, (1802) 3 East 18, that an award could
+be set aside for error of law on the face of it. This was
+regretted by Williams, J., in Hodgkinson v. Fernie, (1857) 3
+C.B.N.S. 189, but is now well established.‖
+33.    The Privy Council in Champsey Bhara Company vs. The Jivraj
+Balloo Spinning and Weaving Company Ltd., AIR 1923 PC 66, held as
+O.M.P. (COMM) 32/2020                                           Page 23 of 28
+―The law on the subject has never been more clearly stated
+than by Williams, J. in the case of Hodgkinson v. Fernie (1857)
+―The law has for many years been settled, and remains so at
+this day, that, where a cause or matters in difference are
+referred to an arbitrator a lawyer or a layman, he is
+constituted the sole and final judge of all questions both of law
+and of fact …… The only exceptions to that rule are cases
+where the award is the result of corruption or fraud, and one
+other, which though it is to be regretted, is now, I think firmly
+established viz., where the question of law necessarily arises on
+the face of the award or upon some paper accompanying and
+forming part of the award. Though the propriety of this latter
+may very well be doubted, I think it may be considered as
+established.
+Now the regret expressed by Williams, J. in Hodgkinson v.
+Fernie has been repeated by more than one learned Judge, and
+it is certainly not to be desired that the exception should be in
+any way extended. An error in law on the face of the award
+means, in their Lordships‘ view, that you can find in the award
+or a document actually incorporated thereto, as for instance, a
+note appended by the arbitrator stating the reasons for his
+judgment, some legal proposition which is the basis of the
+award and which you can then say is erroneous. It does not
+mean that if in a narrative a reference is made to a contention
+of one party that opens the door to seeing first what that
+contention is, and then going to the contract on which the
+parties‘ rights depend to see if that contention is sound. Here it
+is impossible to say, from what is shown on the face of the
+award, what mistake the arbitrators made. The only way that
+the learned judges have arrived at finding what the mistake
+was is by saying: ―Inasmuch as the Arbitrators awarded so and
+so, and inasmuch as the letter shows that then buyer rejected
+the cotton, the arbitrators can only have arrived at that result
+by totally misinterpreting Cl.52.‖ But they were entitled to give
+their own interpretation to Cl. 52 or any other article, and the
+O.M.P. (COMM) 32/2020                                          Page 24 of 28
+award will stand unless, on the face of it they have tied
+themselves down to some special legal proposition which then,
+when examined, appears to be unsound. Upon this point,
+therefore, their Lordships think that the judgment of Pratt, J
+was right and the conclusion of the learned Judges of the Court
+of Appeal erroneous.‖
+34.   The Hon’ble Supreme Court in Associate Builders vs. Delhi
+Development Authority (supra), while explaining the meaning an scope of
+Patent Illegality held as follows:
+―42. In the 1996 Act, this principle is substituted by the ‗patent
+illegality‘ principle which, in turn, contains three sub heads –
+42.1 (a) a contravention of the substantive law of India would
+result in the death knell of an arbitral award. This must be
+understood in the sense that such illegality must go to the root
+of the matter and cannot be of a trivial nature. This again is a
+really a contravention of Section 28(1)(a) of the Act, which
+―28. Rules applicable to substance of dispute.—(1)
+Where the place of arbitration is situated in India,— (a)
+in an arbitration other than an international commercial
+arbitration, the arbitral tribunal shall decide the dispute
+submitted to arbitration in accordance with the
+substantive law for the time being in force in India;‖
+42.2 (b) a contravention of the Arbitration Act itself would be
+regarded as a patent illegality- for example if an arbitrator
+gives no reasons for an award in contravention of section 31(3)
+of the Act, such award will be liable to be set aside.
+42.3 (c) Equally, the third sub-head of patent illegality is really
+a contravention of Section 28 (3) of the Arbitration Act, which
+―28. Rules applicable to substance of dispute.— (3) In
+all cases, the arbitral tribunal shall decide in
+accordance with the terms of the contract and shall take
+into account the usages of the trade applicable to the
+transaction.‖
+This last contravention must be understood with a caveat. An
+arbitral tribunal must decide in accordance with the terms of
+the contract, but if an arbitrator construes a term of the
+contract in a reasonable manner, it will not mean that the
+award can be set aside on this ground. Construction of the
+terms of a contract is primarily for an arbitrator to decide
+unless the arbitrator construes the contract in such a way that
+it could be said to be something that no fair minded or
+reasonable person could do.
+35.   This Court is conscious of the statutory injunction envisaged under
+Section 34(2A) read with Section 2(1)(f) of the Arbitration that the ground
+of ‘patent illegality‘ in setting aside an arbitral award is not available in the
+case of international commercial arbitrations. It is important to reproduce
+Section 2(1)(f) of the Arbitration Act.
+(f) ―international commercial arbitration‖ means an
+arbitration relating to disputes arising out of legal
+relationships, whether contractual or not, considered as
+commercial under the law in force in India and where at least
+one of the parties is—
+(i) an individual who is a national of, or habitually resident in,
+any country other than India; or
+(ii) a body corporate which is incorporated in any country
+other than India; or
+(iii) [* * *] an association or a body of individuals whose
+central management and control is exercised in any country
+other than India; or
+(iv) the Government of a foreign country;
+36.   Accordingly, as the award in the present case arises out of
+International Commercial Arbitration seated in India, the Petitioner could
+not be said to have the benefit of the ‘ground of patent illegality‘ to assail
+the impugned arbitral award under Section 34 of the Arbitration Act.
+O.M.P. (COMM) 32/2020                                             Page 26 of 28
+37.    I am unable to subscribe to the submissions made by the learned
+counsel for the Petitioner. The Petitioner has failed to show that the arbitral
+award has been passed by not taking a judicial approach; or the award is
+based on no evidence. Merely, because an application of Trademark
+Registration has been given a passing reference by the Arbitrator cannot
+inevitably lead to the conclusion that the principles of natural justice have
+not been complied with and the award is rendered as perverse. This Court is
+satisfied that there has been no violation of Rules 8(a) and 12(a) of the
+INDRP Rules. This court is conscious that it is not sitting in appeal over the
+arbitral award and hence, do not find any merit on the argument of the
+Petitioner that the conclusion reached by the learned arbitrator to the effect
+that the Disputed Domain Name registered by the Petitioner is identical is
+perverse or contrary to the fundamental policy of Indian Law. This Court is
+also satisfied that the arbitrator has reached a right conclusion to the effect
+that the mark ‘sproxil’ has been in use by the Respondent No.1 since 2011,
+on the basis of materials on record. Another ground taken is that the
+arbitrator has placed wrong burden of proof on the Petitioner while
+appreciating evidence inasmuch as the arbitrator held that the Petitioner has
+not been able to prove beyond doubt that it was making a non-commercial
+use. The relevant portion of the award is reproduced below:
+―This, the Respondent contends, establishes that no
+commercial gain was received by the Respondent through the
+domain name. However, a detailed review of the screenshot
+provided by the Complainant- and relied upon by the
+Respondent as well- does not reveal any evidence which could
+beyond doubt establish that the Respondent was/is making a
+non-commercial use of the domain name.‖
+O.M.P. (COMM) 32/2020                                           Page 27 of 28
+38.    I am unable to agree to the interpretation as has been provided by the
+Petitioner as the terminology used by the arbitrator cannot be equated with
+legal term ‘beyond reasonable doubt‘ as is used in the criminal trial. I am
+also unable to agree with the submission of the Petitioner that the arbitrator
+has wrongly applied paragraph 6(i) of the INDRP Policy as even if the
+submission of the Petitioner is accepted, then merely because there has been
+wrong application of law not leading to perversity cannot lead to the setting
+aside of the arbitral award.
+39.    The Petitioner has failed to corroborate with evidence how the
+learned arbitrator’s finding regarding the similarity of the disputed domain
+name is contrary to the public policy of India. Even if the submissions of the
+Petitioner qua patent illegality in the award is accepted, then also no ground
+has been made out to set aside the award inasmuch as the threshold to
+interfere in an arbitral award has not been made out.
+40.    In view of the above discussion of facts and law, the present petition
+does not have any substance to warrant interference by this Court under
+Section 34 of the Arbitration Act.
+41.    Accordingly, the instant petition being bereft of any merit is
+dismissed along with pending applications, if any.
+42.    The order be uploaded on the website forthwith.

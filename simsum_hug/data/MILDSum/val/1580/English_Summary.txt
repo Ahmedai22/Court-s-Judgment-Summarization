@@ -1,0 +1,40 @@
+"Exception 3 does not deal with the claim period. It deals with right of the creditor to enforce his rights under the bank guarantee"In an important judgment, the Delhi High Court has interpreted Exception 3 to Section 28 of the Indian Contract Act 1872 to hold that it does not deal with 'claim period' under Bank Guarantees. The Court held that this provision deal with the curtailment of the period for the creditor to approach the court or tribunal to enforce the rights under the bank guarantee."It is clear that Exception 3...
+In an important judgment, the Delhi High Court has interpreted Exception 3 to Section 28 of the Indian Contract Act 1872 to hold that it does not deal with 'claim period' under Bank Guarantees. The Court held that this provision deal with the curtailment of the period for the creditor to approach the court or tribunal to enforce the rights under the bank guarantee.
+"It is clear that Exception 3 to Section 28 of the Contract Act deals with curtailment of the period for the creditor to approach the court/tribunal to enforce his rights. It does not in any manner deal with the claim period within which the beneficiary is entitled to lodge his claim with the bank/guarantor", the judgment authored by Justice Jayant Nath held. 
+The consequence of this interpretation is that banks cannot insist that the claim period in bank guarantees should be a minimum of 12 months.
+"Claim Period" is a time period contractually agreed upon between the creditor and principal debtor, which provides a grace period beyond the validity period of the guarantee to make a demand on the bank for a default, which occurred during the validity period.
+Section 28 of the Contract Act holds,among other things, that agreements which impose a time limit for initiating legal proceedings to enforce contractual rights are void. However, Exception 3 to Section 28, which was added by the amendment made in 2013, saves the stipulations made by banks or financial institutions in bank guarantees for extinguishment of rights or discharge of liability after the expiry of the specified period. Exception 3 also adds that such specified period should not be less than one year. 
+Interpreting Exception 3 to Section 28, the Indian Banks Association issued circulars in 2017 and 2018 stating that 'claim periods' in bank guarantees which are less than 12 months will be void. Based on this circular, the Punjab National Bank issued a communication to infrastructure giant Larsen & Toubro  forcing a mandatory and an unalterable claim period of a minimum 12 months for the bank guarantee. 
+The  fallout of such an interpretation is that L&T is  made liable to pay commission charges for such extended bank guarantee though as per the contract between the principal debtor and the creditor, the claim period would be much shorter than 12 months. In addition, the borrower also become liable to maintain collateral security for supporting such extended claim period. 
+ In this background, L&T filed a writ petition in the Delhi High Court challenging the communication of PNB and the circulars of IBA. It was argued that the extended claim period effects the petitioners' capability to do business by entering into new contracts and effects the fundamental rights of the petitioners under Article 19(1)(g) of the Constitution of India.
+Justice Jayanth Nath, who considered the petition, elaborately discussed the legislative history of Section 28 and the various recommendations made by the Law Commission of India to understand the true intent of Exception 3 to Section 28.
+"The above narration of the historical facts leading to the present Section 28 of the Contract Act clearly demonstrates that Exception 3 to Section 28 of the Contact Act deals with the rights of a creditor to enforce his rights under the bank guarantee after happening of a specified event", the judgment stated.,
+The Court also noted that the PNB, in its counter-affidavit, has admitted to this legal position.  There is a clear admission that Exception 3 to section 28 of the Contact Act deals with the period within which the beneficiary is to approach an appropriate court to raise its claim. 
+"Exception 3 does not deal with the claim period i.e. the extended period within which the beneficiary can invoke the bank guarantee after expiry of the validity of the bank guarantee for a default  that occurred during the validity period", the Court said.
+The High Court also referred to the Supreme Court judgment in Union of India & Anr. vs. Indusind Bank & Anr.
+"It is clear that respondent No. 1(PNB) is erroneously of the view that they are in law mandated to stipulate a claim period of 12 months in the bank guarantee failing which the clause shall be void under Section 28 of the Contract Act. 
+As noted above, Section 28 of the Contract Act does not deal with the said claim period. It deals with right of the creditor to enforce his rights under the bank guarantee in case of refusal by the guarantor to pay  before an appropriate court or tribunal", the Court reiterated.
+In conclusion, the Court held that the Circulars of the Indian Bank Association issued in 2017 and 2018 and the communication issued by the PNB as erroneous.
+Case :  Larsen and Toubro Ltd & Another Versus Punjab National Bank and Another
+Appearances :  For L&T :  Mr.Neeraj Kishan Kaul, Sr.Adv. with Mr.Rishi Agrawala, Mr.Karan Luthra, Ms.Megha Bengani, Mr.Deepak Joshi and Mr.Aakash Lamba, Advs.
+For PNB :  Mr.Dhruv Mehta, Sr.Adv. with Mr.Rajesh Gautam, Mr.Anant Gautam and Mr.Nipun Sharma, Advs.
+For IBA : Dr.Lalit Bhasin, Ms.Nina Gupta, Ms.Ananya Marwah, Ms.Ruchika Joshi  and Mr.Ajay Pratap Singh, Advs
+For RBI : Mr.Ramesh Babu, Ms.Nisha Sharma and Ms.Tanya Chowdhary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

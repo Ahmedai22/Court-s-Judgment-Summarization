@@ -1,0 +1,20 @@
+The Delhi High Court has held that mere use of the word 'can' in an arbitration clause does not render it ineffective and the intention of the parties to go for arbitration is to be determined on a complete reading of the clause and relevant clauses. The Bench of Justice Prateek Jalan reiterated that exclusive jurisdiction clause would override a venue clause, therefore, the court...
+The Delhi High Court has held that mere use of the word 'can' in an arbitration clause does not render it ineffective and the intention of the parties to go for arbitration is to be determined on a complete reading of the clause and relevant clauses.
+ The Bench of Justice Prateek Jalan reiterated that exclusive jurisdiction clause would override a venue clause, therefore, the court which has been conferred the exclusive jurisdiction will decide all arbitration applications arising out of the contract. 
+ Facts
+ The parties entered into a dealership agreement dated 05.09.2016 whereby the Shah Aircon (Respondent) was to act as the authorised dealer for Panasonic (Petitioner). A dispute arose between the parties related to certain unpaid invoices by the respondent and supply of goods by the petitioner to a third party in contravention of the agreement. 
+ On 20.08.2020, the respondent issued a legal notice to the petitioner alleging breach of the contract by the petitioner by selling goods to an unauthorized third party and the bills were raised in the name of respondent. Thereafter, the parties exchanged few communications which ultimately led to issuance of notice of arbitration. The respondent replied to the notice of arbitration and raised certain objection regarding the maintainability of arbitration. Consequently, the petitioner issued a notice of arbitration. 
+ Grounds of Objections
+ The respondent objected to the maintainability of the petition on the following grounds:
+ The Court does not have the jurisdiction as the invoices out of which the dispute arises designate Gurugram as the seat of arbitration.There is no valid arbitration agreement between the parties as the clause only used the word 'can' which only provides for a possibility of arbitration. The claims of the petitioner are barred by limitation as they arose in the year 2017 and the arbitration notice was given on 29.09.2021.
+ Analysis by the Court
+ The Court held that the agreement between the parties conferred exclusive jurisdiction on the Courts at New Delhi and specifically for the parties to have recourse to this Court, for appointment of an arbitrator. As against this, the arbitration clause in the invoices, only provides for the venue of the arbitration. 
+ The Court held that exclusive jurisdiction clause would override the venue given under the invoices, therefore, the objection raised by the respondent is unmerited. 
+ Next, the Court decided upon the issue of the use of word 'can' in the arbitration clause. The Court held that mere use of the word can would not render the arbitration clause ineffective. It held that an arbitration clause is to be interpreted as a whole along with the other relevant clauses. 
+ The Court held that the remainder of the clause, insofar as it refers to the venue of arbitration, the language of arbitration, the applicability of the Act, the requirement to give reasons, and the procedure for appointment of an arbitrator by reference to Court, also supports the view that the parties intended a mandatory reference to arbitration.
+ The Court then rejected the argument regarding the limitation aspect. The Court held that both the parties have disputed the limitation aspect, therefore, the disputed facts are only to be decided by the arbitrator. 
+ Accordingly, the Court allowed the petition and appointed the arbitrator. 
+ Case Title: Panasonic India Pvt. Ltd. v. Shah Aircon
+ Counsel for the Petitioner: Mr. Kunal Kher, Advocate.
+ Counsel for the Respondent: Mr. Zahid Hanief, Advocate.
+ 

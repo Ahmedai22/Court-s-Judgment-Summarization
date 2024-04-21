@@ -1,0 +1,382 @@
+1.     Petitioners claim to be engaged in the business of designing,
+developing, manufacturing, marketing and/or sale of telecommunications
+related products worldwide. According to petitioners, Bharat Sanchar
+Nigam Limited (BSNL) invited bids for planning, supply, installation
+and commissioning of IMPCS 20/30 Combo Network (Phase V) vide
+tender No.: MM/CMTS/032006/000301 dated 22.03.2006 and B&CCS
+(Billing and Customer Care System including DR) and COTS Solution,
+which were part of overall IMPCS 20/30 network (Phase V) solution
+designed by petitioners, were to be delivered to the BSNL as per tender
+specifications and requirement. For this purpose, petitioners entered into
+PACCHNHW09032002 RUA dated 20.03.2009 with the respondent.
+2.     During the course of hearing, learned counsel for the petitioners
+submitted that Clause 4.4 of the Agreement clearly stipulated that time is
+of the essence under the agreement and the respondent is obligated to
+follow the project time line and ensure that no delay is there in supply
+and implementation; Clause 4.5 of Agreement stipulated that the
+respondent was to provide (one) year Operation and Maintenance
+support; Clauses 4.6 and 10.3 of the Agreements read with Clause 1.2.1
+stipulated that respondent was required to provide three years’ 7X24
+warranty services from the date of commissioning of the complete
+network in the service area. It was also submitted that respondent was
+responsible for bearing all the expenses for repair and replacement of the
+supplied solution and provide the same free of charge to the petitioners
+during the subsistence of the warranty period. It was also stipulated in
+both the Agreements that in case BSNL imposes any penalty on the
+petitioners due to delay in restoration/replacement/fixing of the fault with
+B&CCS and COTS solution, the respondent shall pay the complete
+penalty imposed and also if the respondent has to get the defects
+remedied from a third party, that shall be at complete risk and expense of
+the respondent.
+3.     Learned counsel for the petitioners further submitted that based on
+the aforesaid agreements and assurances, the petitioners issued four
+purchase orders to respondent for hardware implementation, integration
+of B&CCS and other components, integration of new element with
+billing system and performance tuning with expanded billing system,
+disaster recovery and business continuity system, application, software,
+drives, modem, printer, web based application with customizable OUI
+for data analysis and COTS package. According to petitioners, the
+aforesaid work was commissioned after a delay on 25.06.2012 and was
+valid till 24.06.2013 and the associated warranted for complete
+solution/products supplied was valid till 24.06.2015.
+4.     Learned counsel next submitted that during the subsistence of
+warranty period under the said agreements, BSNL raised several issues
+with regard to solution and products supplied by the respondent,
+however, respondent in direct breach of its contractual obligation did not
+rectify/resolve certain issues. Several e-mails and communications were
+made by the petitioners to the respondent during that one year requesting
+respondent to fix the issues and admittedly, in a few of the
+communications, respondent acknowledged the pending issues and
+assured the petitioners that all the issues will be resolved/rectified. In
+order to rectify the defects and due to inaction of respondent, petitioners
+engaged a Third-Party Vendor and in terms of the agreements, the third
+party vendor was wholly at the risk and cost of respondent and the same
+was informed to the respondent.
+5.     According to counsel for petitioners, thereafter meetings were held
+between petitioners and respondent on 26.10.2016; 06.12.2016;
+15.11.2018 and 27.11.2018 wherein respondent always assured the
+petitioners that their team will check the claims of petitioners and revert,
+however, respondent failed to perform its contractual obligation.
+6.     Learned counsel further submitted that due to non-resolution/
+rectification of open/pending issues with the Servers and Storage, BSNL
+imposed penalty amounting to INR3,62,46,055 on petitioners for the
+period 2015-2017, which accrued only due to voluntary inaction, breach
+of warranty terms and non-adherence to contractual obligations by the
+respondent. Additionally, BSNL has withheld Huawei's Bank Guarantee
+(BG) amounting to INR7,72,23,487, which may be encashed by BSNL
+due to inaction of respondent.
+7.     Further, during subsistence of the Agreements respondent did not
+avail technical support from ORACLE and petitioners got to know about
+it only when it demanded the complete payment of Technical Support
+charges from December 2010 onwards from the petitioners before
+providing any further service, which respondent is solely liable to pay.
+8.     Learned counsel for petitioners next submitted that due to
+respondent’s inaction to resolve the issues with BSNL and upon failure
+of discussions between the parties, petitioners sent Legal Notice dated
+21.12.2018 to respondent to come up with resolution plan within seven
+days. Though the said letter was replied by the respondent vide
+communication dated 03.01.2019, however, it only stated that the
+detailed response shall follow, which respondent never did. Thereafter,
+petitioners were constrained to send legal notice dated 14.03.2019 to
+respondent invoking arbitration under Clause 18 of the Agreements and
+proposed name of Justice (Retd.) R.C. Chopra as the sole arbitrator to
+adjudicate the disputes and called upon the respondent to consent to the
+same. However, the said communication was not replied to and therefore,
+this petition has been filed seeking appointment of sole Arbitrator by this
+9.     On the other hand, learned counsel appearing on behalf of
+respondent submitted that the disputes between the parties are not at all
+arbitrable and hence, the present petition deserves outright rejection.
+Learned counsel submitted that the claims raised by the petitioners are
+highly time barred, which purportedly pertain to Agreements dated
+20.03.2009, according to which respondent were to provide warranty
+services for three years and the cause of action is not a continuous cause
+of action and also that the maximum period of three years under the
+limitation expired in December, 2017 and, therefore, the present petition
+deserves to be rejected on the point of limitation alone. Learned counsel
+submitted that even if it is assumed that the purported e-mails were
+exchanged between the parties, yet the e-mail was written by the
+respondent in the year 2016 and notice invoking arbitration by the
+petitioners is of the year 2019 and thereby, this petition fails on
+10.    Reliance was placed upon Hon’ble Supreme Court’s decision
+dated 06.03.2021 in BSNL Vs. Nortel Networks (India) (P) Ltd., (2021)
+5 SCC 738 to submit that merely by exchange of letters and discussions,
+period of limitation for issuing of notice invoking arbitration, shall not be
+extended and also that Section 5 to 20 of the Limitation Act do not
+exclude the time taken on settlement discussions. Reliance was also
+placed upon another decision of Hon’ble Supreme Court in Geo Miller
+SCC 643 to submit that petition under Section 11(6) of the Act was
+rejected as the claims were hopelessly time barred.
+11.    It was submitted by learned counsel for respondent that by filing
+this petition, petitioners are trying to revive the dead claims and there is
+no continuing cause of action in the present case. Reliance was also
+placed upon Hon’ble Supreme Court’s decisions in Balkrishna
+Sansthan&Ors. AIR 1959 SC 798 and M. Siddique Vs. Mahant Suresh
+Das 2019 SCC OnLine SC 1440 in support of above submissions.
+12.    Learned counsel next submitted that neither Agreement was
+executed nor any breaches were committed within the territorial
+jurisdiction of this Court, therefore, this Court has no jurisdiction to
+entertain the present petition under the provisions of Section 11 of the
+Arbitration and Conciliation Act. It was next submitted that neither of the
+parties work for gain at New Delhi; the cause of action has not accrued at
+New Delhi; the agreement was not executed in New Delhi but in
+Gurgaon and none of the payments has been received in New Delhi,
+moreover no breached were committed within the territorial jurisdiction
+of this Court, therefore, this Court has no jurisdiction to adjudicate this
+petition under Section 11 of the Act.
+13.    Learned counsel further submitted that the arbitration clause
+contained in Para-18.2.1 notes that the place of arbitration shall be New
+Delhi and this would not confer any jurisdiction upon this Court to
+entertain this petition. It was submitted that seat and venue are two
+different legal issues and place of arbitration cannot give the status of the
+juridical seat.
+14.    Learned counsel submitted that all disputes between the parties
+were settled in a meeting dated 21.12.2015, whereunder petitioners and
+respondent had agreed to liquidate the damages at 6.5% of total Purchase
+Order value and thereby, differential amount of INR 16,151,717.51 was
+paid by respondent to petitioners on 11.03.2016, which fact is concealed
+by the petitioners.
+15.    To refute petitioners’ claim that the defects were got rectified by a
+third party on 19.05.2017 at the risk and cost of respondent, learned
+counsel placed reliance upon decision of a Division Bench of this Court
+in Ancient Infratech Vs. NBCC wherein it was held that the cause of
+action has to have a cut-off date of determination irrespective of letters
+demanding completion of work and therefore, rectification of work by a
+third party cannot renew the period of limitation.
+16.    Reliance was also placed upon Hon’ble Supreme Court’s decision
+in Sundaram Finance Vs. NoorjhanBiwi 2003 (16) SCC 1 to submit
+that where there was a breach in payment of instalments, the limitation
+ran from the date of the first default of payment.
+17.    Learned counsel further submitted that both the Agreements in
+question are independent of each other and cannot be bound for the
+purpose of Section 11 of the Act. With regard to claims raised by the
+petitioners, learned counsel submitted that these are false, baseless and
+without any merit. Hence, dismissal of the present petition is sought.
+18.    In rebuttal, learned counsel for petitioners submitted that
+respondent’s plea seeking dismissal of the present petition on the ground
+of limitation is to be rejected as even though the warranty period got over
+by 24.06.2015, thereafter, petitioners and respondent have been in
+continuous exchange of e-mails and holding meetings on regular
+intervals from 2015 till 2018. It is only when on 27.11.2018 that the
+respondent for the first time declined to rectify the pending issues, the
+petitioners sent a legal notice on 21.12.2018 and finally, invoked
+arbitration on 14.03.2019. Hence, the claims raised by petitioners cannot
+be treated as “dead wood” as stated by respondent. Reliance was placed
+upon decisions in BSNL v. Nortel Networks (India) (P) Ltd., (2021) 5
+SCC 738 and Vidya Drolia Vs. Durga Trading Corpn. (2021) 2 SCC 1.
+19.    The arguments advanced by both the sides were heard at length
+and the material placed on record as well as decisions relied upon have
+been perused.
+20.    The foremost question which is first required to be answered is
+whether this Court has jurisdiction to entertain the present petition.
+21.    In reply to the present petition, it is averred by the respondent that
+since one of the parties to the Agreements is not an Indian national,
+therefore, disputes, if any, shall be governed under the international
+arbitration as defined under Section 2(f) of the Act and also that the
+provisions of Section 11(4) of the Act make it clear that in case where
+international commercial arbitration has to take place, only the Hon’ble
+Supreme Court shall have the exclusive jurisdiction to appoint the
+arbitrator. However, during the course of hearing, no submission was
+made in this regard and therefore, this Court has not gone into this
+22.    Relevantly, it is not disputed that the Cooperation Agreement
+dated 20.03.2009 in question contains the arbitration clause, which reads
+18.2.1 The Agreement will be governed by the laws
+of India All disputes. controversies or claims arising
+out of or in connection with or in relation to this
+Contract or itsnegotiation, performance, breach,
+existence or validity, whether contractual or
+tortuous, shall be referred to arbitration in
+accordance with the Arbitration and Conciliation
+Act, 1996 and conducted by a single Arbitrator to be
+appointed by the Parties by mutual consent. The cost
+of the arbitration shall be shared by the Parties. The
+place of the arbitration shall be New Delhi, India.
+The arbitration proceedings shall be conducted in
+English language. The award of the arbitration shall
+be final and binding against the Parties hereto.
+23.    The Hon’ble Supreme Court in BGS SGS SOMA JV Vs. NHPC,
+“82. On a conspectus of the aforesaid judgments, it
+arbitration clause as being the “venue” of the
+arbitration proceedings, the expression “arbitration
+proceedings” would make it clear that the “venue”
+is really the “seat” of the arbitral proceedings, as
+the aforesaid expression does not include just one or
+more individual or particular hearing, but the
+arbitration proceedings as a whole, including the
+making of an award at that place. This language has
+to be contrasted with language such as “tribunals
+are to meet or have witnesses, experts or the
+parties” where only hearings are to take place in the
+“venue”, which may lead to the conclusion, other
+things being equal, that the venue so stated is not the
+convenient place of meeting. Further, the fact that
+the arbitral proceedings “shall be held” at a
+particular venue would also indicate that the parties
+intended to anchor arbitral proceedings to a
+particular place, signifying thereby, that that place
+is the seat of the arbitral proceedings. This, coupled
+with there being no other significant contrary
+indicia that the stated venue is merely a “venue”
+and not the “seat” of the arbitral proceedings,
+would then conclusively show that such a clause
+designates a “seat” of the arbitral proceedings. In
+an international context, if a supranational body of
+rules is to govern the arbitration, this would further
+be an indicia that “the venue”, so stated, would be
+the seat of the arbitral proceedings. In a national
+context, this would be replaced by the Arbitration
+Act, 1996 as applying to the “stated venue”, which
+arbitration.”
+24.    Hence, the contention of respondent that seat and venue are two
+different legal issues and place of arbitration cannot give the status of the
+juridical seat, is liable to be rejected and this Court is well within its
+jurisdiction to entertain this petition.
+25.    Another question, which is raised in the present petition is that the
+claims raised by the petitioners are ex facie highly time barred. To seek
+dismissal of present petition on this ground, respondent has placed
+reliance upon various decisions and this Court has gone through the
+26.    In Geo Miller Vs. Chairman (Supra) relied upon by the
+respondent, the final bill was handed over on 10.08.1989; three years
+period ended on 10.08.1992; notice invoking arbitration was sent in 2002
+and petition under Section 11 was filed in the year 2003 and thereby, the
+Hon’ble Supreme Court observed that there was inordinate delay of 14
+years and upheld the decision passed by High Court of Rajasthan
+dismissing petition under Section 11 of the Act.
+27.     The decision of Hon’ble Supreme Court in Balkrishna Savalram
+Pujari (Supra)andM. Siddique (Supra) relied upon by the respondent,
+are distinguishable on facts and is of no assistance to the case in hand.
+28.     In Vidya Drolia (Supra) relied upon by the petitioners, the
+Hon’ble Supreme Court has dealt with the scope of judicial review under
+Sections 8 and 11 of the Act.
+29.     The Hon’ble Supreme Court in BSNL Vs. Nortel Network (India)
+(P) Ltd. (Supra)has extensively dealt with the issue of determining
+limitation period in filing a petition under Section 11 of the Act as well
+as issue whether a Court exercising jurisdiction under Section 11 of the
+Act is obligated to appoint an Arbitrator where the claims are ex-facie
+time barred.
+30.     With regard to first issue i.e. determining the period of limitation
+in filing petition under Section 11 of the Act, the Hon’ble Supreme Court
+in BSNL Vs. Nortel Network(Supra)has held as under:-
+“15. It is now fairly well-settled that the limitation
+for filing an application under Section 11 would
+arise upon the failure to make the appointment of the
+arbitrator within a period of 30 days from issuance
+of the notice invoking arbitration. In other words, an
+application under Section 11 can be filed only after
+a notice of arbitration in respect of the particular
+claim(s)/dispute(s) to be referred to arbitration [as
+contemplated by Section 21 of the Act] is made, and
+there is failure to make the appointment.
+16. The period of limitation for filing a petition
+seeking appointment of an arbitrator(s) cannot be
+confused or conflated with the period of limitation
+applicable to the substantive claims made in the
+underlying commercial contract. The period of
+limitation for such claims is prescribed under
+various Articles of the Limitation Act, 1963. The
+limitation for deciding the underlying substantive
+disputes is necessarily distinct from that of filing an
+application for appointment of an arbitrator. This
+position was recognised even under Section 20 of
+the Arbitration Act, 1940. Reference may be made to
+the     judgment      of     this    Court       in J.C.
+Budhraja v. Orissa Mining Corpn. Ltd. [J.C.
+Budhraja v. Orissa Mining Corpn. Ltd., (2008) 2
+SCC 444 : (2008) 1 SCC (Civ) 582] wherein it was
+held that Section 37(3) of the 1940 Act provides that
+for the purpose of the Limitation Act, an arbitration
+is deemed to have commenced when one party to the
+arbitration agreement serves on the other party, a
+notice requiring the appointment of an arbitrator.
+Para 26 of this judgment reads as follows : (SCC p.
+claims were in time as on that date.
+notice      invoking      arbitration.
+position clear.”
+19. The reasoning in all these judgments seems to be
+that since an application under Section 11 is to be
+filed in a court of law, and since no specific Article
+of the Limitation Act, 1963 applies, the residual
+Article would become applicable. The effect being
+that the period of limitation to file an application
+under Section 11 is 3 years from the date of refusal
+to appoint the arbitrator, or on expiry of 30 days,
+whichever is earlier.”
+31.    Applying the afore-noted observations to the case in hand, this
+Court finds that in the present case, the agreement in question contains an
+arbitration clause. For resolution of disputes with regard to work order in
+question, petitioners first sent Legal Notice dated 21.12.2018 to
+respondent calling upon to provide a resolution plan within seven days,
+which was replied by the respondent vide its communication dated
+03.01.2019 stating therein the respondent was under the process of
+reviewing the allegations and claims raised by the petitioners and a
+details response shall be shared shortly. Thereafter, petitioners sent a
+legal notice dated 14.03.2019 to respondent invoking arbitration wherein
+name of Justice (Retd.) R.C.Chopra was proposed for appointment as
+Arbitrator, which was not replied to. The period of limitation of three
+years will be counted from the expiry of refusal to reply to appointment
+of Arbitrator within 30 days of invoking arbitration by notice, which in
+this case shall be 13.04.2019. The present petition was filed before this
+Court on 24.05.2019 and in this manner, there is no delay in filing the
+present petition.
+32.    On the second question raised in the present petition by the
+respondent that the claims raised by the petitioners are ex facie highly
+time barred, reliance was again placed by respondent upon decision in
+BSNL Vs. Nortel Network (Supra)to submit that the period of limitation
+in issuing the notice of arbitration would not get extended by mere
+exchange of letters or mere settlement discussions and the case of
+petitioners is a deadwood. Relevantly, in BSNL Vs. Nortel Network
+(Supra), the Hon’ble Supreme Court had dealt with a case where the
+notice invoking arbitration was issued after 5½ years of rejection of
+claims and there was no averment either in the notice of arbitration or the
+petition filed under Section 11 of the Act or before the Supreme Court
+any intervening facts which would have extended the limitation period.
+However, in the said case the Hon’ble Supreme Court on this question
+“47. It is only in the very limited category of cases,
+where there is not even a vestige of doubt that the
+claim is ex facie time-barred, or that the dispute is
+non-arbitrable, that the court may decline to make
+the reference. However, if there is even the slightest
+doubt, the rule is to refer the disputes to arbitration,
+otherwise it would encroach upon what is essentially
+a matter to be determined by the tribunal.”
+33.    In view of afore-noted observations of Hon’ble Supreme Court,
+this court has once again tested the minute details of this case to find out
+whether the claims raised by the petitioners are stale and ex facie time
+barred and liable to be rejected.
+34.    Pertinently, with regard to Agreement dated 20.03.2009, work was
+commissioned after a delay on 25.06.2012 and respondent was required
+to give one year maintenance and three years operation warranty and so,
+the Operation and Maintenance period was valid till 24.06.2013 and the
+warranty was valid till 24.06.2015. With regard to issues raised by their
+client-BSNL, petitioners had written several e-mails dated 1.09.2015,
+08.03.2016, 27.04.2016 and 26.10.2016 to respondent for rectification
+and resolution of pending issues and a few of them were replied by the
+respondent vide e-mail dated 28.12.2015, 07.01.2016, 03.02.2016.
+Besides, both sides held meetings on 15.11.2018 and 27.11.2018. The
+first legal notice was sent on 21.12.2018, which was replied by the
+respondent 03.01.2019 stating that the detailed response shall be given
+and thereafter, on 14.03.2019 notice invoking arbitration was sent by the
+petitioners nominating its Arbitrator. However, since the said notice was
+not replied to within 30 days, petitioners filed the present petition on
+24.05.2019. Without going into the details of these e-mails and minutes
+of meeting held between the parties, this Court finds that there has been
+continuous cause of action and persistent demand raised on the part of
+petitioner and thereby, the claims raised cannot be said to be decayed.
+35.    So far as plea of respondent that the claims raised by respondent
+that all disputes stood already settled in terms recorded in the Minutes of
+Meeting dated 21.12.2015 or that there are two distinct agreements
+which cannot be consolidated          or that the defects which were got
+rectified by a third party at the risk and cost of respondent, are questions
+of claims which shall be considered and decided by the learned
+36.    Pertinently, execution of Cooperation Agreement dated 20.03.2009
+between the parties; existence of arbitration Clause-18.2 therein and
+invocation of arbitration by virtue of notice dated 14.03.2019 is not
+disputed. Also, terms of Clause -18.2 the disputes have to be referred to a
+37.    Accordingly, the present petition is allowed and Mr. Justice G.S.
+Sistani (Retd.) Mobile: 9871300034 is appointed the sole Arbitrator to
+adjudicate the dispute between the parties.
+38.    The fee of the learned Arbitrator shall be governed by the Fourth
+Schedule of the Arbitration and Conciliation Act, 1996.
+39.    The learned Arbitrator shall ensure compliance of Section 12 of
+Arbitration and Conciliation Act, 1996 before commencing the
+40.    The present petition and pending application, if any, are
+accordingly disposed of.

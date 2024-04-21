@@ -1,0 +1,20 @@
+The Delhi High Court has held that Order XXI Rule 37 of the Code of Civil Procedure does not provide for a judgment debtor (company) or its directors to file their list of assets.Justice Amit Bansal thus set aside the order of the District Judge, Patiala House Courts directing the Directors of the Judgement-Debtor Company ('Petitioner') to file affidavits of personal...
+The Delhi High Court has held that Order XXI Rule 37 of the Code of Civil Procedure does not provide for a judgment debtor (company) or its directors to file their list of assets.
+Justice Amit Bansal thus set aside the order of the District Judge, Patiala House Courts directing the Directors of the Judgement-Debtor Company ('Petitioner') to file affidavits of personal assets.
+"Just because the petitioners are directors of the judgment debtor company, they cannot be directed to disclose their personal assets."
+It clarified that the requirement to file an affidavit of assets is provided for in Order XXI Rule 41 of CPC.
+"Even in respect of the judgment debtor, the affidavit of assets can only be directed to be filed upon an application having been filed on behalf of the decree holder under Order XXI Rule 41(2) of the CPC. Such a direction cannot be passed suo motu by the Executing Court," the Court added.
+However, in the present case there was no occasion to pass the aforesaid direction since the application was filed by the decree holder under Order XXI Rule 37 of the CPC.
+ Background
+ In the instant case, the Decree-Holder ('Respondent') had initiated a suit under Order XXXVII of CPC to recover a sum of INR 13, 56, 625 from the Petitioners. The Court decreed in favour of the Respondent for a sum of INR 6,00,000. However, only INR 5,00,000 could be recovered since there were no further assets left with the Judgement-Debtor Company as per its Directors.
+ Upon failure to recover the full sum, the Decree-Holder moved an application under Order XXI Rule 37 of CPC seeking detention of the Directors of the Judgement-Debtor Company. Subsequently, the District Judge ordered the Directors of the Judgement-Debtor Company to file affidavits of personal assets. 
+ The Counsel for the Decree-Holder relied on the Bhandari Engineers and Builders Pvt. Ltd. vs. Maharia Raj Joint Venture and Ors [227 (2016) DLT 302] judgement to contend that the Court can order the Directors to file affidavits of their personal assets in the execution of a money decree. Further, the corporate veil must be lifted, per the Delhi Development Authority vs Skipper Construction Co. P Ltd [2021 SCC OnLine Del 3603] judgement to expose the fraud of the Directors of the Judgement-Debtor Company. 
+ Judgement
+ The Bench opined that Order XXI Rule 37 does not allow a Judgement-Debtor or its Directors to file affidavits of their personal assets. Instead, the provision envisages a notice for the Judgement-Debtor inquiring as to why the Judgement-Debtor should not be sent to civil prison. 
+The requirement to file an affidavit of assets is provided for in Order XXI Rule 41 of CPC. Rules 41(b) and 41(2) allow the examination of the assets of the Judgement-Debtor or any of its officer in execution of a money decree. The Bench emphasised that the Court has power to inquire into the assets of solely the Judgement-Debtor and not the personal assets of its Directors/Officers. 
+ Addressing the Bhandari Engineers precedent which was relied on overwhelmingly by the Decree-Holder, the Court stated that directing the Directors of the Judgement-Debtor Company was not the dicta of the Court but rather pertained to the facts and circumstances of the case. Even the subsequent judgements of the Delhi High Court have not directed the Directors/Officers of the Judgement-Debtor Company to list their personal assets.
+ The Court, however, clarified that the Decree-Holder can pursue their application under Order XXI Rule 37 or file an application under Order XXI Rule 41 for the execution of the decree. Accordingly, the Petition was allowed.
+ Case Title: GS Sandhu & Anr vs Geeta Aggarwal 
+
+
+

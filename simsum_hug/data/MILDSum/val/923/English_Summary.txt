@@ -1,0 +1,21 @@
+The High Court of Delhi has held that when the employer has granted the contractor an extension of time for a specified period, it cannot turn around to contend that the extension was only provisional and it is allowed to reassess or reduce the number of days by which the execution of the contract was executed.
+ The Single Bench of Justice Sanjiv Sachdeva has held that once the period of the contract has been extended by the employer, it cannot be allowed to retrospectively reduce the period of the extension.
+ Facts
+ The parties entered into an agreement for the construction of the Civic Centre at JLN Marg, Minto Road, New Delhi. There was a delay in the execution of the project work, the respondent sought various extensions which were accordingly allowed by the petitioner, however, reserved its right to impose liquidated damages. 
+ The petitioner after the execution of the contract decided to reassess the various extension of times it granted to the respondent to determine the actual number of delays for the purpose of imposing liquidated damages. Therefore, a dispute arose which was decided by the arbitrator.
+ The arbitrator held that various extensions given by the petitioner were not provisional and it was not open for it to reassess and reduce the period retrospectively. Aggrieved by the award, the petitioner challenged the award under Section 34 of the A&C Act.
+ The Contention Of Parties
+ The Petitioner challenged the award on the following grounds:
+ The various extensions given by it were only provisional, therefore, it could reassess the actual number of delays and impose liquidated damages.It had reserved its right to impose liquidated damages which granting extensions.The issue of nature of the extensions is intrinsically linked to the issue regarding the imposition of liquidated damages, therefore, the arbitrator erred in deciding the issue of EOT without deciding the issue regarding the imposition of LD. Two interconnected issues cannot be decided in isolation from each other.
+ The respondent countered the argument of the petitioner on the following grounds:
+ Once an extension is granted for a specified period, it can never be said to be provisional, therefore, the same cannot be curtailed after the extended period is over.The respondent has completed the project work within the extended period and has not delayed it any further, therefore, the imposition of LD is unwarranted. 
+ Analysis By The Court
+ The Court held that once the petitioner acceded to the request of the respondent to grant various extensions for the completion of the project work, it could not turn around and reduce the period retrospectively. 
+ The Court held that it was within the power of the petitioner to have rejected the request for an extension of time or it could have allowed the extension for a shorter period, however, once it extends the deadline by a specified period, it cannot be allowed to curtail the extended period to a lower period after the extended period is over. 
+ The Court further held that two issues that are independent of each other can be decided separately in the arbitration even though there may be some overlap. 
+ The Court held that the LD clause would only trigger if the work was not completed within the extended period, therefore, there was no infirmity in the reasoning of the tribunal to decide the issue of nature of the extensions without deciding on the issue of liquidated damages. 
+ Case Title: North Delhi Municipal Corporation v. IJM Corporation Berhad
+ Date: 26.04.2022
+ Counsel for the Petitioner: Mr. Sachin Datta, Sr. Advocate with Ms. Renu Gupta, Mr. Himanshu Goel, and Ms. Neetu Devarani, Advocates.
+ Counsel for the Respondent: Mr. Arjun Kumar Varma, Sr. Advocate with Mr. Yaman Kumar, and Mr. Shashaank Bhansali, Advocates.
+ 

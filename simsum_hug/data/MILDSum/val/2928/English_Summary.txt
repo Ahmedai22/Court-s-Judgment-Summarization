@@ -1,0 +1,28 @@
+In a noteworthy decision, the Kerala High Court on Wednesday has ruled that the admin of a WhatsApp group cannot be held vicariously liable if a member of the group posts objectionable content in the group. Justice Kauser Edappagath observed that this was so because vicarious liability in criminal law can only be fastened when a statute prescribes so."A vicarious criminal liability can...
+In a noteworthy decision, the Kerala High Court on Wednesday has ruled that the admin of a WhatsApp group cannot be held vicariously liable if a member of the group posts objectionable content in the group. 
+Justice Kauser Edappagath observed that this was so because vicarious liability in criminal law can only be fastened when a statute prescribes so.
+"A vicarious criminal liability can be fastened only by reason of a provision of a statute and not otherwise. In the absence of a special penal law creating vicarious liability, an Admin of a WhatsApp group cannot be held liable for the objectionable post by a group member."
+The Court also recalled that it is the basic principle of criminal jurisprudence that mens rea must be an ingredient of an offence and both the act and intent must concur to constitute a crime.
+The petitioner created a WhatsApp group called 'FRIENDS'. Being the creator, he was the Admin. There were two more Admins, one of them being the first accused.
+In March 2020, the first accused posted a porn video depicting children engaged in sexually explicit acts in the group.
+Accordingly, a crime was registered against the first accused under Sections 67B (a),(b) and (d) of the Information Technology Act, 2000 and Sections 13, 14 and 15 of the Protection of Children from Sexual Offence Act.
+Later on, the petitioner was arrayed as the second accused, being the creator of the group and the co-admin. Aggrieved by this, he moved the High Court. 
+Advocates Anil Kumar M. Sivaraman and C. Chandrasekharan appeared for the petitioner and Senior Public Prosecutor M.K. Pushpalatha represented the respondents in the matter. 
+The primary question before the Court was whether the creator or admin of a WhatsApp group can be criminally liable for offensive content posted by a group member.
+"WhatsApp has proved its relevance in exchange of information very fast. One of the unique features of this application is that it also enables formation of groups of people to chat and call thereon...The person who creates WhatsApp group is called Administrator (Admin) of the group... These Admin/s have certain powers bestowed upon i.e., adding/removing a member etc. Due to lack of moderation of these groups... members of a WhatsApp group may put objectionable contents. The legal consequences and potential liability of the Administrator, stemming from such an objectionable post has come up for consideration."
+In the facts and circumstances of the case, the specific question to be answered was whether the petitioner could be vicariously held liable for the act of the first accused.
+The Court noted that vicarious liability inc civil and service matters arises usually because of some or the other legal relationship between two people.
+However, relying upon a few precedents, it was found that vicarious criminal liability can be fastened only by reason of a provision of a statute and not otherwise.  
+Therefore, since no special penal law creates vicarious liability, it was held that an Admin of a WhatsApp group cannot be held liable for the objectionable post by a group member. 
+"The petitioner has been charged with Sections 67B (a), (b), and (d) of the IT Act and Sections 13, 14 and 15 of the POCSO Act. None of these provisions provide for such liability. There is no law by which an Admin of any messaging service can be held liable for a post made by a member in the group. A WhatsApp Admin cannot be an intermediary under the IT Act. He does not receive or transmit any record or provide any service with respect to such record. There is no master-servant or a principal-agent relationship between the Admin of a WhatsApp group and its members. It goes against basic principles of criminal law to hold an Admin liable for a post published by someone else in the group."
+Further, it was observed that as held by the Bombay and Delhi High Courts, the only privilege enjoyed by the Admin of a WhatsApp group over other members is that, he can either add or delete any of the members from the group. He does not have physical or any control otherwise over what a member of a group is posting thereon. 
+Similarly, he cannot moderate or censor messages in a group. Thus, it was concluded that the creator or administrator of a WhatsApp group, merely acting in that capacity, cannot be vicariously held liable for any objectionable content posted by a member of the group.
+The Judge also emphasised that there was nothing on record to suggest that the petitioner had published or transmitted or caused to be published or transmitted in any electronic form the alleged obscene material or he browsed or downloaded the said material or, in any way, facilitated abusing children online.  
+Since the basic ingredients of the offences alleged are altogether absent as against the petitioner, the Court found it a fit case where it can exercise its extraordinary jurisdiction under Section 482 of Cr.P.C.
+As such, the proceedings pending against the petitioner were set aside and the petition was allowed. 
+It may be noted that similar views have been expressed by the High Court of Madras. 
+Case Title: Manual v. State of Kerala
+
+
+
+

@@ -1,0 +1,43 @@
+The Supreme Court has held that merely proving the kidnap of a person is not sufficient for conviction for the offfence of 'kidnapping for ransom' under Section 364A of the Indian Penal Code. It must also be proved that there was threat to cause death or harm to the kidnapped person or the kidnapper, by his conduct, gave rise to a reasonable apprehension that such person may be put...
+The Supreme Court has held that merely proving the kidnap of a person is not sufficient for conviction for the offfence of 'kidnapping for ransom' under Section 364A of the Indian Penal Code.  It must also be proved that there was threat to cause death or harm to the kidnapped person or the kidnapper, by his conduct, gave rise to a reasonable apprehension that such person may be put to death.
+A bench comprising Justice Ashok Bhuhsan and Justice R Subhash Reddy was considering a criminal appeal filed against the conviction of a person under Section 364A IPC (Shaik Ahmed v State of Telangana).
+The appellant, an auto-rickshaw driver, was convicted for kidnapping a school boy who had taken ride in the auto and for demanding a ransom of Rs 2 lakhs from his father.
+Issues framed by the Supreme Court
+The Supreme Court considered the following issues :
+I.What are the essential ingredients of Section346A to be proved beyond reasonable doubt by the prosecution for securing the conviction of an accused under Section 364A IPC?
+II.Whether each and every ingredient as mentioned under Section 364A needs to be proved for securing conviction under Section364A and non-establishment of any of the conditions may vitiate the conviction under Section 364A IPC?
+III.Whether the learned Sessions Judge as well as the High Court recorded any finding that all ingredients of Section 364A were proved by the prosecution?
+IV.Whether there was any evidence or findings by the Courts below that the accused had threatened to cause death or hurt to the victim or by his conduct gave rise to areasonable apprehension that victim may be put to death or hurt?
+Ingredients of Section 364A IPC
+The Court held that the essential ingredients to be proved by the prosecution for proving the offence under Section 364A IPC are as follows :
+(i) Kidnapping or abduction of any person or keeping a person in detention after such kidnapping or abduction; and
+(ii) threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person maybe put to death or hurt or;
+(iii) causes hurt or death to such person in order to compel the Government or any foreign State or any Governmental organization or any other person to do or abstain from doing any act or to pay a ransom.
+The Court noted that the word "and" is used between first and second conditions. So merely proving the first condition is not sufficient. 
+"Thus, after establishing first condition, one more condition has to be fulfilled since after first condition, word used is "and". Thus, in addition to first condition either condition (ii) or (iii) has to be proved, failing which conviction under Section364A cannot be sustained", the judgment authored by Justice Ashok Bhushan stated.
+"Second condition is also a condition precedent, which is requisite to be satisfied to attract Section 364Aof the IPC", the Court said.
+The Court said that the use of the conjunction "and" has its purpose and objects. It noted that Section 364A uses the word "or" nine times but the whole section contains only one "and", which is between the first and second conditions.
+"Thus, for covering an offence under Section 364A,apart from fulfillment of first condition, the second condition, i.e., "and threatens to cause death or hurt to such person" also needs to be proved in case the case is not covered by subsequent clauses joined by "or"."
+Second condition not proved on facts of the case
+Coming to the facts of the case, the Supreme Court noted that both the Sessions Court as well as the High Court did not advert to the necessity of proving second condition of Section 364AIPC.
+The Top Court referred to the testimonies of the victim and his father, which were to the effect that the appellant had not caused any sort of harm to the victim during the period of abduction.
+The victim's father said in cross-examination that his son was not physically assaulted or was subjected to bad behaviour.  The victim boy said that he was "treated in good manner".
+In such circumstances, the Supreme Court concluded that second condition of Section 364A IPC was not proved in the case.
+Therefore, the conviction and life sentence under Section 364A IPC was set aside. However, since the fact of kidnapping was proved, the Court altered the conviction to Section 363 IPC, which carries a maximum punishment of 7 years imprisonment.
+Case Details
+Title : Shaik Ahmed v State of Telangana 
+Coram : Justice Ashok Bhushan and R Subhash Reddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+

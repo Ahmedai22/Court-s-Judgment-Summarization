@@ -1,0 +1,15 @@
+The Supreme Court observed that the accused's plea on applicability of Section 300 CrPC has to be considered at the stage of discharge under Section 227 CrPC.
+In this case, the accused filed a discharge application under Section 227 r/w Section 300(1) Cr.P.C. before the Trial Court. He contended that he had already been acquitted of the offence of kidnapping and on the basis of the same facts, he is now being sought to be prosecuted for the offence of murder. The same was dismissed on the ground that such an objection can be raised at the stage of framing of charge and not discharge. The Calcutta High Court upheld this order.
+In appeal, the accused-appellant contended that the stage of discharge under Section 227 Cr.P.C. is a stage prior to charge and it is at this stage alone that the court can consider an application under Section 300 Cr.P.C. Once the court rejects the discharge application, it would proceed to framing of charge under Section 228 Cr.P.C. and the only question before it would be as to the nature of the offence, and not that the appellant has not committed an offence, or that he cannot be tried on account of the bar under Section 300 Cr.P.C, it was contended.
+Agreeing with this contention, the Apex Court bench of Justices CT Ravikumar observed:
+"Such exercise was required to be done at a stage prior to framing of charge and if ultimately the court comes to the conclusion overruling the objection of Section 300(1) Cr.P.C. and on facts satisfies then it may frame the charge as provided under Section 228 Cr.P.C. The High Court has not at all appreciated and/or considered the aforesaid aspect."
+Allowing the appeal, the bench directed the Trial Court to consider the plea of the accused on applicability of Section 300(1) Cr.P.C. at the stage of discharge under Section 227 Cr.P.C., which is a stage prior to framing of the charge under Section 228 Cr.P.C.
+Case details
+Chandi Puliya vs State of West Bengal |  (SC) 1019 | SLP(Criminal) 9897 of 2022 | 12 December 2022 | Justices MR Shah and CT Ravikumar 
+Headnotes
+Code of Criminal Procedure, 1973 ; Sections 227,228, 300 - - It is at the stage of discharge that the court can consider the application under Section 300 Cr.P.C - Once the court rejects the discharge application, it would proceed to framing of charge under Section 228 Cr.P.C. (Para 7-8)
+Code of Criminal Procedure, 1973 ; Sections 227,228 - The stage of discharge under Section 227 Cr.P.C. is a stage prior to framing of the charge (under Section 228 Cr.P.C.) - If, upon consideration of the record of the case and the documents submitted therewith, and after hearing the submissions of the accused and the prosecution in this behalf, the Judge considers that there is not sufficient ground for proceeding against the accused, he shall discharge the accused and record his reasons for doing so. As per Section 228 Cr.P.C. only thereafter and if, after such consideration and hearing as aforesaid, the Judge is of the opinion that there is ground for presuming that the accused has committed an offence, the trial Court shall frame the charge. (Para 7)
+
+
+
+

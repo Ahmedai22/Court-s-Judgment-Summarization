@@ -1,0 +1,22 @@
+The High Court of Delhi has held that acknowledgment of an amount as due and payable under the ledger/statement of accounts, constitutes a fresh cause of action and extends the period of limitation.
+ The Division Bench of Justice Rajiv Shakdher and Justice Jasmeet Singh held that the period of limitation for an amount that is shown as outstanding in the book of accounts would get extended from the date of such acknowledgement in terms of Section 18 of the Limitation Act. 
+ The Court further observed that a letter in which a party has clearly admitted the amounts due and payable would amount to a 'promise to pay' within the meaning of Section 25(3) of the Indian Contract Act. 
+ Facts 
+ The government of Uttar Pradesh had floated various subsidy schemes for farmers. National Seeds Corporation Ltd. (Appellant), is a government of India undertaking which was required to supply the seeds to the farmer at a subsidised 50% price and it would receive the remaining 50% from the government of Uttar Pradesh. 
+ Accordingly, the appellant entered a dealership agreement dated 24.10.2009 with the respondent for the supply of the seeds to the farmer. The respondent had agreed to sell certified seeds of approved varieties at the subsidised price and in consideration for that, it was to receive a trade discount from the appellant. 
+ According to Clause 11 of the agreement, the respondent was to collect and maintain all the records and submit them to the Regional Office of the appellant after verifying them with the district Agriculture Department. 
+ A dispute arose between the parties regarding the payment of the trade discount to the respondent. Accordingly, it invoked the arbitration clause in the agreement and the dispute was referred to arbitration. 
+ The arbitral tribunal allowed the claims of the respondent and rejected all the counter-claims preferred by the respondent. Consequently, the appellant filed the objection under Section 34 of the A&C Act which was also rejected by the Single Bench vide an order dated 05.01.2022. Accordingly, the appellant filed the appeal under Section 37 of the Act against the order dated 05.01.2022.
+ The Grounds of Appeal
+ The appellant assailed the order dated 05.01.2022 and the arbitral award on the following grounds:
+ The claims of the respondent were ex-facie barred by limitation as they are related to subsidies for the year 2010-14 and the statement of claim was filed in the year 2018. Apparently, the 3-year period expired before the filing of the statement of claim, therefore, the arbitrator as well as the Ld. Single Judge erred in allowing the claims. The appellant did not acknowledge its liability to pay, therefore, the period of limitation never stood extended. The entitlement of the respondent to trade discount was contingent upon the payment of subsidy amount by the government. 
+ Analysis by the Court
+ The Court referred to various letters issued by the appellant to the respondent wherein the respondent had acknowledged its liability to pay the trade discount to the respondent. The Court held that the arbitral tribunal was correct to hold that the said notices amount to a 'promise to pay' in terms of Section 25(3) of the Indian Contract Act. 
+ Moreover, the Court held that the arbitral tribunal was correct in applying Section 18 of the Limitation Act when the appellant in its book of accounts/ledger has admitted the amount due to the respondent as outstanding and the period of limitation would get extended from the date of such acknowledgement, therefore, the claims of the respondent were within limitation. 
+ The Court rejected the argument of the appellant that the payment of trade discount was contingent upon the payment of subsidy by the government to the appellant as there was no clause in the agreement which provides for such a contingency. 
+ Accordingly, the Court dismissed the appeal. 
+ Case: National Seeds Corporation Ltd. v. National Agro Seeds Corporation
+ Date: 31.05.2022
+ Counsel for the Appellant: Mr Anil Airi, Sr. Advocate with Mr Yashvardhan, Ms Smita Kant, Ms Kritika Nagpal, Ms Bhavya Bhatia, Mr Akshay Joshi, Mr Savyasachi Rawat, Advocates. 
+ Counsel for the Respondent: None
+ 

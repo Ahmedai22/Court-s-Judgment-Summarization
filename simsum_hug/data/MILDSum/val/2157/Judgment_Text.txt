@@ -1,0 +1,216 @@
+1.    This Hon’ble Court, on 05.03.2020, while dealing with a case under Section 138 of
+the Negotiable Instruments Act, 1881 [“the Act”] noticed the pressing need for the
+expeditious trial and disposal of cases instituted under Section 138.
+2.    The Court while passing the order, recounted the backlog of cases pending under the
+aforesaid provision, the perils that it posed to the justice delivery system and also indicated
+certain measures that could be undertaken to find a solution to the huge pendency.
+3.    The undersigned were appointed as amici curiae to assist the Court and pursuant thereto,
+submitted a report containing their preliminary submissions and suggestions.
+4.    This Hon’ble Court vide order dated 27.10.2020 and 19.01.2021, took notice of the
+preliminary report and directed the High Courts and the Director Generals of Police of
+all States to give specific suggestions in response to the Report.
+5.    Thereafter, this Hon’ble Court vide judgment dated 16.04.2021 constituted an expert-
+committee to consider various suggestions that are made for arresting the explosion of the
+judicial docket. Further, the Hon’ble Court arrived at the following conclusions:
+“1) The High Courts are requested to issue practice directions to the Magistrates to record
+reasons before converting trial of complaints under Section 138 of the Act from summary trial
+to summons trial.
+2) Inquiry shall be conducted on receipt of complaints under Section 138 of the Act to arrive
+at sufficient grounds to proceed against the accused, when such accused resides beyond the
+territorial jurisdiction of the court.
+3) For the conduct of inquiry under Section 202 of the Code, evidence of witnesses on behalf
+of the complainant shall be permitted to be taken on affidavit. In suitable cases, the Magistrate
+can restrict the inquiry to examination of documents without insisting for examination of
+witnesses.
+4) We recommend that suitable amendments be made to the Act for provision of one trial
+against a person for multiple offences under Section 138 of the Act committed within a period
+of 12 months, notwithstanding the restriction in Section 219 of the Code.
+5) The High Courts are requested to issue practice directions to the Trial Courts to treat service
+of summons in one complaint under Section 138 forming part of a transaction, as deemed
+service in respect of all the complaints filed before the same court relating to dishonour of cheques
+issued as part of the said transaction.
+6) Judgments of this Court in Adalat Prasad (supra) and Subramanium Sethuraman
+(supra) have interpreted the law correctly and we reiterate that there is no inherent power of
+Trial Courts to review or recall the issue of summons. This does not affect the power of the Trial
+Court under Section 322 of the Code to revisit the order of issue of process in case it is brought
+to the court's notice that it lacks jurisdiction to try the complaint.
+7) Section 258 of the Code is not applicable to complaints under Section 138 of the Act and
+findings to the contrary in Meters and Instruments (supra) do not lay down correct law. To
+conclusively deal with this aspect, amendment to the Act empowering the Trial Courts to
+reconsider/recall summons in respect of complaints under Section 138 shall be considered by
+the Committee constituted by an order of this Court dated 10.03.2021.
+8) All other points, which have been raised by the Amici Curiae in their preliminary report
+and written submissions and not considered herein, shall be the subject matter of deliberation
+by the aforementioned Committee. Any other issue relating to expeditious disposal of complaints
+under Section 138 of the Act shall also be considered by the Committee.”
+6. The Committee has since submitted its report which has been circulated.
+7. The compliance status regarding the steps taken in furtherance of this Hon’ble Court’s
+request that High Court issue practice directions regarding (i) mechanical conversion of
+(ii) deemed service in all complaints with respect to one transaction:
+High Court of Uttarakhand          No Action Taken Report Submitted
+High Court of Patna                No Action Taken Report Submitted
+High Court of Odisha               No Action Taken Report Submitted
+* The High Court of Madras has circulated a copy of the judgment of this Hon’ble Court
+vide circular dated 17.06.2021 but has not issued practice directions as such.
+*The High Court of Sikkim has circulated a copy of the judgment of this Hon’ble Court
+vide circular dated 04.06.2021 but has not issued practice directions as such.
+8.     The Expert Committee has submitted a report on the aspects asked to be examined
+by it and has put forth certain recommendations (p.45, Committee Report). It
+would be pertinent to highlight the gravity of the issue of increasing pendency of
+NI Act cases by looking into the data available after the submission of the report
+by the Expert Committee.
+9.     As on 08.11.2021, there was a pendency of 26,07,166 (p.20, Committee Report).
+As on 13.04.2022, this pendency has increased to 33,44,290 (See ANNEXURE A-
+1). This is an increase in pendency of 7,37,124 cases in a period of just over 5
+months. As per the data available on 08.11.2021, NI Act cases contribute to 8.81%
+of the total criminal cases pending in the courts. Further, 11.82% of the total
+criminal cases that are stagnating due to appearance/service related issues are NI
+Act cases. Thus, the singular features of NI Act cases which lead to increased
+pendency need to be examined.
+10. This Hon’ble Court vide order dated 31.03.2022 has directed the amici curiae to file
+their response to the report of the Expert Committee. In this note, three aspects
+have been dealt with: (i) mediation, (ii) creation of a National Portal for Summons
+and (iii) the Scheme for establishment of special courts.
+11. The Committee has suggested that Alternative Dispute Resolution options must be
+explored. The Committee has proposed a statutory amendment to Section 144 of
+the NI Act for attempting mediation. Further, it has suggested that the Union
+government make suitable arrangements for online mediation and permanent online
+lok adalats in consultation with NALSA. The Committee notes that if successful
+mediation results in executable decrees/orders, it would be useful. (Page 16 of the
+12. NALSA has formulated two separate schemes for pre-summons mediation and
+post-summons mediation: NALSA (Scheme for Mediation in Cheque Dishonour
+Cases) 2021 and NALSA (Scheme for Expedited Pre-Litigation Mediation in
+Cheque Dishonour Cases). The following concerns in this regard may be
+a. A perusal of Sections 138 and 142 would reveal that after the dishonour of the
+cheque, the complainant has 30 days’ time to issue notice (Section 138, proviso
+(b)). The accused has 15 days’ time to respond and issue a fresh cheque (Section
+138, proviso (c)). After the expiry of the said 15 days, the complainant gets
+another 30 days’ time to file his complaint under Section 142(1)(b). Therefore,
+the short time period within which mediation will have to commence and
+conclude should be 75 days from the date of dishonour if this suggestion is
+accepted.
+b. Service of summons under Chapter VI, Part A (Section 61-69, Cr.P.C) on the
+proper address of the accused is a considerable concern (and cause for delays)
+and therefore, a pre-prosecution mediation would entail service of mediation
+notice and the conduct of pre-summons mediation before the 75 days and
+would also pose considerable challenges. In any case, the accused has an
+opportunity to pay the cheque amount on receipt of statutory notice under
+Section 138 to avoid initiation of prosecution.
+c. Though many High Courts have stated that the time taken in mediation may
+be a reason to condone delay under Section 142, this issue itself will generate
+systemic delays and extensive litigation that would further burden the already
+overburdened courts.
+d. With respect to the NI Act cases that are referred to the Lok Adalat, this
+Hon’ble Court in the case of K.N. Govindan Kutty Menon v. C.D. Shaji,
+(2012) 2 SCC 51, has formulated the following propositions:
+“(1) In view of the unambiguous language of Section 21 of the Act, every
+award of the Lok Adalat shall be deemed to be a decree of a civil court and
+as such it is executable by that court.
+(2) The Act does not make out any such distinction between the reference
+made by a civil court and a criminal court.
+(3) There is no restriction on the power of the Lok Adalat to pass an award
+based on the compromise arrived at between the parties in respect of cases
+referred to by various courts (both civil and criminal), tribunals, Family
+Claims Tribunal and other forums of similar nature.
+(4) Even if a matter is referred by a criminal court under Section 138 of the
+Negotiable Instruments Act, 1881 and by virtue of the deeming provisions,
+the award passed by the Lok Adalat based on a compromise has to be treated
+as a decree capable of execution by a civil court.”
+e. However, unlike the system of Lok Adalats, where statutorily the settlement is
+given the force of a decree, the mediation settlement arrived at the pre-
+summons stage, as the law stands today has no such effect. The complainant
+may still have to seek other judicial remedies to enforce the settlement which
+will further burden the judicial system.
+f. Post-summons mediation, on the other hand, may not encounter such
+concerns except the issue of service because the settlement can be recorded in
+terms of compounding under Section 147 of the NI Act.
+13. Due to this lack of clarity with respect to reports in private mediation, it is suggested
+that all mediation reports be sent to the court so that actions for compounding the
+offence may be taken up by the court.
+14. The Hon’ble High Court of Delhi in the case of Dayawati v. Yogesh Kumar
+Gosain, 2017 SCCOnLine Del 11032, while examining the possibilities and
+procedure to be followed when there is a settlement agreement pursuant to a
+mediation in NI Act cases, noted that there was no bar on criminal courts from
+adopting the practice followed by the civil courts before whom the settlement in
+writing, is taken on record and a decree is passed in terms thereof after confirming
+that the settlement was entered into voluntarily and that it contained the actual terms
+of the settlement. The High Court further held that, a criminal court would
+thereafter pass an appropriate order accepting the agreement, incorporating the
+terms of the settlement regarding payment under Section 147 of the NI Act and the
+undertakings of the parties. Any breach of this order and non-payment of the agreed
+amounts would be recoverable in terms of Section 431 read with Section 421
+15. It is also suggested that, a scheme for mediation be formulated and pending 138
+cases, which are at the appeal, review or quashing (Section 482) stages, mandatorily
+be referred to the High Court annexed mediation centres after obtaining consent of
+parties. The mediation proceedings could be conducted online. It is to be noted
+that, in such matters pending before the High Court, both parties would be
+represented and therefore, it is easier to facilitate mediation proceedings. It is
+suggested that at least High Courts of states having the highest pendency of cases
+must formulate Standard Operating Procedures for online mediation. This is
+especially important due to the unique feature of these NI Act cases where the
+parties are located in different jurisdictions.
+16. The Expert Committee has suggested that a national portal for secured display of
+summonses, searchable by account number/name may be created (Page 23,
+Committee Report). It is submitted that invariably, in cases under Section 138, NI
+Act, the cheque is presented in a territorial jurisdiction where the Accused does not
+ordinarily reside. This, coupled with the fact that Section 142(2) of the NI Act, as
+amended by Act 26 of 2015, results in the Accused being resident outside the
+jurisdiction of the summoning Magistrate. Amongst the causes of delay in
+prosecutions is on account of the avoidance of summons by accused, delays in
+execution of warrants and other dilatory tactics employed by the Accused in
+ensuring that the trial does not commence. A National Portal for Summons may
+help tackle with this singular problem of accused invariably residing in different
+jurisdictions. It may be beneficial for this Hon’ble Court to seek the response of the
+Union government immediately on the modality of operationalising such a
+proposed portal since the NI Act is a Union legislation and the Union government
+would be best positioned to assist this Hon’ble Court on this issue.
+17. The Expert Committee has submitted a detailed concept note on the creation of de
+novo Special NI Courts by the Central Government vide its powers under Article 247
+in its Report. The Expert Committee has proposed a scheme with two grades of
+judges at the trial court level and two at the appellate/revision stage. As per the
+Expert Committee’s calculations, the establishment of these special NI Courts
+would require recruitment of 1,826 special judicial officers and a total cost of Rs
+126.59 crores. Since it may not be immediately feasible to establish de novo courts
+and recruit fresh candidates, it may be helpful to examine the possibility of
+appointing retired judicial officers as Special Judicial/Metropolitan Magistrates.
+18. With respect to the legality of constituting Special Magistrate Courts under the NI
+Act, it is submitted that it can be done under Section 18 of Cr.P.C, 1973 (along with
+S.13, Cr.P.C). The necessary ingredients of this provision are that (i) the High Court
+may on request of Central or State Government confer on any person who holds
+or has held in past under the Government, powers conferrable under this Code (i.e.
+CrPC, 1973) on a MM, qua, particular cases or particular classes of cases in any
+metropolitan area within its local jurisdiction; (ii) no such powers shall be conferred
+on any person, unless he possesses such qualification or experience, qua, affairs, as
+High Court may specify; (iii) such Magistrate shall be called Special Metropolitan
+Magistrate (SMM) and be appointed for maximum one year, as High Court may
+direct and (iv) High Court or State Govt. may empower any SMM to exercise in any
+local area outside metropolitan area, the powers of Judicial Magistrate. However,
+this is not with respect to creation of de novo courts.
+19. It is submitted that this Hon’ble Court in the case of Kadra Pahadiya v. State of
+Bihar, (1997) 4 SCC 287, held that the choice of power to be conferred on the
+appointees under Section 18(1) is left to the sole discretion of the High Court. The
+appointee must possess such qualification and experience in relation to legal affairs
+as the High Court may by rules specify. The Court also clarified that judicial officers
+belonging to the subordinate judiciary of a State/Union territory can also be
+appointed and that it would be erroneous to narrowly construe the words ‘who holds
+or has held any post under the Government’ in a manner that excludes members belonging
+to the subordinate judicial services. This Hon’ble Court further observed that,
+“22. The idea underlying the provision for the appointment of Special Judicial
+Magistrates/Special Metropolitan Magistrates under Sections 13(1) and 18(1)
+respectively, is to relieve the regular courts of the burden of trying those cases which
+could be disposed of by such Magistrates. Parliament has advisedly left the decision
+as to the choice of power to be conferred on such Magistrates with the High Court.
+Once a request is received from the Central/State Government by the High Court,
+the ball is entirely in the High Court, and it is the High Court and the High Court
+alone which has to decide on the number of appointments to be made, the choice of
+personnel to be entrusted with such power, and the extent of power to be conferred
+on such persons. It is the High Court which has to specify the qualification and/or
+experience that would be required for the discharging of duties by such Magistrates.”
+20. It is thus suggested that the High Courts must employ the services of retired judicial
+officers for this purpose. The human resources required to operationalise these
+courts could also be drawn from retired court staff. This scheme could be tested
+on a pilot basis in 5 judicial districts with the highest pendency in the 5 states with
+the highest pendency (namely, Maharashtra, Rajasthan, Gujarat, Delhi and Uttar
+Pradesh) and the viability of utilising services of retired judicial officers can be
+examined based on the results of the pilot study.
+NI ACT cases-Pending & disposal_As per NJDG DATA – for the period 01.01.2021- 31.12.2021

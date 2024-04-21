@@ -1,0 +1,378 @@
+G.S.R…. (E).—Whereas, Unmanned Aircraft System (hereinafter referred to as
+drones) offer immense opportunities for economic growth and employment
+And whereas, there is need to regulate the drone related activities in a manner such
+that they do not pose any risk to safety or security of people and assets;
+And whereas, the Central Government promulgated the Unmanned Aircraft System
+Rules (UAS Rules), 2021, which came into force on 12th March, 2021; and received
+valuable feedback from academia, industry and other stakeholders;
+Now, therefore, the Central Government proposes to make certain rules in
+supersession of the UAS Rules, 2021, in exercise of the powers conferred by sections
+5, sub-section (2) of section 10 and sections 10A, 10B and 12A of the Aircraft Act,
+1934 (22 of 1934).
+The said draft rules are hereby published as required by section 14 of the said Act, for
+information of all persons likely to be affected thereby; and notice is hereby given that
+the said draft rules will be taken into consideration after 5th Aug 2021;
+Suggestions or objections, if any, should be addressed to Shri Kameshwar Mishra,
+Ministry of Civil Aviation, B Block, Rajiv Gandhi Bhavan, New Delhi-110003 or mailed
+to sdit.div-moca@gov.in with the subject line: “Suggestions for draft Drone Rules,
+2021”. Any suggestion or objection received with respect to the said draft rules before
+the expiry of the period specified above may be considered by the Central
+1.  Short title, commencement and application. — (1) These rules may be called
+the Drone Rules, 2021.
+(2) They shall come into force on the date of their publication in the Official Gazette.
+(3) They shall apply to, –
+(a) All persons owning or possessing or engaged in exporting, importing,
+manufacturing, trading, leasing, operating, transferring or maintaining a
+(b) all drones that are being operated for the time being, in or over India.
+(4) The provisions contained in the Aircraft Rules, 1937 shall not apply to drones and
+matters connected therewith or incidental thereto except for those provisions
+whose application is specifically provided in these rules.
+(5) In case of a drone with maximum all-up-weight more than 500 kilogram, the
+provisions of the Aircraft Rules, 1937 shall apply.
+(6) These rules shall not apply to drones used by the naval, military or air forces of
+the Union.
+(7) No person shall carry out any activity in contravention of these rules.
+2.  Definitions. — (1) In these rules, unless the context otherwise requires, –
+(a) “Authorised remote pilot training organisation” includes any organisation
+authorised by the Director General for the purpose of imparting training
+prescribed under these rules;
+(b) “Automatic drone operation” means a drone operation with pre-
+programmed instructions wherein the drone pilot is able to intervene at
+(c) “Autonomous drone operation’ means a drone operation that does not
+allow intervention of a drone pilot in the management of the flight. This
+shall not include phases of drone operation during which the drone pilot
+has no ability to intervene in the management of the flight, either following
+the implementation of emergency procedures, or due to a loss of the
+command and control connection;
+(d) “Certificate of airworthiness” means a certificate issued by the Quality
+Council of India or any other certification entity authorised by the Quality
+Council of India or the Central Government, certifying that the drone of a
+specific type meets the requirements specified under these rules;
+(e) “Controlled airspace” means the airspace of defined dimensions within
+which air traffic control service is provided in accordance with the
+airspace classification;
+(f) “Digital sky platform” means the online platform hosted by the Directorate
+General of Civil Aviation for various activities related to the management
+of drone activities in India;
+(g) “Director General" means the Director General of Civil Aviation appointed
+by the Government of India;
+(h) “Drone” means an aircraft that can operate autonomously or can be
+operated remotely without a pilot on board;
+(i) “Drone Acknowledgement Number” means the unique number issued by
+the digital sky platform under the voluntary disclosure scheme for drones
+(j) “Drone pilot” means the natural person responsible for operating a drone
+who manipulates the flight controls during a drone operation;
+(k) “Geo-fencing” means restricting the movement of drone within a defined
+(l) “Green zone” means the airspace from the ground up to a vertical
+distance of 400 feet (120 metre) above ground level (AGL) that has not
+been designated as a red zone or yellow zone in the airspace map for
+drone operations; and the airspace from the ground up to a vertical
+distance of 200 feet (60 metre) AGL in the area located between a lateral
+distance of 8 kilometre and 12 kilometre from the perimeter of an
+operational airport. In the airspace above 400 feet (120 metre) AGL in a
+designated green zone and the airspace above 200 feet (60 metre) AGL
+in the area located between the lateral distance of 8 kilometre and 12
+kilometre from the perimeter of an operational airport, the provisions of
+yellow zone shall apply;
+(m) “Person” includes an individual or a company or a firm or an association
+of persons or body of individuals or a local authority or any legal entity,
+whether incorporated or not, Central Government or State Government or
+(n) “Prototype drone” means a drone developed for the purpose of research
+and development or obtaining a certificate of airworthiness
+(o) “Red zone” means the airspace of defined dimensions, above the land
+areas or territorial waters of India, or any installation or notified port limits
+specified by the Central Government beyond the territorial waters of India;
+within which drone operations shall be permitted only under exceptional
+circumstances by the Central Government;
+(p) “Remote pilot licence” means the permission issued by an authorised
+remote pilot training organisation to any natural person for operating a
+particular class or classes of drones;
+(q) “Type of Drone” means all drones of the same basic design including all
+modifications thereto except those modifications which result in a change
+in handling or flight characteristics;
+(r) “Unmanned Aircraft System Traffic Management System” means a
+system that provides traffic management for drone through the
+collaborative integration of persons, information, technology, facilities and
+services; supported by air, ground or space-based communications,
+navigation and surveillance;
+(s) “Unique identification number” means the unique identification number
+issued for registering a drone in India;
+(t) “Yellow zone” means the controlled airspace of defined dimensions above
+the land areas or territorial waters of India within which drone operations
+are restricted and shall require permission from the concerned air traffic
+control authority.
+(2) The words and terms used but not defined in these rules shall have the meanings
+respectively assigned to them in the Aircraft Act, 1934 and the Aircraft Rules,
+3. Classification of drones. — Drones shall be classified based upon the maximum
+all-up weight including payload as under –
+(b) Micro drone: Greater than 250 gram and less than or equal to 2 kilogram;
+(c) Small drone: Greater than 2 kilogram and less than or equal to 25
+(d) Medium drone: Greater than 25 kilogram and less than or equal to 150
+(e) Large drone: Greater than 150 kilogram.
+4. General. — No person shall operate a drone in India unless it conforms to a
+certificate of airworthiness or is exempted from the requirement for a certificate of
+airworthiness under these rules.
+5. Certification entities. – The Quality Council of India or a certification entity
+authorised by the Quality Council of India or the Central Government may issue a
+certificate of airworthiness for any particular type of drone, on an application filed
+by a manufacturer or importer of that type of drone on the digital sky platform, if
+such type of drone meets the specified certification standards.
+6. Certification standards. – On the recommendation of the Quality Council of
+India, the Central Government may specify the standards for obtaining a certificate
+of airworthiness for drones. These standards may promote the use of made-in-
+India technologies, designs, components and drones; and India’s regional
+navigation satellite system named Navigation with Indian Constellation (NavIC).
+7.  Procedure for application. – Any manufacturer or importer seeking a certificate
+of airworthiness shall apply through Form D-1 on the digital sky platform, to Quality
+Council of India or any other certification entity authorised these rules, providing
+(a) Name, contact details and GSTIN of the applicant;
+(b) Details and required documents in respect of the prototype drone;
+(c) Proof of payment of the prescribed fees; and
+(d) Prototype drone that shall be physically handed over to the certification
+entity.
+8. Restriction on imports. – Import of drones and drone components shall be
+regulated by the Directorate General of Foreign Trade.
+9.  Acceptance of approvals given by foreign regulators. – The Quality Council
+of India may certify drones based on approvals granted to that type of drone by
+other international aviation regulators, as may be specified by the Central
+10. General safety. – No person shall, operate a drone in any manner, either directly
+or indirectly, so as to endanger the safety and security of any person or property.
+11. Mandatory safety features. – (1) The Central Government shall notify safety
+features to be installed on a drone by the person owning the drone.
+(2) All persons owning a drone shall adopt the said safety features within such period
+as may be specified by the Central Government, which shall not be less than six
+months from the date of such notification. Such safety features, that may be
+notified in future, may include as under –
+(a) ‘No Permission – No Takeoff’ (NPNT) hardware and firmware;
+(b) Real-time tracking beacon that communicates the drone’s location,
+altitude, speed and unique identification number; and
+(c) Geo-fencing capability.
+12. Exemptions. — No certificate of airworthiness shall be required for
+manufacturing, importing or operating a –
+(a) prototype drone for the purpose of research and development;
+(b) prototype drone for obtaining certificate of airworthiness; and
+(c) nano drone.
+13. Unique identification number. – (1) No person shall operate a drone which does
+not have a unique identification number, unless such drone is exempted under
+these rules.
+(2) A person may generate the unique identification number of a drone by providing
+requisite details in Form D-2 on the digital sky platform.
+(3) The unique identification number of a drone shall be linked to the unique serial
+number provided by the manufacturer and the unique serial numbers of its flight
+control module and ground control station.
+(4) No person shall replace the flight control module or ground control station of a
+drone, whose serial number is linked to such drone’s unique identification number,
+without updating on the digital sky platform, the unique serial number of the new
+flight control module or ground control station, within a period of seven days from
+the date of such replacement.
+14. Registration of existing drones. – A person owning a drone manufactured in
+India or imported into India on or before 31 December 2021 shall generate its
+unique identification number by providing requisite details in Form D-2 on the
+Provided that such drone has a valid Drone Acknowledgement Number
+(DAN) issued by the digital sky platform on or before the above-mentioned date
+and the type of drone conforms to a certificate of airworthiness issued by the
+Quality Council of India.
+15. Transfer of drones. – (1) A person may transfer a drone to another person by
+giving the requisite details of the transferor, transferee and unique identification
+number of the drone in Form D-3 on the digital sky platform.
+(2) Such transfer shall be effected in the records and a transaction number shall be
+generated by the digital sky platform after electronic verification of the transferor,
+transferee and the unique identification number.
+16. Deregistration of drones. – (1) A person owning a drone, on arriving at a
+reasonable conclusion that a drone registered in the person’s name is either
+permanently lost or permanently damaged, shall apply for the deregistration of
+such drone by submitting an application in Form D-3 on the digital sky platform.
+(2) Such deregistration shall be effected in the records and a transaction number shall
+be generated by the digital sky platform.
+17. Airspace map. – The Central Government may, within 30 days of the date of
+notification of these rules, publish on the digital sky platform, an airspace map for
+drone operations segregating the entire airspace of India into red, yellow and
+green zones, with a horizontal resolution equal or finer than 10 metre.
+18. Interactive maps. – The airspace map for drone operations shall be designed to
+be programmatically accessible through a machine readable Application
+Programming Interface (API) and interactive so that drone pilots will be able to
+plot their proposed flight plan and easily identify the zone(s) within which it falls so
+as to assess whether or not they need to make an application for prior approval.
+19. Requirement of prior permission. – No person shall operate a drone in a red
+zone or yellow zone without prior permission.
+20. Mandatory pre-flight verification of zonal restrictions. – Before commencing
+a drone operation, a drone pilot shall mandatorily verify the digital sky platform for
+any notification or restriction applicable to drone operations in the intended area
+of operation.
+21. Dynamic nature of zoning: (1) The Central Government may update the
+airspace map on digital sky platform for drone operations from time to time to
+change the status of an area from one zone to another.
+(2) Any such change shall come into effect no sooner than seven days after the date
+of such update.
+22. Temporary red zone. – (1) If there is an urgent need to temporarily prohibit drone
+flights in a specified area, the concerned State Government, Union Territory
+Administration or law enforcement agency may declare a temporary red zone over
+such specified area, for a period not exceeding 48 hours at a time, by notifying it
+through the digital sky platform and highlighting it on the airspace map.
+(2) The temporary red zone shall be declared by an officer not below the rank of
+Superintendent of Police or its equivalent. Such officer shall endeavour to keep
+the size of the temporary red zone reasonable and not excessive.
+(3) The digital sky platform shall endeavour to inform, through electronic means,
+holders of unique identification number within a distance of five kilometre from the
+perimeter of the temporary red zone of such a restriction, provided that the lack of
+receipt of such information shall not absolve a drone pilot of the responsibility to
+verify the zonal restrictions on the digital sky platform before commencing a drone
+operation.
+23. Access to data. – All State Governments, Union Territory Administrations and
+law enforcement agencies shall be provided direct access to the data available on
+the digital sky platform.
+24. Remote Pilot Licence.— (1) General. – No natural person other than a holder of
+a valid remote pilot licence enlisted on the digital sky platform shall operate a
+drone.
+(a) Remote pilot licences shall specifically mention the class of the drone that
+the natural person has successfully completed the prescribed training for.
+(b) The remote pilot licence shall specifically mention if the said natural
+person has successfully completed the prescribed training for automatic
+or autonomous drone operations.
+(3) Eligibility. – The following natural persons shall be eligible for a remote pilot
+(a) not less than eighteen years of age and not more than sixty five years of
+(b) have passed class tenth or its equivalent examination from a recognised
+(c) have completed the training prescribed by the Director General for the
+applicable class of remote pilot licence from an authorised remote pilot
+training organisation.
+(4) Procedure for obtaining remote pilot licence. –
+(a) After completing the prescribed training and passing the prescribed
+proficiency test conducted by an authorised remote pilot training
+organisation, the natural person shall be issued a remote pilot certificate
+by such authorised remote pilot training organisation through the digital
+sky platform, within seven days of the successful completion of such
+proficiency test.
+(b) The authorised remote pilot training organisation shall pay the applicable
+fee for each remote pilot certificate issued through the digital sky platform.
+(c) The Director General may issue the remote pilot licence to any applicant
+who satisfies the criteria set out in sub-rule (4)(a), through the digital sky
+platform, within fifteen days from the date of issue of the remote pilot
+certificate by the authorised remote pilot training organisation.
+(a) A remote pilot licence shall be valid only if it is enlisted on the digital sky
+platform.
+(b) A remote pilot licence shall, unless suspended or cancelled, remain valid
+for a period of ten years, and may be renewed by any authorised remote
+pilot training organisation for the period specified therein, subject to a
+maximum period of ten years:
+Provided that the holder of the remote pilot licence undergoes such
+refresher courses as may be specified by the Director General on the
+digital sky platform from time to time.
+(6) Exemption. – No remote pilot licence shall be required for a person –
+(a) operating a nano drone; and
+(b) operating a micro drone for non-commercial purposes.
+25. Remote pilot training organisation.— (1) General. – No person other than an
+authorised remote pilot training organisation shall impart training to a person
+seeking a remote pilot licence.
+(2) Eligibility. – No remote pilot training organisation shall be authorised unless the
+following eligibility criteria have been met:
+(a) The remote pilot training organisation is operating from a plot of land that
+has minimum dimensions of 50 metre by 50 metre;
+(b) The remote pilot training organisation has an adequate number of
+classrooms to ensure that there are not more than 30 students in a
+classroom at any point in time;
+(c) The remote pilot training organisation has a requisite number of drones
+and related equipment in good working condition so as to ensure that
+each student has adequate opportunity for hands-on practical training;
+(d) The remote pilot training organisation has a requisite number of
+instructors with valid remote pilot licences who shall be responsible for
+training the students.
+(a) Any person who has met the eligibility criteria set out in sub-rule (2) and is
+seeking authorisation to establish a remote pilot training organisation
+shall submit an application to the Director General in Form D-6 on the
+digital sky platform, along with the specified fee.
+(b) The Director General may issue the authorisation for the remote pilot
+training organization to any applicant who satisfies the criteria set out in
+sub-rule (3)(a), within sixty days from the date of such application.
+(4) Validity. – An authorisation to establish a remote pilot training organisation shall,
+unless suspended or cancelled, remain valid for a period of ten years, and may
+be renewed for the period specified therein, subject to a maximum period of ten
+years at a time.
+(a) The authorised remote pilot training organisation shall ensure strict
+compliance with the requirements prescribed by the Director General on
+the digital sky platform in respect of training, proficiency testing and issue
+of remote pilot certificates.
+(b) The prescribed training requirements shall be specific to a class or
+classes of drone.
+(c) There shall be prescribed training requirements for automatic and
+autonomous drone operations.
+26. Drone operations for research and development. – The following persons shall
+not require a certificate of airworthiness, unique identification number, prior
+permission and remote pilot licence for operating drones for research and
+development purposes –
+(a) Research and development entities under the administrative control of, or
+recognised by the Central Government, State Governments or Union
+(b) Educational institutions under the administrative control of, or recognised
+by the Central Government, State Governments or Union Territory
+(c) Startups recognised by Department for Promotion of Industry and Internal
+(d) Any drone manufacturer having a Goods and Service Tax Identification
+Provided that such drone operations take place within a green zone and
+within the premises of the person where such research and development is being
+carried out; or within an open area in a green zone under such person’s control.
+27. Drone traffic management. – (1) The Central Government may, within sixty days
+of the date of notification of these rules, publish the policy framework in respect of
+the Unmanned Aircraft System Traffic Management (UTM) System on the digital
+sky platform.
+(2) Such policy framework shall be in alignment with these rules and shall facilitate
+automated permissions as required under these rules.
+(3) The framework for developing drone corridors for safe transfer of goods by drones
+shall be specified in the said policy framework.
+(4) The roles, powers and responsibilities of State Governments and Union Territory
+Administrations shall be specified in the said policy framework.
+28. The provisions of the Motor Vehicles Act, 1988 and rules made there under shall
+apply, mutatis mutandis, to third party insurance of drone and compensation in
+case of damage to life and/or property caused by such a drone.
+Notwithstanding anything contained in this rule, a nano drone may operate
+without third party insurance.
+29. Drone promotion.— (1) The Central Government may promote the adoption and
+use of drones through the creation of a Drone Promotion Council.
+(2) The drone promotion council shall facilitate –
+(a) development of a business-friendly regulatory regime, including automated
+(b) establishment of incubators and other facilities for the development of
+(c) involvement of industry experts and academic institutions in policy advice;
+(d) organising of competitive events involving drones and counter-drone
+technologies.
+(3) The Central Government may evaluate these rules on the basis of economic
+impact which shall be documented in a six-monthly report that will list the
+achievements of the Indian drone sector and the measures taken to further the
+ease of doing business in the sector.
+30. Fee.— The fee for services rendered by the Central Government under these
+rules shall be payable as specified under –
+1      Issuance of certificate of airworthiness                        100
+2      Issuance or transfer of unique identification number            100
+3      Listing or renewal of remote pilot licence                      100
+Authorisation or renewal of authorisation of remote
+pilot training organisation
+Note: Entities such as Quality Council of India, certification entities and authorised
+remote pilot training organisations etc. may charge market-linked fee for their
+services.
+31. Directions.— The Central Government may, if required, issue general or special
+directions related to drones, not inconsistent with the Aircraft Act, 1934 or these
+rules.
+32. General power to exempt. – The Central Government may, by a general or
+special order in writing, exempt any person or class of persons from the operation
+of these rules, either wholly or partially, subject to such conditions, as may be
+specified in that order.
+33. Prosecution for offences. – (1) A person who has contravened or failed to
+comply with these rules shall be punishable by the Court in accordance with the
+provisions of sub-section (2) of Section 10 of the Aircraft Act, 1934 and such
+contraventions or non-compliance shall be compoundable in accordance with the
+provisions of Section 12A of the Aircraft Act, 1934.
+(2) The provisions of these rules shall be in addition to, and not in derogation of the
+provisions of any other law, for the time being in force.
+34. Penalties. – Where the Director General or an officer authorised by the Central
+Government, State Government or Union Territory Administration; after giving an
+opportunity of being heard, is satisfied that a person has contravened or failed to
+comply with the provisions of these rules, he may, for reasons to be recorded in
+writing, levy a penalty not exceeding rupees one lakh in accordance with the
+provisions of Section 10A of the Aircraft Act, 1934.
+35. Cancellation or suspension.— Where the Director General or an officer
+authorised by the Central Government, State Government or Union Territory
+Administration; after giving an opportunity of being heard, is satisfied that a person
+has contravened or failed to comply with the provisions of these rules, he may, for
+reasons to be recorded in writing, cancel or suspend any licence, certificate,
+authorisation or approval granted under these rules.
+36. Saving. — Nothing in these rules shall limit or otherwise affect the power of the
+Central Government with regard to any order issued in the interest of public safety
+or for safe operation of all manned or unmanned aircraft.
+37. Repeal. — The Unmanned Aircraft System Rules, 2021 stand repealed.
+File number: AV-29017/37/2021-SDIT-MOCA

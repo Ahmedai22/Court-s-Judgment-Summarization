@@ -1,0 +1,285 @@
+The recent attack on an undertrial inside a Trial Court in
+Rohini (Delhi) by two assailants dressed up as Advocates, isa
+harbinger of our worst nightmare coming true. Similar attacks
+have taken place, several times in the District Courts in Madhya
+Pradesh where security and security consciousness is zero. The
+difference between the incidents that have taken place in our
+District  Courts  and   the   Rohini  episode is   the  manner     of
+execution.   In MP,   the   assailants  enter the   District  Court
+complex as members of the public and execute their plan. In
+Rohini, the assailants entered as Advocates, and that made all
+the difference.
+"Advocates, the Print spoke to said there is no frisking at
+the entry points,   ID cards are not checked,         cars are not
+inspected and the metal detectors don't work. All one needs to
+enter the   premises is a     black coat and     a  white   shirt...."
+(extracted from the Print from an article on the Rohini incident).
+As in the past, our wisdom dawns ex post facto. It is in
+this backdrop that we feel it is essential for the courts in
+Madhya Pradesh to introduce an RFID based identification
+system for Advocates, which can verify their identity seamlessly,
+without necessitating them to stop and prove their credentials
+while entering the court premises. This SOP is being drawn up
+to put in place a discipline to be followed by the learned
+members of the legal profession so as to ensure their own safety
+and security and also assist in making the courts a safer place.
+The security of the Courts can be described in alliterative
+phraseology as the 3P's; Perimeter, Proximate and Personal.
+Perimeter       security    deals
+to  enter    the Court premises.
+probable assailant is attempting                                          has
+Proximate      security is the
+to  the court complex.
+the first stage and has
+Personal    security deals with the
+the Court    room   which is    provided
+PSO for the    judge,  if need be. In this SOP
+with the first stage i.e., Perimeter security.
+to the SOP,     a   meeting of the
+Honourable      the    Chief Justice,
+Committee,       headed    by                                          matter
+TClaung to     security in Court premises
+through  video conferencing.
+with the stakeholders,
+Associations     and office of
+representatives    of the Bar
+also  attended   the meeting through
+Conferencing mode.
+There  was   conscnsus    in the mceting with
+card for the    Advocates
+implementation of the system of RFID
+and the Court staff.
+referred to     as  Bar Council)   shall be the sole
+their rolls.
+personal      RFID cards to the Advocates     on
+shall,  at the   earliest, prepare    a   computer
+for personal RFID. The
+sheet based      integrated application form
+application      shall be simple but require mandatorily,
+the         and parentage of the      applicant, (b) the
+number of the     applicant with    the Bar Council,      (c)
+his/her      mobile   number, (d) his photograph
+proof.
+be entertained by the Bar
+(3)     The completed form shall
+is verified by the Bar Association
+Council only if the application
+is member and endorsed by
+of which the applicant
+authorised office bearer
+(4)     The Bar Council shall make
+application form through
+digital copy of the completed
+mobile app,     compatible   with both android and
+operating systems.
+(5)    A machine     generated receipt with        a
+applicant for   follow up.
+The application shall be verified by confirming the identity
+of the applicant by ensuring that the name, photograpn,
+registration    number     and   parentage   of the   applicant
+sVnchronised with the data available with the Bar Council.
+Alter   verifying  the   identity of the  applicant,  the Bar
+Council shall issue the RFID card (personal) to the applicant
+upon payment of such fees as may be determined by the Bar
+Once the card is issucd in favour of the applicant, the
+registration number of the applicant must be blocked to prevent
+the issuance of a second RFID card, unless loss or damage to
+the card is reported to the Bar Council by the applicant and
+he/she applies for a fresh RFID card.
+(9)   The Bar Council shall have a helpline number dedicated to
+report issues relating to the RFID card, including loss or
+damage to the card.
+(10)  In the case of a loss or damage to the card being reported,
+the Bar Council shall take immediate steps to permanently
+block the RFID card issued to the applicant reporting loss or
+(11)  All future applications for registration with the Bar
+Council,    an   ID   with   integrated  RFID   (personal)  may  be
+considered as suggested by Justice Prakash Shrivastava.
+(12)  See S. No. 3 of "SOP for Vehicles".
+(1)   The advocate shall fill up the application form given by the
+Madhya Pradesh State Bar Council for the purposes of getting
+the RFID cards.
+(2)   The information given in the application form must be
+endorsed     as   correct by     President  of Bar Association   or
+authorised office bearer after verification with Membership
+till he  receives   the RFID card.
+court    premises without
+necessitate     physical frisking of
+produce    his identity card
+not  object   and he shall have to
+such situation, the production
+the  State Bar Council. In
+addition to the physical frisking
+the identity card is in
+he seeks entry into the
+issued to him.
+Advocates       from outside the State,
+Madhya Pradesh, if engaged by
+shall also be extended the      privilege
+Advocate with       an  RFID    card,
+of         into the court      premises   without    physical frisking,   upon
+the local Advocate. However,
+being   so   identified   by
+made by the security staff at
+the outstation Advocate shall be
+the point of entry in the Register maintained for the purpose.
+engaged by the     local clients
+(7)    Outstation      Advocates, who      are
+by      local Advocate, will be
+and who cannot be identified                    a
+the entrance.
+physically frisked by the security staff
+Loss of or damage to the RFID card (personal or vehicle)
+intimated to the State Bar Council          on  its
+that the lost card    can   be disabled.
+The advocate applying for RFID card shall bear the cost of
+the card as may be determined by the Bar Council of Madhya
+Pradesh from time to time.
+()    When the completed forms are placed before it, the office
+bearer concerned of the Bar Association shall verify its details
+and endorse the same with his signature and official seal. The
+cndorsement     by the   Bar Association   shall mcan    that the
+application has been verificd at its level and the details given
+therein are found to be correct and that the applicant is indeed
+a member of the local Bar Association.
+(2)   After uploading the digital version of the application form
+(by the applicant), the physical form shall be retained by the
+local Bar Association for one year.
+()    Recognised Bar Associations by the Bar Council shall be
+sole authority to issue vehicular RFID cards to its member
+advocates registered with the Bar Council of Madhya Pradesh
+for vehicles.
+(2)    Only vehicles registered in the name of Advocates or his
+family members i.e. wife, son or daughter will be eligible for
+issuance of RFID stickers.
+(3)    Only vehicles having RFID stickers will be allowed entry
+into designated parking area for Advocates in the court
+(4      Application  on   computer    forms   issued  by    the  Bar
+Association for vehicle sticker RFID shall be filled up by the
+advocate. The form should provide options for four-wheelers
+and two-wheelers. The design of the RFID stickers would be
+different in both the cases. Along with the application form, the
+copy of the registration card of the vehicle showing the same to
+be registered in the name of the advocate or his family members
+i.e. wife, son or daughter along with the advocate registration
+number with the Bar Council will also be submitted.
+(5)   At the entrance gate for vehicles, automatic boom barriers
+shall bc fixed (with manual override by    security) providing for
+scamless entry of vehicles having the RFID stickers
+Advocates whose vehicles bear the RFID stickers shall
+cnsure that   the vehicle is not borrowed by anyone, cxcept on
+davs when the court is closed or after the court working hours.
+(7)   f  non advocates Are passengers in the vehicles of the
+advocate with RFID sticker, it shall be the duty of the advocate
+possessing the RFID card to record the names of such persons
+in the relevant   Register at the entrance so that   they may be
+Electric vehicles (mostly scooters with motors of less than
+250 watts of power) which do not require registration, do not
+qualify for RFID stickers and shall not be permitted into the
+Court premises and shall be parked outside the Court perimeter
+in such places designated for it. However, electric vehicles with
+registration numbers qualify for issuance of an RFID sticker
+and requirement in S. No. 3 shall be applicable.
+(9)    Advocates coming on bicycles shall not require an RPID
+sticker on their bicycles but entry of bicycles into the Court
+premises of such Advocates shall only be after the bicycle is
+checked (especially under the saddle) by the security staff.
+(1)    The Registrar General of the Madhya Pradesh High Court
+shall be the sole authority to issue RFID cards and vehicle
+stickers to the employees of the High Court for the Principal
+Bench at Jabalpur.
+(2)    The Principal Registrar of the Benches at Indore and
+Gwalior respectively shall be the authority to issue RFID cards
+and vehicle stickers to the employees of the Bench at Indore
+and Gwalior respectively.
+3)    The RFID cards (personal) shall be issued to all employees
+on the rolls of the High Court, without the requirement of an
+application.
+(4)   The RG's office shall maintain a record of the RFID's
+issued to all the employccs of the High Court at the Principal
+Bench and the Principal Rcgistrars of the benches at Indore and
+Gwalior shall   maintain   a  record  likewise.  They shall   also
+maintain a permanent help line number for issucs relating to
+the RFID cards.
+(5)   The District Judge shall be in charge of issuing the RFID
+cards to all the employees of the District Court and the Tahsil
+Courts. The DJ shall maintain a record of those receiving the
+RFID cards.
+(6)    "SOP FOR VEHICLES" will apply mutatis mutandis, to the
+employees     of the   High   Court   and   the   District Courts.
+Applications will be addressed to the RG, the Principal Registrar
+at the bernches and the District Judge. S. No. 3 of sOP for
+Vehicles be strictly complied with before issuing the RFID
+sticker for vehicles.
+(7)   In cases of loss or damage to RFID card (personal or
+vehicle) the employee shall forthwith inform the loss of or
+damage to the card on the helpline number to disable the card.
+(8)    The   benches shall also make        provision   for issuing
+temporary RFID cards for three months to interns/law clerks
+posted at the various courts.
+(1)     The SOP made by the High Court of Madhya Pradesh shall
+be mutatis mutandis applicable to all the stakeholders of the
+Judge/ Senior most Judge of the respective districts/Tahsils
+shall have exclusive authority to take decision as per the
+subject to following SOP.
+requirement of the place &        situation
+(3)      All the stakeholders of judicial fraternity shall adhere to
+the strict compliance of SOP
+Judge/Senior most Judge of the respective districts/Tahsils
+shall nominate responsible staff members to oversee the safety
+norms by carrying regular inspection on daily basis in their
+respective Court premiscs
+All the judicial officers of subordinate Courts shall ensure
+that advocates and         the  staff members practising/ working in
+their courts adhere to this      SOP
+Judge/Senior most Judge of the respective districts/Tahsils
+shall ensure adherence of SOP by Bar Association of the
+respective districts.
+(7)    The entry of all the Advocates/litigants in the Court
+complex will     be permitted with due     observance of SOP.
+Judge/Senior most Judge of the District/Tahsil Court shall
+allocate designated place for parking of Advocate's vehicles.
+(9)     The     Court     premises      including     Bar    Association
+building/chambers shall remain open on all Court working days
+between 09:30 AM to 06:30 PM only or subject to the orders of
+the     Principal    District      Judge/Principal      Family   Court
+Judge/Senior most Judge        of the  District/Tahsil Court.
+Judge/Scnior most Judge of the respective districts/Tahsils
+shall ensure the compliance of sOP with the help of Chief
+Judicial Magistrate and District Registrar of their respective
+districts.
+Judge/Senior most Judge of
+and shall also regularly
+shall define the    entry & cxit gates
+of security  set up which shall
+Supervise the proper functionality
+The Advocates    are  requested   to carry their RFID at
+the entry point positively;
+(ii)  Each entry & cxit doors shall have metal
+installed. No person   shall be  permitted   to enter inside the
+Court premiscs unless screened through metal detectors.
+(iii) All the articles carried by Advocates/litigants/police
+through radio x-ray screening    machine.
+(iv)  Apart above,   no  person shall be
+the   Court   premises    unless    identified   either   by   the
+Advocate or any other authorized person.
+For smooth implementation of sOP following               measures     are
+Boundary walls of height around 7-8 feet with barbed wire
+should be constructed around the outer periphery of
+Court campus. Watch tower should also be constructed onn
+boundary walls.
+.Special security forces as CISF etc. should be deployed at
+the district Court premises as well as at residential
+accommodations of judicial officers.
+Police outposts/chowkies with skeleton armed police
+personnel should be set up in every court premises.
+.Watch towers with sufficient height should be erected in
+the High Court campuses at Jabalpur, Indore and Gwalior
+and also in all the District Court premises.
+CCTV cameras should be installed at Court campus with
+centralized control & monitoring systemn.
+provided  to the litigants
+. Cloakrooms    should bc madc and
+personnel  for depositing thcir
+Court campus.
+articles before entering into the

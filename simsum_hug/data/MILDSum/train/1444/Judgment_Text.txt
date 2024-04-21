@@ -1,0 +1,611 @@
+State of Rajasthan Through Public Prosecutor
+1.    While hearing this anticipatory bail application, the question
+of law arose whether an anticipatory bail application would be
+maintainable by an accused who is already arrested and is in
+judicial custody in relation to another FIR registered against him
+for the offences mentioned therein.
+2.    Learned counsel for the petitioner and learned counsel for
+the complainant as well as learned Public Prosecutor had advanced
+their submissions.
+3.   It would therefore be apposite to first note down the relevant
+provisions of Code of Criminal Procedure (“Cr.P.C.”). Sections 41,
+46, 81, 105 and Section 438 Cr.P.C. are as under:
+“41. When police may arrest without warrant.—(1) Any police
+officer may without an order from a Magistrate and without a
+1(a) who commits, in the presence of a police officer, a cognizable
+(b) against whom a reasonable complaint has been made, or credible
+information has been received, or a reasonable suspicion exists that
+he    has   committed      a    cognizable      offence     punishable with
+imprisonment for a term which may be less than seven years or
+which may extend to seven years whether with or without fine, if the
+following conditions are satisfied, namely:—
+(i) the police officer has reason to believe on the basis of such
+complaint, information, or suspicion that such person has committed
+(ii) the police officer is satisfied that such arrest is necessary—
+(a) to prevent such person from committing any further offence; or
+(b) for proper investigation of the offence; or
+(c) to prevent such person from causing the evidence of the offence
+to disappear or tampering with such evidence in any manner; or
+(d) to prevent such person from making any inducement, threat or
+promise to any person acquainted with the facts of the case so as to
+dissuade him from disclosing such facts to the Court or to the police
+(e) as unless such person is arrested, his presence in the Court
+whenever required cannot be ensured, and the police officer shall
+record while making such arrest, his reasons in writing:
+Provided that a police officer shall, in all cases where the arrest of a
+person is not required under the provisions of this sub-section,
+record the reasons in writing for not making the arrest.
+(ba) against whom credible information has been received that he
+has committed a cognizable offence punishable with imprisonment
+for a term which may extend to more than seven years whether with
+or without fine or with death sentence and the police officer has
+reason to believe on the basis of that information that such person
+(c) who has been proclaimed as an offender either under this Code
+(d) in whose possession anything is found which may reasonably be
+suspected to be stolen property and who may reasonably be
+suspected of having committed an offence with reference to such
+(e) who obstructs a police officer while in the execution of his duty,
+or who has escaped, or attempts to escape, from lawful custody; or
+(f) who is reasonably suspected of being a deserter from any of the
+(g) who has been concerned in, or against whom a reasonable
+complaint has been made, or credible information has been received,
+or a reasonable suspicion exists, of his having been concerned in,
+any act committed at any place out of India which, if committed in
+India, would have been punishable as an offence, and for which he
+is, under any law relating to extradition, or otherwise, liable to be
+apprehended or detained in custody in India; or
+(h) who, being a released convict, commits a breach of any rule
+(i) for whose arrest any requisition, whether written or oral, has been
+received from another police officer, provided that the requisition
+specifies the person to be arrested and the offence or other cause for
+which the arrest is to be made and it appears therefrom that the
+person might lawfully be arrested without a warrant by the officer
+who issued the requisition.
+(2) Subject to the provisions of section 42, no person concerned in a
+non-cognizable offence or against whom a complaint has been made
+or credible information has been received or reasonable suspicion
+exists of his having so concerned, shall be arrested except under a
+warrant or order of a Magistrate.
+46. Arrest how made.—(1) In making an arrest the police officer or
+other person making the same shall actually touch or confine the
+body of the person to be arrested, unless there be a submission to the
+Provided that where a woman is to be arrested, unless the
+circumstances indicate to the contrary, her submission to custody on
+an oral intimation of arrest shall be presumed and, unless the
+circumstances otherwise require or unless the police officer is a
+female, the police officer shall not touch the person of the woman
+for making her arrest.
+(2) If such person forcibly resists the endeavour to arrest him, or
+attempts to evade the arrest, such police officer or other person may
+use all means necessary to effect the arrest.
+(3) Nothing in this section gives a right to cause the death of a
+person who is not accused of an offence punishable with death or
+with imprisonment for life.
+(4) Save in exceptional circumstances, no woman shall be arrested
+after sunset and before sunrise, and where such exceptional
+circumstances exist, the woman police officer shall, by making a
+written report, obtain the prior permission of the Judicial Magistrate
+of the first class within whose local jurisdiction the offence is
+committed or the arrest is to be made.
+81. Procedure by Magistrate before whom such person arrested
+is    brought.—(1)      The     Executive        Magistrate  or  District
+Superintendent of Police or Commissioner of Police shall, if the
+person arrested appears to be the person intended by the Court
+which issued the warrant, direct his removal in custody to such
+Provided that, if the offence is bailable, and such person is ready and
+willing to give bail to the satisfaction of such Magistrate, District
+Superintendent or Commissioner, or a direction has been endorsed
+under section 71 on the warrant and such person is ready and willing
+to give the security required by such direction, the Magistrate,
+District Superintendent or Commissioner shall take such bail or
+security, as the case may be, and forward the bond, to the Court
+Provided further that if the offence is a non-bailable one, it shall be
+lawful for the Chief Judicial Magistrate (subject to the provisions of
+section 437), or the Sessions Judge, of the district in which the arrest
+is made on consideration of the information and the documents
+referred to in sub-section (2) of section 78, to release such person on
+(2) Nothing in this section shall be deemed to prevent a police
+officer from taking security under section 71.
+105. Reciprocal arrangements regarding processes.—(1) Where a
+Court in the territories to which this Code extends (hereafter in this
+section referred to as the said territories) desires that—
+(b) a warrant for the arrest of an accused person, or
+(c) a summons to any person requiring him to attend and produce a
+issued by it shall be served or executed at any place,—
+(i) within the local jurisdiction of a Court in any State or area in
+India outside the said territories, it may send such summons or
+warrant in duplicate by post or otherwise, to the presiding officer of
+that Court to be served or executed; and where any summons
+referred to in clause (a) or clause (c) has been so served, the
+provisions of section 68 shall apply in relation to such summons as
+if the presiding officer of the Court to whom it is sent were a
+(ii) in any country or place outside India in respect of which
+arrangements have been made by the Central Government with the
+Government of such country or place for service or execution of
+summons or warrant in relation to criminal matters (hereafter in this
+section referred to as the contracting State), it may send such
+summons or warrant in duplicate in such form, directed to such
+Court, Judge or Magistrate, and send to such authority for
+transmission, as the Central Government may, by notification,
+specify in this behalf.
+(2) Where a Court in the said territories has received for service or
+(b) a warrant for the arrest of an accused person, or
+(c) a summons to any person requiring him to attend and produce a
+(i) a Court in any State or area in India outside the said territories;
+(ii) a Court, Judge or Magistrate in a contracting State,
+it shall cause the same to be served or executed as if it were a
+summons or warrant received by it from another Court in the said
+territories for service or execution within its local jurisdiction; and
+(i) a warrant of arrest has been executed, the person arrested shall,
+so far as possible, be dealt with in accordance with the procedure
+(ii) a search-warrant has been executed, the things found in the
+search shall, so far as possible, be dealt with in accordance with the
+Provided that in a case where a summons or search-warrant received
+from a contracting State has been executed, the documents or things
+produced or things found in the search shall be forwarded to the
+Court issuing the summons or search-warrant through such authority
+as the Central Government may, by notification, specify in this
+438. Direction for grant of bail to person apprehending arrest.—
+(1) When any person has reason to believe that he may be arrested
+on an accusation of having committed a non-bailable offence, he
+may apply to the High Court or the Court of Session for a direction
+under this section that in the event of such arrest he shall be
+released on bail; and that court may, after taking into consideration
+(ii) the antecedents of the applicant including the fact as to whether
+he has previously undergone imprisonment on conviction by a court
+(iii) the possibility of applicant to flee from justice; and
+(iv) where the accusation has been made with the object of injuring
+or humiliating the applicant by having him so arrested, either reject
+the application forthwith or issue an interim order for the grant of
+Provided that, where the High Court or, as the case may be, the
+Court of Session has not passed any interim order under this sub-
+section or has rejected the application for grant of anticipatory bail,
+it shall be open to an officer incharge of a police station to arrest,
+without warrant the applicant on the basis of the accusation
+apprehended in such application.
+(1A) Where the court grants an interim order under sub-section (1),
+it shall forthwith cause a notice being not less than seven days
+notice, together with a copy of such order to be served on the Public
+Prosecutor and the Superintendent of Police, with a view to give the
+Public Prosecutor a reasonable opportunity of being heard when the
+application shall be finally heard by the court.
+(1B) The presence of the applicant seeking anticipatory bail shall be
+obligatory at the time of final hearing of the application and passing
+of final order by the court, if on an application made to it by the
+Public Prosecutor, the court considers such presence necessary in
+the interest of justice.
+(2) When the High Court or the Court of Session makes a direction
+under sub-section (1), it may include such conditions in such
+directions in the light of the facts of the particular case, as it may
+(i) a condition that the person shall make himself available for
+interrogation by a police officer as and when required;
+(ii) a condition that the person shall not, directly or indirectly, make
+any inducement, threat or promise to any person acquainted with the
+facts of the case so as to dissuade him from disclosing such facts to
+(iii) a condition that the person shall not leave India without the
+(iv) such other condition as may be imposed under sub-section (3)
+of section 437, as if the bail were granted under that section.
+(3) If such person is thereafter arrested without warrant by an officer
+in charge of a police station on such accusation, and is prepared
+either at the time of arrest or at any time while in the custody of
+such officer to give bail, he shall be released on bail; and if a
+Magistrate taking cognizance of such offence decides that a warrant
+should be issued in the first instance against that person, he shall
+issue a bailable warrant in conformity with the direction of the Court
+under sub-section (1).
+(4) Nothing in this section shall apply to any case involving the
+arrest of any person on accusation of having committed an offence
+under sub-section (3) of section 376 or section 376AB or section
+376DA or section 376DB of the Indian Penal Code.”
+4.    Learned     counsel      for     the     petitioner        submits    that  an
+anticipatory bail application would be maintainable even if a
+person is arrested in another case or in a similar case as he
+cannot be prevented from seeking restrained order from the court
+in the present FIR.
+5.    Learned    counsel      for the petitioner               has   relied  on the
+judgments of the Supreme Court in Gurbaksh Singh Sibbia etc.,
+Vs. The State of Punjab, reported in AIR 1980 SC 1632,
+Central Bureau of Investigation, Special Investigation Cell-
+I, New Delhi Vs. Anupam J. Kulkarni, reported in (1992) 3
+SCC 141, Sushila Aggarwal & Ors. Vs. State (NCT of Delhi)
+& Anr., reported in (2020) 5 SCC 1, Sundeep Kumar Bafna
+Vs. State of Maharashtra & Anr., reported in (2014) 16 SCC
+623. and in State of W.B. Vs. Dinesh Dalmia, reported in
+(2007) 5 SCC 773. He also relied on judgment of this Court in
+State of Rajasthan Vs. Santosh Yadav, reported in (2005) 1
+RLW 538 and judgment of Madras High Court in State by
+Inspector of Police, Anti Land Grabbing Special Cell, City
+M. Anbhazhagan, reported in 2012 (1) MWN (Cr.) 4 (DB).
+He also relied on the order of Punjab & Haryana High Court in
+Gurjant     Singh      Vs.     State        of      Punjab,       Criminal     Misc.
+No.10829/2011, decided on 11.05.2011 and the order of
+Bombay High Court in Vikram Sujit Das & Anr. Vs. State of
+Maharashtra, 2020 SCC OnLine Bom 11401 to submit that an
+anticipatory bail application under Section 438 Cr.P.C. would be
+6.    Per contra, learned counsel appearing for the complainant
+submits that once a person stands already arrested, would not be
+entitled for moving an anticipatory bail application in another case
+as he stands already arrested and has to be produced by way of
+production warrant in any other case where it is alleged that he
+has committed a non-bailable cognizable offence.
+7.    Learned counsel has relied on the judgment of the Supreme
+Court in Narinderjit Singh Sahni & Anr. Vs. Union of India &
+Ors.,   reported   in    (2002)         2    SCC        210,  Directorate    of
+Enforcement Vs. Deepak Mahajan & Anr., reported in
+8.    I have considered the submissions and also examined the
+law as laid down by the Supreme Court in the aforesaid judgments
+cited by both the parties.
+9.    However, it appears that the issue which has been raised
+before this Court, has not been addressed at any point of time by
+the Supreme Court or by any other High Court. Although two
+orders have been placed by learned counsel for the petitioner of
+Punjab & Haryana High Court and Bombay High Court but in both
+the cases the court did not examine whether the bail application
+was maintainable or not and simply granted anticipatory bail to
+the accused who stood already arrested and was confined to
+custody in another case.
+10.   Section 438 Cr.P.C. as quoted above, provides an opportunity
+to a person to move an application for direction that if he is to be
+arrested in a case and the said person has reasons to believe that
+he shall be arrested then he may be released on bail and the said
+person if granted anticipatory bail, it would be on the conditions as
+specified under Section 438 Cr.P.C.
+11.   In Gurbaksh Singh Sibbia etc. (supra), the Supreme Court
+“7. The facility which Section 438 affords is generally referred to as
+'anticipatory bail', an expression which was used by the Law
+Commission in its 41st report. Neither the section nor its marginal
+note so describes it but, the expression 'anticipatory bail' is a
+convenient mode of conveying that it is possible to apply for bail in
+anticipation of arrest. Any order of bail can, of course, be effective
+only from the time of arrest because, to grant bail, as stated in
+Wharton's Law Lexicon, is to 'set at liberty a person arrested or
+imprisoned, on security being taken for his appearance'. Thus, bail is
+basically release from restraint, more particularly, release from the
+custody of the police. The act of arrest directly affects freedom of
+movement of the person arrested by the police, and speaking
+generally, an order of bail gives back to the accused that freedom on
+condition that he will appear to take his trial. Personal recognisance,
+suretyship bonds and such other modalities are the means by which
+an assurance is secured from the accused that though he has been
+released on bail, he will present himself at the trial of offence or
+offences of which he is charged and for which he was arrested. The
+distinction between an ordinary order of bail and an order of
+anticipatory bail is that whereas the former is granted after arrest
+and therefore means release from the custody of the police, the latter
+is granted in anticipation of arrest and is therefore effective at the
+very moment of arrest. Police custody is an inevitable concomitant
+of arrest for non-bailable offences. An order of anticipatory bail
+constitutes, so to say, an insurance against police custody following
+upon arrest for offence or offences in respect of which the order is
+issued. In other words, unlike a post-arrest order of bail, it is a pre-
+arrest legal process which directs that if the person in whose favour
+it is issued is thereafter arrested on the accusation in respect of
+which the direction is issued, he shall be released on bail. Section
+46(1) of the Code of Criminal Procedure which deals with how
+arrests are to be made, provides that in making the arrest, the police
+officer or other person making the arrest "shall actually touch or
+confine the body of the person to be arrested, unless there be a
+submission to the custody by word or action". A direction under
+section 438 is intended to confer conditional immunity from this
+'touch' or confinement.”
+12.  Again the Supreme Court in Gurbaksh Singh Sibbia etc.
+“35. Section 438(1) of the Code lays down a condition which has to
+be satisfied before anticipatory bail can be granted. The applicant
+must show that he has "reason to believe" that he may be arrested
+for a non-bailable offence. The use of the expression "reason to
+believe" shows that the belief that the applicant may be so arrested
+must be founded on reasonable grounds. Mere 'fear' is not 'belief',
+for which reason it is not enough for the applicant to show that he
+has some sort of a vague apprehension that some one is going to
+make an accusation against him, in pursuance of which he may be
+arrested. The grounds on which the belief of the applicant is based
+that he may be arrested for a non- bailable offence, must be capable
+of being examined by the court objectively, because it is then alone
+that the court can determine whether the applicant has reason to
+believe that he may be so arrested. Section 438(1), therefore, cannot
+be invoked on the basis of vague and general allegations, as if to
+arm oneself in perpetuity against a possible arrest. Otherwise, the
+number of applications for anticipatory bail will be as large as, at
+any rate, the adult populace. Anticipatory bail is a device to secure
+the individual's liberty; it is neither a passport to the commission of
+crimes nor a shield against any and all kinds of accusations, likely or
+unlikely.
+Secondly, if an application for anticipatory bail is made to the High
+Court or the Court of Session it must apply its own mind to the
+question and decide whether a case has been made out for granting
+such relief. It cannot leave the question for the decision of the
+Magistrate concerned under Section 437 of the Code, as and when
+an occasion arises. Such a course will defeat the very object of
+Thirdly, the filing of a First Information Report is not a condition
+precedent to the exercise of the power under Section 438. The
+imminence of a likely arrest founded on a reasonable belief can be
+shown to exist even if an F.I.R. is not yet filed.
+Fourthly, anticipatory bail can be granted even after an F.I.R. is
+filed, so long as the applicant has not been arrested.
+Fifthly, the provisions of Section 438 cannot be invoked after the
+arrest of the accused. The grant of "anticipatory bail" to an accused
+who is under arrest involves a contradiction in terms, in so far as the
+offence or offences for which he is arrested, are concerned. After
+arrest, the accused must seek his remedy under Section 437 or
+Section 439 of the Code, if he wants to be released on bail in respect
+of the offence or offences for which he is arrested.”
+13.   Thus, where the accused has already been arrested, the
+anticipatory bail application would not lie in the said case.
+However, the question still remains that if a person is to be
+arrested in another case other than for which he had already been
+arrested whether anticipatory bail would lie. In Sushila Aggarwal
+(supra), the Constitution Bench was examining the following
+“(1) Whether the protection granted to a person under Section 438
+CrPC should be limited to a fixed period so as to enable the person
+to surrender before the trial court and seek regular bail.
+(2) Whether the life of an anticipatory bail should end at the time
+and stage when the accused is summoned by the court.”
+14.   The Constitution Bench speaking through M.R. Shah, J.
+“7.1 At the outset, it is required to be noted that as such the
+expression “anticipatory bail” has not been defined in the Code. As
+observed by this Court in Balchand Jain, “anticipatory bail” means
+“bail in anticipation of arrest”. As held by this Court, the expression
+“anticipatory bail” is a misnomer inasmuch as it is not as if bail is
+presently granted by the Court in anticipation of arrest. An
+application for “anticipatory bail” in anticipation of arrest could be
+moved by the accused at a stage before an FIR is filed or at a stage
+when FIR is registered but the charge sheet has not been filed and
+the investigation is in progress or at a stage after the investigation is
+concluded. Power to grant “anticipatory bail” under Section 438
+Cr.P.C. vests only with the Court of Sessions or the High Court.
+Therefore, ultimately it is for the court concerned to consider the
+application for “anticipatory bail” and while granting the
+“anticipatory bail” it is ultimately for the court concerned to impose
+conditions including the limited period of “anticipatory bail”,
+depends upon the stages at which the application for anticipatory
+bail is moved. A person in whose favour a pre-arrest bail order is
+made under Section 438 Cr.P.C. has to be arrested. However, once
+there is an order of pre-arrest bail/anticipatory bail, as and when he
+is arrested he has to be released on bail. Otherwise, there is no
+distinction or difference between the pre-arrest bail order under
+Section 438 and the bail order under Sections 437 & 439 Cr.P.C.
+The only difference between the pre-arrest bail order under Section
+438 and the bail order under Sections 437 and 439 is the stages at
+which the bail order is passed. The bail order under Section 438
+Cr.P.C. is prior to his arrest and in anticipation of his arrest and the
+order of bail under Sections 437 and 439 is after a person is arrested.
+A bare reading of Section 438 Cr.P.C. shows that there is nothing in
+the language of the Section which goes to show that the pre-arrest
+bail granted under Section 438 has to be time-bound. The position is
+the same as in Section 437 and Section 439 Cr.P.C.
+7.2 While considering the issues referred to a larger Bench, referred
+to hereinabove, the decision of the Constitution Bench of this Court
+in Gurbaksh Singh Sibbia (supra) is required to be referred to and
+considered in detail. The matter before the Constitution Bench in the
+case of Gurbaksh Singh Sibbia (supra) was arising out of the
+decision of the Full Bench of the Punjab and Haryana High Court.
+The High Court rejected the application for bail after summarising,
+what according to it was the true legal position, thus,
+“(1) The power under Section 438, Criminal Procedure Code, is of
+an extraordinary character and must be exercised sparingly in
+(2) Neither Section 438 nor any other provision of the Code
+authorises the grant of blanket anticipatory bail for offences not yet
+committed or with regard to accusations not so far levelled.
+(3) The said power is not unguided or uncanalised but all the
+limitations imposed in the preceding Section 437, are implicit
+therein and must be read into Section 438.
+(4) In addition to the limitations mentioned in Section 437, the
+petitioner must make out a special case for the exercise of the power
+to grant anticipatory bail.
+(5) Where a legitimate case for the remand of the offender to the
+police custody under Section 167(2) can be made out by the
+investigating agency or a reasonable claim to secure incriminating
+material from information likely to be received from the offender
+under Section 27 of the Evidence Act can be made out, the power
+under Section 438 should not be exercised.
+(6) The discretion under Section 438 cannot be exercised with
+regard to offences punishable with death or imprisonment for life
+unless the court at that very stage is satisfied that such a charge
+appears to be false or groundless.
+(7) The larger interest of the public and State demand that in serious
+cases like economic offences involving blatant corruption at the
+higher rungs of the executive and political power, the discretion
+under Section 438 of the Code should not be exercised; and
+(8) Mere general allegations of mala fides in the petition are
+inadequate. The court must be satisfied on materials before it that
+the allegations of mala fides are substantial and the accusation
+appears to be false and groundless.”
+15.  In the concurring judgment delivered by Ravindra Bhat, J.,
+“47. Section 438 Cr.PC provides for the issuance of directions for
+the grant of bail to a person apprehending arrest. The Criminal
+Procedure Code, 1973 replaced the old code of 1898. The old code
+did not provide for any corresponding provision to Section 438 of
+the code of 1973. Under the old code, there was a sharp difference
+of opinion amongst the various High Courts on the question as to
+whether courts had the inherent power to pass an order of bail in
+anticipation of arrest. The predominant position was that courts did
+not have such a power. Subsequently, the need for various
+amendments to make the code more comprehensive resulted in the
+enactment of the Code of Criminal Procedure in 1973. Interestingly,
+Section 438 does not expressly use the term “anticipatory bail”; its
+language instead empowers the court concerned to issue directions
+for grant of bail.
+56. The reason for enactment of Section 438 in the Code was
+Parliamentary acceptance of the crucial underpinning of personal
+liberty in a free and democratic country. Parliament wished to foster
+respect for personal liberty and accord primacy to a fundamental
+tenet of criminal jurisprudence, that everyone is presumed to be
+innocent till he or she is found guilty. Life and liberty are the
+cherished attributes of every individual. The urge for freedom is
+natural to each human being. Section 438 is a procedural provision
+concerned with the personal liberty of each individual, who is
+entitled to the benefit of the presumption of innocence. As denial of
+bail amounts to deprivation of personal liberty, the court should lean
+against the imposition of unnecessary restrictions on the scope of
+Section 438, especially when not imposed by the legislature. In
+“35…...Anticipatory bail is a device to secure
+the individual's liberty; it is neither a passport to the
+commission of crimes nor a shield against any and all
+kinds of accusations, likely or unlikely.”
+57. The interpretation of Section 438 - that it does not encapsulate
+Article 21, is erroneous. This court is of the opinion that the issue is
+not whether Section 438 is an intrinsic element of Article 21: it is
+rather whether that provision is part of fair procedure. As to that,
+there can be no doubt that the provision for anticipatory bail is pro-
+liberty and enables one anticipating arrest, a facility of approaching
+the court for a direction that he or she not be arrested; it was
+specifically enacted as a measure of protection against arbitrary
+arrests and humiliation by the police, which Parliament itself
+recognized as a widespread malaise on the part of the police.”
+16.   Thus the court answered the question raised before it that
+there is no time limit required to be laid down in the order of
+granting anticipatory bail.
+17.   The Scheme of Code of Criminal Procedure does not define
+the word “arrest”. In Chapter V of Code of Criminal Procedure,
+Section 41 lays down when police may arrest without warrant.
+Section 41B lays down procedure of arrest and duties of officer.
+Section 46 mentions how arrest is to be made.
+18.   Upon reading Section 46 Cr.P.C. (supra), it is apparent that
+arrest would mean to actually touch or confine the body of the
+person to custody of the police officer. Section 167 Cr.P.C. lays
+down that the custody may be given to the police for the purpose
+of investigation (called as remand) or be sent to jail (called as
+judicial custody). Thus the essential part of arrest is placing the
+corpus, body of the person in custody of the police authorities
+whether of a police station or before him or in a concerned jail.
+19.   The natural corollary is therefore that a person who is
+already in custody cannot have reasons to believe that he shall be
+arrested as he stands already arrested. In view thereof, the pre-
+condition of bail application to be moved under Section 438 Cr.P.C.
+i.e. “reasons to believe that he may be arrested” do not survive
+since a person is already arrested in another case and is in
+custody whether before the police or in jail.
+20.   In order to meet out such provisions, Section 105 Cr.P.C.
+read with Sections 68 and 81 would apply.
+21.   In Narinderjit Singh Sahni & Anr. (supra), the Apex Court did
+examine somewhat a similar issue though not completely. In the
+said case, writ petitions were filed under Article 32 of the
+Constitution of India before the Supreme Court and the Apex
+Court was confronted with twin issues – firstly pertaining to the
+maintainability of the petition under Article 32 and secondly that
+an order in the nature of anticipatory bail ought to be made
+available to the petitioners therein with regard to all the cases
+which were registered against them under Sections 407, 409, 420
+and 120B IPC in various cases.
+22.   Examining        the    aforesaid        aspects,         the Apex    Court   in
+Narinderjit Singh Sahni & Anr. (supra) observed as under:
+“49. Let us, therefore, analyse the situation in totality and consider
+the plea as emphasised by the petitioners herein. The records depict
+that thousands of innocent persons have fallen a prey in the
+methodology of working of finance companies and firms but does
+that mean and imply a denial of an opportunity of being heard or
+considered - the answer however, cannot possibly be in the
+affirmative. Doctrine of natural justice warrants a fair opportunity -
+we do not wish even to adumbrate the issue of natural justice here
+but the fact remains that the writ petitioners herein have come up
+with a petition on the ground that they have not been able to obtain
+benefit of the justice delivery system, reasons of which need not be
+dealt with presently but the factum of not being able to obtain the
+benefit and thereby it has been alleged that Article 21 stands
+violated : In our view, judicial review or in other words
+maintainability of the petition under Article 32 cannot possibly be
+doubted in any way and as such we are unable to record our
+concurrence with the submissions of the respondents in the matter.
+50. Let us however, try and analyse the grievance of the petitioners
+and consider as to whether there is any substance in such a
+grievance. Shortly put, the petitioners' grievance, which stands
+identical in all the writ petitions, stands out to be that though the
+petitioners were favoured with an order of bail in one case but are
+being detained by reason of production warrant in another matter
+and resultantly the petitioners are languishing in the jails being
+deprived of the order of grant of bail - this aspect of the matter has
+been stated to be violative of Article 21. In our view, however, the
+situation as noticed above does not ipso facto render it violative of
+Article 21. Article 21 of the Constitution postulates deprivation of
+life or personal liberty except according to the procedure established
+by law. Admittedly, the protection of personal liberty stands
+expanded to make the right to life under Article 21 more
+meaningful, the language of the Article itself records an exception
+indicating thereby that a person may be deprived of his liberty in
+accordance with the procedure established by law and it is in this
+sphere the courts will scrupulously observe as to whether the same
+stands differently and contra as regards the procedure established by
+law and in the event it is not so done, it would be a plain exercise of
+judicial power to grant redress to the petitioner. While there is no
+difficulty in appreciating the grievance and grant of relief in a given
+case but facts are too insufficient however, to come to a conclusion
+as regards the infraction of Article 21. Production warrants have
+been spoken of without any details whatsoever therefor - the reason
+offered is that the petitioners, in fact, are not in the know of things
+being behind the prison bars and it starts pouring in from all parts of
+the country and in the factual backdrop, as noticed above it is well
+nigh impossible to come to a finding as regards the infraction of
+Article 21 and since in the factual matrix, no infraction can be
+identified and thus question of sustaining the plea of infringement of
+Article 21 would not arise. In any event the liberty of the petitioners
+cannot be said to have been trifled within the absence of due process
+of law. Deprivation, if any cannot be claimed to be not in
+accordance with due process of law.
+51. On the score of anticipatory bail, it is trite knowledge that
+Section 438 CrPC is made applicable only in the event of there
+being an apprehension of arrest. The petitioners in the writ
+petitions herein are all inside the prison bars upon arrest against
+all cognizable offences, and in the wake of the aforesaid question
+relieving the petitioners from unnecessary disgrace and
+harassment would not arise.
+52. In that view of the matter and since no infraction can be
+identified, the petition also cannot be sustained as regards the issue
+of anticipatory bail under Section 438.”
+23.   As pointed out by learned counsel for the petitioner that
+there may be cases where a person who has already been
+arrested in a particular case may be faced with registering of
+several FIRs by the persons who do not want him to be released
+from jail and in the said circumstances, only option available is to
+take anticipatory bail in other FIRs as the police would seek his
+arrest in all the cases. It may be subsequently registered against
+him for non-bailable offences and in such an event, there would be
+infraction of his personal liberty. However, this Court does not
+agree to the submissions noticed as above. Once the FIR has been
+registered in relation to an offence committed against any person
+by an accused, he cannot claim to be protected from offences
+which he may have committed with other persons who have their
+individual right of registering an FIR against such an accused. The
+accused will have to face investigation and subsequent trial in
+relation to each and every case individually. The question whether
+he may be punished separately or jointly for other cases, is a
+completely different question altogether and need not be gone
+into the present case.
+24.   However, keeping in view observations in Narinderjit Singh
+Sahni & Anr. (supra) and considering that the purpose of
+preventive arrest by a direction of the court on an application
+under Section 438 Cr.P.C. would be an order in vacuum. As a
+person is already in custody with the police, this Court is of the
+view that such an anticipatory bail application under Section 438
+Cr.P.C. would not lie and would be nothing but travesty of justice
+in allowing anticipatory bail to such an accused who is already in
+25.   Examining     the   issue      from      another        angle,  if such   an
+application is held to be maintainable, the result would be that if
+an accused is arrested say for an offence committed of abduction
+and another case is registered against him for having committed
+murder and third case is registered against him for having stolen
+the car which was used for abduction in a different police station
+and the said accused is granted anticipatory bail in respect to the
+offence of stealing of the car or in respect to the offence of having
+committed murder, the concerned Police Investigating Agency
+where FIRs have been registered, would be prevented from
+conducting individual investigation and making recoveries as
+anticipatory bail once granted would continue to operate without
+limitation as laid down by the Apex Court in Sushila Aggarwal
+(supra). The concept of anticipatory bail as envisaged under
+Section 438 Cr.P.C. would stand frustrated. The provisions of grant
+of anticipatory bail are essentially to prevent the concerned person
+from litigation initiated with the object of injuring and humiliating
+the applicant by having him so arrested and for a person who
+stands already arrested, such a factor does not remain available.
+26.    In view of above discussion, this Court holds that the
+anticipatory bail would not lie and would not be maintainable if a
+person is already arrested and is in custody of police or judicial
+custody in relation to another criminal case which may be for
+similar offence or for different offences.
+27.    Accordingly,  it  would       be     appropriate        that  in  all  bail
+applications moved under Section 438 Cr.P.C., a footnote is added
+mentioning that concerned petitioner has not been arrested and is
+not in custody in any other case.
+28.    In the present case, as the petitioner stands already arrested
+in another case, the present bail application moved under Section
+438 Cr.P.C. would not lie and is accordingly dismissed.

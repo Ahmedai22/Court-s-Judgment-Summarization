@@ -1,0 +1,38 @@
+The Supreme Court has observed that criminal proceedings for the dishonour of cheque under Section 138 of the Negotiable Instruments Act, 1881, are "quasi-criminal" in nature.The Court also made an interesting comment that Section 138 proceedings can be called a "civil sheep" in a "criminal wolf's clothing".A bench comprising Justices RF Nariman, Navin Sinha and KM Joseph made these...
+The Supreme Court has observed that criminal proceedings for the dishonour of cheque under Section 138 of the Negotiable Instruments Act, 1881, are "quasi-criminal" in nature.
+The Court also made an interesting comment that Section 138 proceedings can be called a "civil sheep" in a "criminal wolf's clothing".
+A bench comprising Justices RF Nariman, Navin Sinha and KM Joseph made these observations while deciding the issue whether the moratorium declared under Section 14 of the Insolvency and Bankruptcy Code will bar Section 138 NI Act proceedings against the corporate debtor.
+One of the issues before the Court was whether Section 138 NI Act case will come within the ambit of the word "proceeding" used in Section 14 IBC. Many High Court had taken the view that since the proceedings under Section 138 NI Act were criminal in nature, they will not be hit by Section 14 IBC.
+While examining the correctness of that view, the bench sought to ascertain the true nature of Section 138 NI Act. The bench noted that while enacting Section 138, the legislature was cognizant that "what is otherwise a civil liability is now also deemed to bean offence". A debt barred by limitation is outside the scope of Section 138.This, coupled with fine that may extend to twice the amount of the cheque that is payable as compensation to the aggrieved party to cover both the amount of the cheque and the interest and costs thereupon, would show that it is really a  hybrid provision to enforce payment under a bounced cheque if it is otherwise enforceable in civil law. 
+Since the provision mandates giving an opportunity to the drawer of the cheque to pay back the amount, by serving him a statutory demand notice, the Court observed that "the real object of the provision is not to penalise the wrongdoer for an offence that is already made out, but to compensate the victim".
+The bench further noted that mens rea was not an ingredient of the offence. It also took note of the fact that there is a departure from the procedure under the Code of Criminal Procedure for cheque cases. First and foremost,no court is to take cognizance of an offence punishable under Section 138 except on a complaint made in writing by the payee or the holder in due course of the cheque – the victim. Also, there is the concept of "cause of action" in Section 142(1)(b), which says that the complaint must be filed within one month of the "cause of action" arising. The judgment observed that the concept of cause of action is "conspicuous by absence" in Chapter XIII of the CrPC, consisting of Sections 177 to 189, which deals with the jurisdiction of criminal courts.
+The bench next said that the 2018 amendment to NI Act, which introduced provisions for interim-compensation, gave a further tilt towards civil nature of the proceedings.
+Referring to the judgment in CIT v. Ishwarlal Bhagwandas, (1966) 1 SCR 190, the judgment observed that "a civil proceeding is not necessarily a proceeding which begins with the filing of a suit and culminates in execution of a decree".
+"Given these tests, it is clear that a Section 138 proceeding can be said to be a "civil sheep" in a"criminal wolf's" clothing, as it is the interest of the victim that is sought to be protected, the larger interest of the State being subsumed in the victim alone moving a court in cheque bouncing cases, as has been seen by us in the analysis made hereinabove of Chapter XVII of the Negotiable Instruments Act", the bench observed.
+Moratorium Under Section 14 IBC Covers Section 138 NI Act Proceedings Against Corporate Debtor For Cheque Dishonour : Supreme Court
+Quasi-criminal proceedings
+The Additional Solicitor General, Aman Lekhi, objected to describing Section 138 proceedings as "quasi criminal". He argued that since the provisions metes out the type of punishments prescribed under Section 53 of the Indian Penal Code, it cannot be termed "quasi-criminal".
+The Court rejected this argument saying that there are many instances of acts which are punishable by imprisonment or fine or both which have been described as quasi-criminal - such as the criminal contempt, breach of Companies Act provisions etc.
+"Clearly, therefore, given the hybrid nature of a civil contempt proceeding, described as "quasi-criminal" by several judgments of this Court, there is nothing wrong with the same appellation "quasi-criminal"being applied to a Section 138 proceeding for the reasons given by us on an analysis of Chapter XVII of the Negotiable Instruments Act. We,therefore, reject the learned Additional Solicitor General's strenuous argument that the appellation "quasi-criminal" is a misnomer when it comes to Section 138 proceedings and that therefore some of the cases cited in this judgment should be given a fresh look", the bench observed.
+The Court held that Section 138 proceedings against the corporate debtor will come under the ambit of Section 14 IBC.
+"Given our analysis of Chapter XVII of the Negotiable Instruments Act together with the amendments made thereto and the case law cited hereinabove, it is clear that a quasi-criminal proceeding that is contained in Chapter XVII of the Negotiable Instruments Act would, given the object and context of Section14 of the IBC, amount to a "proceeding" within the meaning of Section14(1)(a), the moratorium therefore attaching to such proceeding", the judgment authored by Justice Nariman observed.
+Case Details
+Case Title :P Mohanraj and others v M/s Shah Brothers Ispat Ltd and connected cases
+Coram : Justices RF Nariman, Navin Sinha and KM Joseph
+Appearances : Senior Advocates Jayanth Muthu Raj, Jayant Mehta, S Nagamuthu for petitioners; ASG Aman Lekhi for the Union of India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

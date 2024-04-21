@@ -1,0 +1,110 @@
+1.       The challenge in the present appeal is to an order dated 27.10.2016 passed by the
+High Court of Punjab & Haryana at Chandigarh holding that the requirement of pre-
+deposit under Section 45-AA of the Employees State Insurance Act, 1948 1 is not
+mandatory and that the appellate authority is empowered to waive, either partially or
+completely, the requirement of pre-deposit in the same circumstances and conditions as
+explained in its earlier judgment in Punjab State Power Corporation Limited v. The
+State of Punjab & Ors.2
+“45-AA. Appellate Authority - If an employer is not satisfied with the order referred to in Section 45-
+A, he may prefer an appeal to an appellate authority as maybe provided by regulation, within sixty
+days of the date of such order after depositing twenty five per cent of the contribution so ordered or
+the contribution as per his own calculation, whichever is higher, with the Corporation. Provided that
+if the employer finally succeeds in the appeal, the Corporation shall refund such deposit to the
+employer together with such interest as maybe specified in the regulation."
+3. Respondent No. 13 suffered an order dated 30.12.2013 passed by the Deputy Director
+of the appellant Corporation, calling upon the employer to pay a sum of Rs.48,81,884/-
+for a period from October, 2009 to August, 2010 in respect of trainee/apprentices. The
+employer filed an appeal along with an application to seek exemption from depositing
+25% of the said contribution. Since the employer did not deposit 25% of the
+compensation as assessed, the appellate authority passed an order declining such
+request inter alia for the reason that there is no provision under the Act to consider an
+appeal without the pre-deposit. Thereafter, the recovery certificate was issued to recover
+the amount assessed along with interest. However, instead of depositing the amount, the
+employer invoked the writ jurisdiction of the High Court. The High Court held as under:
+“24. Thus, it is held and declared that the requirement of predeposit under Section 45-AA is not
+mandatory and the Appellate Authority is empowered to waive, either partially or completely, the
+requirement of pre deposit in the same circumstances and conditions as explained in detail in the
+PSPCL case (supra). To summarize, the Appellate Authority is empowered to partially or completely
+waive the condition of pre-deposit in given facts and circumstances. It is, however, not to be
+exercised in a routine manner or as a matter of course. Only when a strong prima fade case is made
+out, will the Appellate Authority consider, whether to grant interim protection/ injunction or not. Partial
+or complete waiver will be granted only in deserving and appropriate cases where the Appellate
+Authority is satisfied that the entire purpose of the appeal would be frustrated or rendered nugatory
+because of the condition of pre-deposit for hearing the appeal and a reasoned order would require
+to be passed.”
+4.       In Punjab State Power Corporation Limited, the High Court examined the
+“(a)     Whether the State is empowered to enact Section 62(5) of the PVAT Act?
+(b)      Whether the condition of 25% pre-deposit for hearing first appeal is onerous, harsh,
+unreasonable and, therefore, violative of Article 14 of the Constitution of India?
+(c)      Whether the first appellate authority in its right to hear appeal has inherent powers to grant
+interim protection against imposition of such a condition for hearing of appeals on merits?”
+5.       The questions (a) and (b) were taken up together. The High Court held that the
+State is empowered to enact Section 62(5) of the Punjab Value Added Tax Act, 20054
+and that condition of pre-deposit of 25% for hearing first appeal is not onerous, harsh,
+unreasonable and violative of the provisions of Article 14 of the Constitution of India.
+However, in respect of the third question, the High Court referred to an earlier judgment
+of fiveJudges Full Bench of the High Court in Ranjit Singh v. State of Haryana & Ors.5
+to hold that even when no express power has been conferred on the first appellate
+authority to pass an order of interim injunction/protection, by necessary implication and
+intendment in view of various pronouncements, such power to grant interim
+injunction/protection is embedded under Section 62(5) of the PVAT Act. The High Court
+“40. Before we record our conclusion on question No. (c), noticed hereinbefore, it would also be
+apposite to refer to a five Judges Full Bench of this Court in Ranjit Singh v. State of Haryana, (2012)
+2 RCR (Civil) 353 to which one of us (Ajay Kumar Mittal, J.) was a member which was dealing with
+similar provision i.e. Section 13B of the Punjab Village Common Lands (Regulation) 1961 wherein
+entertainment of appeal was subject to deposit of amount of penalty imposed under sub section (2)
+of Section 7 of the said Act with the Collector. This court after considering the entire case law on the
+point and by reading down the provision held that Section 13 B of the said Act would be read down
+to incorporate within it the power in appellate authority to grant interim relief in an appropriate case
+by passing a speaking order even while normally insistence may be made on pre-deposit of the
+penalty. In such a case, the appellate authority would have to give reasons for granting interim relief
+of stay. It is, thus, concluded that even when no express power has been conferred on the first
+appellate authority to pass an order of interim injunction/protection, in our opinion, by necessary
+implication and intendment in view of various pronouncements and legal proposition expounded
+above and in the interest of justice, it would essentially be held that the power to grant interim
+injunction/protection is embedded in Section 62(5) of the PVAT Act…”
+6.       In Ranjit Singh, the High Court was dealing with Section 13B of the Punjab Village
+Common Lands (Regulation) Act, 1961 mandating that no appeal shall lie unless the
+amount of penalty is deposited with the Collector. The Court held as under:
+“56. In order to save the validity of this proviso, it may have to be read down for which there are
+precedents. As observed in Shyam Kishore's case ( supra), the appellate Judge would have
+incidental and ancillary power, which should not be curtailed except to the extent specifically
+excluded by the statute. There is no indication in the proviso that jurisdiction of the appellate Judge
+is excluded altogether to waive the penalty and, thus, the inherent rights of the appellate Judge to
+waive the condition in appropriate case can be read into the provision…”
+7.       The judgment in Punjab State Power Corporation Limited came up for
+consideration before this Court in a judgment reported as Tecnimont Pvt. Ltd. v. State
+of Punjab & Ors.6. This Court upheld the decision of the High Court on question Nos. 1
+and 2 but reversed the decision of the High Court on question No. 3. It was held as under:
+“22. In the light of these principles, the High Court rightly held Section 62(5) of the PVAT Act to be
+legal and valid and the condition of 25% of pre-deposit not to be onerous, harsh, unreasonable and
+violative of Article 14 of the Constitution of India. Now we turn to question (c) as framed by the High
+Court and consider whether the conclusions drawn by the High Court while answering said question
+were correct or not.
+29. If the inherent power the existence of which is specifically acknowledged by provisions such as
+Section 151 of the CPC and Section 482 of the Cr.P.C. is to be read with the limitation that exercise
+of such power cannot be undertaken for doing that which is specifically prohibited, same limitation
+must be read into the scope and width of implied power of an appellate authority under a statute. In
+any case the principle laid down in Matajog Dobey 1955 (2) SCR 925 states with clarity that so long
+as there is no express inhibition, the implied power can extend to doing all such acts or employing
+such means as are reasonably necessary for such execution. The reliance on the principle laid down
+in Kunhi (1969) 2 SCR 65 cannot go to the extent, as concluded by the High Court, of enabling the
+Appellate Authority to override the limitation prescribed by the statute and go against the
+requirement of predeposit. The High Court was clearly in error in answering question
+31. In the premises, we accept the conclusions drawn by the High Court as regards questions (a)
+and (b) are concerned but set aside the view taken by the High Court as regards question (c). The
+appeals preferred by the assesses are therefore dismissed and those preferred by the State against
+the decision in respect of question (c) are allowed. ...”
+8.      We find that the view taken by the High Court, while relying on its earlier judgment
+in Ranjit Singh, that appellate authority would have the implied power to grant interim
+relief is not tenable. Once the statute has fixed the condition of pre-deposit before filing
+an appeal, such condition is required to be satisfied. The judgments of the High Court in
+Ranjit Singh and Punjab State Power Corporation Limited observing that the
+appellate authority has the implied power to waive the amount determined cannot be said
+to be in accordance with law. Hence, the condition of pre-deposit, said to be not
+mandatory and giving appellate authority a discretion to waive of the amount determined,
+is clearly not sustainable and is thus set aside. Consequently, the present appeal is
+9.      Since the employer has not deposited 25% of the determined amount which led to
+dismissal of the appeal, we grant four weeks’ time to the employer to deposit 25% of the
+amount so determined. If the said amount is deposited, the appellate authority shall
+consider the appeal on merits in accordance with law.

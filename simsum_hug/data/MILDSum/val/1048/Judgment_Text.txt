@@ -1,0 +1,174 @@
+1.     By this petition, petitioner challenges the order dated 9 th July, 2021
+passed by the learned CMM, Patiala House Courts whereby the bail granted
+to the petitioner vide order dated 23rd December, 2019 was cancelled by the
+learned CMM. Though in the prayer clause the petitioner has also sought
+quashing of the proceedings initiated by the respondent under Section 67/70
+of Central Goods and Services Tax Act, 2017 (in short ‘CGST’) as also the
+release of the records seized from the various premises of the petitioner,
+however, during the course of arguments the petitioner pressed prayers (a),
+(b) and (c) in the present petition, that is, setting aside of order dated 9 th
+July, 2021 cancelling the bail of the petitioner and restoring the order dated
+23rd December, 2019 granting regular bail to the petitioner.
+2.     Briefly the case of the prosecution against the petitioner is that the
+petitioner is one of the Directors/key persons in M/s Brilliant Metals Pvt.
+Ltd., M/s.Progressive Alloys India Pvt. Ltd. and M/s JBN Impex Pvt. Ltd.
+and allegedly the mastermind behind devising a mechanism of availing
+Input Tax Credit (in short ‘ITC’) on the strength of bills of various suppliers
+which were non-existing and fictitious and thus availed fraudulent ITC
+worth ₹27.05 crores which he further passed on. Further the total ITC
+availed by the petitioner in the three companies mentioned above was
+totalling to ₹260 crores.
+3.     After the arrest, the petitioner was granted regular bail vide order
+dated 23rd December, 2019 on his furnishing a personal bond in the sum of
+₹1 lakh with one surety of the like amount further subject to the following
+1.      He shall deposit the amount of ₹2,70,00,000/- with the
+complainant department latest by 06.01.2020.
+2.      he will join the investigation with the IO as and when
+required.
+3.      he shall not tamper with evidence or influence any witness in
+any manner whatsoever.
+4.      he shall appear before the court on each and every date of
+hearing.
+5.      he shall not leave the country without prior permission of the
+court.
+4.     In respect of condition No.1 of deposit of amount of ₹2.70 crores, the
+petitioner deposited ₹1.10 crores through cash ledger and ₹1.60 crores by
+way of debiting/reversals through electronic ITC ledger.
+5.     According to the respondent as also the impugned order since the ITC
+availed were through fraudulent means and thus the entire ITC claimed by
+the companies were under cloud, therefore, the petitioner could not have
+furnished ₹1.60 crores by reversal of the ITC as a condition of bail.
+6.     Learned Trial Court further held that the petitioner never took prior
+permission of the Court to deposit the amount of ₹1.60 crores through
+reversal of credit from electronic ledger and merely placed the compliance
+by way of challans before the Court on 21st January, 2020 whereafter the
+respondent filed an application dated 24th January, 2020 seeking cancellation
+of bail of the petitioner.
+7.     Even as per the case of the respondent the investigation carried out till
+now reveals availment of fraudulent ITC worth ₹27.05 crores and the total
+amount of ITCs availed by the petitioner is ₹260 crores. Thus it is not the
+case of respondent that ITCs worth approximately ₹232.95 crores are
+fraudulent. Thus the short issue in the present petition is whether in respect
+of the condition of deposit of amount of ₹2.70 crores which was a condition
+for grant of bail the petitioner could have deposited part amount through the
+8.     Though not stated before the Trial Court or in reply before this Court,
+during the course of arguments learned counsel for respondent stated that
+besides ₹27.05 crores of ITC availed in the present case, the petitioner have
+been found to have availed fraudulent ITC worth ₹15 crores which are
+pending investigation by DGGI, Meerut. Thus even as per the case of the
+respondent till date beyond approximately ₹42 crores of ITCs, the rest of the
+ITC have not been found to be fraudulent based on the invoices from non-
+existing suppliers.
+9.     Learned counsel for the petitioner submits that form GST-DRC-03
+issued under Rule 142(2) and 142(3) of the GST Rules permit deposit of
+amount through cash/credit of the ITC ledgers. Further Section 49 (4), (5)
+and (6) of the GST Act reads as under:
+“Section 49 –Payment of tax, interest, penalty and other
+amounts.-
+(4)     The amount available in the electronic credit ledger may be
+used for making any payment towards output tax under this Act or
+under the Integrated Goods and Services Tax Act in such manner
+and subject to such conditions and within such time as may be
+prescribed.
+(5)     The amount of input tax credit available in the electronic
+credit ledger of the registered person on account of-
+(a) integrated tax shall first be utilised towards payment of
+integrated tax and the amount remaining, if any, may be
+utilised towards the payment of central tax and State tax, or
+as the case may be, Union territory tax, in that order;
+(b) the central tax shall first be utilised towards payment of
+central tax and the amount remaining, if any, may be utilised
+towards the payment of integrated tax;
+(c) the State tax shall first be utilised towards payment of State
+tax and the amount remaining, if any, may be utilised towards
+payment of integrated tax:
+[Provided that the input tax credit on account of State
+tax shall be utilised towards payment of integrated tax only
+where the balance of the input tax credit on account of
+central tax is not available for payment of integrated tax;]
+(d) the Union territory tax shall first be utilised towards payment
+of Union territory tax and the amount remaining, if any, may
+be utilised towards payment of integrated tax:
+[Provided that the input tax credit on account of Union
+territory tax shall be utilised towards payment of integrated
+tax only where the balance of the input tax credit on account
+of central tax is not available for payment of integrated tax;]
+(e) the central tax shall not be utilised towards payment of State
+tax or Union territory tax; and
+(f) the State tax or Union territory tax shall not be utilised
+towards payment of central tax.
+(6)     The balance in the electronic cash ledger or electronic credit
+ledger after payment of tax, interest, penalty, fee or any other
+amount payable under this Act or the rules made thereunder may be
+refunded in accordance with the provisions of section 54.”
+10.    Rule 86(2) of the CGST Rules, 2017 reads as under:
+(2)      The electronic credit ledger shall be debited to the extent of
+discharge of any liability in accordance with the provisions of
+Section 49 [or Section 49A or Section 49B].”
+11.    Further Rule 86A which was introduced on 26th December, 2019 in
+the Act provides for the conditions of use of amount available in electronic
+credit ledger as under:
+“Rule 86A. Conditions of use of amount available in electronic
+credit ledger- (1) The Commissioner or an officer authorised by
+him in this behalf, not below the rank of an Assistant Commissioner,
+having reasons to believe that credit of input tax available in the
+electronic credit ledger has been fraudulently availed or is ineligible
+a) the credit of input tax has been availed on the strength of tax
+invoices or debit notes or any other document prescribed under
+(i)      issued by a registered person who has been found non-
+existent or not to be conducting any business from any
+place for which registration has been obtained; or
+(ii)     without receipt of goods or services or both; or
+b) the credit of input tax has been availed on the strength of tax
+invoices or debit notes or any other document prescribed under
+rule 36 in respect of any supply, the tax charged in respect of
+which has not been paid to the Government; or
+c) the registered person availing the credit of input tax has been
+found non-existent or not to be conducting any business from
+any place for which registration has been obtained; or
+d) the registered person availing any credit of input tax is not in
+possession of a tax invoice or debit note or any other document
+prescribed under rule 36,
+may, for reasons to be recorded in writing, not allow debit of an
+amount equivalent to such credit in electronic credit ledger for
+discharge of any liability under section 49 or for claim of any refund
+of any unutilised amount.
+(2)     The Commissioner, or the officer authorised by him under
+sub-rule (1) may, upon being satisfied that conditions for
+disallowing debit of electronic credit ledger as above, no longer
+exist, allow such debit.
+(3)     Such restriction shall cease to have effect after the expiry of a period
+of one year from the date of imposing such restriction.”
+12.    Thus a reading of Section 49 of GST Act permits availing of the
+amount in electronic ledger for making any payments towards output tax
+under the Act or under the Integrated Goods and Services Tax Act. Further
+Section 49 (5) and (6) describes the manner in which the amount of input tax
+credit available in the electronic ledger is to be utilised and provides that the
+balance in electronic cash ledger after payment of tax, interest, penalty, fee
+etc. may be refunded in accordance with the provisions of Section 54 of the
+13.    Though before the learned CMM and in the reply, the case of the
+respondent is that the ITCs being fraudulent the same cannot be availed of,
+during the course of arguments, learned counsel for the respondent does not
+dispute that the payment of tax could be made from the electronic ledger
+under Section 49 (4) of the GST Act however, contends that since the
+learned Trial Court directed the petitioner to deposit the amount of ₹2.70
+crores, he could not have availed the amount of ₹1.60 crores by debiting the
+14.    As noted above, the petitioner has to his credit ITC worth ₹260 crores
+and the investigation does not show that beyond approximately ₹42 crores
+ITCs rest are fraudulent till now. Hence the reversal of the ITC credit for
+depositing the part amount of ₹2.70 crores with the department as directed
+by the learned Trial Court cannot be said to be illegal or unwarranted,
+warranting cancellation of the bail granted to the petitioner.
+15.    Undoubtedly, non-compliance of the conditions of bail is a ground for
+cancellation of the same however, in the present case the condition was to
+deposit a sum of ₹2.70 crores with the department which stands satisfied by
+the petitioner depositing part amount by transfer of ITCs. Further in case
+the learned Trial Court felt that its order warranted deposit of money only
+with the department it could have granted time to the petitioner to deposit
+the same. The petitioner having fulfilled the condition of deposit of the
+amount partly by cash ledger and partly by debit ledger of the ITC it cannot
+be said that the petitioner has failed to fulfil the conditions imposed on him.
+16.    Consequently, the impugned order dated 9th July, 2021 passed by the
+learned CMM, Patiala House Court is set aside.
+17.    Petition and application are disposed of.
+18.    Judgement be uploaded on the website of this Court.

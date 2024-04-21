@@ -1,0 +1,690 @@
+1.     This Review Petition was adjourned yesterday at Mr
+Krishnan’s request. He appears for the Review Petitioners (“the
+Agarwals”). I have heard him at some length this afternoon and,
+briefly, Dr Saraf for the contesting Respondent (“Tata Financial”).
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+2.      In my view, this Review Petition is not only thoroughly
+misconceived but is also deliberately mischievous, and quite possibly
+vexatious. I believe it is precisely the kind of proceeding that the
+Commercial Courts Act 2015 (“the CCA”) deprecates. It has taken
+an unconscionable amount of the court’s time. The CCA uses the
+expressions “frivolous claim”, “vexatious proceeding” and “wasting
+the time of the Court”. This Review Petition is all three; I will return
+to this part of the CCA towards the end of this judgment. Apropos
+the last of these, the phrasing in the CCA is not “taking the time of
+the Court” but “wasting the time of the Court”. The difference is
+significant: every litigant is entitled to the Court’s time. After all, the
+purpose of a court is to make time for a litigant. But no litigant is
+entitled to squander or waste the time of the court. That is as unfair
+to a court as it is to other litigants waiting in line. In the Commercial
+Division, governed by the provisions of the CCA, wasting the time of
+the Court invites an order of costs. I have, therefore, not only
+dismissed the Review Petition, but I have done so with costs.
+3.      The law on the power of review is now far too well-settled to
+warrant any larger discussion. There are two authorities that Dr Saraf
+cites that seem to me apposite to this case; I will come to those later.
+But it is not contentious that the power of substantive review — as
+opposed to procedural or “purely procedural” review — is, first, one
+that must be conferred by law,1 and, second, the exercise of the power
+of review is narrowly constrained by the law that confers it. This law
+1       See Patel Narshi Thakershi & Ors v Shri Pradyuman Singhi Arjunsinghji,
+(1971) 3 SCC 844; Patel Chunibhai Dajibha etc v Narayanrao Khanderao Jambekar
+& Anr, AIR 1965 SC 1457; Harbhajan Singh v Karam Singh & Ors, AIR 1966 SC
+641; RR Verma & Ors v Union of India & Ors, (1980) 3 SCC 402;
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+is not new either. In fact, it is very old. In the 1891 decision in Drew v
+Willis,2 Lord Esher, M.R., said that no court or authority has the
+power to set aside an order properly made, unless it (viz., the power)
+is given by statute.
+4.      In 1914, in Hession v Jones,3 Bankes J held that no court has the
+power to review an order deliberately made after argument and to
+entertain a fresh argument upon it with a view to ultimately
+confirming or reversing it. The decision in Hession — a case about a
+contract for sale of eggs — is oddly prescient to the facts of this case,
+as the extract that follows shows.
+BANKES J. This is an application on behalf of the plaintiff,
+the respondent on an appeal to this Court, to restore the
+appeal to the list. Such an application may be made either (1.)
+to restore a case which has merely been struck out and has
+never been heard and decided because the appellant did not
+attend; or (2.) to restore a case in which the appellant has
+appeared and argued his appeal in the absence of the
+respondent and the Court has heard the appeal and come to
+a decision. In the first case the application is to restore an
+appeal which has not been heard; in the second case the
+application is to set aside a decision after a hearing which in
+the respondent's view is not satisfactory because he was not
+present. This is an application of the second class, to set
+aside an order of this Court made by Ridley J. and myself
+after hearing. The appellant was present and produced a
+copy of the county court judge's notes and was ready to
+proceed with his appeal. The respondent was not
+represented. The appellant was the defendant in the county
+2       (1891) 1 QB 450. Cited in Harbhajan Singh, supra.
+3       (1914) 2 KB 421. Also cited with approval in Harbhajan Singh, supra.
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+court. An action had been brought against him for the price
+of certain cases of eggs ordered by him for delivery at a
+named station. The plaintiff delivered a larger quantity than
+that ordered. The defendant had refused to take delivery on
+the grounds (1.) that there was unreasonable delay in
+forwarding and (2.) that the eggs were not in proper
+condition. When he was sued in the county court he took the
+further point under s. 30, sub-s. 2, of the Sale of Goods Act,
+1893, that the plaintiff could not succeed because he had
+tendered a different quantity from that ordered. The
+defendant claimed the right to reject on that ground also.
+The point was taken before the county court judge. The
+plaintiff contended that the defendant could not rely upon it,
+because he had not given it as his reason when he first
+rejected the goods. The county court judge decided the
+point in favour of the plaintiff. In the opinion of Ridley J.
+and myself he was wrong in so deciding. Before deciding
+the appeal we considered whether there was any evidence
+that the defendant had waived or abandoned or in any
+way estopped himself from relying on this defence, and
+came to the conclusion that he had not done so.
+Accordingly we made an order allowing the appeal; we
+set aside the judgment of the county court, and ordered
+judgment to be entered for the defendant in that Court.
+That order was duly drawn up by the officer of this Court; a
+copy of the order was obtained by the solicitor for the
+appellant, the defendant below, and he was thereupon in a
+position to have the record in the county court altered by
+striking out the judgment for the plaintiff and entering
+judgment for the defendant. I do not know whether that was
+done, but there is no doubt that the order of this Court was
+drawn up and perfected before any step was taken to set it
+aside. It is clear therefore that this is an application to
+review an order deliberately made after argument and to
+entertain a fresh argument upon it with a view to
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+ultimately confirming or reversing it. Has the Court
+jurisdiction to do this? I may say at once that if we have I
+should not exercise it in the present case, because any
+application of this sort must be supported by an affidavit of
+merits. I have read the affidavit in this application and can
+find nothing which would lead me to alter the opinion I
+formed on the hearing of the appeal. But it is necessary to
+consider the jurisdiction of the Court. The application is
+supported by an affidavit in which the solicitor for the
+plaintiff says that by an unfortunate mistake he did not
+instruct any one to appear for the respondent on the
+appeal. … Our jurisdiction therefore is in part a statutory
+jurisdiction regulated by the Rules of the Supreme Court,
+1883, and partly an inherent jurisdiction which we
+possess as judges of the High Court. The question is
+whether either by the rules or by reason of our inherent
+jurisdiction we have the power to reinstate this appeal.
+Then as to the inherent jurisdiction of the Court. Before the
+Judicature Acts the Courts of common law had no
+jurisdiction whatever to set aside an order which had been
+made. The Court of Chancery did exercise a certain limited
+power in this direction. All Courts would have power to
+make a necessary correction if the order as drawn up did not
+express the intention of the Court; the Court of Chancery,
+however, went somewhat further than that, and would in a
+proper case recall any decree or order before it was passed
+and entered; but after it had been drawn up and perfected no
+Court or judge had any power to interfere with it. That is
+clear from the judgment of Thesiger L.J. in the case of In re
+5.     As we shall presently see, this Review Petition is in the same
+class as Hession. It seeks a reinstatement of the original Arbitration
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+Petition on grounds never argued, never taken, and some never
+pleaded; and it does so after the original Arbitration Petition was fully
+argued, and then decided by pronouncement in open court. The
+order under review was then ‘perfected’, that is to say its transcript
+was corrected, signed and uploaded, the very next day or perhaps
+shortly after pronouncement.
+6.     A power of review is conferred on our civil courts by Section
+114 and Order 47 of the Code of Civil Procedure, 1908 (“CPC”). The
+relevant part of those provisions say:
+114. Review.—Subject as aforesaid, any person considering
+(a)    by a decree or order from which an appeal is
+allowed by this Code, but from which no appeal has
+(b)    by a decree or order from which no appeal is
+(c)    by a decision on a reference from a Court of
+Small Causes, may apply for a review of judgment to
+the Court which passed the decree or made the order,
+and the Court may make such order thereon as it
+thinks fit.
+1.     Application for review of judgment.—(1) Any
+person considering himself aggrieved—
+appeal is allowed, but from which no appeal
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+Court of Small Causes, and who, from the
+discovery of new and important matter or
+evidence which, after the exercise of due
+diligence was not within his knowledge or
+could not be produced by him at the time when
+the decree was passed or order made, or on
+account of some mistake or error apparent on
+the face of the record of for any other sufficient
+reason, desires to obtain a review of the decree
+passed or order made against him, may apply
+for a review of judgment to the Court which
+passed the decree or made the order.
+(2)     A party who is not appealing from a decree or
+order may apply for a review of judgment
+notwithstanding the pendency of an appeal by some
+other party except where the ground of such appeal is
+common to the applicant and the appellant, or when,
+being respondent, he can present to the Appellate
+Court the case on which he applies for the review.
+Explanation.—The fact that the decision on a
+question of law on which the judgment of the Court is
+based has been reversed or modified by the
+subsequent decision of a superior Court in any other
+case, shall not be a ground for the review of such
+4.      Application where rejected.—(1) Where it appear
+to the Court that there is not sufficient ground for a review,
+it shall reject the application.
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+(2)     Application where granted.—Where the
+Court is of opinion that the application for review
+should be granted, it shall grant the same:
+(a)    no such application shall be granted
+without previous notice to the opposite party,
+support of the decree or order, a review of
+(b)    no such application shall be granted on
+the ground of discovery of new matter or
+evidence which the applicant alleges was not
+within his knowledge, or could not be adduced
+by him when the decree or order was passed or
+made, without strict proof of such allegation.
+7.     Order of rejection not appealable. Objections to
+order granting application.—(1) An order of the Court
+rejecting the application shall not be appealable; but an order
+granting an application may be objected to at once by an
+appeal from the order granting the application or in an appeal
+from the decree or order finally passed or made in the suit.
+7.     The Agarwals were respondents to the original Section 9
+Arbitration Petition. Tata Finance was the Petitioner. I made an order
+on 12th March 2021. I held against the Agarwals. I said they had,
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+prima facie, no defence at all — they were indubitably borrowers from
+Tata Finance under finance agreements, and, not having repaid the
+loan on the terms of the agreement, were in contractual default. I
+directed an asset disclosure and granted an injunction. This is the
+order the Agarwals seek to review.
+8.     But before they filed this Review Petition, the Agarwals filed
+an appeal. By the time of the Appeals, the Agarwals had changed
+lawyers. They had now engaged M/s Pan India Legal Services LLP.
+Counsel instructed by Pan India Legal Services LLP in the appeal
+court sought to contend that I had failed to consider the Agarwals’
+written submissions (filed at a much earlier date, on 15th December
+2020) in my order of 12th March 2021. The Appeal Court disposed
+of the appeal by granting the Agarwals liberty to file a review.
+9.     It is actually correct that in my order of 12th March 2021 I did
+not consider the Agarwals’ written submissions. I do not do so
+because nobody asked me to. Nobody even told me they had been
+filed. Nobody briefed for the Agarwals made any arguments on the
+written submissions. Before me, Mr SK Sen appeared for the
+Agarwals, not only on that date but on several previous occasions. He
+did not once reference these written submissions. Now, apart from
+his acuity and legal acumen, Mr Sen has built himself a reputation in
+this court for a preternaturally calm doggedness, and for being as
+undaunted as he is dauntless. I imagine that had he wanted to show
+me the written submissions and found any argument on them, no
+human force could have stopped him and I would have had no choice
+in the matter. But for whatever reason he did not once refer to them.
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+10.    I dictated the order in open Court. Mr Sen was present
+throughout. At no point did he say that I had not dealt with a point he
+canvassed, or that I had not taken into account the written
+submissions — simply because he never argued the latter. No one for
+the Agarwals applied for a clarification or speaking to the minutes in
+the days that followed. The very first time that this ground — of the
+written submissions not being considered — was raised was by these
+new lawyers in appeal.
+11.    But this is not the frame of the Review Petition at all. Its
+grounds for review are, to put it mildly, astonishing.
+12.    Ground A says that this Court has no jurisdiction because the
+dispute between the parties is within the jurisdiction of the Debts
+Recovery Tribunal (“DRT”). This was never argued before me.
+More importantly, it is no part of the Affidavit in Reply. It is also not
+a part of these much-vaunted written submissions. Mr Krishnan
+insists this is a question of law that can be taken at any stage. He is
+wrong. In this case, it is at the very least a mixed question of fact and
+law. His case is that Tata Finance is covered by a Notification dated
+5th August 2016 of the Ministry of Finance and hence cannot
+arbitrate its disputes. It must follow the special procedure under the
+Recovery of Debts Due to Banks and Financial Institutions Act, 1993
+(“the DRT Act”). No copy of any such notification of 2016
+regarding Tata Finance is annexed. Dr Saraf submits that the correct
+notification in question as regards Tata Capital is of 24th February
+2020, not 5th August 2016. It is not under DRT Act but is under the
+Securitisation and Reconstruction of Financial Assets and
+Enforcement of Security Interest Act, 2002 (“the SARFAESI
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+Act”). Mr Krishnan’s reliance on the decision of the Supreme Court
+in Vidya Drolia & Ors v Durga Trading Corporation4 is misplaced:
+paragraph 58 says claims covered by the DRT Act are non-arbitrable.
+In any case, I do not see how this furnishes a ground of review.
+Nobody ever argued it.
+13.     Ground B is that no leave was obtained under Order II Rule 2
+of the Code of Civil Procedure 1908. This is on the basis that the
+present Petition was lodged on 24th September 2020 and two days
+earlier Tata Capital filed Commercial Summary Suit on 22nd
+September 2020. Mr Krishnan insists that the subject matter of the
+two actions is the same. Dr Saraf disagrees. He says that the
+Summary Suit was on distinct cause of action on a transaction that
+did not have an arbitration clause. But I am not going into the merits
+of that at all. I cannot. Once again this ground was not argued by Mr
+Sen before me. It turns on a question of fact: that the cause of action
+in both proceedings is the same. Mr Krishnan insisting that the two
+are identical does not make it so. It ought to have been shown. There
+is a reference in paragraph 5(a) and 5(b) of the written submissions to
+the summary suit. But this only says that the Tata Capital is
+approaching multiple forums and it would be impermissible for the
+arbitration proceedings and summary suit to be adjudicated
+simultaneously. That is not the same as showing that the two causes
+of action and underlying transactions are the same. Mr Sen made no
+submission based on this. There is also no such averment in the
+Affidavit in Reply.
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+14.     Ground C says that there is no period of repayment in the
+sanction letter. I have dealt with this. I rejected it. I said that the
+submission amounted to saying that the Agarwals got a gift from Tata
+Finance. It is no ground of review and Mr Krishnan does not press it.
+15.     Ground D is on the question of insufficient stamping. Again,
+this was not argued. The ground incorrectly references the decision
+of the Supreme Court in Garware Wall Ropes Ltd V Coastal Marine
+Construction5 and happily ignores the law thereafter, especially the
+decision of the Supreme Court in NN Global Mercantile Pvt Ltd v Indo
+Uniqie Flame Ltd & Ors.6 That decision of 11th January 2021. This
+Review Petition was filed on 22nd July 2021. The omission could not
+have been accidental and prima facie seems designed to mislead on
+16.     Ground E is clearly on merits, saying that there was no
+justification for an order under Section 9. It seeks to distinguish
+authorities I noted in the order under review. That is impermissible
+in our limited review jurisdiction. Mr Krishnan does not press it.
+17.     A more fundamental point is this. The entire Review Petition
+does not explain nor does Mr Krishnan show how this Petition falls
+within the narrow limits of Section 114 or Order 47 of the Code of
+Civil Procedure 1908. It more or less assumes that a party’s right to
+seek a review of a final order after arguments is, if not quite a
+fundamental right, something very close to it. The submission seems
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+to be that anyone can file a Review Petition on any ground whatsoever
+even if it is not pleaded or argued. It is perfectly all right, the
+suggestion continues, to assail an order in appeal or in review on
+grounds never taken or submitted. A mere change of advocates is
+enough. Their latter-day epiphany on all matters — of fact and law
+both — is enough ground for a review.
+18.    More disturbing is the implicit suggestion that Counsel’s
+arguments are almost entirely worthless; and, by necessary extension,
+that Counsel are entirely redundant. If the attorney has filed
+something on record, Counsel must argue it, no matter how trifling
+or irrelevant. Further, it is then the job of the Court to engage in some
+sort of forensic archaeological excavation of these often mountainous
+records, and go through them document by document and page by
+page, to ferret out some sort of case in favour of a Review Petitioner,
+even if counsel have never argued every single line of what is pleaded.
+Whether or not Mr Krishnan agrees with my interpretation of his
+arguments and the implication for Counsel is totally irrelevant. For
+that is indeed the implication of the submission he makes when he
+says that my order does not take into account some written
+submissions tucked away at the back of a large file and to which my
+attention was never drawn and on which Counsel then appearing
+made no submissions at all.
+19.    We have Counsel for a reason. We expect of them certain skills.
+Foremost among these is their ability to sanguinely render assistance
+to the Court. This purpose is fundamental. It is not achieved by
+saying that Counsel’s arguments are irrelevant. It is not achieved by
+saying that counsel overlooked or were not properly briefed or that
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+counsel ought to have but did not take some point. Counsel often
+realize, as well they should, that not all arguments taken in affidavits
+or even in written submissions are worth pursuing. They confine their
+arguments to a few points. They know that the rest do not matter and
+will not convince. If Counsel has not urged a point, the fact that there
+were written submissions is immaterial if those written submissions
+were never in fact argued.
+20.     Counsel’s failure to argue written submissions is not a ground
+of review or, I dare say, even appeal. It is no ground to assail any order
+of any judge of any court. If the written submissions were to be relied
+on, that ought to have been done during arguments, or, at any rate,
+while judgment was being dictated in open court or at best shortly
+after the judgment or order was uploaded. These never-argued
+written submissions cannot be taken in hindsight.
+21.     Sometimes, after arguments close, we permit written
+submissions. That requires an order of the Court, and the Court then
+always references the written submissions it called for. There is no
+such order calling for the written submissions. The original
+Arbitration Petition was before me and no other court since the time
+it was instituted. It was listed on 13th October 2020, 2nd November
+11th February 2021, 12th February 2021 and 12th March 2021 (this
+being the order under review). The orders of 7th December 2020 and
+16th December 2020 are important for today’s purposes. The order
+of 7th December 2020 only stood over the matter by consent to 16th
+December 2020. It did not permit any written submissions to be filed.
+Neither did any previous order. The written submissions are of 15th
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+December 2020, one day before the next listing date. Even on 16th
+December 2020, and in no order thereafter, did anyone mention these
+written submissions. I do not pretend to understand how, without a
+specific order of the court, the Agarwals could have entered these
+written submissions on record. There is no inward stamp of
+December 2020 showing receipt. I do not know how the registry
+permitted this filing. It seems to have been done by email — but still
+without an order permitting the filing — for the printed document
+has only the scanned signature of Mr Vishwas Deo. Therefore, I do
+not know, and cannot say, whether as a matter of record, i.e., with a
+court order, these written submissions were filed. It is possible that
+they were simply printed out when we moved from online / email
+filings to physical filings. There is no praecipe asking the written
+submissions to be taken on record.
+22.    In fact, I do not know whether Mr Sen in March 2021 even
+knew of these written submissions or had himself seen them. He
+certainly did not argue on them.
+23.    This is the situation of which Mr Krishnan seeks to take
+advantage. I do not see how it cannot be termed undue advantage.
+There is no order permitting those written submissions. There is no
+inward entry from the registry. There is no physically signed set of
+written submissions. There is only a print out and it has somehow
+been tucked at the back of the file. That is the level of unfairness with
+which I am sought to be confronted.
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+24.    That arguing counsel often confine themselves to a single point
+or a few points is, indeed, exemplified by this Review Petition itself.
+For the only point Mr Krishnan has canvassed is the one about the
+summary suit. He has not pressed anything else. I have heard him in
+open Court after giving him a date to prepare as he requested
+yesterday, and I have dictated this order in open Court.
+25.    Dr Saraf says this point about the summary suit being based on
+the same transaction and the same cause of action is not taken even
+in the Review Petition. Mr Krishnan’s reply is to point to Ground
+“d) That this Hon’ble Court failed to appreciate that the
+alleged sanction letter is distinct from the consortium loan as
+the alleged sanction letter is a part of the alleged Loan
+Agreement. Furthermore, the alleged account statement and
+alleged recall notice are common in respect of both alleged
+loans and there are no bifurcation of amount under the
+alleged facilities. The alleged One Time Temporary Limit
+Finance and/or Working Capital Demand Loan facility are
+one and the same and are not distinct to each other. Had it
+been that One Time Temporary Limit Finance and Working
+Capital Demand Loan facility would be a separate facility,
+However, as there is no separate Agreement/Separate
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+Demand Letter, it is presumed that the One Time
+Temporary Limit Finance/ ad hoc is part of the alleged
+original loan agreement and extension of original sanction
+letter.”
+26.     But this is no answer at all to Dr Saraf’s objection. And this is
+how it goes. Mr Krishnan makes a submission. When Dr Saraf points
+out this is not a ground taken in the Review Petition, Mr Krishnan
+shows me something totally irrelevant and on another aspect (which
+is on merits and not a ground for review). Mr Krishnan’s submission
+is that no matter what the controlling law is, I must strain every nerve
+to find for his clients, even if I have to do this in some circuitous,
+inferential way. It is clearly not possible for him to argue that the
+Agarwals were unaware of the summary suit — they were, and most
+certainly so by the time of my order of 12th March 2021. But it was
+never argued and it is, as I noted earlier, a question of fact.
+27.     A very similar case came up before the Hon’ble Mr Justice SC
+Gupte in Mohinder Rijhwani & Ors v Hiranandani Construction Pvt
+Ltd.7 Several months after he delivered a reasoned judgment, an
+application for review was made before him suggesting that during
+the course of hearing he indicated his mind in a certain way and that
+counsel had according trimmed and tailored arguments and not
+pressed the point or not made it fully. Gupte J said:
+Mar Basselios Catholicos v Most Rev. Mar Poulose Athanasius
+((1955) 1 SCR 520 : AIR 1954 SC 526)] the controversy
+concerned a statement made by the judges of the Full Bench
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+of the High Court of Travancore (per majority of two judges)
+that the defendants’ advocate had conceded that the
+plaintiffs had not left the Church and they were as good
+members of the Church as anybody else. It was the case of
+the defendants (the review petitioners) that this statement
+was said to be inaccurate, incomplete and misleading. The
+argument before the Supreme Court was that the majority
+decision proceeded on a misconception as to the concession
+said to have been made by the defendants’ advocate. This
+misconception was sought to be proved through affidavit and
+other documentary evidence. That was objected to by the
+Attorney General. The learned Attorney General’s
+argument was that the affidavit and document could not be
+said to be part of the “record” within the meaning of Order
+47 Rule 1. The Supreme Court did not countenance the
+objection. According to the court, there was no reason to
+construe the word “record” in any restricted sense. The
+court observed that when the error complained of was that
+the court assumed that a concession was made when none
+had in fact been made or that the court misconceived the
+terms of that concession or the scope or extent of it, it would
+not generally appear on record but would have to be brought
+before the court by way of an affidavit and this could only be
+done by way of review. Once again, these facts are clearly
+distinguishable. In our case, the court did not proceed on
+any concession made by Counsel; the order under review
+mentions none. If it was Counsel, who was under a
+misconception as to the position of the court and
+therefore, chose not to argue a point, that by itself is no
+ground for review and cannot be brought in by way of an
+affidavit. In any event, the affidavit in support of review
+petition does not refer to any such misconception, as noted
+above. As for what transpired in court, there is, as noticed
+above, a serious contest between the parties and there is no
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+question of taking a view one way or the other based on a
+unilateral statement of the review petitioners.
+14.    The Review Petitioners’ case here is neither
+supported by law or authority of court. If anything, it
+would set a bizarre precedent, if accepted, that it is open
+to seek review of a judgment or order, if the court had
+indicated its mind one way in court whilst reserving the
+judgment and the judgment came the other way or that
+Counsel appearing before the court was under an
+impression that the case would be decided one way and in
+reality, it was decided otherwise.
+28.     Even if that decision can fairly be set to turn on the facts of this
+case, the general principle that it propounds is not only salutary but
+is essential. If this practice is to be encouraged — that a party faced
+with an adverse order first files an appeal on a ground never taken or
+argued before the court of first instance — then that injects an
+impermissible level of uncertainty into the whole decision-making
+process. A Review Petition that follows a disposal of that appeal with
+liberty to the appellants to file a Review Petition, again on grounds
+never taken, argued or even pleaded only aggravates the matter.
+29.     To take a step back from all of this, it is necessary, I think, to
+see the Review Petitioners for what they really are. There is no
+dispute that they are borrowers from Tata Capital. These are all
+attempts to avoid the inevitable. They must come a point when a
+Court must say enough is enough and they cannot succeed in taking
+this further.
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+30.    As to the contours of a Review Petition, I need only refer to the
+Division Bench Judgment of this Court in Radhakrishna CHSL & Anr
+v State of Maharashtra & Ors.8 The decision quoted at length from the
+decision of the Supreme Court in Kamlesh Verma V Mayawati & Ors.9
+original matter. The power of review cannot
+be confused with appellate power which
+enables a superior court to correct all errors
+committed by a subordinate court.
+15.    Review proceedings are not by way of
+an appeal and have to be strictly confined to
+the scope and ambit of Order XLVII, Rule 1
+disagreement with the view of the judgment
+cannot be the ground for invoking the same.
+following grounds of review are maintainable
+(A) When the review will be maintainable:-
+exercise of due diligence, was not within
+knowledge of the petitioner or could not
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+(iii)   Any other sufficient reason.
+The words “any other sufficient reason” has
+been interpreted in Chhajju Ram v. Neki, AIR
+1922 PC 112 and approved by this Court in
+Moran Mar Basselios Catholicos v. Most Rev.
+520: (AIR 1954 SC 526), to mean “a reason
+sufficient on grounds at least analogous to
+principles have been reiterated in Union of
+India v. Sandur Manganese & Iron Ores Ltd. &
+concluded adjudications.
+inconsequential import.
+the case.
+unless the material error, manifest on
+soundness or results in miscarriage of
+justice.
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+error.
+ground for review.
+searched.
+(viii) The appreciation of evidence on
+record is fully within the domain of the
+appellate court, it cannot be permitted
+to be advanced in the review petition.
+been negatived.”
+9.     The above principles are culled out from the
+judgment of the Hon’ble Supreme Court itself. That is a law
+of the land. They are salutary in character and by virtue of
+Article 141 of the Constitution of India bind all the judicial
+authorities. We cannot override the law declared by the
+Hon’ble Supreme Court of India as that binds all courts
+within the territory of India. The review petitioners before
+us are aware of the same. Yet, they have, in the garb of the
+order of the Hon’ble Supreme Court passed in this case,
+preferred this review petition not through the same
+advocates/counsel, who argued the matter when the
+order under review was passed by this court. They were
+aware that respondent No. 6 had challenged the acquisition
+of the land/property in issue unsuccessfully. The property
+stood acquired and the owner has lost his right, title and
+interest therein. He/it could not have propped-up the
+tenants/occupants of the building/structure standing on the
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+land to question the acquisition. Therefore, as a strategy, the
+alleged dilapidated and unsafe condition of the
+structure/building was put in issue in the original writ
+petition purely to gain sympathy from this court. The very
+purpose of the writ petition was to take another chance or, to
+put it differently, initiate a second round to wriggle out of the
+acquisition of the property. Therefore, advisedly, the
+counsel arguing the matter at the initial stage and when
+the order under review was passed, did not base his
+arguments on the pleadings, which we have reproduced
+above. When no argument was raised based on such
+pleadings and advisedly and purposely, though the
+pleadings were on record, now, through different
+advocates on record and distinct set of counsel, the
+petitioners are seeking to get over a binding order of this
+court. This is a third round and in the garb of a review, a
+re-hearing of the case is sought. That is why we have
+deprecated the practice and routinely adopted in this
+court of litigants filing review petitions not through the
+same advocates and counsel, who were engaged when the
+orders under review are passed. A different set of
+advocates/counsel is engaged and the same contentions and
+submissions, which were either not raised, given up or
+negatived earlier, are sought to be re-introduced by taking
+advantage of the liberty granted by the Hon’ble Supreme
+Court of India. Should we, therefore, encourage this
+trend, which destroys long-standing, healthy practices
+and traditions of this court. The professionals and
+litigants may not feel anything about the rich heritage
+and healthy practices and traditions of this court, but
+surely we cannot abandon or ignore them. More so, when
+they are deep rooted and have stood the test of time.”
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+31.    A litigant has a right to be heard by a court. He has a right to
+engage a lawyer, who will be heard on that party’s behalf. But no party
+has the right to keep changing lawyers and then having the new
+lawyers attempt to argue points not raised, given up or rejected.
+Certainly no lawyer is entitled to say to a court, “I am entitled to urge
+anything and everything, even points my client’s previous lawyer did
+not argue, or may have given up or which you negatived. I am entitled
+to do all this because I am now newly engaged and therefore it matters
+not a whit what my client’s previous lawyer, no matter how illustrious
+or brilliant, said or did.” There is no such right.
+32.    No matter how long and tortuous litigation in India may be, it
+must have some finality. If what Mr Krishnan seems to believe is
+legitimate — that appeals can be filed on grounds not argued and that
+review petitions can be similarly pressed — then there is no end in
+sight at all. This is anathema to our jurisprudence.
+33.    The Review Petition is entirely bereft of merit. Allowing it
+would set a dangerous precedent. The Review Petition is dismissed.
+34.    As to costs, this being in the Commercial Division, the
+amendment to CPC Section 35 effected by the CCA will operate:
+costs must ordinarily follow the event. If not, reasons must be
+recorded. Dr Saraf presses for an order of costs. I can see no reason
+not to make that order.
+35.    In response, it is now suggested by Mr Krishnan for the Review
+Petitioner was “not his choice” but “was suggested by the Division
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+Bench”. Those are his exact words. The argument is quite possibly
+the most repellent I have heard in a long time. Mr Krishnan leaves me
+with no choice. I will now reproduce the whole order of 20th June
+2021 of the Appeal Court. It is at Exhibit ‘D’ at pages 103-104. This
+“By the above Appeal, the Appellants have impugned the
+Order dated 12th March 2021 passed by the Learned Single
+Judge whilst disposing off the Arbitration Petition (L) NO.
+3628 of 2020 filed by the Respondent No. 1 seeking reliefs by
+way of interim protection under Section 9 of the Arbitration
+and Conciliation Act, 1996. The learned Advocate for the
+Appellants has made several submissions before this Court.
+However, it appears that though the said submissions
+were set out in the written submissions filed by the
+Appellants, much prior to the commencement of
+arguments, the same were not advanced before the
+learned Single Judge at the time of making oral
+submissions. In view thereof, we grant liberty to the
+Appellants to file a Review Petition seeking review of the
+impugned Order dated 12th March, 2021 before the
+Learned Single Judge. Since the execution proceedings are
+fixed on 26th July 2021, the Review Petition may be moved
+before the Learned Single Judge on or before 23rd July 2021.
+Needless to add that the Review Petition shall be heard
+strictly on merits. The Appeal is accordingly disposed off.
+The above Interim Application also stands disposed off.”
+36.    The emphasized words above show clearly that the Division
+Bench merely granted liberty to the Agarwals to file a Review
+Petition. The Division Bench did not ‘direct’ the Review Petitioner
+to do so. It did not ‘suggest’ that. It did not order it. The reason to
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+grant this liberty, and it was not an idle indulgence, is set out in the
+previous part where the Court noted that the Counsel briefed by Mr
+Krishnan made several submissions that were based on the written
+submissions but were not advanced during the arguments either in
+my order of 12th March 2021.
+37.    It lies ill in Mr Krishnan’s mouth to say that this Petition was
+filed because “the Division Bench directed” or “suggested” it.
+Nothing could be further from the truth. This is a deliberate and
+entirely unacceptable distortion of an unambiguous and clear order
+of a Division Bench of this Court. Frankly, to my mind, it is probably
+deserving of censure, but I will let that pass. But this does not mean
+that this serves as a reason not to award costs.
+38.    I should also reiterate that the filing of the written submissions
+is in more than murky — and certainly ambiguous — circumstances
+as I have set out earlier: with no order of a court permitting it, no
+stamp of receipt, no praecipe, and a mere print-out of some digital
+document. That only makes matters worse.
+39.    In my view, it is now time to send a clear message that this kind
+of conduct will not be tolerated. It will be dealt with severely. The
+factors that the CCA says must be taken into account while ordering
+costs are in Section 35(3) of the amended CPC:
+(3)     In making an order for the payment of costs, the
+Court shall have regard to the following circumstances,
+Priyanka Communications (India) Pvt Ltd & Ors v Tata Capital Financial Services Ltd
+(b)    whether a party has succeeded on part of its case,
+even if that party has not been wholly successful;
+(c)    whether the party had made a frivolous counterclaim
+leading to delay in the disposal of the case;
+(d)    whether any reasonable offer to settle is made by a
+party and unreasonably refused by the other party; and
+(e) whether the party had made a frivolous claim and
+instituted a vexatious proceeding wasting the time of the
+40.    The Review Petitioners’ conduct is deplorable. The Review
+Petition is certainly frivolous and vexatious and it is an unforgivable
+waste of judicial time — which, not incidentally, has been to the time-
+disadvantage of other litigants as well.
+41.    Consequently, the dismissal of the Review Petition will be
+accompanied by an order of costs in the amount of Rs. 5 lakhs. These
+costs are to be paid by the Review Petitioners directly to the
+Respondent within two weeks from the day this order is uploaded.
+42.    This order will be digitally signed by the Private Secretary of
+this Court. All concerned will act on production of a digitally signed
+copy of this order.

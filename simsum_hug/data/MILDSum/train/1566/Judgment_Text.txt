@@ -1,0 +1,707 @@
+1.       The petitioners have filed the present petition under Section 34
+of the Arbitration and Conciliation Act, 1996 (hereafter the ‘A&C
+Act’) impugning the arbitral award dated 01.03.2019 (hereafter the
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                            Page 1 of 30
+‘impugned award’) rendered by the Arbitral Tribunal comprising of a
+Sole Arbitrator (hereafter the ‘Arbitral Tribunal’).
+2.        The impugned award was rendered in the context of disputes
+that had arisen between the parties in connection with an agreement
+dated 12.06.2015 entered into between petitioner no.1 (hereafter ‘the
+Railways’) and the respondent (hereafter ‘JRIL’).
+3.       JRIL is, inter alia, engaged in the manufacture of Railway
+Rolling Stock for the Indian Railways.
+4.       On 13.01.2015, the Railways issued a ‘Bid Invitation and
+Schedule of Requirement’ [E-Tender bearing no 2014/RS(I)/954/36
+(TC)] followed by the Corrigendum dated 25.03.2015, inviting
+electronic bids, for the manufacture and supply of the following
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                     Page 2 of 30
+5.       Clause 2 of the Bid Invitation and Schedule of Requirement
+stipulated that the aforementioned quantity was tentative, and the
+Railways reserved its right, without assigning any reason, to either
+decrease the tender quantity or discharge the tender entirely or not
+order some of the wagon types indicated in the tender quantity.
+6.       Pursuant to the said invitation for tenders, JRIL submitted its
+bid and the same was opened on 20.04.2015. JRIL was accepted as the
+lowest bidder (L-1 bidder). On 02.06.2015, the Railways issued the
+Letter of Acceptance (hereafter ‘the LoA’) communicating its decision
+to place an order on JRIL for supply of the following wagons at the
+price as quoted by JRIL:-
+Wagon Type Quantity        Basic Rate per wagon
+In terms of the LoA, the orders for supply of wagons would be
+released in two tranches.
+7.       Thereafter, on 12.06.2015, the parties entered into the Contract
+bearing no. 2015/RS(I)/954/44/1777 (hereinafter the ‘Agreement’). In
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                        Page 3 of 30
+terms of the Agreement, the Railways issued an order for manufacture
+and supply of 1403 numbers of wagons for a total contract price of
+₹151,52,40,000/- without excise duty and VAT, as the first tranche.
+The order for the balance 468 numbers of wagons was withheld and
+required to be released in the second tranche.
+8.       In terms of the Optional Clause under the Agreement (Clause
+2.4 renumbered as Clause 2.8 of the Agreement), the Railways
+reserved the right to increase/decrease the ordered quantity up to 30%
+of the ordered quantity during the currency of the Agreement, on the
+same price and terms and conditions, with a suitable extension in the
+delivery period for the optional quantity. Further, in terms of Clause 6
+of the Agreement (the Delivery Schedule), the supplies had to be
+completed within a period of twelve months from the date of
+placement of the Agreement. The said Agreement was accepted by
+JRIL on 18.06.2015.
+9.       The Agreement was amended several times. On 31.07.2015,
+Amendment no. I to the Agreement was issued by the Railways. In
+terms of Amendment no. I, certain clauses were incorporated in the
+Agreement. Clause 2.4 of the Agreement, which provided that the
+Railways could increase/decrease the quantity upto 30%, was
+renumbered as Clause 2.8 of the Agreement. Clause 2.4 of the
+Agreement, as introduced, stipulated that the “withheld quantity of 468
+wagons shall be released in proportion to your supply performance
+during the period of six months from the date of issue of this contract,
+i.e., June- November, 2015 by multiplying percentage compliance with
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 4 of 30
+the withheld quantity. The remaining quantity shall be taken away for
+re-distribution amongst performing units, having more than 100%
+compliance.”
+10.      On 28.08.2015, the Railways awarded a contract (bearing no.
+2015/RS(I)/954/46/1779) for the supply of 1075 numbers of wagons
+(975 numbers of ‘BOXHNL’ wagons and 100 numbers of
+‘BOSTHSM2’ wagons) to the L-2 tenderer (M/s Jupiter Wagons
+Limited) at the rates quoted by the said tenderer, that is, L-2 rates for
+BOXHNL wagons, and at L-1 rates for BOSTHSM2 wagons. This
+was because the said bidder as well as other bidders had declined the
+counter-offer made by the Railways to supply BOXHNL wagons at
+the L-1 rate (₹10,80,000/- as quoted by JRIL).
+11.      JRIL, being aggrieved by dual pricing of the BOXHNL wagons,
+made a representation dated 28.11.2015 voicing its grievance that the
+Notice Inviting Tender did not indicate that there would be two rates
+applicable for supply of wagons by different bidders. JRIL sought
+“parity of treatment with the other contractor so that for and the same
+work, a uniform fixation may prevail and the contract amount does not
+differ for the same work between one contractor and another
+contractor”.
+12.      Thereafter, on 14.03.2016, Amendment no. II to the Agreement
+was issued by the Railways. In terms of Amendment no. II, the order
+for 329 numbers of wagons (251 numbers of BOXNHL and 78
+numbers of BOSTHSM2), out of the withheld quantity of 468
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 5 of 30
+numbers of wagons, was released. Further, it was decided that the
+balance number of wagons, that are, 139 in number, would not be
+released, in favour of JRIL. The delivery period for the second tranche
+was stipulated to be the same as the contractual delivery period, that
+is, 11.06.2016. The total value of the Agreement was thus, amended to
+₹185,58,18,000/-. JRIL conveyed its unconditional acceptance to the
+said amendment on 16.03.2016.
+13.      On 08.04.2016, Amendment no. III to the Agreement was
+issued by the Railways. In terms of Amendment no. III, the Railways
+exercised its right reserved under the Option Clause (initial Clause 2.4
+renumbered as Clause 2.8 of the Agreement) and increased the
+ordered quantity of BOXNHL wagons by 496 numbers. The delivery
+period for the aforesaid quantity was increased by five months from
+the existing delivery period, that is, 11.06.2016. The total value of the
+Agreement was thus, amended to ₹239,14,98,000/-. JRIL conveyed its
+unconditional acceptance to the said amendment on 18.04.2016.
+14.      In the meantime, on 12.01.2016, another tender was floated by
+the Railways [E:Tender No. 2015RS(I)17TC], which was opened and
+the lowest price for the BOXNHL wagon bid by the tenderers was
+₹14,50,000/- per wagon. JRIL was awarded the contract for supply
+and manufacture of 292 numbers of BOXNHL wagons at the rate of
+₹14,50,000/- per wagon. The total contract price was ₹42,34,00,000/-.
+15.      JRIL preferred another representation dated 30.05.2016 and
+requested the Railways to revise the payment due to it at the L-2 rates.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 6 of 30
+16.      On the same day, that is, on 30.05.2016, JRIL sent a letter
+stating that it would not be able to complete the manufacture and
+supply of the required 1654 numbers of BOXNHL wagons within the
+scheduled delivery period of 11.06.2016, on account of unavailability
+of free supply of steel in matching sets. JRIL requested that the
+delivery period be extended without levy of liquidated damages and
+denial clause.
+17.      On 09.06.2016, Amendment no. IV to the Agreement was
+issued by the Railways extending the delivery period by a period of
+four months beyond 11.06.2016, for the manufacture and supply of the
+balance 588 numbers of BOXNHL wagons out of the original contract
+quantity of 1654 numbers of BOXNHL wagons. However, the same
+was extended with liquidated damages and denial clauses.
+18.      By its letter dated 11.06.2016, JRIL once again requested the
+Railways for extension of delivery period without imposition of
+liquidated damages and denial clauses as the delay in manufacture and
+supply of BOXHNL wagons was caused due to non-availability of
+free supply of steel in matching sets. JRIL requested the Railways to
+(i) issue an amendment to Amendment no. IV to extend the delivery
+period for 290 numbers of BOXHNL wagons under the first tranche
+order of 1403 numbers of wagons without liquidated damages and
+denial clause and; (ii) issue an amendment to Amendment no. II and
+Amendment no. IV to refix the delivery date for 251 numbers of
+BOXHNL wagons.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                     Page 7 of 30
+19.      The Railways accepted the said request and issued Amendment
+no. V to the Agreement. In terms of Amendment no. V, the Railways
+extended the delivery period of the balance first tranche quantity of
+290 numbers of BOXNHL wagons out of 1403 numbers of wagons
+without liquidated damages and denial clauses upto 11.10.2016; and
+refixed the delivery period of 251 numbers of BOXNHL wagons
+released under the second tranche upto 11.10.2016. Amendment no. V
+superseded Amendment no. IV.
+20.      JRIL invoked the Arbitration Agreement by its letter dated
+23.08.2016 to adjudicate its claims including in regard to dual pricing
+of wagons. The Railways responded to the aforesaid communication
+on 20.09.2016 and nominated an Executive Director, Railway Stores
+(C) of the Railway Board as the sole arbitrator. However, JRIL did not
+concur with the said appointment.
+21.      Thereafter, JRIL filed a petition under Section 11 of the A&C
+Act (being ARB. P. 613/2016) for the appointment of an arbitrator.
+The said petition was allowed and by an order dated 04.11.2016, this
+Court appointed Justice (Retd.) A.K. Patnaik, former Judge of the
+Supreme Court as the Sole Arbitrator to adjudicate the disputes
+between the parties.
+22.      On 25.11.2016, Amendment no. VI to the Agreement was
+issued by the Railways. The delivery period for the manufacture and
+supply of balance 396 numbers of BOXNHL wagons against the
+Option Clause under the Agreement was extended for a period of three
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 8 of 30
+months, that is, till 09.02.2017 without liquidated damages but with
+denial clauses.
+23.      On 03.12.2016, JRIL conveyed its unconditional acceptance to
+Amendment no. VI.
+24.      On 18.01.2017, JRIL filed its Statement of Claims before the
+Arbitral Tribunal raising six claims. The summary of the claims as
+noted by the Arbitral Tribunal in the impugned award, is set out
+“3.1.17. On the aforesaid facts as pleaded in the
+Statement of Claim, the Claimant has prayed for the
+following reliefs:
+(i) An Award declaring that the total quantity of the
+wagons has been short closed by the Respondents and the
+Claimant's obligation under the Contract pursuant to the
+Tender relating to BOXNHL Wagons discharges on
+execution of 796 (612 wagons and 30% Option Clause)
+(ii) An Award declaring that due to the breaches
+committed by the Respondents by adopting dual pricing,
+the Claimant is entitled to the L2 rate for the entire
+quantity awarded to the Claimant;
+(iii) An Award directing the Respondents to pay a sum of
+Seven Lakhs Twenty-One Thousand Six Hundred and
+Thousand Three Hundred and Fifty-One Only)] [Further
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 9 of 30
+Hundred and Sixty-Eight Only)] as tabled in the
+(iv) Pass an Award that the Claimant is entitled to the
+Litigation Cost as claimed in the present Arbitration
+proceedings and also as per the Arbitration and
+Conciliation Act, 1996 (as amended up-to-date);
+(v) Pass an Award that the Claimant is entitled to interest
+@ 18% quarterly rest for the pendente-lite period and
+future interest@ 2% higher than that the current rate of
+interest prevalent on the date of award, as per the
+Arbitration and Conciliation Act, 1996 (as amended up-
+(vi) Pass any other or further award as this Hon'ble
+Tribunal deems fit, just and proper in the facts and
+circumstances of the case”
+25.      The Railways contested the aforesaid claims and filed its
+Statement of Defence. On 22.03.2017, the Railways filed an
+application under Section 16 of the A&C Act before the Arbitral
+Tribunal contending that the disputes and claims raised by JRIL were
+not arbitrable and therefore, they were liable to be dismissed in limine.
+26.      In view of the rival contentions, the Arbitral Tribunal framed
+the following points of adjudication on 22.03.2017:
+In the proceedings of the arbitral meeting dated
+22.03.2017, the arbitral Tribunal after perusing the
+pleadings and after hearing the advocates for the parties,
+formulated the following points of dispute for
+adjudication in this arbitration matter:
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                        Page 10 of 30
+(i)     Whether all or any of the Claims raised by
+the Claimant in the Statement of Claim are
+outside the scope of the contract between the
+parties and hence not arbitrable?
+(ii)    Whether all or any of the reliefs no. (i), (ii),
+(iii) claimed by the Claimant in the
+(iii)   Whether the Claimant is entitled to interest
+on the amount awarded and if so, at what rate
+and for which period.?
+(iv)    Which party is entitled to the costs of the
+arbitration and what would be the reasonable
+costs which should be awarded?”
+27.      The Arbitral Tribunal held that Claim no. (i) was beyond the
+jurisdiction of the Arbitral Tribunal as it could not declare that JRIL’s
+obligation under the Agreement, pursuant to the tender relating to the
+BOXNHL wagons, was discharged on execution of 796 numbers of
+BOXHNL wagons.
+28.      In respect to Claim nos. (ii) and (iii), the Arbitral Tribunal held
+that even if the ‘Bid Invitation and the Instructions to Tenderers’ was
+treated as a part of the Agreement between the parties, there was no
+stipulation that in the event the purchase orders are placed at L-2 rates
+with any party, the L-1 bidder (that is, JRIL) would be entitled to L-2
+rates. The Arbitral Tribunal also referred to Section 73 of the Indian
+Contracts Act, 1872 and held that in the absence of any breach of any
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                           Page 11 of 30
+provision of the Agreement providing that the Railways shall pay L-2
+rates for the wagons to JRIL, the Arbitral Tribunal could not award
+compensation computed as the difference between the L-1 and L-2
+rates to JRIL for the wagons to be supplied to the Railways at L-1
+rates. The Arbitral Tribunal had no jurisdiction to entertain the
+aforesaid claims of JRIL for being paid L-2 rates for 1654 numbers of
+BOXHNL wagons supplied by JRIL to the Railways.
+29.      The Arbitral Tribunal rejected Claim no. (iii) and the two claims
+amounting to ₹30,39,69,420/- (being the differential amount between
+L-1 and L-2 rate) and ₹1,02,23,273/- (being the interest accrued on the
+differential amount) preferred by JRIL, as JRIL was not entitled to the
+L-2 rate for the entire quantity of BOXNHL wagons. The Arbitral
+Tribunal held that the same was outside the scope of the Agreement.
+The claims for an amount of ₹50,07,93,557/- and ₹1,68,83,464/- was
+also rejected by the Arbitral Tribunal on the ground of jurisdiction.
+30.      However, the Arbitral Tribunal held that the Railways had no
+right to issue Amendment no. III – even though the same was accepted
+by JRIL – and was in breach of the provisions of the Agreement. The
+Arbitral Tribunal held that the costs of manufacture of wagons and
+market price for supply of wagons had gone up substantially and, the
+Railways could not have ordered additional quantity of 496 numbers
+of wagons at the contract price of ₹10,80,000/-, either under Clause
+2.4 or Clause 12 of the Agreement.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                         Page 12 of 30
+31.      The Arbitral Tribunal also held that the Railways could not
+have exercised its right reserved under Clause 2.4 or Clause 12 of the
+Agreement in the facts of the present case, when the price of the
+BOXNHL wagons was lower than the costs for manufacture of the
+wagons and the revised rate of BOXHNL wagons was found to be
+₹14,50,000/- in the bids opened on 12.01.2016. The Arbitral Tribunal
+further accepted JRIL’s contention that it had given unconditional
+acceptance to Amendment no. III to ensure that the Railways did not
+encash the Bank Guarantees furnished by it and it does not get
+blacklisted.
+32.      Further, the Arbitral Tribunal referred to Sections 70 and 73 of
+the Indian Contracts Act, 1872 and held that the Railways was liable
+to compensate JRIL for the loss and damage caused to it on account of
+496 numbers of wagons supplied at the rate of ₹10,80,000/-.
+Accordingly, the Arbitral Tribunal awarded a sum of ₹18,35,20,000/-,
+being the difference in the value of 496 numbers of wagons at the
+contract price and market price.
+33.      The Arbitral Tribunal directed the Railways to pay the awarded
+amount of ₹18,35,20,000/- within a period of three months from the
+date of the award, failing which, the Railways was liable to pay post
+award simple interest at the rate of 12 % per annum from the date of
+the award till the date of payment.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                        Page 13 of 30
+34.      The Arbitral Tribunal did not award costs in favour of JRIL and
+directed that the parties would bear their own costs.
+35.      The operative part of the impugned award reads as under:-
+“(a) The Respondents will pay to the Claimant a sum of
+Lakhs Twenty Thousand only) as damages or
+compensation under Sections 70 and 73 of the Indian
+(b) The Claimant is not entitled to any pre-award interest
+under Section 31(7)(a) of the Arbitration and Conciliation
+(c) The Respondents will pay the awarded sum of INR
+18,35,20,000 within 3 (Three) months from the date of
+the award, failing which, the awarded amount of INR
+18,35,20,000 will carry post award simple interest at the
+rate of 12% per annum from the date of the award the
+date of payment under Section 31 (7) (b) of the
+Arbitration and Conciliation Act, 1996.
+(d) The parties shall bear their own costs.
+(e) All other Claims of the Claimant are rejected.”
+36.      Aggrieved by the impugned award, the petitioners have filed the
+present petition.
+37.      Mr Jain, learned counsel appearing for the Railways, has
+assailed the impugned award on the ground that it amounts to re-
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                        Page 14 of 30
+writing the contract between the parties.       He submitted that the
+Arbitral Tribunal rejected the other claims of JRIL but awarded a sum
+of ₹18,35,20,000/- in favour of JRIL, being the price of 496 numbers
+of wagons calculated at the price quoted by the tenderers pursuant to
+the issuance of the invitation to tender. He contends that the same is
+manifestly erroneous as JRIL had supplied 496 numbers of wagons in
+terms of the contract between the parties and therefore, was not
+entitled to any amount in excess of the price, as agreed between the
+parties. The Arbitral Tribunal had proceeded on the basis that it was
+not permissible for the Railways to place an order for wagons at the
+agreed price, which was below the market price. According to the
+Arbitral Tribunal, the Agreement between the parties was required to
+be construed in a workable manner and it was not open for the
+Railways to place an order after it had discovered a higher market
+price.    According to the Railways, this amounts to re-writing the
+Agreement and the same is impermissible.
+38.      Further, Mr Jain contended that there was no dispute that the
+Railways was entitled to increase the agreed quantity of wagons up to
+30%. JRIL had not raised any dispute in this regard. JRIL had
+disputed the allocation of the quantities.    According to JRIL, the
+quantity of wagons allocated was in excess of the quantities as
+stipulated under the tender conditions. The Arbitral Tribunal had
+rejected the said contention. Thus, the impugned award is beyond the
+claims made by JRIL.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                     Page 15 of 30
+39.      Mr Ranjit Kumar, learned senior counsel appearing for JRIL,
+countered the aforesaid submissions. He submitted that exercise of
+the Option Clause by the Railways was in dispute before the Arbitral
+Tribunal. The Arbitral Tribunal found that the same was in breach of
+the terms of the Agreement between the parties. He submitted that the
+Railways had exercised its option to place an order for additional
+quantities of wagons on JRIL as the prices tendered by various
+tenderers were substantially high. He contended that the additional
+quantity of wagons ordered was relating to the subsequent year’s
+requirement and therefore, the Railways was not entitled to insist on
+supply of any additional quantity. He submitted that the Arbitral
+Tribunal had interpreted the contract between the parties in a
+reasonable manner. The Arbitral Tribunal is the final adjudicator
+regarding interpretation of the contract and therefore, no interference
+was warranted with the impugned award.         He submitted that the
+impugned award was neither in contravention of the fundamental
+policy of Indian Law nor could be held to be vitiated by patent
+illegality.
+40.      He also referred to the decisions of the Supreme Court in
+Ssangyong Engineering & Construction Company Limited v. NHAI:
+(2019) 15 SCC 131; Delhi Airport Metro Express Private Limited v.
+Terminals       Private Limited   v.  Board    of  Trustees     of      VO
+Chidambranar Port Trust Tuticorin and Ors.: (2021) SCC OnLine
+SC 508; Dyna Technologies Pvt. Ltd. v. Crompton Greaves Ltd.:
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                      Page 16 of 30
+(2019) 20 SCC 1; and, MSK Projects India (JV) Ltd. v. State of
+Rajasthan & Anr.: (2011) 10 SCC 573, in support of his contentions.
+Reasons and Conclusion
+41.      As is apparent from the above, the limited controversy that falls
+for consideration before this Court is whether the Railways was
+entitled to exercise the Option Clause (Clause 2.8 of the Agreement)
+to increase the ordered quantity up to 30% to be supplied at the agreed
+price. The Arbitral Tribunal faulted the Railways for placing orders of
+additional quantities of 496 numbers of BOXHNL wagons at the
+agreed contract price of ₹10,80,000/-. The Arbitral Tribunal reasoned
+that the terms of the Agreement were determined by the Railways and
+JRIL had no option but to accept the same. In such circumstances, the
+terms of the contract could not be literally interpreted, if it “flouts
+business common sense”. The Arbitral Tribunal held that the parties
+could not have intended for the Railways to exercise an option of
+increasing the quantity if the price in the market or the cost of
+production had increased substantially, rendering it commercially
+unviable to manufacture and supply the said wagons.
+42.      Although, JRIL had unconditionally accepted Amendment no.
+III dated 08.04.2016 and agreed to supply additional quantity of
+wagons, the Arbitral Tribunal held that it was impermissible for the
+Railways to have issued Amendment no. III, as it was in breach of the
+provisions of the Agreement.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 17 of 30
+43.      The question whether the said findings of the Arbitral Tribunal
+are manifestly erroneous and vitiates the impugned award on the
+ground of patent illegality must be considered in the context of the
+Agreement as well as the claims raised by JRIL.
+44.      The Railways had invited tenders for supply of 8509 numbers
+of wagons, which included 7492 numbers of BOXNHL type wise
+wagons. The controversy in the present case relates to the BOXNHL
+wagons.
+45.      Clause 2.1 of the Instructions to Tenderers for E-Tender
+(Tender No.2014/RS(I)/954/369TC), provided that “55% of the total
+quantity shall be distributed amongst eligible regular wagon
+manufacturers on the basis of respective average annual production of
+previous five completed years as 2010-11, 2011-12, 2012-13, 2013-14
+& 2014-15” (Performance Index).         In terms of Clause 2.4 of the
+Instructions to Tenderers for E-Tender, the remaining 45% quantity
+would be distributed wagon type-wise amongst L-1, L-2 and L-3
+tenderers in the ratio of 50:30:20.
+46.      JRIL was a new entrant into the business of wagon
+manufacturing and it was not entitled to any significant quantity under
+the Performance Index quota. According to the Railways, JRIL was
+entitled to an order of approximately 96 numbers of wagons. JRIL
+participated in the tender and quoted a price substantially lower than
+other bidders. It was, accordingly, declared as the L-1 tenderer. JRIL
+was thus, entitled to 50% of the 45% of the total quantities for which
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 18 of 30
+the tenders were invited. Accordingly, 1871 numbers of wagons were
+allocated to JRIL. According to the Railways, JRIL was entitled to 96
+numbers of wagons on the basis of its Performance Index quota under
+Clause 2.1 of the Instructions to Tenderers for E-Tender (out of the
+55% reserved for regular wagon manufacturers). However, JRIL’s
+annual capacity of manufacturing wagons was assessed as 1400 units
+and therefore, it was allocated only 1871 numbers of wagons, which
+included 1654 numbers of wagons of BOXNHL type.
+47.      The LoA issued by the Railways communicated its decision to
+place the orders for the following wagons at the quoted price, on JRIL:
+Wagon type     Quantity    Basic Rate per wagon (₹)
+BOXNHL         1,654       10,80,000.00 (₹ ten        lakh
+48.      The LoA also expressly provided that the order for 1,403
+numbers of BOXNHL wagons would be released shortly.                    The
+remaining quantities would be withheld and released at the end of six
+months from the date of the Agreement provided that JRIL had
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                      Page 19 of 30
+supplied 50% of the quantity consisting of the outstanding order as on
+01.06.2015, that is, 936 numbers of wagons.
+49.      It is important to note that in terms of paragraph 9 of the LOA,
+the Railways retained the right to increase or decrease the ordered
+quantity up to 30% during the currency of the Agreement. Paragraph
+9 of the LoA is relevant and set out below:
+“9. Option Clause: The purchaser reserves the right to
+increase/decrease the ordered quantity up to 30% of the
+ordered quantity during the currency of the contract on
+the same price and terms and conditions with suitable
+extension in delivery period for the optional quantity.”
+50.      As stated above, the order for 468 numbers of wagons was
+withheld. It was agreed that the said quantity would be released in
+proportion to JRIL’s performance during the period of six months, that
+is, June – November, 2015. The Agreement between the parties was
+amended to provide the same (Amendment no. I dated 31.07.2015).
+51.      However, out of the said quantities, order for only 329 numbers
+of wagons was released. Thus, in all, orders for 1732 numbers of
+wagons were placed on JRIL. On 08.04.2016, the Railways placed an
+order for additional 496 numbers of BOXNHL wagons by exercising
+its option to place orders for additional quantities up to 30%. Thus,
+orders for 2228 numbers of wagons were placed on JRIL, which
+includes 2150 numbers of BOXNHL wagons (1654 numbers of
+wagons as initially contracted and 496 numbers of additional wagons).
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                          Page 20 of 30
+52.      Indisputably, the Railways was entitled to increase the ordered
+quantity of wagons up to 30%. This was expressly stipulated in
+paragraph 9 of the LoA and Clause 2.4 of the Agreement
+(subsequently renumbered as Clause 2.8 of the Agreement by
+Amendment no. I). The said Clause 2.4 of the Agreement is
+“2.4. Option Clause: The purchaser reserves the right to
+increase/decrease the ordered quantity up to 30% of the
+ordered quantity during the currency of the contract on
+the same price and terms and conditions with suitable
+extension in delivery period for the optional quantity.”
+53.      As noted above, the Agreement was amended on several
+occasions. The first amendment (Amendment no. I dated 31.07.2015)
+renumbered the said Clause 2.4 as Clause 2.8 of the Agreement as four
+other clauses were inserted after Clause 2.2 of the Agreement.
+54.      A plain reading of the Statement of Claims indicates that JRIL
+had not challenged the validity of Clause 2.4 of the Agreement
+(renumbered as Clause 2.8 of the Agreement). JRIL’s principal claims
+related to (i) the number of wagons allocated to it considering that the
+Railways did not place orders for the entire tendered quantity on
+various manufacturers; and, (ii) the action of the Railways in adopting
+dual pricing.
+55.      JRIL had claimed that in terms of the Instructions to Tenderers
+for E-Tender, its rightful allocation was only 612 numbers of
+BOXNHL wagons. According to JRIL, since an order for only 3040
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                         Page 21 of 30
+numbers of wagons was placed by the Railways, only 45% of that
+quantity was required to be allocated on the basis of competitive
+bidding (1368 numbers of wagons being 45% of 3040). JRIL, being
+the L-1 tenderer, was entitled to 50% of the said quantity of 1368
+numbers of wagons. According to JRIL, 1368 numbers of wagons
+would include 1223 numbers of wagons of BOXNHL type and
+therefore, its share of the said allocation was 612 numbers of
+BOXNHL wagons.
+56.      It is important to note that JRIL accepted that the Railways was
+entitled to increase the said quantity by 30% in terms of Clause 2.8 of
+the Agreement (initially numbered as Clause 2.4 of the Agreement)
+and accordingly, claimed that its obligation to supply wagons was
+discharged with the supply of 796 numbers of wagons (612 plus 30%
+additional, in terms of the Optional Clause). This is clear from
+Paragraphs I and J of the Statement of Claims, which are set out
+“I. Therefore, as the total quantity of BOXNHL wagons
+has been decreased to 2718 BOXNHL wagons, as
+per the formula provided in the Instructions to
+Tenderers for e-Tender (which formed integral part
+of the Contract Agreement), the Claimant is bound to
+manufacture and supply only 612 BOXNHL wagons.
+Furthermore, even if the Respondents exercise the
+30% Option Clause of the Contract Agreement, then
+also the same increase the quantity by 184 BOXNHL
+wagons only, accordingly, as per the terms of the
+Contract Agreement dated 12th June 2015, the
+Claimant is bound to execute only 796 BOXNHL
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                         Page 22 of 30
+Wagons. Chart pertaining to the quantities has been
+annexed hereto and marked as Annexure-CD-15.
+J. In view of the above, it is humbly submitted that the
+Hon’ble Arbitral Tribunal may graciously be pleased
+to pass an Award inter alia declaring that the
+Respondents have short closed the total quantity of
+the BOXNHL wagons and accordingly, the
+Claimant’s obligation under the Contract Agreement
+relating to BOXNHL wagons fulfils or discharges on
+manufacture and supply of 796 (612+184) BOXNHL
+wagons.”
+57.       It is relevant to note that JRIL’s calculation of the quantity of
+wagons that it was obliged to supply rested on its assertion that the
+Railways had short closed the tender by reducing the total quantity of
+wagons to be procured under the said tender (Tender no.
+2014/RS(I)/954/369TC).          On the aforesaid assertion, JRIL had
+claimed an additional amount as damages for the excess quantity
+supplied by it. It claimed that it was entitled to the market value of the
+said quantity or at least, the difference between the rates quoted by it
+(L-1 rates) and the rates quoted by second lowest tenderer (L-2).
+58.      JRIL also claimed that it was impermissible for the Railways to
+procure wagons under the same Notice Inviting Tenders, at dual
+pricing. Since the other bidders had declined to accept the counter
+offer of the Railways to supply at L-1 rates (prices quoted by JRIL), it
+had placed orders on other bidders at the rates quoted by the second
+lowest tenderer (L-2).
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                          Page 23 of 30
+59.      It is, thus, clear that JRIL had not contested the right of the
+Railways to increase the quantity up to 30%. On the contrary, JRIL
+had accepted the same and framed its claim on the said basis.
+60.       As noted above, JRIL had also premised it claim on dual
+pricing. JRIL claimed that since the Railways had breached the terms
+of the Agreement by adopting dual pricing, therefore, JRIL was
+entitled to the market value of the wagons supplied and/or price at
+which the orders were placed on the other bidders (L-2 rate of
+₹13,05,000/-). Paragraphs U, V, W, X, Y and Z of the Statement of
+Claims, which clearly indicates the basis of JRIL’s claim in this
+regard, are relevant and set out below:
+“U. In the present case, at the time of committing
+breach of the terms of the Contract Agreement
+dated 12th June 2015 by adopting dual pricing, the
+Respondents were aware that the same will cause
+loss and damages to the Claimant.
+V. As stated above, the Claimant’s contractual
+obligation to supply BOXNHL wagons discharges
+when the Claimant supplied 796 BOXNHL
+wagons. It is humbly submitted that the Claimant
+has supplied 796 BOXNHL wagons on 26th March
+2016. Thereafter, till 31st December 2016 the
+Claimant has supplied 1898 BOXNHL wagons.
+During January 2017, 45 wagons have been
+supplied till 16th January 2017 and furthermore, as
+per the orders placed by the Respondents, the
+Claimant need to supply another 207 BOXNHL
+wagons. The chart pertaining to the quantities has
+been annexed hereto and marked as Annexure-CD-
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 24 of 30
+W. It is humbly submitted that in the next e-Tender,
+which was opened on 12th January 2016, the
+Respondent discovered the price for BOXNHL
+wagons as Rs.14,50,000/-(Rupees Fourteen Lakhs
+Fifty Thousand Only). It is humbly submitted that
+as the price was discovered during January 2016
+April 2016, the market price of BOXNHL wagons
+in the month of March 2016 (the month on which
+the Claimant supplied its 796 BOXNHL wagons)
+ought to be treated as Rs.14,50,000/- (Rupees
+Fourteen Lakhs Fifty Thousand only). On the basis
+of the same, the Claimant for manufacturing and
+supply of the remaining 1354 BOXNHL wagons is
+entitled for compensation at the market rate, which
+is Rs.14,50,000/- and at the same time the rate has
+to be adjusted as per the Price Variation Clause
+mentioned in the Contract Agreement.
+X.   It is humbly submitted that as the Respondents have
+breached the terms and conditions of the Contract
+Agreement dated 12th June 2015, the Claimant is
+entitled to get compensation to the tune of
+Fifty Seven only) based on the calculation annexed
+hereto as Annexure-CD-19.
+Y.   At the same time, alternatively, if the Hon’ble
+Tribunal comes to a finding that for the remaining
+portion of supply of BOXNHL wagons, i.e., 1354
+BOXNHL wagons, the Claimant is entitled to the
+L2 rate (i.e., the rate awarded to M/s Jupiter), as the
+Respondents have breached the Contract
+Agreement by adopting dual pricing in the present
+Tender, then the Claimant is entitled to the L2 rate,
+which is Rs. 13,05,000/- (Rupees Thirteen Lakhs
+Five Thousand only) and at the same time the rate
+has to be adjusted as per the Price Variation Clause
+mentioned in the Contract Agreement.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                          Page 25 of 30
+Z.   It is humbly submitted that, alternatively, as the
+Respondents have breached the terms and
+conditions of the Contract Agreement dated 12th
+June 2015, the Claimant is entitled to get
+compensation to the tune of Rs.30,39,69,420/-
+Nine Thousand Four Hundred Twenty only)
+based on the calculation annexed hereto as
+61.      JRIL had not made any claim challenging the contractual
+provision, which entitled the Railways to increase the order of
+quantity by 30%.
+62.      The Arbitral Tribunal rejected JRIL’s contention that the
+tenders invited were foreclosed by reduction of quantity. The Arbitral
+Tribunal also rejected JRIL’s claim that the Railways had breached the
+terms of the Agreement or the tender conditions by adopting dual
+pricing. JRIL had supplied wagons at the price quoted by it and was
+not entitled to claim a higher price on the basis of the bids submitted
+by other tenderers. The said findings ought to have been dispositive
+of the claims raised by JRIL.
+63.       Notwithstanding that, the Arbitral Tribunal rejected the basis
+on which JRIL had raised its claim, and it entered an award of
+₹18,35,20,000/-, in favour of JRIL.
+64.      JRIL had sought to escape the rigors of Clause 2.4 of the
+Agreement (renumbered as Clause 2.8 of the Agreement) by claiming
+that the said clause was only operative during the initial term of the
+Agreement. According to JRIL, the recourse to the Option Clause was
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                       Page 26 of 30
+available only during the “currency of the contract”. It is material to
+note that the Arbitral Tribunal did not accept this contention that the
+exercise of the Option Clause was beyond the currency of the
+65.      As stated above, the said award is based on interpretation of
+Clause 2.4 of the Agreement (renumbered as Clause 2.8 of the
+Agreement), as according to the Arbitral Tribunal, the said clause did
+not entitle the Railways to place an order for additional quantities at
+the price quoted by tenderer, if there was a substantial increase in the
+market value or the cost of manufacturing of wagons. This was not a
+case set up by JRIL in its Statement of Claims.
+66.      This Court is of the view that the decision of the Arbitral
+Tribunal to seek to interpret Clause 2.4 of the Agreement (renumbered
+as Clause 2.8 of the Agreement), in a manner so as to curtail the right
+of the Railways to increase the quantity procured under the Agreement
+is, ex facie, erroneous. A plain reading of the said clause clearly
+indicates that the Railways was entitled to increase the quantity of the
+wagons during the currency of the Agreement by up to 30%. JRIL had
+voluntarily submitted its bid to supply BOXNHL wagons at a price of
+₹10,80,000/-. The allocation of the quantities was made in conformity
+with the tender conditions. The Railways also had the right to alter the
+quantities by increasing or decreasing the same up to 30% during the
+currency of the Agreement. JRIL had agreed to provide additional
+quantities or to accept reduction in quantities without any change in
+the price quoted. Merely because the market value of the price of
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                      Page 27 of 30
+wagons or its cost of production increased, the same cannot be a
+ground for reading the Agreement contrary to its plain terms.
+67.      JRIL had quoted a price that was substantially lower than the
+other bidders. The other bidders were not willing to supply the wagons
+at the price quoted by JRIL (L-1 price) and had declined the counter-
+offer made by the Railways. Thus, even at the tendering stage, JRIL
+had quoted a price, which was perhaps lower than the market value.
+According to the Railways, JRIL had bid aggressively and adopted
+predatory pricing.
+68.       A commercial contract between the parties cannot be avoided
+on the ground that one of the parties subsequently finds it
+commercially unviable to perform the same. The Arbitral Tribunal
+has, essentially, re-worked the bargain between the parties and re-
+written the contract. This is, clearly, impermissible.
+69.      In PSA SICAL Terminals Pvt. Ltd v. Board of Trustees of V.O.
+Chidambranar Port Trust Tuticorin and Others (supra), the Supreme
+Court observed as under: -
+“87….In our view, re-writing a contract for the parties
+would be breach of fundamental principles of justice
+entitling a Court to interfere since such case would be
+one which shocks the conscience of the Court and as
+such, would fall in the exceptional category.”
+70.      There is no dispute that the interpretation of a contract falls
+within the jurisdiction of an arbitral tribunal and an arbitral award
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                        Page 28 of 30
+based on a plausible interpretation of a contract cannot be interfered
+with under the provisions of Section 34 of the A&C Act.
+71.      However, in this case, this Court is unable to accept that the
+Arbitral Tribunal’s interpretation of Clause 2.4 of the Agreement
+(renumbered as Clause 2.8 of the Agreement), is a plausible one.
+72.      According to the Arbitral Tribunal, the said clause is required to
+be re-interpreted contrary to its plain language as it “flouts business
+common sense”. JRIL, in its commercial wisdom, had quoted a price
+of ₹10,80,000/- for supplying the BOXNHL wagons. It is not open
+for the Arbitral Tribunal to examine this commercial wisdom and re-
+write the Agreement on the basis of the commercial difficulties faced
+by JRIL in performing its obligations.
+73.      JRIL had bid a lower amount to garner a higher share of
+tendered quantity, which would entitle it to higher allocation of orders
+based on its Performance Index, in the next year. According to the
+Railways, JRIL had adopted predatory pricing to eliminate the other
+manufacturers from suppling the orders by making it commercially
+unviable to do so. The Arbitral Tribunal has not examined this
+contention while considering whether Clause 2.4 of the Agreement
+(renumbered as Clause 2.8 of the Agreement) “flouts business
+common sense”.
+74.      It is not necessary that all contracts yield a profit; some result in
+a loss as well. This is not a factor to permit a party to avoid its
+contractual obligations.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                            Page 29 of 30
+75.      In cases where it is found that the terms of the contract do not
+clearly express the intentions of the parties, it is open to seek recourse
+to various tools of interpretation. This would include interpreting a
+contract in a manner that would make commercial sense as it is
+assumed that men of commerce would have intended it so. However,
+it is not open to re-work a bargain that was struck between the parties
+on the ground that it is commercially difficult for one party to perform
+the same.
+76.      The decision of the Arbitral Tribunal to award the difference
+between the price quoted by the tenderers and the price quoted by
+JRIL, is unsustainable. It amounts to re-writing the contract between
+the parties. The impugned award is in conflict with the fundamental
+policy of Indian law and is vitiated by patent illegality.
+77.      In view of the above, the petition is allowed. The impugned
+award is set aside.
+By:Dushyant Rawal       O.M.P. (COMM) 227/2019                                         Page 30 of 30

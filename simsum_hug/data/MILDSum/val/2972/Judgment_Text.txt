@@ -1,0 +1,61 @@
+1.  First Ambitious project in the Country of Courtroom Live Audio Visual
+(IVSS) of High Court and Subordinate Courts in the State of Madhya
+•  High Court of Madhya Pradesh is pleased to announce the commencement
+of our ambitious Courtroom Live Audio Visual Streaming System (CLASS)
+and Integrated Video Surveillance System (IVSS) project that will enable
+live streaming of every courtroom from all subordinate courts, under the
+High Court of Madhya Pradesh, Jabalpur. After a transparent and fair
+tendering process, an implementation partner has been selected to execute
+the project within a timeframe of 24 months. The pilot phase will begin very
+shortly at District Court, Jabalpur and at Tehsil Court, Patan followed by
+state-wide implementation of the project in 3 phases.
+•  For High Court of Madhya Pradesh, this is going to be a path breaking
+project in its scope and purpose that adheres to the principles of
+transparency and accountability, as laid down by the Hon’ble Supreme
+Court of India in the matter of Swapnil Tripathi Vs. Supreme Court of India.
+High Court of Madhya Pradesh has been the first High Court which
+simultaneously started live streaming of all its Courts at Principle seat
+Jabalpur and Benches at Gwalior and Indore. Again the State of Madhya
+Pradesh is going to be the first State to setup the live streaming of
+proceedings for all subordinate courts in the State.
+•  Adherence with the draft rules on live-streaming and recording of court
+proceedings as published by the e-Committee of Hon’ble Supreme Court of
+•  Usage of video surveillance cameras for live streaming of courtroom
+proceedings.
+•  Video Surveillance system at every court premises and within every
+courtroom - 24x7 surveillance of gates, courtyard (parking places), building
+entry points, courtroom entrances, courtrooms, passages & other public
+assembly points with the use of advanced megapixel IP cameras.
+•  Integration of IVSS, CLASS and the case tracking and management
+system currently in use at High Court of Madhya Pradesh.
+•  A state-of-the-art Command & Control Center & Data Centre in Jabalpur for
+alarm monitoring, on-demand video monitoring & audio-visual recording
+archival alongwith “Disaster Recovery” set-up at Indore.
+•   Local as well as District Level Control Rooms for monitoring local/ remote
+security cameras.
+•   Biometric (Facial) Access Control for Judges’ Chambers & Data Centers.
+•   Use of Door Frame & Hand-held Metal Detectors for visitor screening.
+2.  Integrated secured “wi-fi network” for the 50 District Court Complexes in
+the State of Madhya Pradesh.
+•   High Court of M.P. has taken initiative to implement Wireless Secured
+Network Solution in all the three High Courts and District Courts of Madhya
+Pradesh. In “Phase-I” High Court of M.P., Jabalpur and Bench at Indore
+and Gwalior were enabled with Secured Wifi Network solution with 122 Wifi
+Access Points, Centralized Controller and AAA secured solution for User
+Authentication, Accounting and User Access.
+•   Moving ahead in Phase-II the Madhya Pradesh High Court is implementing
+the Secured Wifi Network Solution in all the 50 District Courts of Madhya
+Pradesh with estimated 1100 number of secured Access Points.
+•   The Features which will be available on Secured Wi-Fi Network will be as
+• Provide the user with Wi-Fi Access by login and authentication process.
+• Access control and audit trail mechanism as per industry standard and
+security norms defined by regulatory bodies.
+• Web-based management console to monitor and manage Wi-Fi access.
+• Define rule-based access defining the usage, time duration, Etc.
+• Restrict access based on URL, application, category, signature, etc.
+• Customizable reports for Wi-Fi Access Logs.
+• Enable/disable specific user/system from Wi-Fi Access.
+• Administer privilege-based wireless access to a different group of users.
+•   The current status of the District Court Wi-fi Network is that at 39 District
+Courts the network work for setup of wi-fi has been completed and at 12
+District Courts the installation of near about 500 access points is under

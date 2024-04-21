@@ -1,0 +1,18 @@
+The National Company Law Appellate Tribunal (“NCLAT”), New Delhi Bench, comprising of Justice Rakesh Kumar Jain (Judicial Member) and Mr. Naresh Salecha (Technical Member), while adjudicating an appeal filed in Vijay Kumar Gupta v Canara Bank, has held that the Liquidator has no jurisdiction to reject or modify already admitted claims, if he receives any additional information. The Liquidator can only approach the Adjudicating Authority for modification of the admitted claims.
+ Background Facts
+ The Liquidator of the Corporate Debtor prepared a list of stakeholders as per their submitted claims, in accordance with Regulation 31 of the Liquidation Process Regulations, 2016. Canara Bank being a stakeholder submitted its claim for Rs. 55,90,10,316/- which was admitted. However, during the transaction audit process, the Liquidator received additional information that the total claim of the Canara Bank is of Rs. 12,14,00,229/-.
+ Therefore, the Liquidator filed an application before the Adjudicating Authority seeking reduction in the claim filed by Canara Bank and to modify the entry in the list of stakeholders as per Regulation 31(3) of the Liquidation Process Regulations, 2016.
+ The Adjudicating Authority vide an order dated 28.09.2021 rejected the application and held that Regulation 31(3) is not applicable.
+ The Liquidator challenged the Order dated 28.09.2021 before NCLAT upon the premise that he proceeded in accordance with Regulation 31(3) on receiving additional information. Thus, the application could not have been rejected. It was argued that in normal circumstances the procedure laid down in the Section 38 to Section 42 of IBC have to be followed. However, if any information escapes the notice of Liquidator and comes to his knowledge after claims have been accepted, then Regulation 31(3) can be invoked and an application can be filed before Adjudicating Authority for modification of entry in the list of stakeholders.
+ Relevant Law 
+ Regulation 31(3) of the Liquidation Process Regulations, 2016.
+ “Regulation 31(3): The liquidator may apply to the Adjudicating Authority to modify an entry in the list of stakeholders filed with the Adjudicating Authority, when he comes across additional information warranting such modification, and shall modify the entry in the manner directed by the Adjudicating Authority.”
+ NCLAT Verdict
+ The Bench opined that Section 38 to 42 of IBC provides for consolidation, verification, rejection of claims and the appeal against the decision of Liquidator. If the Liquidator receives additional information after claims are admitted and submitted to the Adjudicating Authority, then he shall have no jurisdiction to reject/modify the claims. The Liquidator can only approach the Adjudicating Authority for getting the claims modified. 
+ “Thus, it is apparent that the Tribunal has committed an error in not appreciating Regulation 31(3) in its right perspective and rejected the application solely on the issue that the said provision is not applicable and rather held that Liquidator is empowered to accept or reject the claims.”
+ The Bench set aside the order of Adjudicating Authority and remanded the matter to be decided in the light of the Regulation 31(3). 
+ Case Title: Vijay Kumar Gupta v Canara Bank
+ Case No.: Company Appeal (AT) (Ins.) No. 1015 of 2021
+ Counsel for Appellant: Mr. Kushal Bansal, Advocate. 
+ Counsel for Respondent: Mr. PBA Srinivasan, Mr. V. Aravind, Ms. Srishti Bansal, Ms. Prerana Sabharwal & Mr. Sumit Swami, Advocates.
+ 

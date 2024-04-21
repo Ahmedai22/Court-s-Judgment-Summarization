@@ -1,0 +1,58 @@
+High Court of Madhya Pradesh on 01st October, 2021 has e-
+inaugurated customize video conferencing solution for the
+High Court of M.P and District Judiciary in august presence of
+Hon’ble Judges of the High Court, office bearers of various
+Bar Associations of High Court of Madhya Pradesh, Jabalpur
+and Bench at Indore & Gwalior, Assistant Solicitor General,
+Principal District and Sessions Judges of the State of M.P.
+and their Judicial officers and Officers of the Registry.
+The High Court of Madhya Pradesh has procured 1200
+licenses and further rate contract of 500 licenses of Cisco
+WebEx with many new features. For High Court the VC
+solution is integrated with CIMS system and for District courts,
+this VC solution to be integrated with the current CIS 3.2
+software system. This will give enhanced and improved
+working efficiency to the virtual hearing system.
+The features in brief are as given below:-
+• Unlimited number of meetings without any time limit.
+• To allow maximum participants, each participant can
+collaborate with two-way audio & video, chat, poll & content
+share within a single meeting with participants joining from
+PC, laptop, mobile devices like android/iOS over an app
+using 3G/4G Broadband / ILL (internet lease line).
+• The solution is online, real-time collaboration tool with
+features like; public & private chat video, voice, audio, screen
+sharing, Document or presentation sharing, recording, etc.,
+content annotation.
+• This solution is having inbuilt webinar functionality to live
+stream meetings and Court proceedings.
+• The platform has a stage/advanced layout so that some of
+the key stakeholders during the meeting can be pinned on
+screen so that they are also visible during the meeting.
+• Solution is provided with customized home page with logo of
+High Court of M.P.
+• Integrated with the custom interface with fixed VC Link
+through the website of the High Court.
+• Customize the name of Advocates/participants before joining
+meeting, the format will be pre-defined and once someone
+clicks on URL or click on "Join VC" link, they will be
+prompted with a form with drop-down to select their case
+number, their identity and enter their name before entering
+the lobby or the court hearing. It will help the Judges and
+court master to quickly identify the correct participants for
+respective case.
+• Customize solution will provide the customized report option
+where administrator can simply select the court room, enter
+the date and time period and generate report of all
+participants who have visited that meeting room. The report
+can be customized as per requirement such as joining time
+of participant, VC duration of participant, IP address of
+participant etc.
+• Customize the way Petitioners/Respondents join Virtual
+Court Case hearings. Allowing moderators / hosts to better
+manage the participants.
+• Ability to plan Virtual Court Case hearings using CIMS
+software of the High Court.
+• Plan dedicated video conferencing sessions per Court
+The VC solution which is launched today will help in
+providing user-friendly services to all the stakeholders.
